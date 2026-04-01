@@ -253,33 +253,33 @@ def _format_legal_text(text):
             content = line[len(S) + 3:]
             marker_match = re.match(r"(\([0-9]+\))\s*(.*)", content)
             if marker_match:
-                result.append(f"> **{marker_match.group(1)}** {marker_match.group(2)}")
+                result.append(f"&emsp;**{marker_match.group(1)}** {marker_match.group(2)}")
             else:
-                result.append(f"> {content}")
+                result.append(f"&emsp;{content}")
             result.append("")
         elif line.startswith(S + "SPAR"):
             content = line[len(S) + 4:]
             marker_match = re.match(r"(\([A-Z]\))\s*(.*)", content)
             if marker_match:
-                result.append(f">> {marker_match.group(1)} {marker_match.group(2)}")
+                result.append(f"&emsp;&emsp;{marker_match.group(1)} {marker_match.group(2)}")
             else:
-                result.append(f">> {content}")
+                result.append(f"&emsp;&emsp;{content}")
             result.append("")
         elif line.startswith(S + "CL"):
             content = line[len(S) + 2:]
             marker_match = re.match(r"(\([ivxl]+\))\s*(.*)", content)
             if marker_match:
-                result.append(f">>> {marker_match.group(1)} {marker_match.group(2)}")
+                result.append(f"&emsp;&emsp;&emsp;{marker_match.group(1)} {marker_match.group(2)}")
             else:
-                result.append(f">>> {content}")
+                result.append(f"&emsp;&emsp;&emsp;{content}")
             result.append("")
         elif line.startswith(S + "SCL"):
             content = line[len(S) + 3:]
             marker_match = re.match(r"(\([IVX]+\))\s*(.*)", content)
             if marker_match:
-                result.append(f">>>> {marker_match.group(1)} {marker_match.group(2)}")
+                result.append(f"&emsp;&emsp;&emsp;&emsp;{marker_match.group(1)} {marker_match.group(2)}")
             else:
-                result.append(f">>>> {content}")
+                result.append(f"&emsp;&emsp;&emsp;&emsp;{content}")
             result.append("")
         else:
             result.append(line)
