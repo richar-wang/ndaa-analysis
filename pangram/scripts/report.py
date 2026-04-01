@@ -196,17 +196,36 @@ def chart_division_breakdown(rows, year, out_dir):
 def _format_legal_text(text):
     """Format legal text to resemble NDAA PDF layout with indented hierarchy.
 
-    Uses blockquote nesting (>) to create visual indentation matching the
-    legal hierarchy: subsection (a) > paragraph (1) > subparagraph (A) >
-    clause (i) > subclause (I).
+    Uses blockquote nesting (>) to create visual indentation:
+      (a) subsections at base level
+      > (1) paragraphs indented one level
+      >> (A) subparagraphs two levels
+      >>> (i) clauses three levels
+      >>>> (I) subclauses four levels
+
+    Skips cross-references like "under subsection (a)" or "paragraph (1)"
+    which should not trigger line breaks.
     """
-    # Insert sentinel markers before each structural element
-    S = "~@@~"  # sentinel unlikely to appear in legal text
-    text = re.sub(r"\s+(\([a-z]\)\s)", "\n" + S + r"SUB\1", text)      # (a), (b)
-    text = re.sub(r"\s+(\([0-9]+\)\s)", "\n" + S + r"PAR\1", text)    # (1), (2)
-    text = re.sub(r"\s+(\([A-Z]\)\s)", "\n" + S + r"SPAR\1", text)    # (A), (B)
-    text = re.sub(r"\s+(\([ivxl]+\)\s)", "\n" + S + r"CL\1", text)    # (i), (ii)
-    text = re.sub(r"\s+(\([IVX]+\)\s)", "\n" + S + r"SCL\1", text)    # (I), (II)
+    # Words that precede a marker in a cross-reference (not a new provision)
+    XREF = r"(?:subsection|subsections|paragraph|paragraphs|subparagraph|subparagraphs|clause|clauses|section|sections|under|of|in|and|or|than)"
+
+    S = "~@@~"
+
+    # Insert sentinels before structural markers, but NOT after cross-ref words
+    # Negative lookbehind can't be variable-length, so we use a two-step approach:
+    # 1. Mark all cross-references to protect them
+    PROTECT = "~XX~"
+    text = re.sub(r"(" + XREF + r")\s+(\([a-z0-9A-Z]+\))", r"\1" + PROTECT + r"\2", text, flags=re.I)
+
+    # 2. Now insert breaks before unprotected markers
+    text = re.sub(r"\s+(\([a-z]\)\s)", "\n" + S + r"SUB\1", text)
+    text = re.sub(r"\s+(\([0-9]+\)\s)", "\n" + S + r"PAR\1", text)
+    text = re.sub(r"\s+(\([A-Z]\)\s)", "\n" + S + r"SPAR\1", text)
+    text = re.sub(r"\s+(\([ivxl]+\)\s)", "\n" + S + r"CL\1", text)
+    text = re.sub(r"\s+(\([IVX]+\)\s)", "\n" + S + r"SCL\1", text)
+
+    # 3. Restore protected cross-references
+    text = text.replace(PROTECT, " ")
 
     lines = text.split("\n")
     result = []
@@ -218,34 +237,27 @@ def _format_legal_text(text):
             continue
 
         if first_line:
-            # Section title line — bold it
-            # Strip section number prefix for the heading
             heading = re.sub(r"^\d+[a-zA-Z]?\.\s*", "", line)
             result.append(f"**{heading}**")
             result.append("")
             first_line = False
         elif line.startswith(S + "SUB"):
-            # Subsection (a) — no indent, bold the marker
-            content = line[len(S) + 3:]  # strip sentinel + "SUB"
+            content = line[len(S) + 3:]
             marker_match = re.match(r"(\([a-z]\))\s*(.*)", content)
             if marker_match:
-                marker, rest = marker_match.groups()
-                result.append(f"**{marker}** {rest}")
+                result.append(f"**{marker_match.group(1)}** {marker_match.group(2)}")
             else:
                 result.append(content)
             result.append("")
         elif line.startswith(S + "PAR"):
-            # Paragraph (1) — one level indent
             content = line[len(S) + 3:]
             marker_match = re.match(r"(\([0-9]+\))\s*(.*)", content)
             if marker_match:
-                marker, rest = marker_match.groups()
-                result.append(f"> **{marker}** {rest}")
+                result.append(f"> **{marker_match.group(1)}** {marker_match.group(2)}")
             else:
                 result.append(f"> {content}")
             result.append("")
         elif line.startswith(S + "SPAR"):
-            # Subparagraph (A) — two levels
             content = line[len(S) + 4:]
             marker_match = re.match(r"(\([A-Z]\))\s*(.*)", content)
             if marker_match:
@@ -254,7 +266,6 @@ def _format_legal_text(text):
                 result.append(f">> {content}")
             result.append("")
         elif line.startswith(S + "CL"):
-            # Clause (i) — three levels
             content = line[len(S) + 2:]
             marker_match = re.match(r"(\([ivxl]+\))\s*(.*)", content)
             if marker_match:
@@ -263,7 +274,6 @@ def _format_legal_text(text):
                 result.append(f">>> {content}")
             result.append("")
         elif line.startswith(S + "SCL"):
-            # Subclause (I) — four levels
             content = line[len(S) + 3:]
             marker_match = re.match(r"(\([IVX]+\))\s*(.*)", content)
             if marker_match:
@@ -275,7 +285,6 @@ def _format_legal_text(text):
             result.append(line)
             result.append("")
 
-    # Clean up excessive blank lines
     output = "\n".join(result)
     output = re.sub(r"\n{3,}", "\n\n", output)
     return output.strip()

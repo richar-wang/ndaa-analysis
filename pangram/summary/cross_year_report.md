@@ -95,9 +95,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** Appropriate congressional committees The term appropriate congressional committees means -</mark>
 
-<mark>>> (A) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and</mark>
-
-<mark>>> (B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.</mark>
+<mark>>> (A) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and (B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.</mark>
 
 <mark>> **(2)** Technology The term technology includes -</mark>
 
@@ -109,9 +107,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (D) enterprise data platforms and analytics tools;</mark>
 
-<mark>>> (E) customer experience platforms for public-facing services; and</mark>
-
-<mark>>> (F) internal workflow automation or modernization systems.</mark>
+<mark>>> (E) customer experience platforms for public-facing services; and (F) internal workflow automation or modernization systems.</mark>
 
 <mark>> **(3)** Technology transformation project</mark>
 
@@ -123,9 +119,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** In general Not later than 180 days after the date of the enactment of this Act, and annually thereafter for five years, the Secretary shall submit to the appropriate congressional committees a report on all technology transformation projects completed during the preceding two fiscal years.</mark>
 
-<mark>> **(2)** Elements Each report required by paragraph</mark>
-
-<mark>> **(1)** shall include the following elements:</mark>
+<mark>> **(2)** Elements Each report required by paragraph (1) shall include the following elements:</mark>
 
 <mark>>> (A) For each project, the following:</mark>
 
@@ -143,9 +137,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (V) interoperability and integration, including level of integration achieved with existing systems of the Department;</mark>
 
-<mark>>>>> (VI) artificial intelligence, if applicable; and</mark>
-
-<mark>>>>> (VII) adoption, including, if applicable - (aa) an estimate of the percentage of eligible end-users actively using the system within the first three, six, and 12 months of deployment; (bb) the proportion of staff trained to use the system; (cc) the frequency and duration of use, disaggregated by bureau or geographic region if relevant; (dd) summarized user feedback, including pain points and satisfaction ratings; and (ee) a description of the status of deprecation or reduction in use of legacy systems, if applicable.</mark>
+<mark>>>>> (VI) artificial intelligence, if applicable; and (VII) adoption, including, if applicable - (aa) an estimate of the percentage of eligible end-users actively using the system within the first three, six, and 12 months of deployment; (bb) the proportion of staff trained to use the system; (cc) the frequency and duration of use, disaggregated by bureau or geographic region if relevant; (dd) summarized user feedback, including pain points and satisfaction ratings; and (ee) a description of the status of deprecation or reduction in use of legacy systems, if applicable.</mark>
 
 <mark>>>> (iv) A description of key challenges encountered during implementation and any mitigation strategies employed.</mark>
 
@@ -159,9 +151,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>>> (iii) Any plans for iterative development based on feedback from employees.</mark>
 
-<mark>> **(3)** Public summary Not later than 60 days after submitting a report required by paragraph</mark>
-
-> **(1)** to the appropriate congressional committees, the Secretary shall publish an unclassified summary of the report on the publicly accessible website of the Department, consistent with national security interests. (</mark><mark>c) Government accountability office evaluation Not later than 18 months after the date of the enactment of this Act, and biennially thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report -
+> **(3)** Public summary Not later than 60 days after submitting a report required by paragraph (1) to the appropriate congressional committees, the Secretary shall publish an unclassified summary of the report on the publicly accessible website of the Department, consistent with national security interests. (</mark><mark>c) Government accountability office evaluation Not later than 18 months after the date of the enactment of this Act, and biennially thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report -
 
 <mark>> **(1)** evaluating -</mark>
 
@@ -169,11 +159,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (B) the effectiveness and reliability of the Department’s performance and adoption metrics for such projects;</mark>
 
-<mark>>> (C) whether such projects have met intended goals related to operational efficiency, security, cost-effectiveness, user adoption, and modernization of legacy systems; and</mark>
-
-<mark>>> (D) the adequacy of oversight mechanisms in place to ensure the responsible deployment of artificial intelligence and other emerging technologies; and</mark>
-
-<mark>> **(2)** including any recommendations to improve the Department’s management, implementation, or evaluation of technology transformation efforts.</mark>
+<mark>>> (C) whether such projects have met intended goals related to operational efficiency, security, cost-effectiveness, user adoption, and modernization of legacy systems; and (D) the adequacy of oversight mechanisms in place to ensure the responsible deployment of artificial intelligence and other emerging technologies; and (2) including any recommendations to improve the Department’s management, implementation, or evaluation of technology transformation efforts.</mark>
 
 ### Section 1608 — Spaceport of the Future initiative and study on future space launch capacity
 
@@ -189,13 +175,9 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (B) evaluate the suitability of such sites for ongoing and future missions;</mark>
 
-<mark>>> (C) explore alternate launch locations that may offer advantages in mission efficiency, cost-effectiveness, or strategic value; and</mark>
+<mark>>> (C) explore alternate launch locations that may offer advantages in mission efficiency, cost-effectiveness, or strategic value; and (D) assess the feasibility of incorporating other active spaceports into the national security launch infrastructure of the Department of Defense.</mark>
 
-<mark>>> (D) assess the feasibility of incorporating other active spaceports into the national security launch infrastructure of the Department of Defense.</mark>
-
-<mark>> **(2)** Elements The study under paragraph</mark>
-
-<mark>> **(1)** shall include the following:</mark>
+<mark>> **(2)** Elements The study under paragraph (1) shall include the following:</mark>
 
 <mark>>> (A) An analysis of the current capacity and use of the launch sites (as of the date of the study) at Cape Canaveral Space Force Station and Vandenberg Space Force Base, including with respect to existing infrastructure, launch frequencies, and operational efficiency.</mark>
 
@@ -205,9 +187,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (D) A comparative analysis of alternate locations for space launches, including sites on Federal lands, private land partnerships, and locations outside the continental United States, taking into account -</mark>
 
-<mark>**(i)** geographic and orbital dynamic considerations; and</mark>
-
-<mark>>>> (ii) environmental, logistical, and regulatory factors that may make alternate locations viable or advantageous, including cost comparisons and potential challenges in establishing infrastructure at such locations.</mark>
+<mark>**(i)** geographic and orbital dynamic considerations; and (ii) environmental, logistical, and regulatory factors that may make alternate locations viable or advantageous, including cost comparisons and potential challenges in establishing infrastructure at such locations.</mark>
 
 >> (E) An examination of the manner in which Cape Canaveral Space Force Station, Vandenberg Space Force Base, and any potential alternate locations align with national defense and space exploration goals, including with respect to launch site proximity to key orbital paths, security considerations, and redundancy for critical missions. (</mark><mark>F) An exploration of the manner in which advancements in space launch technology, including with respect to reusable launch vehicles and space traffic management, could influence the future demand and operational needs for space launch sites.
 
@@ -221,17 +201,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (K) A review of Federal authorities, policies, and statutes that may inhibit expansion of launch infrastructure at existing Department of Defense launch sites.</mark>
 
-<mark>> **(3)** Consultation The Secretary shall carry out the study under paragraph</mark>
-
-<mark>> **(1)** in consultation with relevant stakeholders, including commercial space industry representatives, environmental agencies, and local governments.</mark>
+<mark>> **(3)** Consultation The Secretary shall carry out the study under paragraph (1) in consultation with relevant stakeholders, including commercial space industry representatives, environmental agencies, and local governments.</mark>
 
 <mark>**(b)** Report</mark>
 
 <mark>> **(1)** Initial report Not later than March 31, 2026, the Secretary shall submit to the congressional defense committees a report on the findings of the study under subsection (a).</mark>
 
-<mark>> **(2)** Elements The report under paragraph</mark>
-
-<mark>> **(1)** shall include -</mark>
+<mark>> **(2)** Elements The report under paragraph (1) shall include -</mark>
 
 <mark>>> (A) recommendations on the future use of space launch sites at Cape Canaveral Space Force Station, Vandenberg Space Force Base, and alternate locations;</mark>
 
@@ -239,9 +215,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (C) a detailed analysis of</mark> alternate launch sites, including with respect to strategic, operational, and financial considerations;
 
-<mark>>> (D) policy recommendations for addressing infrastructure needs, environmental concerns, and regulatory challenges for space launch operations; and</mark>
-
-<mark>>> (E) a summary of the status, estimated completion dates, total cost, and funding required for projects under the Spaceport of the Future initiative.</mark>
+<mark>>> (D) policy recommendations for addressing infrastructure needs, environmental concerns, and regulatory challenges for space launch operations; and (E) a summary of the status, estimated completion dates, total cost, and funding required for projects under the Spaceport of the Future initiative.</mark>
 
 <mark>> **(3)** Annual updates Not later than March 31 of each of 2027 through 2031, the Secretary shall submit to the congressional defense committees on the Spaceport of the Future initiative, including with respect to project status, estimated completion dates, total costs, and any updated assessments of funding or infrastructure needs.</mark>
 
@@ -267,9 +241,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >>> (iii) upgrade, expand, or construct physical and digital infrastructure, including<mark> laboratory facilities, of the Department and its partners to support bioindustrial research, development, testing, prototyping, and production;
 
-<mark>>>> (iv) as needed, enter into contracts, cooperative agreements, grants, or other transactions with relevant Federal entities and non-Federal entities, such as commercial entities, research institutions, and academic organizations, to execute the activities under this subparagraph (B); and</mark>
-
-<mark>**(v)** support education, training, and workforce development initiatives to build and sustain a skilled bioindustrial and biomanufacturing workforce.</mark>
+<mark>>>> (iv) as needed, enter into contracts, cooperative agreements, grants, or other transactions with relevant Federal entities and non-Federal entities, such as commercial entities, research institutions, and academic organizations, to execute the activities under this subparagraph (B); and (v) support education, training, and workforce development initiatives to build and sustain a skilled bioindustrial and biomanufacturing workforce.</mark>
 
 <mark>>> (C) Collaborate across the military departments, Defense Agencies, and other Federal entities to ensure alignment with national bioindustrial and supply chain strategies.</mark>
 
@@ -285,17 +257,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(i)** reduce logistics through field-enabled manufacturing of materials and deployable infrastructure components;</mark>
 
-<mark>>>> (ii) enhance performance through development of novel materials; or</mark>
+<mark>>>> (ii) enhance performance through development of novel materials; or (iii) improve cost efficiency of manufacturing and reduce dependency on foreign supply chains;</mark>
 
-<mark>>>> (iii) improve cost efficiency of manufacturing and reduce dependency on foreign supply chains;</mark>
+<mark>>> (B) consult with representatives of industry, academia, and other Federal agencies with relevant expertise, to accelerate development and transitions; and (C) ensure the Program supports the development and fielding of emerging technologies such as biotechnologies that provide operational and strategic advantages to the Armed Forces, including through -</mark>
 
-<mark>>> (B) consult with representatives of industry, academia, and other Federal agencies with relevant expertise, to accelerate development and transitions; and</mark>
-
-<mark>>> (C) ensure the Program supports the development and fielding of emerging technologies such as biotechnologies that provide operational and strategic advantages to the Armed Forces, including through -</mark>
-
-<mark>**(i)** cross-service and public-private partnerships; and</mark>
-
-<mark>>>> (ii) applied research, pilot-scale production, and technology transition efforts focused on biomanufacturing and materials innovation.</mark>
+<mark>**(i)** cross-service and public-private partnerships; and (ii) applied research, pilot-scale production, and technology transition efforts focused on biomanufacturing and materials innovation.</mark>
 
 <mark>**(b)** Reports</mark>
 
@@ -317,13 +283,9 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** In general Except as provided in paragraph (2), the authority to carry out the Program shall terminate on the date that is 10 years after the date of the enactment of this Act.</mark>
 
-<mark>> **(2)** Extension The Program may be continued after the termination date specified in paragraph</mark>
+<mark>> **(2)** Extension The Program may be continued after the termination date specified in paragraph (1) if, before such date, the President -</mark>
 
-<mark>> **(1)** if, before such date, the President -</mark>
-
-<mark>>> (A) determines that continuation of the Program is necessary to meet national economic or national security needs; and</mark>
-
-<mark>>> (B) submits notice of such determination to the Committees on Armed Services of the Senate and the House of Representatives.</mark>
+<mark>>> (A) determines that continuation of the Program is necessary to meet national economic or national security needs; and (B) submits notice of such determination to the Committees on Armed Services of the Senate and the House of Representatives.</mark>
 
 ### Section 526 — Report on adequacy of reimbursement for costs of permanent change of station
 
@@ -343,23 +305,17 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (C) is designed to ensure statistical validity;</mark>
 
-<mark>>> (D) achieves response rates sufficient to ensure representative samples from each military department and pay grade category; and</mark>
-
-<mark>>> (E) includes questions regarding financial stress, debt incurrence, and impact on military retention decisions;</mark>
+<mark>>> (D) achieves response rates sufficient to ensure representative samples from each military department and pay grade category; and (E) includes questions regarding financial stress, debt incurrence, and impact on military retention decisions;</mark>
 
 <mark>> **(2)** conduct follow-up surveys with a subset of respondents to gather additional detail on specific cost categories;</mark>
 
-<mark>> **(3)** survey military spouses separately regarding employment-related costs and career impacts of permanent changes of station; and</mark>
-
-<mark>> **(4)** consult with military relief societies regarding financial assistance patterns and trends relating to permanent changes of station.</mark>
+<mark>> **(3)** survey military spouses separately regarding employment-related costs and career impacts of permanent changes of station; and (4) consult with military relief societies regarding financial assistance patterns and trends relating to permanent changes of station.</mark>
 
 <mark>**(c)** Elements</mark>
 
 <mark>> **(1)** Analysis of reimbursement categories</mark>
 
-<mark>>> (A) Analysis For each of the categories described in subparagraph (B), the report required by subsection</mark>
-
-<mark>**(a)** shall include -</mark>
+<mark>>> (A) Analysis For each of the categories described in subparagraph (B), the report required by subsection (a) shall include -</mark>
 
 <mark>**(i)** an identification of all expenses intended to be covered;</mark>
 
@@ -369,9 +325,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>>> (iv) a comparison of actual costs to reimbursement amounts;</mark>
 
-<mark>**(v)** a justification for the inclusion or exclusion of specific expenses; and</mark>
-
-<mark>>>> (vi) recommendations for modifications to coverage or reimbursement rates.</mark>
+<mark>**(v)** a justification for the inclusion or exclusion of specific expenses; and (vi) recommendations for modifications to coverage or reimbursement rates.</mark>
 
 <mark>>> (B) Categories The categories described in this subparagraph are as follows:</mark>
 
@@ -391,9 +345,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>>> (ix) Any other allowances or reimbursements related to permanent changes of station.</mark>
 
-<mark>> **(2)** Uncovered expense analysis The report required under subsection</mark>
-
-<mark>**(a)** shall include an examination of expenses commonly incurred but not reimbursed, including -</mark>
+<mark>> **(2)** Uncovered expense analysis The report required under subsection (a) shall include an examination of expenses commonly incurred but not reimbursed, including -</mark>
 
 <mark>>> (A) security deposits and advance rent payments;</mark>
 
@@ -407,35 +359,23 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (F) temporary storage beyond authorized limits;</mark>
 
-<mark>>> (G) childcare registration for dependents; and</mark>
+<mark>>> (G) childcare registration for dependents; and (H) replacement of household items damaged or unsuitable for new location.</mark>
 
-<mark>>> (H) replacement of household items damaged or unsuitable for new location.</mark>
-
-<mark>> **(3)** Financial impact assessment The report required under subsection</mark>
-
-<mark>**(a)** shall include an analysis of the financial impact of permanent changes of station on members of the Armed Forces, including -</mark>
+<mark>> **(3)** Financial impact assessment The report required under subsection (a) shall include an analysis of the financial impact of permanent changes of station on members of the Armed Forces, including -</mark>
 
 <mark>>> (A) average out-of-pocket expenses by pay grade;</mark>
 
 <mark>>> (B) percentage of members incurring debt due to expenses related to a permanent change of station;</mark>
 
-<mark>>> (C) impact on the emergency savings of members of the Armed Forces; and</mark>
+<mark>>> (C) impact on the emergency savings of members of the Armed Forces; and (D) utilization rates of military relief society assistance for financial hardship relating to permanent changes of station.</mark>
 
-<mark>>> (D) utilization rates of military relief society assistance for financial hardship relating to permanent changes of station.</mark>
-
-<mark>> **(4)** Methodology for future adjustments The report required under subsection</mark>
-
-<mark>**(a)** shall include recommendations for establishing an annual review and adjustment process for reimbursements for costs relating to a permanent change of station that accounts for -</mark>
+<mark>> **(4)** Methodology for future adjustments The report required under subsection (a) shall include recommendations for establishing an annual review and adjustment process for reimbursements for costs relating to a permanent change of station that accounts for -</mark>
 
 <mark>>> (A) inflation and cost-of-living changes;</mark>
 
 <mark>>> (B) regional variations in moving costs, including those related to status of forces agreements, currency fluctuation, local housing markets, and pet importation or quarantine requirements;</mark>
 
-<mark>>> (C) changes in typical household composition and needs; and</mark>
-
-<mark>>> (D) emerging categories of relocation expenses. (</mark>d) Disaggregation requirements The report required by subsection
-
-<mark>**(a)** shall include all data disaggregated by -</mark>
+<mark>>> (C) changes in typical household composition and needs; and (D) emerging categories of relocation expenses. (</mark>d) Disaggregation requirements The report required by subsection (a) shall include all data disaggregated by -
 
 <mark>> **(1)** permanent changes of station within the continental United States;</mark>
 
@@ -453,9 +393,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(8)** duty status of the member;</mark>
 
-<mark>> **(9)** whether the member participates in the Exceptional Family Member Program; and</mark>
-
-<mark>> **(10)** origin and destination installation.</mark>
+<mark>> **(9)** whether the member participates in the Exceptional Family Member Program; and (10) origin and destination installation.</mark>
 
 <mark>**(e)** Data integration The report shall, to the maximum extent practicable, incorporate and reconcile data from existing systems of the Department of Defense.</mark>
 
@@ -481,9 +419,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (A) the objectives set forth in the most recent national security strategy report submitted to Congress by the President pursuant to section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 );
 
->> (B) the policy guidance of the Secretary of Defense provided pursuant to section 113(g) of title 10, United States Code; and
-
->> (C) the future-years defense program submitted to Congress by the Secretary of Defense pursuant to section 221 of title 10, United States Code.
+>> (B) the policy guidance of the Secretary of Defense provided pursuant to section 113(g) of title 10, United States Code; and (C) the future-years defense program submitted to Congress by the Secretary of Defense pursuant to section 221 of title 10, United States Code.
 
 > **(2)** To strengthen the collective defense industrial base by expanding industrial base capability, capacity, and workforce, including with respect to enhanced supply chain security, interoperability, and resilience among participating countries.
 
@@ -519,9 +455,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (A) In general Not later than March 1, 2027, and annually thereafter through 2031, the Secretary of Defense shall submit to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the status and progress of the Initiative.</mark>
 
-<mark>>> (B) Elements Each report required by subparagraph</mark>
-
-<mark>>> (A) shall include the following:</mark>
+<mark>>> (B) Elements Each report required by subparagraph (A) shall include the following:</mark>
 
 <mark>**(i)** An assessment of shared industrial base vulnerabilities.</mark>
 
@@ -551,17 +485,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(3)** Biotechnology The term biotechnology means the use of biological processes, organisms, or systems for manufacturing, research, or medical purposes, including genetic engineering, synthetic biology, and bioinformatics.</mark>
 
-<mark>**(b)** Prohibition Subject to subsections</mark>
-
-<mark>**(d)** and (e), a head of an element of the intelligence community may not enter into, renew, or extend any contract for a product or service with -</mark>
+<mark>**(b)** Prohibition Subject to subsections (d) and (e), a head of an element of the intelligence community may not enter into, renew, or extend any contract for a product or service with -</mark>
 
 <mark>> **(1)** any entity listed on the 1260H list that is engaged in biotechnology research, development, or manufacturing activities;</mark>
 
 <mark>> **(2)** any entity that is a known or assessed affiliate of any entity described in paragraph (1);</mark>
 
-<mark>> **(3)** any entity that has a known or assessed joint venture, partnership, or contractual relationship with any entity described in paragraph (1), if the Director of National Intelligence determines that the relationship presents a risk to the national security of the United States; or</mark>
-
-<mark>> **(4)** any other entity that is engaged in biotechnology research, development, or manufacturing activities, if the Director of National Intelligence determines that the activities present a risk to the national security of the United States.</mark>
+<mark>> **(3)** any entity that has a known or assessed joint venture, partnership, or contractual relationship with any entity described in paragraph (1), if the Director of National Intelligence determines that the relationship presents a risk to the national security of the United States; or (4) any other entity that is engaged in biotechnology research, development, or manufacturing activities, if the Director of National Intelligence determines that the activities present a risk to the national security of the United States.</mark>
 
 <mark>**(c)** Implementation and compliance The Director of National Intelligence shall, in consultation with the heads of the elements of the intelligence community -</mark>
 
@@ -569,39 +499,23 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(2)** maintain both a publicly available and classified list of entities covered by the prohibition in subsection (b);</mark>
 
-<mark>> **(3)** require that each head of an element of the intelligence community ensure that any contractor engaged by the element certify that neither it nor any of its subcontractors are engaged in a contract for a product or service with an entity covered by the prohibition in subsection (b); and</mark>
+<mark>> **(3)** require that each head of an element of the intelligence community ensure that any contractor engaged by the element certify that neither it nor any of its subcontractors are engaged in a contract for a product or service with an entity covered by the prohibition in subsection (b); and (4) otherwise ensure compliance with subsection (b). (</mark>d) Waiver process
 
-<mark>> **(4)** otherwise ensure compliance with subsection (b). (</mark>d) Waiver process
+<mark>> **(1)** In general The Director of National Intelligence may establish a waiver process for the heads of the elements of the intelligence community under which the head of the relevant element may waive the prohibition under subsection (b) for a procurement on a case-by-case basis. A waiver may be made under the process only if the head of the relevant element -</mark>
 
-<mark>> **(1)** In general The Director of National Intelligence may establish a waiver process for the heads of the elements of the intelligence community under which the head of the relevant element may waive the prohibition under subsection</mark>
+<mark>>> (A) complies with any conditions the Director may establish for the process; and (B) determines, in writing, that -</mark>
 
-<mark>**(b)** for a procurement on a case-by-case basis. A waiver may be made under the process only if the head of the relevant element -</mark>
-
-<mark>>> (A) complies with any conditions the Director may establish for the process; and</mark>
-
-<mark>>> (B) determines, in writing, that -</mark>
-
-<mark>**(i)** the procurement is essential for national security and no reasonable alternative source exists; and</mark>
-
-<mark>>>> (ii) appropriate measures are in place to mitigate risks associated with the procurement.</mark>
+<mark>**(i)** the procurement is essential for national security and no reasonable alternative source exists; and (ii) appropriate measures are in place to mitigate risks associated with the procurement.</mark>
 
 <mark>> **(2)** Congressional notification For each waiver for a procurement issued under subsection (b), the Director and the relevant head of the element of the intelligence community shall, not later than 30 days after issuing the waiver, submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a notice of the waiver, which shall include a justification for the waiver and a description of the risk mitigation measures implemented for the procurement.</mark>
 
-<mark>**(e)** Exceptions The prohibition in subsection</mark>
-
-<mark>**(b)** shall not apply to -</mark>
+<mark>**(e)** Exceptions The prohibition in subsection (b) shall not apply to -</mark>
 
 <mark>> **(1)** the acquisition or provision of health care services overseas for -</mark>
 
-<mark>>> (A) employees of the United States, including members of the uniformed services (as defined in section 101(a) of title 10, United States Code), whose official duty stations are located overseas or who are on permissive temporary duty travel overseas; or</mark>
+<mark>>> (A) employees of the United States, including members of the uniformed services (as defined in section 101(a) of title 10, United States Code), whose official duty stations are located overseas or who are on permissive temporary duty travel overseas; or (B) employees of contractors or subcontractors of the United States -</mark>
 
-<mark>>> (B) employees of contractors or subcontractors of the United States -</mark>
-
-<mark>**(i)** who are performing under a contract that directly supports the missions or activities of individuals described in subparagraph (A); and</mark>
-
-<mark>>>> (ii) whose primary duty stations are located overseas or who are on permissive temporary duty travel overseas; or</mark>
-
-<mark>> **(2)** the acquisition, use, or distribution of human multiomic data, lawfully compiled, that is commercially or publicly available.</mark>
+<mark>**(i)** who are performing under a contract that directly supports the missions or activities of individuals described in subparagraph (A); and (ii) whose primary duty stations are located overseas or who are on permissive temporary duty travel overseas; or (2) the acquisition, use, or distribution of human multiomic data, lawfully compiled, that is commercially or publicly available.</mark>
 
 <mark>**(f)** Effective date This section shall take effect on the date that is 60 days after the date of the enactment of this Act and apply to any contract entered into, renewed, or extended on or after such effective date.</mark>
 
@@ -619,25 +533,17 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(1)** In general Subchapter III of chapter 5 of title 14, United States Code, is amended -
 
->> (A) by redesignating the second section 548 as section 551; and
-
->> (B) by adding at the end the following: 552. Discontinuance of aid to navigation
+>> (A) by redesignating the second section 548 as section 551; and (B) by adding at the end the following: 552. Discontinuance of aid to navigation
 
 **(a)** In general Not later than 180 days after the date of enactment of this section, the Secretary shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard.
 
-**(b)** Requirement The process established under subsection
+**(b)** Requirement The process established under subsection (a) shall include procedures -
 
-**(a)** shall include procedures -
-
-> **(1)** to notify the public of any discontinuance of an aid to navigation described in that subsection; and
-
-> **(2)** to safeguard against any discontinuation that may compromise the safety of mariners or the public or hinder maritime operational readiness, including with respect to food security and maritime transportation.
+> **(1)** to notify the public of any discontinuance of an aid to navigation described in that subsection; and (2) to safeguard against any discontinuation that may compromise the safety of mariners or the public or hinder maritime operational readiness, including with respect to food security and maritime transportation.
 
 **(c)** Consultation In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of -
 
-> **(1)** the Navigation Safety Advisory Council; and
-
-> **(2)** with respect to aids to navigation established, maintained, or operated by the Coast Guard and located in the coastal or inland waterways of a State, the public of such State and relevant stakeholders, including -
+> **(1)** the Navigation Safety Advisory Council; and (2) with respect to aids to navigation established, maintained, or operated by the Coast Guard and located in the coastal or inland waterways of a State, the public of such State and relevant stakeholders, including -
 
 >> (A) State agencies;
 
@@ -659,47 +565,35 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (J) recreational boaters;
 
->> (K) passenger vessel operators; and
-
->> (L) coastal residents.
+>> (K) passenger vessel operators; and (L) coastal residents.
 
 **(d)** Notification Not later than 30 days after the date on which the process is established under subsection (a), the Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such process. .
 
 > **(2)** Clerical amendment The analysis for chapter 5 of title 14, United States Code, is amended -
 
->> (A) by striking the item relating to the second section 548; and
-
->> (B) by adding at the end the following: 551. Marking anchorage grounds by Commandant of the Coast Guard. 552. Discontinuance of aid to navigation. .
+>> (A) by striking the item relating to the second section 548; and (B) by adding at the end the following: 551. Marking anchorage grounds by Commandant of the Coast Guard. 552. Discontinuance of aid to navigation. .
 
 **(b)** Report on condition of aids to navigation on the Missouri River
 
 > **(1)** Report to Congress Not later than 270 days after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the condition of dayboards and the placement of buoys on the Missouri River.
 
-> **(2)** Elements The report under paragraph
-
-> **(1)** shall include -
+> **(2)** Elements The report under paragraph (1) shall include -
 
 >> (A) a list of the most recent date on which each dayboard and buoy was serviced by the Coast Guard;
 
->> (B) an overview of the plan of the Coast Guard to systematically service each dayboard and buoy on the Missouri River; and
-
->> (C) assigned points of contact.
+>> (B) an overview of the plan of the Coast Guard to systematically service each dayboard and buoy on the Missouri River; and (C) assigned points of contact.
 
 **(c)** Report on condition of aids to navigation
 
 > **(1)** Report to Congress Not later than 270 days after the date of enactment of this Act, the Executive Director of the Committee on Marine Transportation System shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the condition of dayboards and the placement of buoys in Coast Guard Northeast District, and Coast Guard Northwest District.
 
-> **(2)** Elements The report under paragraph
-
-> **(1)** shall include -
+> **(2)** Elements The report under paragraph (1) shall include -
 
 >> (A) a list of the most recent date on which each dayboard and buoy was serviced by the Coast Guard;
 
 >> (B) an overview of the plan of the Coast Guard to systematically service each buoy located in the Coast Guard Northeast District;
 
->> (C) an overview of the plan of the Coast Guard to systematically service each buoy located in the Coast Guard Northwest District; and
-
->> (D) assigned points of contact. (<mark>3) Limitation Beginning on the date of enactment of this Act, the Commandant may not remove the aids to navigation covered in paragraph (1), unless there is an imminent threat to life or safety, until a period of 180 days has elapsed following the date on which the Commandant submits the report required under paragraph (1).
+>> (C) an overview of the plan of the Coast Guard to systematically service each buoy located in the Coast Guard Northwest District; and (D) assigned points of contact. (<mark>3) Limitation Beginning on the date of enactment of this Act, the Commandant may not remove the aids to navigation covered in paragraph (1), unless there is an imminent threat to life or safety, until a period of 180 days has elapsed following the date on which the Commandant submits the report required under paragraph (1).
 
 <mark>> **(4)** Study on reliance on aids to navigation</mark>
 
@@ -721,9 +615,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>>>> (II) a comparison of the anticipated costs associated with such increased Coast Guard response operations to the ongoing costs of maintaining and servicing buoys and dayboards, particularly in high-traffic areas or locations with limited access to electronic navigation systems;</mark>
 
-<mark>>>>> (III) an assessment of the role physical aids to navigation play in preventing incidents involving vessels with limited or no reliance on GPS or electronic systems; and</mark>
-
-<mark>>>>> (IV) an assessment of the indirect costs and operational impacts associated with the removal of physical aids to navigation, including increased risk of vessel groundings, prolonged Coast Guard response times, and diminished mariner trust in navigational infrastructure.</mark>
+<mark>>>>> (III) an assessment of the role physical aids to navigation play in preventing incidents involving vessels with limited or no reliance on GPS or electronic systems; and (IV) an assessment of the indirect costs and operational impacts associated with the removal of physical aids to navigation, including increased risk of vessel groundings, prolonged Coast Guard response times, and diminished mariner trust in navigational infrastructure.</mark>
 
 <mark>>> (C) Submission to congress Not later than 18 months after the date of enactment of this Act, the Executive Director of the Committee on Marine Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the results of the study conducted under subparagraph (A).</mark>
 
@@ -787,15 +679,9 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(c)** Open qualification process</mark>
 
-<mark>> **(1)** In general The Secretary of the Navy shall establish a process under which non-government entities may submit proposals for the investigation, qualification, approval, integration, and full adoption under subsection</mark>
+<mark>> **(1)** In general The Secretary of the Navy shall establish a process under which non-government entities may submit proposals for the investigation, qualification, approval, integration, and full adoption under subsection (a) of advanced technologies or processes not specified in subsection (b). (</mark>2) Evaluation The Secretary of the Navy shall evaluate any proposal submitted pursuant to the process established under paragraph (1) not later than 90 days after the date of such submission.
 
-<mark>**(a)** of advanced technologies or processes not specified in subsection (b). (</mark>2) Evaluation The Secretary of the Navy shall evaluate any proposal submitted pursuant to the process established under paragraph
-
-<mark>> **(1)** not later than 90 days after the date of such submission.</mark>
-
-<mark>> **(3)** Proposal requirements A proposal submitted pursuant to the process established under paragraph</mark>
-
-<mark>> **(1)** shall include an assessment of options to improve maintenance efficiency, safety, or cost-effectiveness.</mark>
+<mark>> **(3)** Proposal requirements A proposal submitted pursuant to the process established under paragraph (1) shall include an assessment of options to improve maintenance efficiency, safety, or cost-effectiveness.</mark>
 
 <mark>> **(4)** Qualification decision In evaluating proposals pursuant to the process established under paragraph (1), the Secretary of the Navy shall make decisions based on technical merit and the needs of the Navy.</mark>
 
@@ -803,23 +689,17 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** In general The Under Secretary of Defense for Acquisition and Sustainment shall seek to enter into a contract with an appropriate independent third-party reviewer under which such reviewer shall assess any decision of the Secretary of the Navy not to select for qualification of approval an advanced technology or process included in a proposal submitted pursuant to the process established under subsection (c).</mark>
 
-<mark>> **(2)** Report to Congress A contract entered into under paragraph</mark>
-
-<mark>> **(1)** shall require the independent third-party reviewer to, not later than 90 days after the date of the decision concerned, submit to the Committees on Armed Services of the Senate and House of Representatives an unaltered report that includes -</mark>
+<mark>> **(2)** Report to Congress A contract entered into under paragraph (1) shall require the independent third-party reviewer to, not later than 90 days after the date of the decision concerned, submit to the Committees on Armed Services of the Senate and House of Representatives an unaltered report that includes -</mark>
 
 <mark>>> (A) an evaluation of the rationale of the Secretary in not selecting the technology or process;</mark>
 
-<mark>>> (B) a statement of the agreement or disagreement of the reviewer with the decision and rationale of the Secretary; and</mark>
-
-<mark>>> (C) recommendations, if applicable.</mark>
+<mark>>> (B) a statement of the agreement or disagreement of the reviewer with the decision and rationale of the Secretary; and (C) recommendations, if applicable.</mark>
 
 <mark>**(e)** Priority The Secretary of the Navy may prioritize the investigation, qualification, approval, integration, and full adoption of advanced technologies and processes under this section based on operational needs, budget constraints, and compatibility with existing systems, if the Secretary includes justifications for such prioritization in the report required by subsection (g).</mark>
 
 <mark>**(f)** Updates If an advanced technology or process is adopted into contract requirements pursuant to subsection (a), the Secretary of the Navy shall update policies, specifications, guidance, and contracts, as necessary, to account for such adoption.</mark>
 
-<mark>**(g)** Report required Not later than 180 days after the date of the enactment of this Act, the Secretary of the Navy shall submit to Congress a report that includes detailed timelines for the qualification and approval of each advanced technology or process specified in subsection</mark>
-
-<mark>**(b)** and any additional advanced technologies or processes identified pursuant to the process established under subsection (c), including estimated implementation dates or justifications for non-pursuit.</mark>
+<mark>**(g)** Report required Not later than 180 days after the date of the enactment of this Act, the Secretary of the Navy shall submit to Congress a report that includes detailed timelines for the qualification and approval of each advanced technology or process specified in subsection (b) and any additional advanced technologies or processes identified pursuant to the process established under subsection (c), including estimated implementation dates or justifications for non-pursuit.</mark>
 
 ### Section 218 — Alternative test and evaluation pathway for designated defense acquisition programs
 
@@ -827,13 +707,9 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **Alternative test and evaluation pathway for designated defense acquisition programs**
 
-**(a)** Authority The Secretary of Defense shall establish an alternative test and evaluation pathway as described in subsection
+**(a)** Authority The Secretary of Defense shall establish an alternative test and evaluation pathway as described in subsection (b) for covered programs to enhance agility, accelerate delivery of capabilities, and ensure data-driven decisionmaking, while maintaining independent oversight of evaluation outcomes.
 
-**(b)** for covered programs to enhance agility, accelerate delivery of capabilities, and ensure data-driven decisionmaking, while maintaining independent oversight of evaluation outcomes.
-
-**(b)** Elements The pathway required by subsection
-
-**(a)** shall include the following elements:
+**(b)** Elements The pathway required by subsection (a) shall include the following elements:
 
 > **(1)** For each covered program, the Secretary of the military department concerned, through its service test activities, shall -
 
@@ -847,9 +723,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >>> (iii) a process for independently validating industry-derived data, if needed;
 
->>> (iv) provision of resources for automated data collection, storage, and access; and
-
-**(v)** automated analytics tools to assess performance trends, reliability, and maintenance needs;
+>>> (iv) provision of resources for automated data collection, storage, and access; and (v) automated analytics tools to assess performance trends, reliability, and maintenance needs;
 
 >> (C) incorporate, to the maximum extent practicable, best practices such as -
 
@@ -857,23 +731,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >>> (ii) continuous data collection from prototypes and fielded systems to refine designs and update lifecycle costs;
 
->>> (iii) testing subsystem prototypes throughout system development to assess their contribution to the mission effect of the fielded system; and
+>>> (iii) testing subsystem prototypes throughout system development to assess their contribution to the mission effect of the fielded system; and (iv) integration of supporting or complementary data from digital twins or other model-based systems engineering tools;
 
->>> (iv) integration of supporting or complementary data from digital twins or other model-based systems engineering tools;
+>> (D) define general test and evaluation objectives and data needs while allowing detailed execution plans to evolve based on test results and emerging requirements, avoiding rigid milestone-driven schedules; and (E) ensure all raw test data and associated analytics are owned by the Federal Government, stored in accessible repositories, and available to authorized Department entities, including the Director of Operational Test and Evaluation, throughout the program lifecycle. (<mark>2) Each such covered program shall be exempt from -
 
->> (D) define general test and evaluation objectives and data needs while allowing detailed execution plans to evolve based on test results and emerging requirements, avoiding rigid milestone-driven schedules; and
+<mark>>> (A) any requirement in law, regulation, or policy, including Department of Defense Instruction 5000.02 or other policies, to develop and submit a test and evaluation master plan, as long as a unified test and evaluation strategy and test data strategy are implemented, as required by subparagraphs (A) and (B) of paragraph (1);</mark>
 
->> (E) ensure all raw test data and associated analytics are owned by the Federal Government, stored in accessible repositories, and available to authorized Department entities, including the Director of Operational Test and Evaluation, throughout the program lifecycle. (<mark>2) Each such covered program shall be exempt from -
-
-<mark>>> (A) any requirement in law, regulation, or policy, including Department of Defense Instruction 5000.02 or other policies, to develop and submit a test and evaluation master plan, as long as a unified test and evaluation strategy and test data strategy are implemented, as required by subparagraphs</mark>
-
-<mark>>> (A) and</mark>
-
-<mark>>> (B) of paragraph (1);</mark>
-
-<mark>>> (B) any requirement in law, regulation, or policy to conduct any milestone-specific operational test event, such as the requirement in section 4171 of title 10, United States Code, to conduct initial operational test and evaluation; and</mark>
-
-<mark>>> (C) any other test and evaluation documentation or approval process that the Secretary determines is inconsistent with the agile and iterative nature of this pathway.</mark>
+<mark>>> (B) any requirement in law, regulation, or policy to conduct any milestone-specific operational test event, such as the requirement in section 4171 of title 10, United States Code, to conduct initial operational test and evaluation; and (C) any other test and evaluation documentation or approval process that the Secretary determines is inconsistent with the agile and iterative nature of this pathway.</mark>
 
 <mark>**(c)** Role of the Director of Operational Test and Evaluation For each covered program designated for oversight by the Director of Operational Test and Evaluation, the Director of Operational Test and Evaluation shall -</mark>
 
@@ -883,19 +747,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (B) evaluating whether the program collects and analyzes sufficient raw data, learns from test results at a pace relevant to operational needs, and converges on military effectiveness based on data trends;</mark>
 
-<mark>>> (C) identifying deficiencies in test and evaluation strategies that risk system performance, suitability, or survivability; and</mark>
-
-<mark>>> (D) providing continuous oversight through ongoing analysis of test data;</mark>
+<mark>>> (C) identifying deficiencies in test and evaluation strategies that risk system performance, suitability, or survivability; and (D) providing continuous oversight through ongoing analysis of test data;</mark>
 
 <mark>> **(2)** have unrestricted access to all raw test data, data repositories, and analytics maintained by the military departments for the covered program;</mark>
 
 <mark>> **(3)** not require of the covered program -</mark>
 
-<mark>>> (A) any specific test plan, execution method, or documentation format, or any pre-approval of test and evaluation activities, as a condition of testing, data collection, or evaluation; or</mark>
-
-<mark>>> (B) any Director of Operational Test and Evaluation-approved test and evaluation master plan or other pre-execution documentation under existing policies; and</mark>
-
-<mark>> **(4)** include in the annual report required under section 139(h) of title 10, United States Code, a summary of the adequacy of data strategies, rates of learning, and risks that aligns with the evaluation processes established in this section. (</mark>d) Guidance required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretaries of the military departments and the Director of Operational Test and Evaluation, shall issue guidance to implement the alternative test and evaluation pathway under this section, including standards for data strategies and modern testing practices and procedures to support evaluation by the Director of Operational Test and Evaluation under subsection (c).
+<mark>>> (A) any specific test plan, execution method, or documentation format, or any pre-approval of test and evaluation activities, as a condition of testing, data collection, or evaluation; or (B) any Director of Operational Test and Evaluation-approved test and evaluation master plan or other pre-execution documentation under existing policies; and (4) include in the annual report required under section 139(h) of title 10, United States Code, a summary of the adequacy of data strategies, rates of learning, and risks that aligns with the evaluation processes established in this section. (</mark>d) Guidance required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretaries of the military departments and the Director of Operational Test and Evaluation, shall issue guidance to implement the alternative test and evaluation pathway under this section, including standards for data strategies and modern testing practices and procedures to support evaluation by the Director of Operational Test and Evaluation under subsection (c).
 
 <mark>**(e)** Report Not later than three years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this section, including an assessment of the effectiveness of the pathway in accelerating capability delivery and improving system performance and any recommendations for expanding or modifying the pathway.</mark>
 
@@ -915,19 +773,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(1)** In general The Secretary of Defense shall establish a working group to develop and implement a common data ontology and governance structure across the Department of Defense.
 
-> **(2)** Designation The working group established under to paragraph
-
-> **(1)** shall be known as the Department of Defense Data Ontology Governance Working Group (in this section the Working Group ).
+> **(2)** Designation The working group established under to paragraph (1) shall be known as the Department of Defense Data Ontology Governance Working Group (in this section the Working Group ).
 
 > **(3)** Use of existing structures
 
->> (A) In general Notwithstanding paragraph (1), the Secretary of Defense may designate an existing forum, council, or organizational body to serve as the Working Group if such entity satisfies the requirements of subsections
+>> (A) In general Notwithstanding paragraph (1), the Secretary of Defense may designate an existing forum, council, or organizational body to serve as the Working Group if such entity satisfies the requirements of subsections (b) and (c).
 
-**(b)** and (c).
-
->> (B) Rule of construction For the purposes of this section, a forum, council, or organizational body designated under subparagraph
-
->> (A) is deemed to be a working group established by the Secretary of Defense under paragraph (1).
+>> (B) Rule of construction For the purposes of this section, a forum, council, or organizational body designated under subparagraph (A) is deemed to be a working group established by the Secretary of Defense under paragraph (1).
 
 **(b)** Purpose The purpose of the Working Group is to inform and to progress the Department of Defense’s foundational data ontology work by developing and implementing domain-specific data ontologies and governance structures across the Department of Defense to expand data interoperability, enhance information sharing, and enable more effective decision making throughout the Department.
 
@@ -943,9 +795,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(5)** such representatives from defense intelligence elements as the Secretary of Defense considers appropriate;
 
-> **(6)** the Under Secretary of Defense for Research and Engineering and the service acquisition executive for each military department; and
-
-> **(7)** such other officers or employees of the Department of Defense as the Secretary considers appropriate.
+> **(6)** the Under Secretary of Defense for Research and Engineering and the service acquisition executive for each military department; and (7) such other officers or employees of the Department of Defense as the Secretary considers appropriate.
 
 **(d)** Duties The Working Group shall -
 
@@ -969,9 +819,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (E) infrastructure requirements that include on premises, multi-cloud and hybrid environments;
 
->> (F) access to information networks that are on all classification levels; and
-
->> (G) integration of domain-specific ontologies with existing Department data management practices and systems.
+>> (F) access to information networks that are on all classification levels; and (G) integration of domain-specific ontologies with existing Department data management practices and systems.
 
 **(e)** Functional area leads
 
@@ -987,13 +835,9 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (C) ensuring alignment between domain-specific data ontologies specific to such functional areas and the enterprise-wide foundational data ontology;
 
->> (D) developing guidance specific to such domain-specific data ontologies for data ontology implementation; and
+>> (D) developing guidance specific to such domain-specific data ontologies for data ontology implementation; and (E) serving as the authoritative source for knowledge on domains in such functional areas within the data ontology governance structure. (<mark>f) Timeline and deliverables
 
->> (E) serving as the authoritative source for knowledge on domains in such functional areas within the data ontology governance structure. (<mark>f) Timeline and deliverables
-
-<mark>> **(1)** Establishment The Secretary of Defense shall ensure that the Working Group is established pursuant to subsection</mark>
-
-<mark>**(a)** not later than June 1, 2026, and the Working Group shall remain in effect for a period of not less than 5 years beginning on the date of the establishment of the Working Group, unless the Secretary determines that it is necessary to transition the Working Group into a permanent organization.</mark>
+<mark>> **(1)** Establishment The Secretary of Defense shall ensure that the Working Group is established pursuant to subsection (a) not later than June 1, 2026, and the Working Group shall remain in effect for a period of not less than 5 years beginning on the date of the establishment of the Working Group, unless the Secretary determines that it is necessary to transition the Working Group into a permanent organization.</mark>
 
 <mark>> **(2)** Functional area lead designation Not later than August 1, 2026, the Working Group shall identify and designate functional area leads in accordance with subsections (d)(4) and (e).</mark>
 
@@ -1047,17 +891,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **(a)** Prohibition The Secretary of Defense may only develop, deploy, test, or operate a missile defense system with kinetic missile defense capabilities if -
 
-> **(1)** the missile defense system is owned and operated by the armed forces; and
-
-> **(2)** such capabilities do not use a subscription-based service, a pay-for-service model, or a recurring-fee model to engage or intercept a target. (<mark>b) Inherently governmental function The decision to engage in kinetic missile defense activities, including targeting, launch authorization, and engagement of airborne or spaceborne threats, is an inherently governmental function that only officers or employees of the Federal Government or members of the Army, Navy, Air Force, Marine Corps, or Space Force may perform.
+> **(1)** the missile defense system is owned and operated by the armed forces; and (2) such capabilities do not use a subscription-based service, a pay-for-service model, or a recurring-fee model to engage or intercept a target. (<mark>b) Inherently governmental function The decision to engage in kinetic missile defense activities, including targeting, launch authorization, and engagement of airborne or spaceborne threats, is an inherently governmental function that only officers or employees of the Federal Government or members of the Army, Navy, Air Force, Marine Corps, or Space Force may perform.
 
 <mark>**(c)** Rule of construction Nothing in this section shall be construed to prohibit the Secretary of Defense from -</mark>
 
 <mark>> **(1)** entering into contracts with private entities for the research, development, manufacture, maintenance, or testing of missile defense systems;</mark>
 
-<mark>> **(2)** entering into or carrying out co-production or co-development arrangements, or other cooperative agreements, with allies and partners of the United States with respect to missile defense capabilities; or</mark>
-
-<mark>> **(3)** procuring commercial services for remote sensing, telemetry, threat tracking, data analysis, data transport, or early warning, if such services do not directly involve the execution or command of kinetic missile defense activities.</mark>
+<mark>> **(2)** entering into or carrying out co-production or co-development arrangements, or other cooperative agreements, with allies and partners of the United States with respect to missile defense capabilities; or (3) procuring commercial services for remote sensing, telemetry, threat tracking, data analysis, data transport, or early warning, if such services do not directly involve the execution or command of kinetic missile defense activities.</mark>
 
 <mark>**(d)** Definitions For the purposes of this section:</mark>
 
@@ -1077,19 +917,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(1)** In general The Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall conduct a continual assessment of -
 
->> (A) the scope, nature, and impact on Israel’s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and
+>> (A) the scope, nature, and impact on Israel’s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and (B) the resulting gaps or vulnerabilities in Israel’s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge.
 
->> (B) the resulting gaps or vulnerabilities in Israel’s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge.
-
-> **(2)** Frequency The assessment required under paragraph
-
-> **(1)** shall be updated not less than once every 180 days.
+> **(2)** Frequency The assessment required under paragraph (1) shall be updated not less than once every 180 days.
 
 **(b)** Potential United States mitigation
 
-> **(1)** Identification of needs Each assessment required under subsection
-
-**(a)** shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions.
+> **(1)** Identification of needs Each assessment required under subsection (a) shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions.
 
 > **(2)** United States actions The Secretary of Defense, in coordination with the Secretary of State, shall identify potential actions the United States may take to mitigate such gaps in defensive capabilities, including -
 
@@ -1097,17 +931,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (B) to the extent possible without undermining United States requirements or readiness, leveraging United States industrial base capacity to provide substitute defensive capabilities;
 
->> (C) expanding joint research, development, and production of defense technologies; and
-
->> (D) enhancing cooperative training, prepositioning, and logistics support.
+>> (C) expanding joint research, development, and production of defense technologies; and (D) enhancing cooperative training, prepositioning, and logistics support.
 
 **(c)** Reports to congress
 
 > **(1)** In general Not later than 120 days after the date of enactment of this section, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the findings of the most recent assessment conducted under subsection (a).
 
-> **(2)** Form The report required by paragraph
-
-> **(1)** shall be submitted in unclassified form and may contain a classified annex. (<mark>d) Sunset The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section.</mark>
+> **(2)** Form The report required by paragraph (1) shall be submitted in unclassified form and may contain a classified annex. (<mark>d) Sunset The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section.</mark>
 
 ### Section 214 — Modification to authority for acquisition, construction, or furnishing of test facilities and equipment
 
@@ -1117,9 +947,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(a)** Jointly funded projects Section 4174 of title 10, United States Code, is amended -</mark>
 
-<mark>> **(1)** in subsection (a), by striking A contract of a military department and inserting A covered contract ; and</mark>
-
-<mark>> **(2)** by adding at the end the following new subsections:</mark>
+<mark>> **(1)** in subsection (a), by striking A contract of a military department and inserting A covered contract ; and (2) by adding at the end the following new subsections:</mark>
 
 <mark>**(d)** </mark>
 
@@ -1141,15 +969,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(4)** The Secretary of Defense shall issue regulations to implement this subsection. Such regulations shall include specific criteria for evaluating proposed jointly funded projects, standardized agreement templates, and procedures for ensuring the transparency and accountability of such projects. (</mark><mark>e) This section applies to contracts funded using funds appropriated or otherwise made available for -
 
-<mark>> **(1)** research, development, test, and evaluation, including science and technology funds designated as budget activity 1 (basic research), budget activity 2 (applied research), and budget activity 3 (advanced technology development) (as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14–R)); and</mark>
-
-<mark>> **(2)** operation and maintenance, to the extent that such funds are used to support activities authorized under this section.</mark>
+<mark>> **(1)** research, development, test, and evaluation, including science and technology funds designated as budget activity 1 (basic research), budget activity 2 (applied research), and budget activity 3 (advanced technology development) (as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14–R)); and (2) operation and maintenance, to the extent that such funds are used to support activities authorized under this section.</mark>
 
 <mark>**(f)** In this section, the term covered contract means -</mark>
 
-<mark>> **(1)** a contract of a military department; or</mark>
-
-<mark>> **(2)** a contract for a jointly funded project as described subsection (d). .</mark>
+<mark>> **(1)** a contract of a military department; or (2) a contract for a jointly funded project as described subsection (d). .</mark>
 
 <mark>**(b)** Regulations required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection (a).</mark>
 
@@ -1161,15 +985,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **(a)** In general The Secretary of the Army shall support a system of official Army museums within the United States Army Center of Military History. Such system shall include the National Museum of the United States Army and may contain other museums honoring individual installations, units, and branches, as designated by the Secretary of the Army, that meet criteria established under subsection (b).
 
-**(b)** Criteria for designation The Secretary of the Army shall establish criteria for designating museums of subsection
-
-**(a)** for inclusion in the Army museum system. Such criteria shall include -
+**(b)** Criteria for designation The Secretary of the Army shall establish criteria for designating museums of subsection (a) for inclusion in the Army museum system. Such criteria shall include -
 
 > **(1)** historical significance to Army operations, technology, or personnel;
 
-> **(2)** public accessibility and educational outreach programs; and
-
-> **(3)** alignment with the mission of the Army to preserve its heritage.
+> **(2)** public accessibility and educational outreach programs; and (3) alignment with the mission of the Army to preserve its heritage.
 
 **(c)** Criteria for closure The Secretary of the Army shall establish criteria for closing museums within the Army museum system. No museum within such system may be closed until -
 
@@ -1179,11 +999,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (B) how any issues relating to museum personnel will be resolved;
 
->> (C) an identification of any efforts to maintain museum operations through public-private partnerships; and
-
->> (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
-
-> **(2)** a period of 90 days has elapsed after the date on which such notice is received by such committees. (<mark>d) Funding and support Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Army museum system.</mark>
+>> (C) an identification of any efforts to maintain museum operations through public-private partnerships; and (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and (2) a period of 90 days has elapsed after the date on which such notice is received by such committees. (<mark>d) Funding and support Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Army museum system.</mark>
 
 ### Section 2809 — Authority to use accelerated design-build and progressive design-build procedures for military construction projects
 
@@ -1191,19 +1007,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **<mark>Authority to use accelerated design-build and progressive design-build procedures for military construction projects Section 3241 of title 10, United States Code, is amended -**
 
-<mark>> **(1)** in subsection</mark>
-
-<mark>**(f)** -</mark>
+<mark>> **(1)** in subsection (f) -</mark>
 
 <mark>>> (A) in paragraph (1), by striking The Secretary of a military department and inserting Subject to paragraph (4), each Secretary concerned ;</mark>
 
-<mark>>> (B) in paragraph (2), by striking Any military construction contract and inserting Any construction contract for a military construction project ; and</mark>
-
-<mark>>> (C) by amending paragraphs</mark>
-
-<mark>> **(3)** and</mark>
-
-<mark>> **(4)** to read as follows:</mark>
+<mark>>> (B) in paragraph (2), by striking Any military construction contract and inserting Any construction contract for a military construction project ; and (C) by amending paragraphs (3) and (4) to read as follows:</mark>
 
 <mark>> **(3)** Not later than March 1, 2028, and annually thereafter until March 1, 2033, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under this subsection that includes the following:</mark>
 
@@ -1219,27 +1027,17 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (F) Any challenges encountered, and mitigation efforts made, in the use of such authority for a military construction project.</mark>
 
-<mark>> **(4)** Each Secretary concerned may exercise the authority under this subsection using amounts appropriated for such purpose on or after the date of the enactment of this paragraph. ; and</mark>
-
-<mark>> **(2)** by inserting after subsection</mark>
-
-<mark>**(f)** the following new subsection:</mark>
+<mark>> **(4)** Each Secretary concerned may exercise the authority under this subsection using amounts appropriated for such purpose on or after the date of the enactment of this paragraph. ; and (2) by inserting after subsection (f) the following new subsection:</mark>
 
 <mark>**(g)** Authorization of progressive design-build contracts</mark>
 
-<mark>> **(1)** Notwithstanding subsections</mark>
-
-<mark>**(b)** through (e), the Secretary concerned may enter into a progressive design-build contract for a military construction project under the authority of subsection</mark>
-
-<mark>**(a)** in accordance with the following requirements:</mark>
+<mark>> **(1)** Notwithstanding subsections (b) through (e), the Secretary concerned may enter into a progressive design-build contract for a military construction project under the authority of subsection (a) in accordance with the following requirements:</mark>
 
 >> (A) The contract is awarded in a single phase based on qualifications and demonstrated capabilities of the offeror without submission of a detailed construction cost or price proposal at the time of award. (</mark><mark>B) The contract provides for collaboration between the Secretary concerned and the contractor to develop and refine the project scope and design, including cost estimates.
 
 <mark>>> (C) Following development of the project scope and preliminary design, the contract provide for the Secretary concerned and contractor to negotiate a guaranteed maximum price or other fixed-price agreement for the construction phase of the military construction project.</mark>
 
-<mark>>> (D) If negotiations described in subparagraph</mark>
-
-<mark>>> (C) fail, the contract includes terms for termination or renegotiation.</mark>
+<mark>>> (D) If negotiations described in subparagraph (C) fail, the contract includes terms for termination or renegotiation.</mark>
 
 <mark>> **(2)** The Secretary concerned shall issue rules to ensure appropriate oversight, risk management, and contract administration consistent with the requirements of this subsection.</mark>
 
@@ -1269,9 +1067,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(b)** Inspection requirements Under the program established by subsection (a), a qualified home inspector shall annually inspect not less than five percent of privatized military housing and Government-owned military housing units. Such inspection shall include, at a minimum -</mark>
 
-<mark>> **(1)** an evaluation of HVAC systems, plumbing, electrical systems, and structural integrity of the privatized military housing and Government-owned military housing units; and</mark>
-
-<mark>> **(2)** an inspection for signs of water intrusion, visible and nonvisible mold, microbial contamination, and other indoor air quality concerns.</mark>
+<mark>> **(1)** an evaluation of HVAC systems, plumbing, electrical systems, and structural integrity of the privatized military housing and Government-owned military housing units; and (2) an inspection for signs of water intrusion, visible and nonvisible mold, microbial contamination, and other indoor air quality concerns.</mark>
 
 <mark>**(c)** Inspection implementation plan Not later than February 1, 2026, the Secretary of Defense shall submit to the congressional defense committees a plan to implement the program established under subsection (a), including -</mark>
 
@@ -1279,29 +1075,21 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(2)** inspection methodologies;</mark>
 
-<mark>> **(3)** protocols for reporting, remediation, and follow-up actions; and</mark>
-
-<mark>> **(4)** integration with existing oversight and compliance frameworks for privatized military housing and Government-owned military housing.</mark>
+<mark>> **(3)** protocols for reporting, remediation, and follow-up actions; and (4) integration with existing oversight and compliance frameworks for privatized military housing and Government-owned military housing.</mark>
 
 <mark>**(d)** Reporting requirements Not later than March 1, 2027, and annually thereafter until March 1, 2032, the Secretary of Defense shall submit to the congressional defense committees a report on the results of inspections conducted under this section during the preceding calendar year. The report shall include -</mark>
 
 <mark>> **(1)** findings and deficiencies identified;</mark>
 
-<mark>> **(2)** remediation timelines and actions taken; and</mark>
-
-<mark>> **(3)** recommendations for improving housing conditions and oversight.</mark>
+<mark>> **(2)** remediation timelines and actions taken; and (3) recommendations for improving housing conditions and oversight.</mark>
 
 <mark>**(e)** Definitions In this section:</mark>
 
 > **(1)** The term privatized military housing has the meaning given in section 3001(a)(2) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ; 10 U.S.C. 2821 note). (</mark><mark>2) The term qualified home inspector means an individual who -
 
-<mark>>> (A) possesses housing inspection credentials required by the State in which the inspection is performed; and</mark>
+<mark>>> (A) possesses housing inspection credentials required by the State in which the inspection is performed; and (B) is not an employee of, or in a fiduciary relationship with -</mark>
 
-<mark>>> (B) is not an employee of, or in a fiduciary relationship with -</mark>
-
-<mark>**(i)** the Federal Government; or</mark>
-
-<mark>>>> (ii) any entity that owns or manages privatized military housing or Government-owned military housing.</mark>
+<mark>**(i)** the Federal Government; or (ii) any entity that owns or manages privatized military housing or Government-owned military housing.</mark>
 
 ### Section 2851 — Annual report on cost premium for construction of certain facilities
 
@@ -1325,9 +1113,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(6)** Physical fitness centers located on military installations.</mark>
 
-<mark>**(c)** Contents Each report required under subsection</mark>
-
-<mark>**(a)** shall include the following:</mark>
+<mark>**(c)** Contents Each report required under subsection (a) shall include the following:</mark>
 
 <mark>> **(1)** The cost premium, expressed as a percentage, for the facilities selected under subsection (b).</mark>
 
@@ -1339,15 +1125,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (C) Federal procurement requirements contained in the Federal Acquisition Regulation and the Department of Defense Supplement to the Federal Acquisition Regulation;</mark>
 
-<mark>>> (D) security requirements relating to access to military installations; and</mark>
-
-<mark>>> (E) requirements relating to sustainability and energy efficiency.</mark>
+<mark>>> (D) security requirements relating to access to military installations; and (E) requirements relating to sustainability and energy efficiency.</mark>
 
 <mark>> **(3)** An examination of how the removal of Antiterrorism/Force Protection (ATFP) standards and requirements has affected the cost premium for military construction projects, including any quantifiable reductions in cost or design complexity resulting from such removal.</mark>
 
-<mark>**(d)** Recommendations Each report required under subsection</mark>
-
-<mark>**(a)** shall include recommendations for the following:</mark>
+<mark>**(d)** Recommendations Each report required under subsection (a) shall include recommendations for the following:</mark>
 
 <mark>> **(1)** Proposed statutory, regulatory, or policy reforms to reduce the cost premium for military construction without compromising mission needs.</mark>
 
@@ -1355,9 +1137,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(3)** Alternative construction methodologies and procurement strategies that could mitigate the cost premium for military construction. (</mark><mark>e) Cost premium for military construction defined In this section, the term cost premium , with respect to a facility, means the difference between -
 
-<mark>> **(1)** the cost to construct a new facility carried out by the Secretary of Defense; and</mark>
-
-<mark>> **(2)** the estimated cost to construct a similar facility carried out by a private entity, as adjusted for size, geographic location, and function of such facility.</mark>
+<mark>> **(1)** the cost to construct a new facility carried out by the Secretary of Defense; and (2) the estimated cost to construct a similar facility carried out by a private entity, as adjusted for size, geographic location, and function of such facility.</mark>
 
 ### Section 383 — Reserve mobilization exercise to assess the capability of the Armed Forces to respond to a high-intensity contingency in the Indo-Pacific region
 
@@ -1367,9 +1147,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(a)** Indo-pacific mobilization and readiness study required Not later than one year after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Chairman of the Joint Chiefs of Staff and the Commander of United States Indo-Pacific Command, shall conduct a comprehensive joint mobilization and sustainment readiness study (modeled on the 1978 exercise referred to as Nifty Nugget ) to assess the capability of the Armed Forces to respond to a high-intensity contingency in the Indo-Pacific region.</mark>
 
-<mark>**(b)** Elements of the study The study required under subsection</mark>
-
-<mark>**(a)** shall include the following:</mark>
+<mark>**(b)** Elements of the study The study required under subsection (a) shall include the following:</mark>
 
 <mark>> **(1)** An assessment of the ability to rapidly mobilize, deploy, and sustain active and reserve component forces in response to a conflict scenario involving the Taiwan Strait, South China Sea, or similar Indo-Pacific flashpoint.</mark>
 
@@ -1391,9 +1169,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(3)** industrial and technical skills, including cybersecurity, software development, engineering, logistics, manufacturing, and data science;</mark>
 
-<mark>> **(4)** critical infrastructure and emergency response expertise; and</mark>
-
-> **(5)** private-sector leadership and innovation experience relevant to defense mobilization and sustainment. (</mark><mark>d) Reporting requirements Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that includes -
+> **(4)** critical infrastructure and emergency response expertise; and (5) private-sector leadership and innovation experience relevant to defense mobilization and sustainment. (</mark><mark>d) Reporting requirements Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that includes -
 
 <mark>> **(1)** the results, findings, and recommendations of the mobilization and readiness study required under subsection (a);</mark>
 
@@ -1403,15 +1179,9 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (A) mobilizing members of the reserve components for wartime or emergency augmentation;</mark>
 
-<mark>>> (B) identifying, tracking, and using civilian-acquired skills of reservists; and</mark>
+<mark>>> (B) identifying, tracking, and using civilian-acquired skills of reservists; and (C) executing logistical lift and sustainment operations, including Navy-led maritime port operations, Army-managed rail and overland transport, Air Force strategic airlift capacity, and Marine Corps expeditionary logistics; and (4) an estimate of -</mark>
 
-<mark>>> (C) executing logistical lift and sustainment operations, including Navy-led maritime port operations, Army-managed rail and overland transport, Air Force strategic airlift capacity, and Marine Corps expeditionary logistics; and</mark>
-
-<mark>> **(4)** an estimate of -</mark>
-
-<mark>>> (A) the number of members of the reserve components who are likely to be available and required to reinforce forward-deployed active duty units during the first 30, 60, and 90 days of a major Indo-Pacific contingency; and</mark>
-
-<mark>>> (B) the number of members of the reserve components required to support full-scale mobilization and logistics surge operations within the United States, including domestic transportation nodes, sustainment hubs, ports of embarkation, mobilization training centers, and other homeland support functions necessary to enable and sustain global operations.</mark>
+<mark>>> (A) the number of members of the reserve components who are likely to be available and required to reinforce forward-deployed active duty units during the first 30, 60, and 90 days of a major Indo-Pacific contingency; and (B) the number of members of the reserve components required to support full-scale mobilization and logistics surge operations within the United States, including domestic transportation nodes, sustainment hubs, ports of embarkation, mobilization training centers, and other homeland support functions necessary to enable and sustain global operations.</mark>
 
 ### Section 662 — Provision of information regarding relocation assistance programs for members receiving orders for a change of permanent station
 
@@ -1421,15 +1191,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(a)** In general Section 1056(b) of title 10, United States Code, is amended -</mark>
 
-<mark>> **(1)** in paragraph</mark>
-
-<mark>> **(2)** -</mark>
+<mark>> **(1)** in paragraph (2) -</mark>
 
 <mark>>> (A) in subparagraph (A), by striking and community orientation and inserting community orientation, education systems, school enrollment procedures, and State-specific provisions under the Interstate Compact on Educational Opportunity for Military Children ;</mark>
 
-<mark>>> (B) in subparagraph (C), by striking and community orientation and inserting community orientation, and educational resources for dependent children, including school transition assistance, academic continuity, and special education services ; and</mark>
-
-<mark>>> (C) by adding at the end the following new subparagraphs:</mark>
+<mark>>> (B) in subparagraph (C), by striking and community orientation and inserting community orientation, and educational resources for dependent children, including school transition assistance, academic continuity, and special education services ; and (C) by adding at the end the following new subparagraphs:</mark>
 
 <mark>>> (E) Educational planning and support services for dependent children with disabilities, including procedures for transferring individualized education programs and coordinating with the Exceptional Family Member Program.</mark>
 
@@ -1443,33 +1209,19 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>>> (iv) educational resources for dependent children, including school transition assistance and special education services;</mark>
 
-<mark>**(v)** information on available legal and financial counseling programs; and</mark>
-
-<mark>>>> (vi) any other assistance programs that support members of the armed forces and their families during relocation. ; and</mark>
-
-<mark>> **(2)** by adding at the end the following new paragraphs</mark>
-
-> **(3)** The Secretary of each military department shall ensure that relocation assistance required to be provided under this subsection is provided not later than 45 days before the date on which a change of permanent station takes effect for a member of the armed forces under the jurisdiction of such Secretary. (</mark><mark>4) The Secretary of each military department shall -
+**(v)** information on available legal and financial counseling programs; and (vi) any other assistance programs that support members of the armed forces and their families during relocation. ; and (2) by adding at the end the following new paragraphs (3) The Secretary of each military department shall ensure that relocation assistance required to be provided under this subsection is provided not later than 45 days before the date on which a change of permanent station takes effect for a member of the armed forces under the jurisdiction of such Secretary. (</mark><mark>4) The Secretary of each military department shall -
 
 <mark>>> (A) incorporate the information required to be provided under this subsection into accessible materials and briefings provided to members of the armed forces relating to a change of permanent station;</mark>
 
 <mark>>> (B) ensure that the program under this section provides accessible materials and briefings at military installations and through online resources;</mark>
 
-<mark>>> (C) develop a communication strategy, including digital outreach and printed materials, to increase awareness of the program under this section and assistance available under other provisions of law relating to a change of permanent station; and</mark>
-
-<mark>>> (D) assess the satisfaction of members of the armed forces with the information provided under this subsection. .</mark>
+<mark>>> (C) develop a communication strategy, including digital outreach and printed materials, to increase awareness of the program under this section and assistance available under other provisions of law relating to a change of permanent station; and (D) assess the satisfaction of members of the armed forces with the information provided under this subsection. .</mark>
 
 <mark>**(b)** Report Not later than one year after the date of enactment of this Act, and annually thereafter for three years, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the implementation of the amendments made by this section. Such briefing shall include -</mark>
 
-<mark>> **(1)** the status of efforts to integrate information required to be provided by subparagraph</mark>
+<mark>> **(1)** the status of efforts to integrate information required to be provided by subparagraph (F) of section 1056(b)(2) of title 10, United States Code, as added by subsection (a) of this section, into accessible materials and briefings provided to members of the armed forces relating to a change of permanent station;</mark>
 
-<mark>>> (F) of section 1056(b)(2) of title 10, United States Code, as added by subsection</mark>
-
-<mark>**(a)** of this section, into accessible materials and briefings provided to members of the armed forces relating to a change of permanent station;</mark>
-
-<mark>> **(2)** an assessment of the awareness by members of the armed forces of available programs in support of a change of permanent station; and</mark>
-
-<mark>> **(3)** any recommendations of the Secretary for improving the dissemination of information related to relocation and family assistance programs.</mark>
+<mark>> **(2)** an assessment of the awareness by members of the armed forces of available programs in support of a change of permanent station; and (3) any recommendations of the Secretary for improving the dissemination of information related to relocation and family assistance programs.</mark>
 
 ### Section 735 — Study on accreditation of military dental treatment facilities
 
@@ -1491,9 +1243,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** the findings of the study;</mark>
 
-<mark>> **(2)** a plan to ensure the accreditation of military dental treatment facilities; and</mark>
-
-<mark>> **(3)** any recommendations by the Inspector General for additional resources or legislative authority necessary to achieve full accreditation of military dental treatment facilities.</mark>
+<mark>> **(2)** a plan to ensure the accreditation of military dental treatment facilities; and (3) any recommendations by the Inspector General for additional resources or legislative authority necessary to achieve full accreditation of military dental treatment facilities.</mark>
 
 ### Section 737 — Study on psychological effects of and mental health effects of unmanned aircraft systems in combat operations
 
@@ -1503,21 +1253,15 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **(a)** Study required The Secretary of Defense shall conduct a comprehensive study on the psychological effects and mental health effects of members of the Armed Forces and civilian personnel who operate or support unmanned aircraft systems in combat operations.
 
-**(b)** Elements The study under subsection
-
-**(a)** shall include the following:
+**(b)** Elements The study under subsection (a) shall include the following:
 
 > **(1)** An assessment of the prevalence of post-traumatic stress disorder, depression, anxiety, burnout, moral injury, and other mental health conditions among members of the Armed Forces and civilian personnel who -
 
->> (A) pilot or operate unmanned aircraft systems in combat operations; or
-
->> (B) analyze combat imagery and conduct targeting assessments for such systems.
+>> (A) pilot or operate unmanned aircraft systems in combat operations; or (B) analyze combat imagery and conduct targeting assessments for such systems.
 
 > **(2)** A comparative analysis of the mental health outcomes of such individuals relative to -
 
->> (A) aircrew engaged in crewed combat operations; and
-
->> (B) personnel deployed in non-flying combat roles.
+>> (A) aircrew engaged in crewed combat operations; and (B) personnel deployed in non-flying combat roles.
 
 > **(3)** An evaluation of operational stressors unique to the use of unmanned aircraft systems in combat operations, including -
 
@@ -1525,9 +1269,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (B) remote witnessing of lethal operations;
 
->> (C) emotional disengagement and isolation; and
-
->> (D) exposure to civilian casualties or traumatic visual content.
+>> (C) emotional disengagement and isolation; and (D) exposure to civilian casualties or traumatic visual content.
 
 > **(4)** An assessment of existing mental health support services of the Department of Defense available to members of the Armed Forces and other personnel who operate or support unmanned aircraft systems in combat operations and whether such services are adequate, accessible, and appropriately tailored.
 
@@ -1537,9 +1279,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(2)** the Under Secretary of Defense for Personnel and Readiness;</mark>
 
-<mark>> **(3)** the Director of the Defense Health Agency; and</mark>
-
-<mark>> **(4)** appropriate scientific institutions with expertise in combat psychology and remote warfare.</mark>
+<mark>> **(3)** the Director of the Defense Health Agency; and (4) appropriate scientific institutions with expertise in combat psychology and remote warfare.</mark>
 
 <mark>**(d)** Report Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an unclassified report on the results of the study conducted under this section, including the recommendations described in subsection (b)(5).</mark>
 
@@ -1551,15 +1291,11 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(a)** In general The Secretary of the Air Force shall support a system of official Air Force and Space Force museums within the Department of the Air Force. Such system shall include the National Museum of the United States Air Force and may contain other museums honoring individual installations, units, and branches, as designated by the Secretary of the Air Force, that meet criteria established under subsection (b).</mark>
 
-<mark>**(b)** Criteria for designation The Secretary of the Air Force shall establish criteria for designating museums of subsection</mark>
-
-<mark>**(a)** for inclusion in the Air Force and Space Force museum system. Such criteria shall include -</mark>
+<mark>**(b)** Criteria for designation The Secretary of the Air Force shall establish criteria for designating museums of subsection (a) for inclusion in the Air Force and Space Force museum system. Such criteria shall include -</mark>
 
 <mark>> **(1)** historical significance to Air Force and Space Force operations, technology, or personnel;</mark>
 
-<mark>> **(2)** public accessibility and educational outreach programs; and</mark>
-
-<mark>> **(3)** alignment with the mission of the Air Force and Space Force to preserve the heritage of the Air Force and Space Force.</mark>
+<mark>> **(2)** public accessibility and educational outreach programs; and (3) alignment with the mission of the Air Force and Space Force to preserve the heritage of the Air Force and Space Force.</mark>
 
 <mark>**(c)** Criteria for closure The Secretary of the Air Force shall establish criteria for the closure of museums within the Air Force and Space Force museum system. No museum within such system may be closed until -</mark>
 
@@ -1569,11 +1305,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>>> (B) how any issues relating to museum personnel will be resolved;</mark>
 
-<mark>>> (C) an identification of any efforts to maintain museum operations through public-private partnerships; and</mark>
-
-<mark>>> (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and</mark>
-
-<mark>> **(2)** a period of 90 days has elapsed after the date on which such notice is received by such committees.</mark>
+<mark>>> (C) an identification of any efforts to maintain museum operations through public-private partnerships; and (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and (2) a period of 90 days has elapsed after the date on which such notice is received by such committees.</mark>
 
 <mark>**(d)** Funding and support Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Air Force and Space Force museum system.</mark>
 
@@ -1587,9 +1319,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** by striking The President and inserting</mark>
 
-<mark>**(a)** In general. The President ; and</mark>
-
-<mark>> **(2)** by adding at the end the following new subsection:</mark>
+<mark>**(a)** In general. The President ; and (2) by adding at the end the following new subsection:</mark>
 
 <mark>**(b)** DOD procedures The President may authorize the Department of Defense to determine the qualification, examination, and assessment procedures for positions in the competitive service based primarily on job-related competencies and skills, including the use of structured interviews, technical evaluations, or skills-based assessments, and alternative assessments. .</mark>
 
@@ -1601,9 +1331,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** by striking An individual and inserting</mark>
 
-<mark>**(a)** In general . An individual ; and</mark>
-
-<mark>> **(2)** by adding at the end the following:</mark>
+<mark>**(a)** In general . An individual ; and (2) by adding at the end the following:</mark>
 
 <mark>**(b)** DOD promotions Promotions in the competitive service within the Department of Defense may be made based on demonstrated skills and qualifications without regard to minimum time-in-grade requirements, subject to agency policies and applicable merit system principles. .</mark>
 
@@ -1635,9 +1363,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(b)** Department of Defense guidance, directives, procedures, requirements, and regulations The Secretary shall -</mark>
 
-<mark>> **(1)** review all relevant guidance, directives, procedures, requirements, and regulations of the Department of Defense, including the Cloud Computing Security Requirements Guide, the Security Technical Implementation Guides, and related instructions of the Department; and</mark>
-
-<mark>> **(2)** make such revisions as may be necessary to ensure conformity and compliance with subsection (a).</mark>
+<mark>> **(1)** review all relevant guidance, directives, procedures, requirements, and regulations of the Department of Defense, including the Cloud Computing Security Requirements Guide, the Security Technical Implementation Guides, and related instructions of the Department; and (2) make such revisions as may be necessary to ensure conformity and compliance with subsection (a).</mark>
 
 <mark>**(c)** Briefings The Secretary shall provide to the congressional defense committees briefings on the implementation of this section as follows:</mark>
 
@@ -1645,9 +1371,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(2)** Not later than June 1, 2027, and annually thereafter through 2028, briefings on the implementation progress, effectiveness of controls, security incidents, and recommendations for legislative or administrative action. (</mark>d) Rule of construction Nothing in this section shall be construed to prohibit or restrict -
 
-<mark>> **(1)** software development activities, including the development, modification, or contribution to open-source code and software; or</mark>
-
-<mark>> **(2)** collaboration on or access to publicly available open-source software components that may be incorporated into Department of Defense cloud computing systems.</mark>
+<mark>> **(1)** software development activities, including the development, modification, or contribution to open-source code and software; or (2) collaboration on or access to publicly available open-source software components that may be incorporated into Department of Defense cloud computing systems.</mark>
 
 <mark>**(e)** Definitions ln this section:</mark>
 
@@ -1663,9 +1387,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(a)** Study The Secretary of the Air Force, in coordination with the Under Secretary of Defense for Intelligence and Security, shall conduct a study on the feasibility and advisability of establishing a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense.</mark>
 
-<mark>**(b)** Scope The study under subsection</mark>
-
-<mark>**(a)** shall -</mark>
+<mark>**(b)** Scope The study under subsection (a) shall -</mark>
 
 <mark>> **(1)** assess operational and technical requirements for tactical surveillance, reconnaissance, and tracking capabilities across the joint force, including requirements identified by the combatant commands;</mark>
 
@@ -1673,25 +1395,15 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(3)** develop recommended acquisition and management approaches;</mark>
 
-<mark>> **(4)** consider applicable intelligence oversight, legal, and policy regulations relevant to the collection, retention, and dissemination of information; and</mark>
-
-<mark>> **(5)** provide funding profile options and estimated resource requirements to establish and sustain such a program.</mark>
+<mark>> **(4)** consider applicable intelligence oversight, legal, and policy regulations relevant to the collection, retention, and dissemination of information; and (5) provide funding profile options and estimated resource requirements to establish and sustain such a program.</mark>
 
 <mark>**(c)** Coordination In conducting the study under subsection (a), the Secretary -</mark>
 
-<mark>> **(1)** shall coordinate with the Under Secretary of Defense for Acquisition and Sustainment, the Chairman of the Joint Chiefs of Staff, and commanders of the combatant commands; and</mark>
-
-<mark>> **(2)** may receive support from other elements of the Department or federally funded research and development centers as the Secretary determines appropriate.</mark>
+<mark>> **(1)** shall coordinate with the Under Secretary of Defense for Acquisition and Sustainment, the Chairman of the Joint Chiefs of Staff, and commanders of the combatant commands; and (2) may receive support from other elements of the Department or federally funded research and development centers as the Secretary determines appropriate.</mark>
 
 <mark>**(d)** Report Not later than July 31, 2026, the Secretary shall submit to the congressional defense committees a report, and shall provide a briefing on, the findings and recommendations of the study under subsection (a). (</mark>e) Authority to establish The Secretary may establish a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense if -
 
-<mark>> **(1)** the Secretary determines in the study under subsection</mark>
-
-<mark>**(a)** that such establishment is advisable and feasible; and</mark>
-
-<mark>> **(2)** a period of 90 days elapses following the date on which the Secretary submits the report under subsection (d); and</mark>
-
-<mark>> **(3)** after such 90-day period, the Secretary notifies the congressional defense committees of carrying out this subsection.</mark>
+<mark>> **(1)** the Secretary determines in the study under subsection (a) that such establishment is advisable and feasible; and (2) a period of 90 days elapses following the date on which the Secretary submits the report under subsection (d); and (3) after such 90-day period, the Secretary notifies the congressional defense committees of carrying out this subsection.</mark>
 
 <mark>**(f)** Tactical surveillance, reconnaissance, and tracking capabilities defined In this section, the term tactical surveillance, reconnaissance, and tracking capabilities means the capabilities provided under the pilot program carried out by the Space Force to use commercial data and analytics to provide surveillance, reconnaissance, and tracking information to the combatant commands.</mark>
 
@@ -1741,9 +1453,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(c)** Covered contract In this section, the term covered contract -</mark>
 
-<mark>> **(1)** means a contract with an entity that provides relocation logistics for the household goods of members of the Armed Forces undergoing a permanent change of station (commonly referred to as a single move manager ); and</mark>
-
-<mark>> **(2)** does not include a contract or other agreement for the relocation of a private vehicle owned or leased by a member of the Armed Forces.</mark>
+<mark>> **(1)** means a contract with an entity that provides relocation logistics for the household goods of members of the Armed Forces undergoing a permanent change of station (commonly referred to as a single move manager ); and (2) does not include a contract or other agreement for the relocation of a private vehicle owned or leased by a member of the Armed Forces.</mark>
 
 ### Section 113 — Authorization to initiate early production of future long-range assault aircraft
 
@@ -1767,43 +1477,29 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(1)** prioritize program continuity, cost-efficiency, and workforce retention across the supply chain for tiltrotor aircraft;</mark>
 
-<mark>> **(2)** ensure that aircraft procured as part of the early production effort described in subsection</mark>
-
-<mark>**(a)** incorporate lessons learned from test article evaluations;</mark>
+<mark>> **(2)** ensure that aircraft procured as part of the early production effort described in subsection (a) incorporate lessons learned from test article evaluations;</mark>
 
 <mark>> **(3)** maintain flexibility in design to accommodate future upgrades through the modular open systems architecture and digital backbone;</mark>
 
-<mark>> **(4)** ensure that the program completes a rigorous developmental test flight campaign prior to delivering the platform to the operational forces; and</mark>
-
-<mark>> **(5)** ensure that the program completes a rigorous operational test and evaluation prior to entering into full rate production. (</mark>d) Briefing to Congress Not later than 180 days after the date of the enactment of this Act, the Secretary of the Army shall provide to the congressional defense committees a briefing detailing -
+<mark>> **(4)** ensure that the program completes a rigorous developmental test flight campaign prior to delivering the platform to the operational forces; and (5) ensure that the program completes a rigorous operational test and evaluation prior to entering into full rate production. (</mark>d) Briefing to Congress Not later than 180 days after the date of the enactment of this Act, the Secretary of the Army shall provide to the congressional defense committees a briefing detailing -
 
 <mark>> **(1)** the implementation plan and timeline for the procurement and early production effort described in subsection (a);</mark>
 
-<mark>> **(2)** the status of industrial base readiness and supply chain coordination in support of such early production effort; and</mark>
-
-<mark>> **(3)** estimated long-term cost savings and operational benefits expected to be derived from such early production effort.</mark>
+<mark>> **(2)** the status of industrial base readiness and supply chain coordination in support of such early production effort; and (3) estimated long-term cost savings and operational benefits expected to be derived from such early production effort.</mark>
 
 ### Section 1703 — Temporary authority for nonimmigrant construction workers on Wake Island
 
 **Classification:** AI | **AI Score:** 50.0% | **Segments:** 2 | **Confidence:** low | **Division:** Other Defense Matters
 
-**Temporary authority for nonimmigrant construction workers on Wake Island**
+**Temporary authority for nonimmigrant construction workers on Wake Island (a) Authorization An alien, if otherwise qualified, may seek admission to the United States as a nonimmigrant under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years, to perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island.**
 
-**(a)** Authorization An alien, if otherwise qualified, may seek admission to the United States as a nonimmigrant under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years, to perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island.
-
-**(b)** Exemption from numerical limitations An alien admitted pursuant to subsection
-
-**(a)** shall not count against the numerical limitations set forth in section 214(g) of the Immigration and Nationality Act ( 8 U.S.C. 1184(g) ).
+**(b)** Exemption from numerical limitations An alien admitted pursuant to subsection (a) shall not count against the numerical limitations set forth in section 214(g) of the Immigration and Nationality Act ( 8 U.S.C. 1184(g) ).
 
 **(c)** Cancellation of visas for misuse A visa or other document authorizing admission of an alien to the United States for the purpose of performing a service or labor related to construction on Wake Island shall be canceled if the alien enters an area within the United States other than Wake Island, Guam, the Commonwealth of Northern Mariana Islands, or a United States Minor Outlying Island in the Pacific.
 
 **(d)** Transferability Notwithstanding any other provision of law -
 
-> **(1)** an alien admitted to Guam pursuant to 6(b)(1) of Public Law 94–241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island; and
-
-> **(2)** an alien admitted to the Commonwealth of the Northern Mariana Islands pursuant to 6(b)(1) of Public Law 94–241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island. (<mark>e) Period of applicability An alien may seek admission to the United States pursuant to subsection
-
-<mark>**(a)** during the period beginning on the date of enactment of this section and ending on December 31, 2030.</mark>
+> **(1)** an alien admitted to Guam pursuant to 6(b)(1) of Public Law 94–241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island; and (2) an alien admitted to the Commonwealth of the Northern Mariana Islands pursuant to 6(b)(1) of Public Law 94–241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island. (<mark>e) Period of applicability An alien may seek admission to the United States pursuant to subsection (a) during the period beginning on the date of enactment of this section and ending on December 31, 2030.</mark>
 
 ### Section 522 — Women’s initiative teams
 
@@ -1815,25 +1511,17 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>**(a)** Establishment The Secretary concerned shall establish a women’s initiative team in each of the Army, Navy, Air Force, Marine Corps, and Space Force to identify and address barriers, if any, to the service, recruitment, retention, and advancement of women in those armed forces.</mark>
 
-<mark>**(b)** Duties Each women’s initiative team established under subsection</mark>
-
-<mark>**(a)** shall -</mark>
+<mark>**(b)** Duties Each women’s initiative team established under subsection (a) shall -</mark>
 
 <mark>> **(1)** identify and address issues, if any, that hinder service by women in the armed force in which such team is established;</mark>
 
 <mark>> **(2)** support the recruitment and retention of women in such armed force;</mark>
 
-<mark>> **(3)** recommend policy changes that support the needs of women members of such armed force; and</mark>
+<mark>> **(3)** recommend policy changes that support the needs of women members of such armed force; and (4) foster a sense of community.</mark>
 
-<mark>> **(4)** foster a sense of community.</mark>
+<mark>**(c)** Composition Each women’s initiative team established under subsection (a) shall be composed of members of the armed force in which such team is established of a variety of ranks, backgrounds, and occupational specialities.</mark>
 
-<mark>**(c)** Composition Each women’s initiative team established under subsection</mark>
-
-<mark>**(a)** shall be composed of members of the armed force in which such team is established of a variety of ranks, backgrounds, and occupational specialities.</mark>
-
-<mark>**(d)** Collaboration A women’s initiative team established under subsection</mark>
-
-<mark>**(a)** shall work collaboratively with the leadership of the armed force in which such team is established and other stakeholders to carry out the duties described in subsection (b). .</mark>
+<mark>**(d)** Collaboration A women’s initiative team established under subsection (a) shall work collaboratively with the leadership of the armed force in which such team is established and other stakeholders to carry out the duties described in subsection (b). .</mark>
 
 <mark>**(b)** Reports Not later than one year after the date of the enactment of this Act, and annually thereafter until the date that is five years after such date, the Secretary of Defense shall submit to the congressional defense committees a report on the activities and progress of each women’s initiative team established under section 996 of title 10, United States Code, as added by subsection (a).</mark> Each report shall include the following:
 
@@ -1855,27 +1543,19 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **(a)** Authority Subject to the requirements of section 2853 of this title, the Secretary concerned may enter into transactions (other than contracts, cooperative agreements, or grants) to carry out repair and construction projects for facilities, including the planning, design, engineering, prototyping, piloting, and execution of such repair and construction projects.
 
-**(b)** Use of amounts The Secretary concerned may carry out projects under subsection
-
-**(a)** using amounts available to such Secretary for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding chapters 221 and 223 and section 2851(a) of this title.
+**(b)** Use of amounts The Secretary concerned may carry out projects under subsection (a) using amounts available to such Secretary for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding chapters 221 and 223 and section 2851(a) of this title.
 
 **(c)** Follow-on transactions A transaction entered into under this section for a project may provide for the award of a follow-on production contract or transaction to the participants in the transaction without further competition, if -
 
-> **(1)** competitive procedures were used for the selection of parties for participation in the original transaction; and
+> **(1)** competitive procedures were used for the selection of parties for participation in the original transaction; and (2) the participants in the original transaction successfully completed -
 
-> **(2)** the participants in the original transaction successfully completed -
-
->> (A) a complete and useable facility; or
-
->> (B) a complete and useable improvement to a facility.
+>> (A) a complete and useable facility; or (B) a complete and useable improvement to a facility.
 
 **(d)** Notification requirement
 
 > **(1)** Not later than 14 days before entering into a transaction for a project under this section, the Secretary concerned shall submit to the congressional defense committees a notification of the intent to use this authority in an electronic medium pursuant to section 480 of this title.
 
-> **(2)** Each notification under paragraph
-
-> **(1)** shall include -
+> **(2)** Each notification under paragraph (1) shall include -
 
 >> (A) the project title;
 
@@ -1883,9 +1563,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (C) the estimated project cost and source of funds;
 
->> (D) the recipient or contractor selected to execute the project, if known at the time of notification; and
-
->> (E) the rationale for using the authority under this section instead of the process for military construction projects under subchapter I of chapter 169 of title 10, United States Code. (<mark>e) Report Not later than 180 days after the date of enactment of this section, and biannually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report summarizing the use of the authority under this section during the period covered by the report, including -
+>> (D) the recipient or contractor selected to execute the project, if known at the time of notification; and (E) the rationale for using the authority under this section instead of the process for military construction projects under subchapter I of chapter 169 of title 10, United States Code. (<mark>e) Report Not later than 180 days after the date of enactment of this section, and biannually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report summarizing the use of the authority under this section during the period covered by the report, including -
 
 <mark>> **(1)** the military department or Defense Agency carrying out each project;</mark>
 
@@ -1895,9 +1573,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(4)** any observed differences in project delivery timelines or execution speed as a result of using the authority under this section;</mark>
 
-<mark>> **(5)** an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and</mark>
-
-<mark>> **(6)** lessons learned and recommendations to improve the implementation, oversight, or scope of such authority. .</mark>
+<mark>> **(5)** an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and (6) lessons learned and recommendations to improve the implementation, oversight, or scope of such authority. .</mark>
 
 <mark>**(b)** Applicability The amendments made by this section shall apply with respect to transactions entered into on or after the date of the enactment of this Act.</mark>
 
@@ -1909,27 +1585,19 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **(a)** Authority Subject to the requirements of section 2853 of this title, the Secretary concerned may enter into transactions (other than contracts, cooperative agreements, or grants) to carry out repair and construction projects for facilities, including the planning, design, engineering, prototyping, piloting, and execution of such repair and construction projects.
 
-**(b)** Use of amounts The Secretary concerned may carry out projects under subsection
-
-**(a)** using amounts available to such Secretary for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding chapters 221 and 223 and section 2851(a) of this title.
+**(b)** Use of amounts The Secretary concerned may carry out projects under subsection (a) using amounts available to such Secretary for military construction, operation and maintenance, or research, development, test, and evaluation, notwithstanding chapters 221 and 223 and section 2851(a) of this title.
 
 **(c)** Follow-on transactions A transaction entered into under this section for a project may provide for the award of a follow-on production contract or transaction to the participants in the transaction without further competition, if -
 
-> **(1)** competitive procedures were used for the selection of parties for participation in the original transaction; and
+> **(1)** competitive procedures were used for the selection of parties for participation in the original transaction; and (2) the participants in the original transaction successfully completed -
 
-> **(2)** the participants in the original transaction successfully completed -
-
->> (A) a complete and useable facility; or
-
->> (B) a complete and useable improvement to a facility.
+>> (A) a complete and useable facility; or (B) a complete and useable improvement to a facility.
 
 **(d)** Notification requirement
 
 > **(1)** Not later than 14 days before entering into a transaction for a project under this section, the Secretary concerned shall submit to the congressional defense committees a notification of the intent to use this authority in an electronic medium pursuant to section 480 of this title.
 
-> **(2)** Each notification under paragraph
-
-> **(1)** shall include -
+> **(2)** Each notification under paragraph (1) shall include -
 
 >> (A) the project title;
 
@@ -1937,9 +1605,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (C) the estimated project cost and source of funds;
 
->> (D) the recipient or contractor selected to execute the project, if known at the time of notification; and
-
->> (E) the rationale for using the authority under this section instead of the process for military construction projects under subchapter I of chapter 169 of title 10, United States Code. (<mark>e) Report Not later than 180 days after the date of enactment of this section, and biannually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report summarizing the use of the authority under this section during the period covered by the report, including -
+>> (D) the recipient or contractor selected to execute the project, if known at the time of notification; and (E) the rationale for using the authority under this section instead of the process for military construction projects under subchapter I of chapter 169 of title 10, United States Code. (<mark>e) Report Not later than 180 days after the date of enactment of this section, and biannually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report summarizing the use of the authority under this section during the period covered by the report, including -
 
 <mark>> **(1)** the military department or Defense Agency carrying out each project;</mark>
 
@@ -1949,9 +1615,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 <mark>> **(4)** any observed differences in project delivery timelines or execution speed as a result of using the authority under this section;</mark>
 
-<mark>> **(5)** an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and</mark>
-
-<mark>> **(6)** lessons learned and recommendations to improve the implementation, oversight, or scope of such authority.</mark>
+<mark>> **(5)** an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and (6) lessons learned and recommendations to improve the implementation, oversight, or scope of such authority.</mark>
 
 ### Section 907 — Defense Science Board study on optimal organizational structure for digital solution and software delivery
 
@@ -1961,9 +1625,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 **(a)** Study required The Secretary of Defense shall direct the Defense Science Board to conduct a comprehensive study to evaluate and recommend the most optimal organizational structure within the Office of the Secretary of Defense to align and maximize the output of digital solutions engineering and software delivery activities across the Department of Defense.
 
-**(b)** Elements The study required under subsection
-
-**(a)** shall include the following elements:
+**(b)** Elements The study required under subsection (a) shall include the following elements:
 
 > **(1)** An assessment of existing organizational structures and organizations supporting digital solutions engineering and software delivery across the Department of Defense, including -
 
@@ -1971,9 +1633,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (B) limitations based on current enterprise data management platforms;
 
->> (C) optimization of resource allocation and utilization processes; and
-
->> (D) integration challenges and opportunities with Department-wide digital solution engineering and software delivery initiatives.
+>> (C) optimization of resource allocation and utilization processes; and (D) integration challenges and opportunities with Department-wide digital solution engineering and software delivery initiatives.
 
 > **(2)** An evaluation of potential organizational courses of action for supporting digital solutions engineering within the Office of the Secretary of Defense, including -
 
@@ -1985,9 +1645,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (D) optimization of current organizational structures and authorities;
 
->> (E) hybrid approaches combining elements of the options described in subparagraphs (A), (B), (C), and (D); and
-
->> (F) any other organizational structures deemed appropriate by the Defense Science Board.
+>> (E) hybrid approaches combining elements of the options described in subparagraphs (A), (B), (C), and (D); and (F) any other organizational structures deemed appropriate by the Defense Science Board.
 
 > **(3)** Recommendations on the selection of the optimal organizational structure, including -
 
@@ -1999,17 +1657,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (D) consideration of governance and execution framework requirements;
 
->> (E) assessment of the implementation of and execution of governance structures, including artificial intelligence model management; and
-
->> (F) recommendations for unique acquisition authorities to support rapid digital solutions engineering and deployment.
+>> (E) assessment of the implementation of and execution of governance structures, including artificial intelligence model management; and (F) recommendations for unique acquisition authorities to support rapid digital solutions engineering and deployment.
 
 > **(4)** Transition recommendations for implementing the selected organizational structure, including -
 
 >> (A) detailed implementation timeline and milestones;
 
->> (B) resource requirements and funding mechanisms; and
-
->> (C) legislative or regulatory changes needed. (<mark>c) Report
+>> (B) resource requirements and funding mechanisms; and (C) legislative or regulatory changes needed. (<mark>c) Report
 
 <mark>> **(1)** Transmittal to Secretary Not later than February 1, 2027, the Board shall transmit to the Secretary of Defense a final report on the study conducted pursuant to subsection (a).</mark>
 
@@ -2053,19 +1707,13 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 > **(12)** Such other museums as may be designated by the Secretary of the Navy that meet criteria established under subsection (b).
 
-**(b)** Criteria for designation The Secretary of the Navy shall establish criteria for designating museums other than museums identified in paragraphs
+**(b)** Criteria for designation The Secretary of the Navy shall establish criteria for designating museums other than museums identified in paragraphs (1) through
 
-> **(1)** through
-
-> **(11)** of subsection
-
-**(a)** for inclusion in the United States Navy Museum System. Such criteria shall include -
+> **(11)** of subsection (a) for inclusion in the United States Navy Museum System. Such criteria shall include -
 
 > **(1)** historical significance to naval operations, technology, or personnel;
 
-> **(2)** public accessibility and educational outreach programs; and
-
-> **(3)** alignment with the mission of the Navy to preserve its heritage.
+> **(2)** public accessibility and educational outreach programs; and (3) alignment with the mission of the Navy to preserve its heritage.
 
 **(c)** Criteria for closure The Secretary of the Navy shall establish criteria for the closure of museums within the United States Navy Museum System. No museum within such system may be closed until -
 
@@ -2075,11 +1723,7 @@ Both datasets were trimmed using identical rules (`trim_sections.py`) to ensure 
 
 >> (B) how any issues relating to museum personnel will be resolved;
 
->> (C) an identification of any efforts to maintain museum operations through public-private partnerships; and
-
->> (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and
-
-> **(2)** a period of 90 days has elapsed after the date on which such notice is received by such committees. (<mark>d) Funding and support Consistent with applicable law, the Secretary of the Navy may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the United States Museum System.</mark>
+>> (C) an identification of any efforts to maintain museum operations through public-private partnerships; and (D) an analysis of the cost to transport, consolidate, and preserve the historical collections contained in the museum; and (2) a period of 90 days has elapsed after the date on which such notice is received by such committees. (<mark>d) Funding and support Consistent with applicable law, the Secretary of the Navy may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the United States Museum System.</mark>
 
 ## Methodology
 
