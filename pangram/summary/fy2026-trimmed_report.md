@@ -78,7 +78,7 @@ These sections were classified based on only 1-2 analysis windows. Results shoul
 
 | Sec | Title | Division | Words | Classification | AI % | Segments |
 |---|---|---|---|---|---|---|
-| 145 | Extension of requirements relating to Câ€“130 aircraft | Procurement | 231 | AI | 100.0% | 1 |
+| 145 | Extension of requirements relating to C–130 aircraft | Procurement | 231 | AI | 100.0% | 1 |
 | 5516 | Prohibition on privatized or subscription-based missile | Space Activities, Strateg | 315 | AI | 100.0% | 1 |
 | 1706 | Continual assessment of impact of international state a | Other Defense Matters | 359 | AI | 100.0% | 1 |
 | 214 | Modification to authority for acquisition, construction | Research, Development, Te | 454 | AI | 100.0% | 2 |
@@ -97,7 +97,7 @@ These sections were classified based on only 1-2 analysis windows. Results shoul
 | 346 | Oversight requirements for contracts relating to reloca | Operation and Maintenance | 609 | Mixed | 53.3% | 2 |
 | 113 | Authorization to initiate early production of future lo | Procurement | 330 | AI | 50.0% | 2 |
 | 1703 | Temporary authority for nonimmigrant construction worke | Other Defense Matters | 342 | AI | 50.0% | 2 |
-| 522 | Womenâ€™s initiative teams | Military Personnel Policy | 350 | AI | 50.0% | 2 |
+| 522 | Women’s initiative teams | Military Personnel Policy | 350 | AI | 50.0% | 2 |
 | 2802 | Facility construction or repair: transactions other tha | Military Construction Gen | 512 | Mixed | 31.1% | 2 |
 | 2808a | Facility construction or repair: transactions other tha | Military Construction Gen | 448 | Mixed | 29.8% | 2 |
 | 907 | Defense Science Board study on optimal organizational s | Department of Defense Org | 510 | Mixed | 26.8% | 2 |
@@ -1255,7 +1255,7 @@ In general Notwithstanding paragraph
 
 <mark>(6) The terms military department and service acquisition executive have the meanings given such terms, respectively, in title 10, United States Code.</mark>
 
-### Section 145 — Extension of requirements relating to Câ€“130 aircraft
+### Section 145 — Extension of requirements relating to C–130 aircraft
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Procurement
 
@@ -2285,7 +2285,7 @@ Temporary authority for nonimmigrant construction workers on Wake Island
 
 <mark>(a) during the period beginning on the date of enactment of this section and ending on December 31, 2030.</mark>
 
-### Section 522 — Womenâ€™s initiative teams
+### Section 522 — Women’s initiative teams
 
 **Classification:** AI | **AI Score:** 50.0% | **Segments:** 2 | **Confidence:** low | **Division:** Military Personnel Policy
 

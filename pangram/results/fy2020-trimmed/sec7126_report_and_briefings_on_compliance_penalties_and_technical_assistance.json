@@ -1,0 +1,36 @@
+{
+  "text": "Report and briefings on compliance, penalties, and technical assistance. (a) Report Required . Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit to the committees specified in subsection (d) a report that includes - (1) List. Time period. a list of financial institutions that, during the period beginning on the date that is one year before the date of the enactment of this Act and ending on the date of the report, \nknowingly facilitated a significant transaction or transactions or provided significant financial services for - (A) any North Korean person designated under an applicable Executive order; \n (B) any North Korean person that knowingly facilitates the transfer of bulk cash or covered goods (as defined under section 1027.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling)); \n (C) any person that knowingly invests in, or participates in a joint venture with, an entity in which the Government of North Korea participates or an entity that is created or organized under the laws of North Korea; \n (D) any person that knowingly provides financial services, including through a subsidiary or joint venture, in North Korea; \n (E) any person that knowingly provides specialized teaching, training, or information or provides material or technological support to a North Korean person that - (i) may contribute to North Korea\u2019s development and proliferation of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; or \n (ii) may contribute to significant activities undermining cybersecurity; and \n \n \n (2) a description of efforts by the Department of the Treasury during the period described in paragraph (1), through outreach, consultations, technical assistance, or other appropriate activities, to strengthen the capacity of financial institutions and foreign governments to prevent the provision of financial services benefitting any person subject to sanctions under - (A) this Act or an amendment made by this Act; \n (B) an applicable Executive order; or \n (C) an applicable United Nations Security Council resolution. \n \n \n (b) Time periods. Annual Briefings . Not later than one year after the submission of the report required by subsection (a), and annually thereafter until the date that is 5 years after the date of the enactment of this Act, the Secretary of the Treasury shall brief the committees specified in subsection (d) on the matters covered by the report for the one-year period preceding the briefing. \n (c) Testimony Required . Upon request of either of the committees specified in subsection (d), the Under Secretary of the Treasury for Terrorism and Financial Crimes shall testify to explain the effects of this Act and the amendments made by this Act on North Korea\u2019s access to illicit finance channels. \n (d) Committees Specified . The committees specified in this subsection are - (1) the Committee on Financial Services of the House of Representatives; and \n (2) the Committee on Banking, Housing, and Urban Affairs of the Senate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report and briefings on compliance, penalties, and technical assistance. (a) Report Required . Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit to the committees specified in subsection (d) a report that includes - (1) List. Time period. a list of financial institutions that, during the period beginning on the date that is one year before the date of the enactment of this Act and ending on the date of the report, \nknowingly facilitated a significant transaction or transactions or provided significant financial services for - (A) any North Korean person designated under an applicable Executive order; \n (B) any North Korean person that knowingly facilitates the transfer of bulk cash or covered goods (as defined under section 1027.100 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling)); \n (C) any person that knowingly invests in, or participates in a joint venture with, an entity in which the Government of North Korea participates or an entity that is created or organized under the laws of North Korea; \n (D) any person that knowingly provides financial services, including through a subsidiary or joint venture, in North Korea; \n (E) any person that knowingly provides specialized teaching, training, or information or provides material or technological support to a North Korean person that - (i) may contribute to North Korea\u2019s development and proliferation of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; or \n (ii) may contribute to significant activities undermining cybersecurity; and \n \n \n (2) a description of efforts by the Department of the Treasury during the period described in paragraph (1), through outreach, consultations, technical assistance, or other appropriate activities, to strengthen the capacity of financial institutions and foreign governments to prevent the provision of financial services benefitting any person subject to sanctions under - (A) this Act or an amendment made by this Act; \n (B) an applicable Executive order; or \n (C) an applicable United Nations Security Council resolution. \n \n \n (b) Time periods.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013443081639707088,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2226,
+      "word_count": 341,
+      "token_length": 459
+    },
+    {
+      "text": " Annual Briefings . Not later than one year after the submission of the report required by subsection (a), and annually thereafter until the date that is 5 years after the date of the enactment of this Act, the Secretary of the Treasury shall brief the committees specified in subsection (d) on the matters covered by the report for the one-year period preceding the briefing. \n (c) Testimony Required . Upon request of either of the committees specified in subsection (d), the Under Secretary of the Treasury for Terrorism and Financial Crimes shall testify to explain the effects of this Act and the amendments made by this Act on North Korea\u2019s access to illicit finance channels. \n (d) Committees Specified . The committees specified in this subsection are - (1) the Committee on Financial Services of the House of Representatives; and \n (2) the Committee on Banking, Housing, and Urban Affairs of the Senate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009927603136748075,
+      "confidence": "High",
+      "start_index": 2226,
+      "end_index": 3138,
+      "word_count": 150,
+      "token_length": 189
+    }
+  ],
+  "_submission_type": "solo"
+}

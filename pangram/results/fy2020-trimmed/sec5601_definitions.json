@@ -1,0 +1,36 @@
+{
+  "text": "Definitions. In this title: (1) Appropriate congressional committees . The term \u201c appropriate congressional committees \u201d means - (A) the Permanent Select Committee on Intelligence, the Committee on Homeland Security, and the Committee on the Judiciary of the House of Representatives; and \n (B) the Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, and the Committee on the Judiciary of the Senate. \n \n (2) Domestic terrorism . The term \u201c domestic terrorism \u201d has the meaning given that term in section 2331 of title 18, United States Code . \n (3) Hate crime . The term \u201c hate crime \u201d means a criminal offense under - (A) sections 241, 245, 247, and 249 of title 18, United States Code ; and \n (B) section 3631 of title 42, United States Code . \n \n (4) International terrorism . The term \u201c international terrorism \u201d has the meaning given that term in section 2331 of title 18, United States Code . \n (5) Terms in attorney general\u2019s guidelines for domestic fbi operations . The terms \u201cassessments\u201d, \u201cfull investigations\u201d, \u201centerprise investigations\u201d, \u201cpredicated investigations\u201d, and \u201cpreliminary investigations\u201d have the meanings given those terms in the most recent, approved version of the Attorney General\u2019s Guidelines for Domestic FBI Operations (or successor). \n (6) Terms in fbi budget materials . The terms \u201cConsolidated Strategy Guide\u201d, \u201cField Office Strategic Plan\u201d, \u201cIntegrated Program Management Process\u201d, and \u201cThreat Review and Prioritization\u201d have the meanings given those terms in the materials submitted to Congress by the Attorney General in support of the Federal Bureau of Investigation budget for fiscal year 2020. \n (7) Terrorism . The term \u201c terrorism \u201d includes domestic terrorism and international terrorism. \n (8) Terrorism information . The term \u201c terrorism information \u201d has the meaning given that term in section 1016(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ). \n (9) Time utilization and recordkeeping data . The term \u201c time utilization and recordkeeping data \u201d means data collected on resource utilization and workload activity of personnel of the Federal Bureau of Investigation in accordance with Federal law.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Definitions. In this title: (1) Appropriate congressional committees . The term \u201c appropriate congressional committees \u201d means - (A) the Permanent Select Committee on Intelligence, the Committee on Homeland Security, and the Committee on the Judiciary of the House of Representatives; and \n (B) the Select Committee on Intelligence, the Committee on Homeland Security and Governmental Affairs, and the Committee on the Judiciary of the Senate. \n \n (2) Domestic terrorism . The term \u201c domestic terrorism \u201d has the meaning given that term in section 2331 of title 18, United States Code . \n (3) Hate crime . The term \u201c hate crime \u201d means a criminal offense under - (A) sections 241, 245, 247, and 249 of title 18, United States Code ; and \n (B) section 3631 of title 42, United States Code . \n \n (4) International terrorism . The term \u201c international terrorism \u201d has the meaning given that term in section 2331 of title 18, United States Code . \n (5) Terms in attorney general\u2019s guidelines for domestic fbi operations . The terms \u201cassessments\u201d, \u201cfull investigations\u201d, \u201centerprise investigations\u201d, \u201cpredicated investigations\u201d, and \u201cpreliminary investigations\u201d have the meanings given those terms in the most recent, approved version of the Attorney General\u2019s Guidelines for Domestic FBI Operations (or successor). \n (6) Terms in fbi budget materials . The terms \u201cConsolidated Strategy Guide\u201d, \u201cField Office Strategic Plan\u201d, \u201cIntegrated Program Management Process\u201d, and \u201cThreat Review and Prioritization\u201d have the meanings given those terms in the materials submitted to Congress by the Attorney General in support of the Federal Bureau of Investigation budget for fiscal year 2020. \n (7) Terrorism . The term \u201c terrorism \u201d includes domestic terrorism and international terrorism. \n (8) Terrorism information . The term \u201c terrorism information \u201d has the meaning given that term in section 1016(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 6 U.S.C. 485 ). \n (9) Time utilization and recordkeeping data .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006173921748995781,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2022,
+      "word_count": 313,
+      "token_length": 482
+    },
+    {
+      "text": " The term \u201c time utilization and recordkeeping data \u201d means data collected on resource utilization and workload activity of personnel of the Federal Bureau of Investigation in accordance with Federal law.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006173921748995781,
+      "confidence": "High",
+      "start_index": 2022,
+      "end_index": 2226,
+      "word_count": 31,
+      "token_length": 33
+    }
+  ],
+  "_submission_type": "solo"
+}

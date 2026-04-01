@@ -1,0 +1,26 @@
+{
+  "text": "Review and assessment of mitigation of military helicopter noise. (a) Coordination. In General . The Secretary of Defense, in coordination with the Chairman of the Joint Chiefs of Staff, shall conduct a review and assessment of military helicopter noise in the National Capital Region. Such review and assessment shall include - (1) a study on the causes and effects of military helicopter noise on communities and individuals in the National Capital Region; \n (2) Recommenda- tions. recommendations to mitigate the effects of military helicopter noise on individuals, structures, and property values in the National Capital Region; and \n (3) the extent to which the Department has processes in place for collecting, analyzing, and managing military helicopter noise complaints from the general public across the National Capital Region. \n \n (b) Focus . In conducting the review under subsection (a), the Secretary and the Chairman of the Joint Chiefs of Staff shall \nfocus on all military helicopter flights in the National Capital Region, including helicopters from the Army, Air Force, and Marine Corps. \n (c) Report . Not later than six months after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the results of the review conducted under subsection (a). Such report shall include a description of the policies and procedures currently being used by the Army, Air Force, and Marine Corps in the National Capital Region to mitigate the impact of helicopter noise as well as the means to track compliance with these internal practices to ensure compliance. \n (d) Definition of National Capital Region . In this section, the term \u201c National Capital Region \u201d has the meaning given the term in section 2574 of title 10, United States Code .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Review and assessment of mitigation of military helicopter noise. (a) Coordination. In General . The Secretary of Defense, in coordination with the Chairman of the Joint Chiefs of Staff, shall conduct a review and assessment of military helicopter noise in the National Capital Region. Such review and assessment shall include - (1) a study on the causes and effects of military helicopter noise on communities and individuals in the National Capital Region; \n (2) Recommenda- tions. recommendations to mitigate the effects of military helicopter noise on individuals, structures, and property values in the National Capital Region; and \n (3) the extent to which the Department has processes in place for collecting, analyzing, and managing military helicopter noise complaints from the general public across the National Capital Region. \n \n (b) Focus . In conducting the review under subsection (a), the Secretary and the Chairman of the Joint Chiefs of Staff shall \nfocus on all military helicopter flights in the National Capital Region, including helicopters from the Army, Air Force, and Marine Corps. \n (c) Report . Not later than six months after the date of the enactment of this Act, the Secretary shall submit to Congress a report on the results of the review conducted under subsection (a). Such report shall include a description of the policies and procedures currently being used by the Army, Air Force, and Marine Corps in the National Capital Region to mitigate the impact of helicopter noise as well as the means to track compliance with these internal practices to ensure compliance. \n (d) Definition of National Capital Region . In this section, the term \u201c National Capital Region \u201d has the meaning given the term in section 2574 of title 10, United States Code .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005065398756414652,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1782,
+      "word_count": 285,
+      "token_length": 352
+    }
+  ],
+  "_submission_type": "solo"
+}

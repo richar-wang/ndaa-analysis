@@ -1,0 +1,36 @@
+{
+  "text": "Improved energy security for main operating bases in europe. (a) 10 USC 2911 note . Prohibition on Use of Certain Energy Source . The Secretary of Defense shall ensure that each contract for the acquisition of furnished energy for a covered military installation in Europe does not use any energy sourced from inside the Russian Federation as a means of generating the furnished energy for the covered military installation. \n (b) 10 USC 2911 note . Waiver for National Security Interests . (1) Certification. Waiver authority; certification . The Secretary of Defense may waive application of subsection (a) to a specific contract for the acquisition of furnished energy for a covered military installation if the Secretary certifies to the congressional defense committees that - (A) the waiver of such subsection is necessary to ensure an adequate supply of furnished energy for the covered military installation; and \n (B) the Secretary has balanced these national security requirements against the potential risk associated with reliance upon the Russian Federation for furnished energy. \n \n (2) Deadline. Submission of waiver notice . Not later than 14 days before the execution of any energy contract for which a waiver is granted under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees notice of the waiver. The waiver notice shall include the following: (A) The rationale for the waiver, including the basis for the certifications required by subparagraphs (A) and (B) of paragraph (1). \n (B) Assessment. An assessment of how the waiver may impact the European energy resiliency strategy. \n (C) An explanation of the measures the Department of Defense is taking to mitigate the risk of using Russian Federation furnished energy. \n \n \n (c) 10 USC 2911 note . Definitions . In this section: (1) The term \u201c covered military installation \u201d means a military installation in Europe identified by the Department of Defense as a main operating base. \n (2) The term \u201c furnished energy \u201d means energy furnished to a covered military installation in any form and for any purpose, including heating, cooling, and electricity. \n \n (d) Conforming Repeal . Section 2811 of the Military Construction Authorization Act for Fiscal Year 2019 ( division B of Public Law 115\u2013232 ; 132 Stat. 2266 ) is repealed .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Improved energy security for main operating bases in europe. (a) 10 USC 2911 note . Prohibition on Use of Certain Energy Source . The Secretary of Defense shall ensure that each contract for the acquisition of furnished energy for a covered military installation in Europe does not use any energy sourced from inside the Russian Federation as a means of generating the furnished energy for the covered military installation. \n (b) 10 USC 2911 note . Waiver for National Security Interests . (1) Certification. Waiver authority; certification . The Secretary of Defense may waive application of subsection (a) to a specific contract for the acquisition of furnished energy for a covered military installation if the Secretary certifies to the congressional defense committees that - (A) the waiver of such subsection is necessary to ensure an adequate supply of furnished energy for the covered military installation; and \n (B) the Secretary has balanced these national security requirements against the potential risk associated with reliance upon the Russian Federation for furnished energy. \n \n (2) Deadline. Submission of waiver notice . Not later than 14 days before the execution of any energy contract for which a waiver is granted under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees notice of the waiver. The waiver notice shall include the following: (A) The rationale for the waiver, including the basis for the certifications required by subparagraphs (A) and (B) of paragraph (1). \n (B) Assessment. An assessment of how the waiver may impact the European energy resiliency strategy. \n (C) An explanation of the measures the Department of Defense is taking to mitigate the risk of using Russian Federation furnished energy. \n \n \n (c) 10 USC 2911 note . Definitions . In this section: (1) The term \u201c covered military installation \u201d means a military installation in Europe identified by the Department of Defense as a main operating base. \n (2) The term \u201c furnished energy \u201d means energy furnished to a covered military installation in any form and for any purpose, including heating, cooling, and electricity. \n \n (d) Conforming Repeal .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00649734734906815,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2193,
+      "word_count": 343,
+      "token_length": 466
+    },
+    {
+      "text": " Section 2811 of the Military Construction Authorization Act for Fiscal Year 2019 ( division B of Public Law 115\u2013232 ; 132 Stat. 2266 ) is repealed .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006194356479682028,
+      "confidence": "High",
+      "start_index": 2193,
+      "end_index": 2342,
+      "word_count": 27,
+      "token_length": 51
+    }
+  ],
+  "_submission_type": "solo"
+}

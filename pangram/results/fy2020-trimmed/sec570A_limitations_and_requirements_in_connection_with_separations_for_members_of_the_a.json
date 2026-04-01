@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 1161 note prec. Limitations and requirements in connection with separations for members of the armed forces who suffer from mental health conditions in connection with a sex-related, intimate partner violence-related, or spousal-abuse offense. (a) Confirmation of Diagnosis of Condition Required Before Separation . Before a member of the Armed Forces who was the victim of a sex-related offense, an intimate partner violence-related offense, or a spousal-abuse offense during service in the Armed Forces (whether or not such offense was committed by another member of the Armed Forces), and who has a mental health condition not amounting to a physical disability, is separated, discharged, or released from the Armed Forces based solely on such condition, the diagnosis of such condition must be - (1) corroborated by a competent mental health care professional at the peer level or a higher level of the health care professional making the diagnosis; and \n (2) endorsed by the Surgeon General of the military department concerned. \n \n (b) Narrative Reason for Separation if Mental Health Condition Present . If the narrative reason for separation, discharge, or release from the Armed Forces of a member of the Armed Forces is a mental health condition that is not a disability, the appropriate narrative reason for the separation, discharge, or release shall be a condition, not a disability, or Secretarial authority. \n (c) Definitions . In this section: (1) The term \u201c intimate partner violence-related offense \u201d means the following: (A) An offense under section 928 or 930 of title 10, United States Code (article 128 or 130 of the Uniform Code of Military Justice). \n (B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A). \n \n (2) The term \u201c sex-related offense \u201d means the following: (A) An offense under section 920 or 920b of title 10, United States Code (article 120 or 120b of the Uniform Code of Military Justice). \n (B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A). \n \n (3) The term \u201c spousal-abuse offense \u201d means the following: (A) An offense under section 928 of title 10, United States Code (article 128 of the Uniform Code of Military Justice). \n (B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A). \n \n \n (d) Effective Date . This section shall take effect 180 days after the date of the enactment of this Act, and shall apply with respect to separations, discharges, and releases from the Armed Forces that occur on or after that effective date.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 1161 note prec. Limitations and requirements in connection with separations for members of the armed forces who suffer from mental health conditions in connection with a sex-related, intimate partner violence-related, or spousal-abuse offense. (a) Confirmation of Diagnosis of Condition Required Before Separation . Before a member of the Armed Forces who was the victim of a sex-related offense, an intimate partner violence-related offense, or a spousal-abuse offense during service in the Armed Forces (whether or not such offense was committed by another member of the Armed Forces), and who has a mental health condition not amounting to a physical disability, is separated, discharged, or released from the Armed Forces based solely on such condition, the diagnosis of such condition must be - (1) corroborated by a competent mental health care professional at the peer level or a higher level of the health care professional making the diagnosis; and \n (2) endorsed by the Surgeon General of the military department concerned. \n \n (b) Narrative Reason for Separation if Mental Health Condition Present . If the narrative reason for separation, discharge, or release from the Armed Forces of a member of the Armed Forces is a mental health condition that is not a disability, the appropriate narrative reason for the separation, discharge, or release shall be a condition, not a disability, or Secretarial authority. \n (c) Definitions . In this section: (1) The term \u201c intimate partner violence-related offense \u201d means the following: (A) An offense under section 928 or 930 of title 10, United States Code (article 128 or 130 of the Uniform Code of Military Justice). \n (B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A). \n \n (2) The term \u201c sex-related offense \u201d means the following: (A) An offense under section 920 or 920b of title 10, United States Code (article 120 or 120b of the Uniform Code of Military Justice). \n (B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009602553257718683,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2128,
+      "word_count": 338,
+      "token_length": 472
+    },
+    {
+      "text": " \n \n (3) The term \u201c spousal-abuse offense \u201d means the following: (A) An offense under section 928 of title 10, United States Code (article 128 of the Uniform Code of Military Justice). \n (B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A). \n \n \n (d) Effective Date . This section shall take effect 180 days after the date of the enactment of this Act, and shall apply with respect to separations, discharges, and releases from the Armed Forces that occur on or after that effective date.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0164323739008978,
+      "confidence": "High",
+      "start_index": 2128,
+      "end_index": 2685,
+      "word_count": 92,
+      "token_length": 140
+    }
+  ],
+  "_submission_type": "solo"
+}

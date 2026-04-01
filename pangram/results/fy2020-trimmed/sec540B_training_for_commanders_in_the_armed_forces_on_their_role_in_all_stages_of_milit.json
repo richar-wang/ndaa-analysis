@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 1561 note . Training for commanders in the armed forces on their role in all stages of military justice in connection with sexual assault. (a) In General . The training provided commanders in the Armed Forces shall include comprehensive training on the role of commanders in all stages of military justice in connection with sexual assaults by members of the Armed Forces. \n (b) Elements To Be Covered . The training provided pursuant to subsection (a) shall include training on the following: (1) The role of commanders in each stage of the military justice process in connection with sexual assault committed by a member of the Armed Forces, including investigation and prosecution. \n (2) The role of commanders in assuring that victims of sexual assault described in paragraph (1) are informed of, and have the opportunity to obtain, assistance available for victims of sexual assault by law. \n (3) The role of commanders in assuring that victims of sexual assault described in paragraph (1) are afforded the rights and protections available to victims by law. \n (4) The role of commanders in preventing retaliation against victims, their family members, witnesses, first responders, and bystanders for their their complaints, statements, testimony, and status in connection with sexual assault described in paragraph (1), including the role of commanders in ensuring that subordinates in the command are aware of their responsibilities in preventing such retaliation. \n (5) The role of commanders in establishing and maintaining a healthy command climate in connection with reporting on sexual assault described in paragraph (1), and in the response of the commander, subordinates in the command, and other personnel in the command to such sexual assault, such reporting, and the military justice process in connection with such sexual assault. \n (6) Any other matters on the role of commanders in connection with sexual assault described in paragraph (1) that the Secretary of Defense considers appropriate for purposes of this section. \n \n (c) Incorporation of Best Practices . (1) In general . The training provided pursuant to subsection (a) shall incorporate best practices on all matters covered by the training. \n (2) Identification of best practices . The Secretaries of the military departments shall, acting through the training and doctrine commands of the Armed Forces, undertake from time to time surveys and other reviews of the matters covered by the training provided pursuant to subsection (a) in order to identify and incorporate into such training the most current practicable best practices on such matters. \n \n (d) Uniformity . The Secretary of Defense shall ensure that the training provided pursuant to subsection (a) is, to the extent practicable, uniform across the Armed Forces.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 1561 note . Training for commanders in the armed forces on their role in all stages of military justice in connection with sexual assault. (a) In General . The training provided commanders in the Armed Forces shall include comprehensive training on the role of commanders in all stages of military justice in connection with sexual assaults by members of the Armed Forces. \n (b) Elements To Be Covered . The training provided pursuant to subsection (a) shall include training on the following: (1) The role of commanders in each stage of the military justice process in connection with sexual assault committed by a member of the Armed Forces, including investigation and prosecution. \n (2) The role of commanders in assuring that victims of sexual assault described in paragraph (1) are informed of, and have the opportunity to obtain, assistance available for victims of sexual assault by law. \n (3) The role of commanders in assuring that victims of sexual assault described in paragraph (1) are afforded the rights and protections available to victims by law. \n (4) The role of commanders in preventing retaliation against victims, their family members, witnesses, first responders, and bystanders for their their complaints, statements, testimony, and status in connection with sexual assault described in paragraph (1), including the role of commanders in ensuring that subordinates in the command are aware of their responsibilities in preventing such retaliation. \n (5) The role of commanders in establishing and maintaining a healthy command climate in connection with reporting on sexual assault described in paragraph (1), and in the response of the commander, subordinates in the command, and other personnel in the command to such sexual assault, such reporting, and the military justice process in connection with such sexual assault. \n (6) Any other matters on the role of commanders in connection with sexual assault described in paragraph (1) that the Secretary of Defense considers appropriate for purposes of this section. \n \n (c) Incorporation of Best Practices . (1) In general . The training provided pursuant to subsection (a) shall incorporate best practices on all matters covered by the training. \n (2) Identification of best practices .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.003951807076541277,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2270,
+      "word_count": 352,
+      "token_length": 446
+    },
+    {
+      "text": " The Secretaries of the military departments shall, acting through the training and doctrine commands of the Armed Forces, undertake from time to time surveys and other reviews of the matters covered by the training provided pursuant to subsection (a) in order to identify and incorporate into such training the most current practicable best practices on such matters. \n \n (d) Uniformity . The Secretary of Defense shall ensure that the training provided pursuant to subsection (a) is, to the extent practicable, uniform across the Armed Forces.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004353653949995835,
+      "confidence": "High",
+      "start_index": 2270,
+      "end_index": 2815,
+      "word_count": 84,
+      "token_length": 106
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Use of qualified apprentices by military construction contractors. (a) Use of Qualified Apprentices by Military Construction Contractors . (1) In general . Subchapter III of chapter 169 of title 10, United States Code , is amended by adding at the end the following new section: \u201c\u00a7\u202f2870. 10 USC 2870 . Use of qualified apprentices by military construction contractors \u201c(a) Certification Required . The Secretary of Defense shall require each offeror for a contract for a military construction project to certify to the Secretary that, if awarded such a contract, the offeror will - \u201c(1) establish a goal that not less than 20 percent of the total workforce employed in the performance of such a contract are qualified apprentices; and \n \u201c(2) make a good faith effort to meet or exceed such goal. \n \n \u201c(b) Incentives . The Secretary of Defense shall develop incentives for offerors for a contract for military construction projects to meet or exceed the goal described in subsection (a). \n \u201c(c) Revision. Requirement. Analysis. Consideration of Use of Qualified Apprentices . The Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that the system used by the Federal Government to monitor or record contractor past performance includes an analysis of whether the contractor has made a good faith effort to meet or exceed the goal described in subsection (a), including consideration of the actual \nnumber of qualified apprentices used by the contractor on the contract, as part of the past performance rating of such contractor. \n \u201c(d) Qualified Apprentice Defined . In this section, the term \u2018 qualified apprentice \u2019 means an employee participating in an apprenticeship program that is - \u201c(1) registered with the Office of Apprenticeship of the Employment Training Administration of the Department of Labor pursuant to the Act of August 16, 1937 (popularly known as the \u2018National Apprenticeship Act\u2019; 29 U.S.C. 50 et seq. ); \n \u201c(2) registered with a State apprenticeship agency recognized by such Office of Apprenticeship pursuant to such Act; or \n \u201c(3) determined to be a high-quality apprenticeship program by industry and the Secretary of Labor.\u201d \n \n \n . \n (2) Clerical amendment . The table of sections at the beginning of subchapter III of chapter 169 of title 10, United States Code , 10 USC 2851 prec. is amended by adding at the end the following new item: \n \n \u201c2870. \n Use of qualified apprentices by military construction contractors.\u201d. \n \n \n \n (b) 10 USC 2870 note . Applicability . The amendments made by this section shall apply with respect to contracts awarded on or after the date that is 180 days after the date of the enactment of this Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Use of qualified apprentices by military construction contractors. (a) Use of Qualified Apprentices by Military Construction Contractors . (1) In general . Subchapter III of chapter 169 of title 10, United States Code , is amended by adding at the end the following new section: \u201c\u00a7\u202f2870. 10 USC 2870 . Use of qualified apprentices by military construction contractors \u201c(a) Certification Required . The Secretary of Defense shall require each offeror for a contract for a military construction project to certify to the Secretary that, if awarded such a contract, the offeror will - \u201c(1) establish a goal that not less than 20 percent of the total workforce employed in the performance of such a contract are qualified apprentices; and \n \u201c(2) make a good faith effort to meet or exceed such goal. \n \n \u201c(b) Incentives . The Secretary of Defense shall develop incentives for offerors for a contract for military construction projects to meet or exceed the goal described in subsection (a). \n \u201c(c) Revision. Requirement. Analysis. Consideration of Use of Qualified Apprentices . The Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that the system used by the Federal Government to monitor or record contractor past performance includes an analysis of whether the contractor has made a good faith effort to meet or exceed the goal described in subsection (a), including consideration of the actual \nnumber of qualified apprentices used by the contractor on the contract, as part of the past performance rating of such contractor. \n \u201c(d) Qualified Apprentice Defined . In this section, the term \u2018 qualified apprentice \u2019 means an employee participating in an apprenticeship program that is - \u201c(1) registered with the Office of Apprenticeship of the Employment Training Administration of the Department of Labor pursuant to the Act of August 16, 1937 (popularly known as the \u2018National Apprenticeship Act\u2019; 29 U.S.C. 50 et seq. ); \n \u201c(2) registered with a State apprenticeship agency recognized by such Office of Apprenticeship pursuant to such Act; or \n \u201c(3) determined to be a high-quality apprenticeship program by industry and the Secretary of Labor.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004731419529499752,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2218,
+      "word_count": 350,
+      "token_length": 494
+    },
+    {
+      "text": " \n \n \n . \n (2) Clerical amendment . The table of sections at the beginning of subchapter III of chapter 169 of title 10, United States Code , 10 USC 2851 prec. is amended by adding at the end the following new item: \n \n \u201c2870. \n Use of qualified apprentices by military construction contractors.\u201d. \n \n \n \n (b) 10 USC 2870 note . Applicability . The amendments made by this section shall apply with respect to contracts awarded on or after the date that is 180 days after the date of the enactment of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005433347929889957,
+      "confidence": "High",
+      "start_index": 2218,
+      "end_index": 2727,
+      "word_count": 88,
+      "token_length": 150
+    }
+  ],
+  "_submission_type": "solo"
+}

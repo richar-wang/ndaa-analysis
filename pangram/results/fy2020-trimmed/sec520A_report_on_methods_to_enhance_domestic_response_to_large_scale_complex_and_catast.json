@@ -1,0 +1,36 @@
+{
+  "text": "Report on methods to enhance domestic response to large scale, complex and catastrophic disasters. (a) In General . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation and coordination with the Federal Emergency Management Agency, the National Security Council, the Council of Governors, and the National Governors Association, shall submit to the congressional defense committees, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the plan of the Department to establish policy and processes to implement the authority under section 502 of title 32, United States Code . The report shall include a detailed examination of the policy framework consistent with existing authorities, identify major statutory or policy impediments to implementation, and make recommendations for legislation as appropriate. \n (b) Contents . The report submitted under subsection (a) shall include a description of - (1) Timeline. Plan. Consultation. the current policy and processes whereby governors can request activation of the National Guard under title 32, United States Code , as part of the response to large scale, complex, catastrophic disasters that are supported by the Federal Government and, if no formal process exists in policy, the Secretary of Defense shall provide a timeline and plan to establish such a policy, including consultation with the Council of Governors and the National Governors Association; \n (2) the Secretary of Defense\u2019s assessment, informed by consultation with the Federal Emergency Management Agency, the National Security Council, the Council of Governors, and the National Governors Association, regarding the sufficiency of current authorities for the reimbursement of National Guard and Reserve manpower during large scale, complex, catastrophic disasters under title 10 and title 32, United States Code , and specifically whether reimbursement authorities are sufficient to ensure that military training and readiness are not degraded to fund disaster response, or whether invoking such reimbursement authorities degrades the effectiveness of the Disaster Relief Fund; \n (3) Recommenda- tions. the Department of Defense\u2019s plan to ensure there is parallel and consistent policy in the application of the authorities granted under section 12304a of title 10, United States \nCode, and section 502(f) of title 32, United States Code , including - (A) a description of the disparities between benefits and protections under Federal law versus State active duty; \n (B) recommended solutions to achieve parity at the Federal level; and \n (C) recommended changes at the State level, if appropriate; and \n \n (4) Recommenda- tions. the Department of Defense\u2019s plan to ensure there is parity of benefits and protections for military members employed as part of the response to large scale, complex, catastrophic disasters under title 32 or title 10, United States Code , and recommendations for addressing any shortfalls.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on methods to enhance domestic response to large scale, complex and catastrophic disasters. (a) In General . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation and coordination with the Federal Emergency Management Agency, the National Security Council, the Council of Governors, and the National Governors Association, shall submit to the congressional defense committees, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the plan of the Department to establish policy and processes to implement the authority under section 502 of title 32, United States Code . The report shall include a detailed examination of the policy framework consistent with existing authorities, identify major statutory or policy impediments to implementation, and make recommendations for legislation as appropriate. \n (b) Contents . The report submitted under subsection (a) shall include a description of - (1) Timeline. Plan. Consultation. the current policy and processes whereby governors can request activation of the National Guard under title 32, United States Code , as part of the response to large scale, complex, catastrophic disasters that are supported by the Federal Government and, if no formal process exists in policy, the Secretary of Defense shall provide a timeline and plan to establish such a policy, including consultation with the Council of Governors and the National Governors Association; \n (2) the Secretary of Defense\u2019s assessment, informed by consultation with the Federal Emergency Management Agency, the National Security Council, the Council of Governors, and the National Governors Association, regarding the sufficiency of current authorities for the reimbursement of National Guard and Reserve manpower during large scale, complex, catastrophic disasters under title 10 and title 32, United States Code , and specifically whether reimbursement authorities are sufficient to ensure that military training and readiness are not degraded to fund disaster response, or whether invoking such reimbursement authorities degrades the effectiveness of the Disaster Relief Fund; \n (3) Recommenda- tions.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0057584666647017,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2285,
+      "word_count": 335,
+      "token_length": 426
+    },
+    {
+      "text": " the Department of Defense\u2019s plan to ensure there is parallel and consistent policy in the application of the authorities granted under section 12304a of title 10, United States \nCode, and section 502(f) of title 32, United States Code , including - (A) a description of the disparities between benefits and protections under Federal law versus State active duty; \n (B) recommended solutions to achieve parity at the Federal level; and \n (C) recommended changes at the State level, if appropriate; and \n \n (4) Recommenda- tions. the Department of Defense\u2019s plan to ensure there is parity of benefits and protections for military members employed as part of the response to large scale, complex, catastrophic disasters under title 32 or title 10, United States Code , and recommendations for addressing any shortfalls.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006019377615302801,
+      "confidence": "High",
+      "start_index": 2285,
+      "end_index": 3102,
+      "word_count": 127,
+      "token_length": 183
+    }
+  ],
+  "_submission_type": "solo"
+}

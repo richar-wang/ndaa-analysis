@@ -1,0 +1,26 @@
+{
+  "text": "Designation of chief housing officer for privatized military housing. (a) Designation Required . Subchapter V of chapter 169 of title 10, United States Code , as added by section 3011, is amended by inserting after section 2890 of such title, as added by section 3011 and amended by sections 3023 and 3024, the following new section: \u201c\u00a7\u202f2890a. 10 USC 2890a . Chief Housing Officer \u201c(a) Designation . (1) The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consent of the Senate, a Chief Housing Officer who shall oversee housing units. \n \u201c(2) The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b). \n \n \u201c(b) Principal Duties . (1) The Chief Housing Officer shall oversee all aspects of the provision of housing under subchapter IV and this subchapter, including the following: \u201c(A) Creation and standardization of policies and processes regarding housing units. \n \u201c(B) Oversight of the administration of any Department of Defense-wide policies regarding housing units, to include, in coordination with the Secretaries of the military departments, the housing documents developed pursuant to section 2890 of this title entitled Military Housing Privatization Initiative Tenant Bill of Rights and Military Housing Privatization Initiative Tenant Responsibilities. \n \n \u201c(2) The duties specified in paragraph (1) may not be further delegated.\u201d \n \n \n . \n (b) Deadlines. 10 USC 2890a note . Notification of Designation . Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall notify the congressional defense committees of the official of the Department of Defense designated as Chief Housing Officer under section 2890a of title 10, United States Code , as added by subsection (a). Update. Any time the designation of Chief Housing Officer changes, the Secretary of Defense shall update the notification of the congressional defense committees within 30 days after the new designation.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Designation of chief housing officer for privatized military housing. (a) Designation Required . Subchapter V of chapter 169 of title 10, United States Code , as added by section 3011, is amended by inserting after section 2890 of such title, as added by section 3011 and amended by sections 3023 and 3024, the following new section: \u201c\u00a7\u202f2890a. 10 USC 2890a . Chief Housing Officer \u201c(a) Designation . (1) The Secretary of Defense shall designate, from among officials of the Department of Defense who are appointed by the President with the advice and consent of the Senate, a Chief Housing Officer who shall oversee housing units. \n \u201c(2) The official of the Department of Defense designated as Chief Housing Officer may be assigned duties in addition to the duties as Chief Housing Officer under subsection (b). \n \n \u201c(b) Principal Duties . (1) The Chief Housing Officer shall oversee all aspects of the provision of housing under subchapter IV and this subchapter, including the following: \u201c(A) Creation and standardization of policies and processes regarding housing units. \n \u201c(B) Oversight of the administration of any Department of Defense-wide policies regarding housing units, to include, in coordination with the Secretaries of the military departments, the housing documents developed pursuant to section 2890 of this title entitled Military Housing Privatization Initiative Tenant Bill of Rights and Military Housing Privatization Initiative Tenant Responsibilities. \n \n \u201c(2) The duties specified in paragraph (1) may not be further delegated.\u201d \n \n \n . \n (b) Deadlines. 10 USC 2890a note . Notification of Designation . Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall notify the congressional defense committees of the official of the Department of Defense designated as Chief Housing Officer under section 2890a of title 10, United States Code , as added by subsection (a). Update. Any time the designation of Chief Housing Officer changes, the Secretary of Defense shall update the notification of the congressional defense committees within 30 days after the new designation.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006312400568276644,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2137,
+      "word_count": 331,
+      "token_length": 490
+    }
+  ],
+  "_submission_type": "solo"
+}

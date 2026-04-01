@@ -1,0 +1,36 @@
+{
+  "text": "Comptroller general of the united states report on implementation by the armed forces of recent statutory requirements on sexual assault prevention and response in the military. (a) Study. Report Required . The Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report, in writing, on a study, conducted by the Comptroller General for purposes of the report, on the implementation by the Armed Forces of statutory requirements on sexual assault prevention and response in the military in the National Defense Authorization Act for Fiscal Year 2004 ( Public Law 108\u2013136 ) and each succeeding national \ndefense authorization Act through the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ). \n (b) Elements . The report required by subsection (a) shall include the following: (1) List. A list and citation of each statutory requirement (whether codified or uncodified) on sexual assault prevention and response in the military in each national defense authorization Act specified in paragraph (1), including - (A) whether such statutory requirement is still in force; and \n (B) if such statutory requirement is no longer in force, the date of the repeal or expiration of such requirement. \n \n (2) Assessments. For each statutory requirement listed pursuant to paragraph (1), the following: (A) An assessment of the extent to which such requirement was implemented, or is currently being implemented, as applicable, by each Armed Force to which such requirement applied or applies. \n (B) A description and assessment of the actions taken by each of the Department of Defense, the military department concerned, and the Armed Force concerned to assess and determine the effectiveness of actions taken pursuant to such requirement in meeting its intended objective. \n \n (3) Any other matters in connection with the statutory requirements specified in subsection (a), and the implementation of such requirements by the Armed Forces, that the Comptroller General considers appropriate. \n \n (c) Deadline. Recommenda- tions. Briefings . Not later than May 1, 2020, the Comptroller General shall provide to the committees referred to in subsection (a) one or more briefings on the status of the study required by subsection (a), including any preliminary findings and recommendations of the Comptroller General as a result of the study as of the date of such briefing.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Comptroller general of the united states report on implementation by the armed forces of recent statutory requirements on sexual assault prevention and response in the military. (a) Study. Report Required . The Comptroller General of the United States shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report, in writing, on a study, conducted by the Comptroller General for purposes of the report, on the implementation by the Armed Forces of statutory requirements on sexual assault prevention and response in the military in the National Defense Authorization Act for Fiscal Year 2004 ( Public Law 108\u2013136 ) and each succeeding national \ndefense authorization Act through the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ). \n (b) Elements . The report required by subsection (a) shall include the following: (1) List. A list and citation of each statutory requirement (whether codified or uncodified) on sexual assault prevention and response in the military in each national defense authorization Act specified in paragraph (1), including - (A) whether such statutory requirement is still in force; and \n (B) if such statutory requirement is no longer in force, the date of the repeal or expiration of such requirement. \n \n (2) Assessments. For each statutory requirement listed pursuant to paragraph (1), the following: (A) An assessment of the extent to which such requirement was implemented, or is currently being implemented, as applicable, by each Armed Force to which such requirement applied or applies. \n (B) A description and assessment of the actions taken by each of the Department of Defense, the military department concerned, and the Armed Force concerned to assess and determine the effectiveness of actions taken pursuant to such requirement in meeting its intended objective. \n \n (3) Any other matters in connection with the statutory requirements specified in subsection (a), and the implementation of such requirements by the Armed Forces, that the Comptroller General considers appropriate. \n \n (c) Deadline. Recommenda- tions. Briefings .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00471107978373766,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2159,
+      "word_count": 330,
+      "token_length": 452
+    },
+    {
+      "text": " Not later than May 1, 2020, the Comptroller General shall provide to the committees referred to in subsection (a) one or more briefings on the status of the study required by subsection (a), including any preliminary findings and recommendations of the Comptroller General as a result of the study as of the date of such briefing.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004709544125944376,
+      "confidence": "High",
+      "start_index": 2159,
+      "end_index": 2490,
+      "word_count": 56,
+      "token_length": 74
+    }
+  ],
+  "_submission_type": "solo"
+}

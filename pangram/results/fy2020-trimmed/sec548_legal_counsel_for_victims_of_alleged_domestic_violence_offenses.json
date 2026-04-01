@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 1044 note . Legal counsel for victims of alleged domestic violence offenses. (a) Deadline. In General . Not later than December 1, 2020, the Secretary of Defense shall carry out a program to provide legal counsel (referred to in this section as \u201cCounsel\u201d) to victims of alleged domestic violence offenses who are otherwise eligible for military legal assistance under section 1044 of title 10, United States Code . \n (b) Form of Implementation . The program required under subsection (a) may be carried out as part of another program of the Department of Defense or through the establishment of a separate program. \n (c) Training and Terms . The Secretary of Defense shall ensure that Counsel - (1) receive specialized training in legal issues commonly associated with alleged domestic violence offenses; and \n (2) to the extent practicable, serve as Counsel for a period of not less than 2 years. \n \n (d) Attorney-client Relationship . The relationship between a Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client. \n (e) Paralegal Support . The Secretary of Defense shall ensure that sufficient trained paralegal support is provided to Counsel under the program. \n (f) Report Required . (1) In general . Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the program under subsection (a). \n (2) Elements . The report required under paragraph (1) shall include the following: (A) Assessment. A description and assessment of the manner in which the Department of Defense will implement the program required under subsection (a). \n (B) An explanation of whether the program will be carried out as part of another program of the Department or through the establishment of a separate program. \n (C) A comprehensive description of the additional personnel, resources, and training that will be required to implement the program, including identification of the specific number of additional billets that will be needed to staff the program. \n (D) Recommenda- tions. Recommendations for any modifications to law that may be necessary to effectively and efficiently implement the program. \n \n \n (g) 10 USC 1044 note . Alleged Domestic Violence Offense Defined . In this section, the term \u201c alleged domestic violence offense \u201d means any allegation of - (1) a violation of section 928(b), 928b(1), 928b(5), or 930 of title 10, United States Code (article 128(b), 128b(1), 128b(5), or 130 of the Uniform Code of Military Justice), when committed against a spouse, intimate partner, or immediate family member; \n (2) a violation of any other provision of subchapter X of chapter 47 of such title (the Uniform Code of Military Justice), when committed against a spouse, intimate partner, or immediate family member; or \n (3) an attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 1044 note . Legal counsel for victims of alleged domestic violence offenses. (a) Deadline. In General . Not later than December 1, 2020, the Secretary of Defense shall carry out a program to provide legal counsel (referred to in this section as \u201cCounsel\u201d) to victims of alleged domestic violence offenses who are otherwise eligible for military legal assistance under section 1044 of title 10, United States Code . \n (b) Form of Implementation . The program required under subsection (a) may be carried out as part of another program of the Department of Defense or through the establishment of a separate program. \n (c) Training and Terms . The Secretary of Defense shall ensure that Counsel - (1) receive specialized training in legal issues commonly associated with alleged domestic violence offenses; and \n (2) to the extent practicable, serve as Counsel for a period of not less than 2 years. \n \n (d) Attorney-client Relationship . The relationship between a Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client. \n (e) Paralegal Support . The Secretary of Defense shall ensure that sufficient trained paralegal support is provided to Counsel under the program. \n (f) Report Required . (1) In general . Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the program under subsection (a). \n (2) Elements . The report required under paragraph (1) shall include the following: (A) Assessment. A description and assessment of the manner in which the Department of Defense will implement the program required under subsection (a). \n (B) An explanation of whether the program will be carried out as part of another program of the Department or through the establishment of a separate program. \n (C) A comprehensive description of the additional personnel, resources, and training that will be required to implement the program, including identification of the specific number of additional billets that will be needed to staff the program. \n (D) Recommenda- tions. Recommendations for any modifications to law that may be necessary to effectively and efficiently implement the program.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011641803099528739,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2336,
+      "word_count": 372,
+      "token_length": 491
+    },
+    {
+      "text": " \n \n \n (g) 10 USC 1044 note . Alleged Domestic Violence Offense Defined . In this section, the term \u201c alleged domestic violence offense \u201d means any allegation of - (1) a violation of section 928(b), 928b(1), 928b(5), or 930 of title 10, United States Code (article 128(b), 128b(1), 128b(5), or 130 of the Uniform Code of Military Justice), when committed against a spouse, intimate partner, or immediate family member; \n (2) a violation of any other provision of subchapter X of chapter 47 of such title (the Uniform Code of Military Justice), when committed against a spouse, intimate partner, or immediate family member; or \n (3) an attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of such title (article 80 of the Uniform Code of Military Justice).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009483648774524529,
+      "confidence": "High",
+      "start_index": 2336,
+      "end_index": 3133,
+      "word_count": 132,
+      "token_length": 233
+    }
+  ],
+  "_submission_type": "solo"
+}

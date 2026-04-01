@@ -1,0 +1,46 @@
+{
+  "text": "10 USC 9081 note . The space force. (a) Redesignation . The Air Force Space Command is hereby redesignated as the United States Space Force (USSF). \n (b) Authority . Title 10, United States Code , is amended - (1) in chapter 907 of part I of subtitle D, by redesignating sections 9067, 9069, 9074, 9075, 9081, and 9084 as sections 9063, 9064, 9065, 9066, 9067, and 9068, respectively; \n (2) by adding at the end of such part the following new chapter: \u201cCHAPTER 908 - 10 USC 9081 prec. The space force \n \n \u201cSec. \n \n \n \u201c9081. \n The United States Space Force. \n \n \u201c9082. \n Chief of Space Operations. \n \n \u201c9083. \n Officer career field for space.\u201d; \n \n \n \n (3) by transferring section 2279c to chapter 908, as so added, and redesignating such section as section 9081; and \n (4) by amending such section 9081 to read as follows: \u201c\u00a7\u202f9081. The United States Space Force \u201c(a) Establishment . There is established a United States Space Force as an armed force within the Department of the Air Force. \n \u201c(b) Composition . The Space Force shall be composed of the following: \u201c(1) The Chief of Space Operations. \n \u201c(2) The space forces and such assets as may be organic therein. \n \n \u201c(c) Functions . The Space Force shall be organized, trained, and equipped to provide - \u201c(1) freedom of operation for the United States in, from, and to space; and \n \u201c(2) prompt and sustained space operations. \n \n \u201c(d) Duties . It shall be the duty of the Space Force to - \u201c(1) protect the interests of the United States in space; \n \u201c(2) deter aggression in, from, and to space; and \n \u201c(3) conduct space operations.\u201d \n \n \n . \n \n (c) Space Force as an Armed Force . Section 101(a)(4) of title 10, United States Code , is amended by inserting \u201c Space Force, \u201d after \u201c Marine Corps, \u201d. \n (d) 10 USC 9081 note . Members . (1) Effective date. In general . Effective as of the date of the enactment of this Act, there shall be assigned to the Space Force such members of the Air Force as the Secretary of the Air Force shall specify. \n (2) No authorization of additional military billets . The Secretary shall carry out this subsection within military personnel of the Air Force otherwise authorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force. \n \n (e) Officer Career Field for Space . Section 9068 of title 10, United States Code (as redesignated by subsection (b)(1)), is hereby transferred to the end of chapter 908 of such title (as added by subsection (b)(2)) and redesignated as section 9083. \n (f) Tables of Chapters . The tables of chapters at the beginning of subtitle D of title 10, United States Code , and part I of such subtitle are 10 USC 9011 prec. each amended by inserting after the item relating to chapter 907 the following new item: \n \n \u201c908. \n The Space Force \n 9081.\u201d. \n \n \n (g) Conforming Clerical Amendment to Chapter 907 . The table of sections at the beginning of chapter 907 of title 10, United States Code , 10 USC 9061 prec. is amended by striking the items relating to sections 9067, 9069, 9074, 9075, 9081, and 9084 and inserting the following new items: \n \n \u201c9063. \n Designation: officers to perform certain professional functions. \n \n \u201c9064. \n Air Force nurses: Chief; appointment. \n \n \u201c9065. \n Commands: territorial organization. \n \n \u201c9066. \n Regular Air Force: composition. \n \n \u201c9067. \n Assistant Surgeon General for Dental Services.\u201d.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "10 USC 9081 note . The space force. (a) Redesignation . The Air Force Space Command is hereby redesignated as the United States Space Force (USSF). \n (b) Authority . Title 10, United States Code , is amended - (1) in chapter 907 of part I of subtitle D, by redesignating sections 9067, 9069, 9074, 9075, 9081, and 9084 as sections 9063, 9064, 9065, 9066, 9067, and 9068, respectively; \n (2) by adding at the end of such part the following new chapter: \u201cCHAPTER 908 - 10 USC 9081 prec. The space force \n \n \u201cSec. \n \n \n \u201c9081. \n The United States Space Force. \n \n \u201c9082. \n Chief of Space Operations. \n \n \u201c9083. \n Officer career field for space.\u201d; \n \n \n \n (3) by transferring section 2279c to chapter 908, as so added, and redesignating such section as section 9081; and \n (4) by amending such section 9081 to read as follows: \u201c\u00a7\u202f9081. The United States Space Force \u201c(a) Establishment . There is established a United States Space Force as an armed force within the Department of the Air Force. \n \u201c(b) Composition . The Space Force shall be composed of the following: \u201c(1) The Chief of Space Operations. \n \u201c(2) The space forces and such assets as may be organic therein. \n \n \u201c(c) Functions . The Space Force shall be organized, trained, and equipped to provide - \u201c(1) freedom of operation for the United States in, from, and to space; and \n \u201c(2) prompt and sustained space operations. \n \n \u201c(d) Duties .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01514878986334359,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1397,
+      "word_count": 235,
+      "token_length": 476
+    },
+    {
+      "text": " It shall be the duty of the Space Force to - \u201c(1) protect the interests of the United States in space; \n \u201c(2) deter aggression in, from, and to space; and \n \u201c(3) conduct space operations.\u201d \n \n \n . \n \n (c) Space Force as an Armed Force . Section 101(a)(4) of title 10, United States Code , is amended by inserting \u201c Space Force, \u201d after \u201c Marine Corps, \u201d. \n (d) 10 USC 9081 note . Members . (1) Effective date. In general . Effective as of the date of the enactment of this Act, there shall be assigned to the Space Force such members of the Air Force as the Secretary of the Air Force shall specify. \n (2) No authorization of additional military billets . The Secretary shall carry out this subsection within military personnel of the Air Force otherwise authorized by this Act. Nothing in this subsection shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Space Force. \n \n (e) Officer Career Field for Space . Section 9068 of title 10, United States Code (as redesignated by subsection (b)(1)), is hereby transferred to the end of chapter 908 of such title (as added by subsection (b)(2)) and redesignated as section 9083. \n (f) Tables of Chapters . The tables of chapters at the beginning of subtitle D of title 10, United States Code , and part I of such subtitle are 10 USC 9011 prec. each amended by inserting after the item relating to chapter 907 the following new item: \n \n \u201c908. \n The Space Force \n 9081.\u201d. \n \n \n (g) Conforming Clerical Amendment to Chapter 907 . The table of sections at the beginning of chapter 907 of title 10, United States Code , 10 USC 9061 prec.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00710711780223338,
+      "confidence": "High",
+      "start_index": 1397,
+      "end_index": 3054,
+      "word_count": 290,
+      "token_length": 453
+    },
+    {
+      "text": " is amended by striking the items relating to sections 9067, 9069, 9074, 9075, 9081, and 9084 and inserting the following new items: \n \n \u201c9063. \n Designation: officers to perform certain professional functions. \n \n \u201c9064. \n Air Force nurses: Chief; appointment. \n \n \u201c9065. \n Commands: territorial organization. \n \n \u201c9066. \n Regular Air Force: composition. \n \n \u201c9067. \n Assistant Surgeon General for Dental Services.\u201d.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008486069389618933,
+      "confidence": "High",
+      "start_index": 3054,
+      "end_index": 3471,
+      "word_count": 52,
+      "token_length": 151
+    }
+  ],
+  "_submission_type": "solo"
+}

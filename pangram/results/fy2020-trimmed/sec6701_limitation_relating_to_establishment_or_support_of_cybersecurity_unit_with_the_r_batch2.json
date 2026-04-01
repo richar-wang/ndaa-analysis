@@ -1,0 +1,54 @@
+{
+  "text": "6 USC 1501 note prec. Limitation relating to establishment or support of cybersecurity unit with the russian federation. (a) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the congressional intelligence committees; \n (2) the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and \n (3) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. \n \n (b) Limitation . (1) In general . No amount may be expended by the Federal Government, other than the Department of Defense, to enter into or implement any bilateral agreement between the United States and the Russian Federation regarding cybersecurity, including the establishment or support of any cybersecurity unit, unless, at least 30 days prior to the conclusion of any such agreement, the Director of National Intelligence submits to the appropriate congressional committees a report on such agreement that includes the elements required by subsection (c). \n (2) Department of defense agreements . Any agreement between the Department of Defense and the Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ), as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ). \n \n (c) Elements . If the Director submits a report under subsection (b) with respect to an agreement, such report shall include a discussion of each of the following: (1) The purpose of the agreement. \n (2) The nature of any intelligence to be shared pursuant to the agreement. \n (3) The expected value to national security resulting from the implementation of the agreement. \n (4) Such counterintelligence concerns associated with the agreement as the Director may have and such measures as the Director expects to be taken to mitigate such concerns. \n \n (d) Rule of Construction . This section shall not be construed to affect any existing authority of the Director of National \nIntelligence, the Director of the Central Intelligence Agency, or another head of an element of the intelligence community, to share or receive foreign intelligence on a case-by-case basis.\n\n50 USC 3396c . Notification of an active measures campaign. (a) Definitions . In this section: (1) Appropriate congressional committees . The term \u201c appropriate congressional committees \u201d means - (A) the congressional intelligence committees; \n (B) the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and \n (C) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. \n \n (2) Congressional leadership . The term \u201c congressional leadership \u201d includes the following: (A) The majority leader of the Senate. \n (B) The minority leader of the Senate. \n (C) The Speaker of the House of Representatives. \n (D) The minority leader of the House of Representatives. \n \n \n (b) Determination. Requirement for Notification . The Director of National Intelligence, in cooperation with the Director of the Federal Bureau of Investigation and the head of any other relevant agency, shall notify the congressional leadership and the chairman and vice chairman or ranking member of each of the appropriate congressional committees, and of other relevant committees of jurisdiction, each time the Director of National Intelligence determines there is credible information that a foreign power has, is, or will attempt to employ a covert influence or active measures campaign with regard to the modernization, employment, doctrine, or force posture of the nuclear deterrent or missile defense. \n (c) Content of Notification . Each notification required by subsection (b) shall include information concerning actions taken by the United States to expose or halt an attempt referred to in subsection (b).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "6 USC 1501 note prec. Limitation relating to establishment or support of cybersecurity unit with the russian federation. (a) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the congressional intelligence committees; \n (2) the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and \n (3) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. \n \n (b) Limitation . (1) In general . No amount may be expended by the Federal Government, other than the Department of Defense, to enter into or implement any bilateral agreement between the United States and the Russian Federation regarding cybersecurity, including the establishment or support of any cybersecurity unit, unless, at least 30 days prior to the conclusion of any such agreement, the Director of National Intelligence submits to the appropriate congressional committees a report on such agreement that includes the elements required by subsection (c). \n (2) Department of defense agreements . Any agreement between the Department of Defense and the Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ), as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ). \n \n (c) Elements . If the Director submits a report under subsection (b) with respect to an agreement, such report shall include a discussion of each of the following: (1) The purpose of the agreement. \n (2) The nature of any intelligence to be shared pursuant to the agreement. \n (3) The expected value to national security resulting from the implementation of the agreement. \n (4) Such counterintelligence concerns associated with the agreement as the Director may have and such measures as the Director expects to be taken to mitigate such concerns. \n \n (d) Rule of Construction . This section shall not be construed to affect any existing authority of the Director of National \nIntelligence, the Director of the Central Intelligence Agency, or another head of an element of the intelligence community, to share or receive foreign intelligence on a case-by-case basis.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005616345587703917,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2374,
+      "word_count": 367,
+      "token_length": 500
+    },
+    {
+      "text": "\n\n50 USC 3396c . Notification of an active measures campaign. (a) Definitions . In this section: (1) Appropriate congressional committees . The term \u201c appropriate congressional committees \u201d means - (A) the congressional intelligence committees; \n (B) the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and \n (C) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. \n \n (2) Congressional leadership . The term \u201c congressional leadership \u201d includes the following: (A) The majority leader of the Senate. \n (B) The minority leader of the Senate. \n (C) The Speaker of the House of Representatives. \n (D) The minority leader of the House of Representatives. \n \n \n (b) Determination. Requirement for Notification . The Director of National Intelligence, in cooperation with the Director of the Federal Bureau of Investigation and the head of any other relevant agency, shall notify the congressional leadership and the chairman and vice chairman or ranking member of each of the appropriate congressional committees, and of other relevant committees of jurisdiction, each time the Director of National Intelligence determines there is credible information that a foreign power has, is, or will attempt to employ a covert influence or active measures campaign with regard to the modernization, employment, doctrine, or force posture of the nuclear deterrent or missile defense. \n (c) Content of Notification . Each notification required by subsection (b) shall include information concerning actions taken by the United States to expose or halt an attempt referred to in subsection (b).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005403706362136663,
+      "confidence": "High",
+      "start_index": 2374,
+      "end_index": 4082,
+      "word_count": 257,
+      "token_length": 340
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec6701_limitation_relating_to_establishment_or_support_of_cybersecurity_unit_with_the_r.txt",
+    "sec6703_notification_of_an_active_measures_campaign.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec6701_limitation_relating_to_establishment_or_support_of_cybersecurity_unit_with_the_r.txt",
+      "start_index": 0,
+      "end_index": 2374,
+      "word_count": 367
+    },
+    {
+      "filename": "sec6703_notification_of_an_active_measures_campaign.txt",
+      "start_index": 2376,
+      "end_index": 4082,
+      "word_count": 257
+    }
+  ]
+}

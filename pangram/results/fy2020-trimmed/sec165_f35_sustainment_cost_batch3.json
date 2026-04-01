@@ -1,0 +1,71 @@
+{
+  "text": "F\u201335 Sustainment cost. (a) Quarterly Update . The Under Secretary of Defense for Acquisition and Sustainment shall include in the quarterly report required under section 155 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ) - (1) Data. sustainment cost data related to the F\u201335 program, including a comparison in itemized format of the cost of legacy aircraft and the cost of the F\u201335 program, based on a standardized set of criteria; and \n (2) Evaluation. an evaluation and metrics on the extent to which the goals developed pursuant to subsection (b) are being achieved. \n \n (b) Cost Reduction Plan . (1) In general . The Under Secretary of Defense for Acquisition and Sustainment shall develop and implement a plan for achieving significant reductions in the costs to operate, maintain, and sustain the F\u201335 system. \n (2) Elements . The plan required under paragraph (1) shall include the following elements: (A) Specific changes in the management and execution of operation and support (O&S) cost elements to engender continuous and measurable process improvements. \n (B) Specific actions the Department will implement in the near, mid, and long terms to reduce O&S costs. \n (C) Firm and achievable timelines for implementing the specific actions and process changes. \n \n (3) Report . Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall submit to the congressional defense committees a report on the baseline plan developed pursuant to paragraph (1).\n\nAssessments. Reports on the progress and performance of the f\u201335 Aircraft program. (a) F-35 Block 4 and Continuous Capability Development and Delivery Program . The Secretary of Defense shall include with the annual report required by section 224(d) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 130 Stat. 2059 ) an integrated master schedule and past performance assessment for each planned phase of the F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program. \n (b) Comptroller General Reports . (1) Annual report required . Not later than 30 days after the date on which the budget of the President is submitted to Congress under section 1105(a) of title 31, United States Code , for each of fiscal years 2021 through 2025, the Comptroller General of the United States shall submit to the congressional defense committees a report on the F\u201335 aircraft program. \n (2) Elements . Each report under paragraph (1) shall include, with respect to the F\u201335 aircraft program, the following: (A) An assessment of the progress of manufacturing processes improvement under the program. \n (B) The progress and results of the F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program and other follow-on modernization development and testing efforts. \n (C) An assessment of the Department\u2019s schedule for delivering software upgrades in six-month, scheduled increments. \n (D) The progress and results of any other significant hardware development and fielding efforts necessary for the F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program. \n (E) Any other issues the Comptroller General determines to be appropriate. \n \n \n (c) F\u201335 Block 4 Defined . In this section, the term \u201c F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program \u201d means Block 4 capability upgrades for the F\u201335 aircraft program as described in the Selected Acquisition Report for the program submitted to Congress in March 2019, pursuant to section 2432 of title 10, United States Code .\n\nLimitation on availability of funds for communications systems lacking certain resiliency features. (a) In General . Except as provided under subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Department of Defense may be obligated or expended for the procurement of a current or future Department of Defense communications program of record, and the Department may not otherwise procure a current or future communications program of record, unless the communications equipment - (1) mitigates geolocation of a transmission that would allow a like echelon enemy force to target the user; \n (2) securely communicates classified information in a contested communications environment that includes operationally representative jamming; \n (3) Deadline. reduces, within two years of continued development and upgrades, electronic signature and susceptibility to geolocation by using low probability of intercept/detect (LPI/LPD) waveforms, or other capability that would provide the same resiliency on the battlefield; and \n (4) utilizes a waveform that is either made available through the Department of Defense Waveform Information \nRepository, or is a commercial off the shelf (COTS) waveform available for government licensing with waveform analysis through the Joint Tactical Networking Center (JTNC) Tactical Communications Marketplace. \n \n (b) Certification. Waiver . The Secretary of a military department may waive the requirement under subsection (a) with respect to a communications system upon certifying to the congressional defense committees that the system\u2019s intended use is not for contested environments or will meet the requirement when operated as a component of an integrated network.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "F\u201335 Sustainment cost. (a) Quarterly Update . The Under Secretary of Defense for Acquisition and Sustainment shall include in the quarterly report required under section 155 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ) - (1) Data. sustainment cost data related to the F\u201335 program, including a comparison in itemized format of the cost of legacy aircraft and the cost of the F\u201335 program, based on a standardized set of criteria; and \n (2) Evaluation. an evaluation and metrics on the extent to which the goals developed pursuant to subsection (b) are being achieved. \n \n (b) Cost Reduction Plan . (1) In general . The Under Secretary of Defense for Acquisition and Sustainment shall develop and implement a plan for achieving significant reductions in the costs to operate, maintain, and sustain the F\u201335 system. \n (2) Elements . The plan required under paragraph (1) shall include the following elements: (A) Specific changes in the management and execution of operation and support (O&S) cost elements to engender continuous and measurable process improvements. \n (B) Specific actions the Department will implement in the near, mid, and long terms to reduce O&S costs. \n (C) Firm and achievable timelines for implementing the specific actions and process changes. \n \n (3) Report . Not later than 180 days after the date of the enactment of this Act, the Under Secretary shall submit to the congressional defense committees a report on the baseline plan developed pursuant to paragraph (1).\n\nAssessments. Reports on the progress and performance of the f\u201335 Aircraft program. (a) F-35 Block 4 and Continuous Capability Development and Delivery Program . The Secretary of Defense shall include with the annual report required by section 224(d) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 130 Stat. 2059 ) an integrated master schedule and past performance assessment for each planned phase of the F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program. \n (b) Comptroller General Reports . (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010149992381532986,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2113,
+      "word_count": 335,
+      "token_length": 496
+    },
+    {
+      "text": "1) Annual report required . Not later than 30 days after the date on which the budget of the President is submitted to Congress under section 1105(a) of title 31, United States Code , for each of fiscal years 2021 through 2025, the Comptroller General of the United States shall submit to the congressional defense committees a report on the F\u201335 aircraft program. \n (2) Elements . Each report under paragraph (1) shall include, with respect to the F\u201335 aircraft program, the following: (A) An assessment of the progress of manufacturing processes improvement under the program. \n (B) The progress and results of the F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program and other follow-on modernization development and testing efforts. \n (C) An assessment of the Department\u2019s schedule for delivering software upgrades in six-month, scheduled increments. \n (D) The progress and results of any other significant hardware development and fielding efforts necessary for the F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program. \n (E) Any other issues the Comptroller General determines to be appropriate. \n \n \n (c) F\u201335 Block 4 Defined . In this section, the term \u201c F\u201335 Block 4 Upgrade and Continuous Capability Development and Delivery Program \u201d means Block 4 capability upgrades for the F\u201335 aircraft program as described in the Selected Acquisition Report for the program submitted to Congress in March 2019, pursuant to section 2432 of title 10, United States Code .\n\nLimitation on availability of funds for communications systems lacking certain resiliency features. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014423289172420346,
+      "confidence": "High",
+      "start_index": 2113,
+      "end_index": 3738,
+      "word_count": 249,
+      "token_length": 371
+    },
+    {
+      "text": "a) In General . Except as provided under subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Department of Defense may be obligated or expended for the procurement of a current or future Department of Defense communications program of record, and the Department may not otherwise procure a current or future communications program of record, unless the communications equipment - (1) mitigates geolocation of a transmission that would allow a like echelon enemy force to target the user; \n (2) securely communicates classified information in a contested communications environment that includes operationally representative jamming; \n (3) Deadline. reduces, within two years of continued development and upgrades, electronic signature and susceptibility to geolocation by using low probability of intercept/detect (LPI/LPD) waveforms, or other capability that would provide the same resiliency on the battlefield; and \n (4) utilizes a waveform that is either made available through the Department of Defense Waveform Information \nRepository, or is a commercial off the shelf (COTS) waveform available for government licensing with waveform analysis through the Joint Tactical Networking Center (JTNC) Tactical Communications Marketplace. \n \n (b) Certification. Waiver . The Secretary of a military department may waive the requirement under subsection (a) with respect to a communications system upon certifying to the congressional defense committees that the system\u2019s intended use is not for contested environments or will meet the requirement when operated as a component of an integrated network.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.04064334513774762,
+      "confidence": "High",
+      "start_index": 3738,
+      "end_index": 5419,
+      "word_count": 242,
+      "token_length": 321
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec165_f35_sustainment_cost.txt",
+    "sec166_reports_on_the_progress_and_performance_of_the_f35_aircraft_program.txt",
+    "sec168_limitation_on_availability_of_funds_for_communications_systems_lacking_certain_r.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec165_f35_sustainment_cost.txt",
+      "start_index": 0,
+      "end_index": 1548,
+      "word_count": 247
+    },
+    {
+      "filename": "sec166_reports_on_the_progress_and_performance_of_the_f35_aircraft_program.txt",
+      "start_index": 1550,
+      "end_index": 3635,
+      "word_count": 323
+    },
+    {
+      "filename": "sec168_limitation_on_availability_of_funds_for_communications_systems_lacking_certain_r.txt",
+      "start_index": 3637,
+      "end_index": 5419,
+      "word_count": 254
+    }
+  ]
+}

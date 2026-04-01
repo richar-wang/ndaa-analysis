@@ -1,0 +1,36 @@
+{
+  "text": "Effective date. 10 USC 9016 note . Service acquisition executive of the department of the air force for space systems and programs. (a) In General . Effective October 1, 2022, there shall be within the Department of the Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs. \n (b) Service . (1) In general . Effective as of October 1, 2022, and subject to paragraph (2), the individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of section 9016(b) of title 10, United States Code (as added by section 1832(b) of this Act), shall also serve \nas the Service Acquisition Executive for Space Systems and Programs. \n (2) Incumbent . The individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration as of October 1, 2022, may also serve as the Service Acquisition Executive for Space Systems and Programs pursuant to paragraph (1) only if appointed as the Service Acquisition Executive for Space Systems and Programs by the President, by and with the advice and consent of the Senate, pursuant to a nomination submitted to the Senate on or after that date. \n \n (c) Authorities and Responsibilities . (1) In general . The Service Acquisition Executive for Space Systems and Programs shall have within the Department of the Air Force all the authorities and responsibilities of a service acquisition executive under section 1704 of title 10, United States Code , and other applicable law, for the Department of the Air Force with respect to space systems and programs. \n (2) Separate sae within the air force . The Service Acquisition Executive for Space Systems and Programs shall be in addition to the service acquisition executive in the Department of the Air Force for all acquisition matters of the Department of the Air Force other than with respect to space systems and programs. \n (3) Deadline. Guidance on relationship among saes . Not later than October 1, 2022, and from time to time thereafter, the Secretary of the Air Force shall issue guidance for the Department of the Air Force on the authorities and responsibilities of the Service Acquisition Executive for Space Systems and Programs and the authorities and responsibilities of the service acquisition executive of the Department for all acquisition matters of the Department other than with respect to space systems and programs.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Effective date. 10 USC 9016 note . Service acquisition executive of the department of the air force for space systems and programs. (a) In General . Effective October 1, 2022, there shall be within the Department of the Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs. \n (b) Service . (1) In general . Effective as of October 1, 2022, and subject to paragraph (2), the individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of section 9016(b) of title 10, United States Code (as added by section 1832(b) of this Act), shall also serve \nas the Service Acquisition Executive for Space Systems and Programs. \n (2) Incumbent . The individual serving as Assistant Secretary of the Air Force for Space Acquisition and Integration as of October 1, 2022, may also serve as the Service Acquisition Executive for Space Systems and Programs pursuant to paragraph (1) only if appointed as the Service Acquisition Executive for Space Systems and Programs by the President, by and with the advice and consent of the Senate, pursuant to a nomination submitted to the Senate on or after that date. \n \n (c) Authorities and Responsibilities . (1) In general . The Service Acquisition Executive for Space Systems and Programs shall have within the Department of the Air Force all the authorities and responsibilities of a service acquisition executive under section 1704 of title 10, United States Code , and other applicable law, for the Department of the Air Force with respect to space systems and programs. \n (2) Separate sae within the air force . The Service Acquisition Executive for Space Systems and Programs shall be in addition to the service acquisition executive in the Department of the Air Force for all acquisition matters of the Department of the Air Force other than with respect to space systems and programs. \n (3) Deadline. Guidance on relationship among saes .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006077913588590242,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1985,
+      "word_count": 327,
+      "token_length": 435
+    },
+    {
+      "text": " Not later than October 1, 2022, and from time to time thereafter, the Secretary of the Air Force shall issue guidance for the Department of the Air Force on the authorities and responsibilities of the Service Acquisition Executive for Space Systems and Programs and the authorities and responsibilities of the service acquisition executive of the Department for all acquisition matters of the Department other than with respect to space systems and programs.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005965064978227019,
+      "confidence": "High",
+      "start_index": 1985,
+      "end_index": 2444,
+      "word_count": 72,
+      "token_length": 81
+    }
+  ],
+  "_submission_type": "solo"
+}

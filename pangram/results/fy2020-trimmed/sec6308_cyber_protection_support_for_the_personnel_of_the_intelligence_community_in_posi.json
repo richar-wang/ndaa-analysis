@@ -1,0 +1,36 @@
+{
+  "text": "50 USC 3334d . Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack. (a) Definitions . In this section: (1) Personal accounts . The term \u201c personal accounts \u201d means accounts for online and telecommunications services, including telephone, residential internet access, email, text and multimedia messaging, cloud computing, social media, health \ncare, and financial services, used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community. \n (2) Personal technology devices . The term \u201c personal technology devices \u201d means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect. \n \n (b) Authority To Provide Cyber Protection Support . (1) Determination. In general . Subject to a determination by the Director of National Intelligence, the Director may provide cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2). \n (2) At-risk personnel . The personnel described in this paragraph are personnel of the intelligence community - (A) who the Director determines to be highly vulnerable to cyber attacks and hostile information collection activities because of the positions occupied by such personnel in the intelligence community; and \n (B) whose personal technology devices or personal accounts are highly vulnerable to cyber attacks and hostile information collection activities. \n \n \n (c) Nature of Cyber Protection Support . Subject to the availability of resources, the cyber protection support provided to personnel under subsection (b) may include training, advice, assistance, and other services relating to cyber attacks and hostile information collection activities. \n (d) Limitation on Support . Nothing in this section shall be construed - (1) to encourage personnel of the intelligence community to use personal technology devices for official business; or \n (2) to authorize cyber protection support for senior intelligence community personnel using personal devices, networks, and personal accounts in an official capacity. \n \n (e) Report . Not later than 180 days after the date of the enactment of this Act, the Director shall submit to the congressional intelligence committees a report on the provision of cyber protection support under subsection (b). The report shall include - (1) a description of the methodology used to make the determination under subsection (b)(2); and \n (2) guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (b).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "50 USC 3334d . Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack. (a) Definitions . In this section: (1) Personal accounts . The term \u201c personal accounts \u201d means accounts for online and telecommunications services, including telephone, residential internet access, email, text and multimedia messaging, cloud computing, social media, health \ncare, and financial services, used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community. \n (2) Personal technology devices . The term \u201c personal technology devices \u201d means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect. \n \n (b) Authority To Provide Cyber Protection Support . (1) Determination. In general . Subject to a determination by the Director of National Intelligence, the Director may provide cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2). \n (2) At-risk personnel . The personnel described in this paragraph are personnel of the intelligence community - (A) who the Director determines to be highly vulnerable to cyber attacks and hostile information collection activities because of the positions occupied by such personnel in the intelligence community; and \n (B) whose personal technology devices or personal accounts are highly vulnerable to cyber attacks and hostile information collection activities. \n \n \n (c) Nature of Cyber Protection Support . Subject to the availability of resources, the cyber protection support provided to personnel under subsection (b) may include training, advice, assistance, and other services relating to cyber attacks and hostile information collection activities. \n (d) Limitation on Support . Nothing in this section shall be construed - (1) to encourage personnel of the intelligence community to use personal technology devices for official business; or \n (2) to authorize cyber protection support for senior intelligence community personnel using personal devices, networks, and personal accounts in an official capacity. \n \n (e) Report . Not later than 180 days after the date of the enactment of this Act, the Director shall submit to the congressional intelligence committees a report on the provision of cyber protection support under subsection (b).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.016423329361714423,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2528,
+      "word_count": 366,
+      "token_length": 465
+    },
+    {
+      "text": " The report shall include - (1) a description of the methodology used to make the determination under subsection (b)(2); and \n (2) guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (b).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014845863915979862,
+      "confidence": "High",
+      "start_index": 2528,
+      "end_index": 2811,
+      "word_count": 43,
+      "token_length": 55
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,64 @@
+{
+  "text": "Availability of data on the use of other transaction authority and report on the use of authority to carry out prototype projects. Section 873 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 132 Stat. 1905 ; 10 U.S.C. 2371 note ) is amended - (1) in subsection (b) - (A) by striking the period at the end and inserting \u201c ; and \u201d; \n (B) by striking \u201c shall analyze \u201d and inserting the following: \u201cshall - \u201c(1) analyze\u201d \n ; and \n (C) by adding at the end the following new paragraph: \u201c(2) make the data collected under subsection (a) accessible to any official designated by the Secretary of Defense for inclusion by such official in relevant reports made by such official.\u201d \n ; and \n \n (2) by amending subsection (c) to read as follows: \u201c(c) Report Required . \u201c(1) In general . Not later than December 31, 2019, and annually thereafter through December 31, 2023, the Secretary of Defense shall submit to the congressional defense committees a report on the use of other transaction authority to carry out prototype projects during the preceding fiscal year. Summary. Each report shall summarize the data collected under subsection (a) on the nature and extent of each such use of the authority, including a description - \u201c(A) of the participants to an agreement entered into pursuant to the authority of subsection (a) of section 2371b of title 10, United States Code , or a follow-on contract or transaction entered into pursuant to the authority of subsection (f) of such section; \n \u201c(B) of the quantity of prototype projects to be produced pursuant to such an agreement, follow-on contract, or transaction; \n \u201c(C) of the amount of payments made pursuant to each such agreement, follow-on contract, or transaction; \n \u201c(D) of the purpose, description, and status of prototype projects carried out pursuant to each such agreement, follow-on contract, or transaction; and \n \u201c(E) including case examples, of the successes and challenges with using the authority of such subsection (a) or (f). \n \n \u201c(2) Form of report . A report required under this subsection shall be submitted in unclassified form without any designation relating to dissemination control, but may contain a classified annex.\u201d \n \n .\n\n10 USC 2304 note . Modification of justification and approval requirement for certain department of defense contracts. (a) Modification of Justification and Approval Requirement . Notwithstanding section 811 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111\u201384 ; 123 Stat. 2405 ) - (1) no justification and approval is required under such section for a sole-source contract awarded by the Department of Defense in a covered procurement for an amount not exceeding $100,000,000; and \n (2) for purposes of subsections (a)(2) and (c)(3)(A) of such section, the appropriate official designated to approve the justification for a sole-source contract awarded by the Department of Defense in a covered procurement exceeding $100,000,000 is the official designated in section 2304(f)(1)(B)(ii) of title 10, United States Code . \n \n (b) Deadline. Guidance . Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance to implement the authority under subsection (a). \n (c) Comptroller General Review . (1) Data tracking and collection . The Department of Defense shall track the use of the authority as modified by subsection (a) and make the data available to the Comptroller General for purposes of the report required under paragraph (2). \n (2) Report . Not later than March 1, 2022, the Comptroller General of the United States shall submit a report to the congressional defense committees on the use of the authority as modified by subsection (a) through the end of fiscal year 2021. The report shall include - (A) Review. a review of the financial effect of the change to the justification and approval requirement in subsection \n(a) on the native corporations and businesses and associated native communities; \n (B) a description of the nature and extent of contracts excluded from the justification and approval requirement by subsection (a); and \n (C) other matters the Comptroller General deems appropriate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Availability of data on the use of other transaction authority and report on the use of authority to carry out prototype projects. Section 873 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 132 Stat. 1905 ; 10 U.S.C. 2371 note ) is amended - (1) in subsection (b) - (A) by striking the period at the end and inserting \u201c ; and \u201d; \n (B) by striking \u201c shall analyze \u201d and inserting the following: \u201cshall - \u201c(1) analyze\u201d \n ; and \n (C) by adding at the end the following new paragraph: \u201c(2) make the data collected under subsection (a) accessible to any official designated by the Secretary of Defense for inclusion by such official in relevant reports made by such official.\u201d \n ; and \n \n (2) by amending subsection (c) to read as follows: \u201c(c) Report Required . \u201c(1) In general . Not later than December 31, 2019, and annually thereafter through December 31, 2023, the Secretary of Defense shall submit to the congressional defense committees a report on the use of other transaction authority to carry out prototype projects during the preceding fiscal year. Summary. Each report shall summarize the data collected under subsection (a) on the nature and extent of each such use of the authority, including a description - \u201c(A) of the participants to an agreement entered into pursuant to the authority of subsection (a) of section 2371b of title 10, United States Code , or a follow-on contract or transaction entered into pursuant to the authority of subsection (f) of such section; \n \u201c(B) of the quantity of prototype projects",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010161318479933673,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1579,
+      "word_count": 270,
+      "token_length": 398
+    },
+    {
+      "text": " to be produced pursuant to such an agreement, follow-on contract, or transaction; \n \u201c(C) of the amount of payments made pursuant to each such agreement, follow-on contract, or transaction; \n \u201c(D) of the purpose, description, and status of prototype projects carried out pursuant to each such agreement, follow-on contract, or transaction; and \n \u201c(E) including case examples, of the successes and challenges with using the authority of such subsection (a) or (f). \n \n \u201c(2) Form of report . A report required under this subsection shall be submitted in unclassified form without any designation relating to dissemination control, but may contain a classified annex.\u201d \n \n .\n\n10 USC 2304 note . Modification of justification and approval requirement for certain department of defense contracts. (a) Modification of Justification and Approval Requirement . Notwithstanding section 811 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111\u201384 ; 123 Stat. 2405 ) - (1) no justification and approval is required under such section for a sole-source contract awarded by the Department of Defense in a covered procurement for an amount not exceeding $100,000,000; and \n (2) for purposes of subsections (a)(2) and (c)(3)(A) of such section, the appropriate official designated to approve the justification for a sole-source contract awarded by the Department of Defense in a covered procurement exceeding $100,000,000 is the official designated in section 2304(f)(1)(B)(ii) of title 10, United States Code . \n \n (b) Deadline. Guidance . Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance to implement the authority under subsection (a). \n (c) Comptroller General Review . (1) Data tracking and collection . The Department of Defense shall track the use of the authority as modified by subsection (a) and make the data available to the Comptroller General for purposes of the report required under paragraph (2).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008138213998689834,
+      "confidence": "High",
+      "start_index": 1579,
+      "end_index": 3569,
+      "word_count": 305,
+      "token_length": 478
+    },
+    {
+      "text": " \n (2) Report . Not later than March 1, 2022, the Comptroller General of the United States shall submit a report to the congressional defense committees on the use of the authority as modified by subsection (a) through the end of fiscal year 2021. The report shall include - (A) Review. a review of the financial effect of the change to the justification and approval requirement in subsection \n(a) on the native corporations and businesses and associated native communities; \n (B) a description of the nature and extent of contracts excluded from the justification and approval requirement by subsection (a); and \n (C) other matters the Comptroller General deems appropriate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008241553790867329,
+      "confidence": "High",
+      "start_index": 3569,
+      "end_index": 4245,
+      "word_count": 107,
+      "token_length": 148
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec819_availability_of_data_on_the_use_of_other_transaction_authority_and_report_on_the.txt",
+    "sec823_modification_of_justification_and_approval_requirement_for_certain_department_of.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec819_availability_of_data_on_the_use_of_other_transaction_authority_and_report_on_the.txt",
+      "start_index": 0,
+      "end_index": 2250,
+      "word_count": 370
+    },
+    {
+      "filename": "sec823_modification_of_justification_and_approval_requirement_for_certain_department_of.txt",
+      "start_index": 2252,
+      "end_index": 4245,
+      "word_count": 312
+    }
+  ]
+}

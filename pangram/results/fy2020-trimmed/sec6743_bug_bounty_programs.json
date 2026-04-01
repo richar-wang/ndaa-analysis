@@ -1,0 +1,26 @@
+{
+  "text": "Bug bounty programs. (a) Definitions . In this section: (1) Appropriate committees of congress . The term \u201c appropriate committees of Congress \u201d means - (A) the congressional intelligence committees; \n (B) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and \n (C) the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives. \n \n (2) Bug bounty program . The term \u201c bug bounty program \u201d means a program under which an approved computer security specialist or security researcher is temporarily authorized to identify and report vulnerabilities within the information system of an agency or department of the United States in exchange for compensation. \n (3) Information system . The term \u201c information system \u201d has the meaning given that term in section 3502 of title 44, United States Code . \n \n (b) Bug Bounty Program Plan . (1) Deadline. Consultation. Requirement . Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit to appropriate committees of Congress a strategic plan for appropriate agencies and departments of the United States to implement bug bounty programs. \n (2) Contents . The plan required by paragraph (1) shall include - (A) Assessment. an assessment of - (i) the \u201cHack the Pentagon\u201d pilot program carried out by the Department of Defense in 2016 and subsequent bug bounty programs in identifying and reporting vulnerabilities within the information systems of the Department of Defense; and \n (ii) private sector bug bounty programs, including such programs implemented by leading technology companies in the United States; and \n \n (B) Recommenda- tions. recommendations on the feasibility of initiating bug bounty programs at appropriate agencies and departments of the United States.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Bug bounty programs. (a) Definitions . In this section: (1) Appropriate committees of congress . The term \u201c appropriate committees of Congress \u201d means - (A) the congressional intelligence committees; \n (B) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and \n (C) the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives. \n \n (2) Bug bounty program . The term \u201c bug bounty program \u201d means a program under which an approved computer security specialist or security researcher is temporarily authorized to identify and report vulnerabilities within the information system of an agency or department of the United States in exchange for compensation. \n (3) Information system . The term \u201c information system \u201d has the meaning given that term in section 3502 of title 44, United States Code . \n \n (b) Bug Bounty Program Plan . (1) Deadline. Consultation. Requirement . Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit to appropriate committees of Congress a strategic plan for appropriate agencies and departments of the United States to implement bug bounty programs. \n (2) Contents . The plan required by paragraph (1) shall include - (A) Assessment. an assessment of - (i) the \u201cHack the Pentagon\u201d pilot program carried out by the Department of Defense in 2016 and subsequent bug bounty programs in identifying and reporting vulnerabilities within the information systems of the Department of Defense; and \n (ii) private sector bug bounty programs, including such programs implemented by leading technology companies in the United States; and \n \n (B) Recommenda- tions. recommendations on the feasibility of initiating bug bounty programs at appropriate agencies and departments of the United States.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004885805770754814,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1923,
+      "word_count": 297,
+      "token_length": 400
+    }
+  ],
+  "_submission_type": "solo"
+}

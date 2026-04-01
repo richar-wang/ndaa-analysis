@@ -1,0 +1,54 @@
+{
+  "text": "Report on extension to members of the reserve components of the armed forces of special and incentive pays for members of the armed forces not currently payable to members of the reserve components. (a) Report Required . Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report setting forth the results of a study, conducted by the Secretary for purposes of the report, on the feasability and advisability of paying eligible members of the reserve components of the Armed Forces any special or incentive pay for members of the Armed Forces that is not currently payable to members of the reserve components. \n (b) Elements . The report required by subsection (a) shall set forth the following: (1) Cost estimate. An estimate of the yearly cost of paying members of the reserve components risk pay and flight pay under sections 334, 334a, and 351 of title 37, United States Code , at the same rate as members on active duty, regardless of the number of periods of instruction or appropriate duty participated in, so long as there is at least one such period of instruction or appropriate duty in the month. \n (2) A statement of the number of members of the reserve components who qualify or potentially qualify for hazardous duty incentive pay based on current professions or required duties, broken out by hazardous duty categories set forth in section 351 of title 37, United States Code . \n (3) Determination. Recommenda- tions. If the Secretary determines that payment to eligible members of the reserve components of any special or incentive pay for members of the Armed Forces that is not currently payable to members of the reserve components is feasible and advisable, such recommendations as the Secretary considers appropriate for legislative or administrative action to authorize such payment.\n\nReport on implementation of contributions to the department of defense military retirement fund based on pay costs per armed force rather than on armed forces-wide basis. (a) Report Required . (1) Consultation. In general . Not later than April 1, 2020, the Secretary of Defense shall, in consultation with the Secretaries of the military departments, submit to the congressional defense committees a report setting forth a plan for the implementation of the amendments described in paragraph (2) as if such amendments would apply with respect to determinations of contributions to the Department of Defense Military Retirement Fund under chapter 74 of title 10, United States Code , and payments into the Fund, beginning with fiscal year 2025. \n (2) Covered amendments . The amendments described in this paragraph are the amendments proposed to be made by section 631 of S.1790 of the 116th Congress, as reported to the Senate by the Committee on Armed Services of the Senate on June 11, 2019. \n \n (b) Elements . The report required by subsection (a) shall include the following: (1) Plan. A plan to implement the amendments described in paragraph (2) of subsection (a) in the manner described in paragraph (1) of that subsection. \n (2) Timeline. A timeline for actions required to implement such amendments in that manner. \n (3) Assessment. An assessment of the impact of the implementation of such amendments in that manner on each of the following: (A) The budgeting of the military departments. \n (B) The efforts of the Department of Defense to achieve audits of its financial statements. \n (C) Decisions on military manning of the Armed Forces. \n (D) The cost and complexity of tracking contributions to the Department of Defense Military Retirement Fund.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on extension to members of the reserve components of the armed forces of special and incentive pays for members of the armed forces not currently payable to members of the reserve components. (a) Report Required . Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report setting forth the results of a study, conducted by the Secretary for purposes of the report, on the feasability and advisability of paying eligible members of the reserve components of the Armed Forces any special or incentive pay for members of the Armed Forces that is not currently payable to members of the reserve components. \n (b) Elements . The report required by subsection (a) shall set forth the following: (1) Cost estimate. An estimate of the yearly cost of paying members of the reserve components risk pay and flight pay under sections 334, 334a, and 351 of title 37, United States Code , at the same rate as members on active duty, regardless of the number of periods of instruction or appropriate duty participated in, so long as there is at least one such period of instruction or appropriate duty in the month. \n (2) A statement of the number of members of the reserve components who qualify or potentially qualify for hazardous duty incentive pay based on current professions or required duties, broken out by hazardous duty categories set forth in section 351 of title 37, United States Code . \n (3) Determination. Recommenda- tions. If the Secretary determines that payment to eligible members of the reserve components of any special or incentive pay for members of the Armed Forces that is not currently payable to members of the reserve components is feasible and advisable, such recommendations as the Secretary considers appropriate for legislative or administrative action to authorize such payment.\n\nReport on implementation of contributions to the department of defense military retirement fund based on pay costs per armed force rather than on armed forces-wide basis. (a) Report Required . (1) Consultation.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005728073159439696,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2115,
+      "word_count": 346,
+      "token_length": 418
+    },
+    {
+      "text": " In general . Not later than April 1, 2020, the Secretary of Defense shall, in consultation with the Secretaries of the military departments, submit to the congressional defense committees a report setting forth a plan for the implementation of the amendments described in paragraph (2) as if such amendments would apply with respect to determinations of contributions to the Department of Defense Military Retirement Fund under chapter 74 of title 10, United States Code , and payments into the Fund, beginning with fiscal year 2025. \n (2) Covered amendments . The amendments described in this paragraph are the amendments proposed to be made by section 631 of S.1790 of the 116th Congress, as reported to the Senate by the Committee on Armed Services of the Senate on June 11, 2019. \n \n (b) Elements . The report required by subsection (a) shall include the following: (1) Plan. A plan to implement the amendments described in paragraph (2) of subsection (a) in the manner described in paragraph (1) of that subsection. \n (2) Timeline. A timeline for actions required to implement such amendments in that manner. \n (3) Assessment. An assessment of the impact of the implementation of such amendments in that manner on each of the following: (A) The budgeting of the military departments. \n (B) The efforts of the Department of Defense to achieve audits of its financial statements. \n (C) Decisions on military manning of the Armed Forces. \n (D) The cost and complexity of tracking contributions to the Department of Defense Military Retirement Fund.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008927502090845144,
+      "confidence": "High",
+      "start_index": 2115,
+      "end_index": 3666,
+      "word_count": 249,
+      "token_length": 353
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec653_report_on_extension_to_members_of_the_reserve_components_of_the_armed_forces_of_.txt",
+    "sec655_report_on_implementation_of_contributions_to_the_department_of_defense_military_.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec653_report_on_extension_to_members_of_the_reserve_components_of_the_armed_forces_of_.txt",
+      "start_index": 0,
+      "end_index": 1903,
+      "word_count": 314
+    },
+    {
+      "filename": "sec655_report_on_implementation_of_contributions_to_the_department_of_defense_military_.txt",
+      "start_index": 1905,
+      "end_index": 3666,
+      "word_count": 281
+    }
+  ]
+}

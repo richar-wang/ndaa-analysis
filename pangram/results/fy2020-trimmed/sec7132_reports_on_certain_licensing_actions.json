@@ -1,0 +1,36 @@
+{
+  "text": "22 USC 9265a . Reports on certain licensing actions. (a) Report Required . (1) President. Time period. In general . Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the President shall submit to the committees specified in paragraph (2) a report on the operation of the system for issuing licenses for transactions under covered regulatory provisions during the preceding 180-day period that includes - (A) the number and types of such licenses applied for during that period; and \n (B) the number of such licenses issued during that period and information identifying the person receiving each such license. \n \n (2) Committees specified . The committees specified in this paragraph are the following: (A) The Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives. \n (B) The Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate. \n \n \n (b) Deadline. Submission of Copies of Licenses on Request . The Secretary of the Treasury shall expeditiously provide a copy of any license identified in a report required by subsection (a)(1) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate if an appropriate Member of Congress requests a copy of that license not later than 30 days after submission of the report. \n (c) Form . Each report required by subsection (a), and each copy of a license submitted under subsection (b), shall be submitted in unclassified form but may include a classified annex. \n (d) Definitions . In this section: (1) Appropriate member of congress . The term \u201c appropriate Member of Congress \u201d means - (A) the chairman or ranking member of the Committee on Financial Services of the House of Representatives; or \n (B) the chairman or ranking member of the Committee on Banking, Housing, and Urban Affairs of the Senate. \n \n (2) Covered regulatory provision . The term \u201c covered regulatory provision \u201d means any of the following provisions, as in effect on the day before the date of the enactment of this Act and as such provisions relate to North Korea: (A) Part 743, 744, or 746 of title 15, Code of Federal Regulations . \n (B) Part 510 of title 31, Code of Federal Regulations . \n (C) Any other provision of title 31, Code of Federal Regulations .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "22 USC 9265a . Reports on certain licensing actions. (a) Report Required . (1) President. Time period. In general . Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the President shall submit to the committees specified in paragraph (2) a report on the operation of the system for issuing licenses for transactions under covered regulatory provisions during the preceding 180-day period that includes - (A) the number and types of such licenses applied for during that period; and \n (B) the number of such licenses issued during that period and information identifying the person receiving each such license. \n \n (2) Committees specified . The committees specified in this paragraph are the following: (A) The Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives. \n (B) The Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate. \n \n \n (b) Deadline. Submission of Copies of Licenses on Request . The Secretary of the Treasury shall expeditiously provide a copy of any license identified in a report required by subsection (a)(1) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate if an appropriate Member of Congress requests a copy of that license not later than 30 days after submission of the report. \n (c) Form . Each report required by subsection (a), and each copy of a license submitted under subsection (b), shall be submitted in unclassified form but may include a classified annex. \n (d) Definitions . In this section: (1) Appropriate member of congress . The term \u201c appropriate Member of Congress \u201d means - (A) the chairman or ranking member of the Committee on Financial Services of the House of Representatives; or \n (B) the chairman or ranking member of the Committee on Banking, Housing, and Urban Affairs of the Senate. \n \n (2) Covered regulatory provision .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005950387966419969,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2011,
+      "word_count": 326,
+      "token_length": 440
+    },
+    {
+      "text": " The term \u201c covered regulatory provision \u201d means any of the following provisions, as in effect on the day before the date of the enactment of this Act and as such provisions relate to North Korea: (A) Part 743, 744, or 746 of title 15, Code of Federal Regulations . \n (B) Part 510 of title 31, Code of Federal Regulations . \n (C) Any other provision of title 31, Code of Federal Regulations .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0059190671890974045,
+      "confidence": "High",
+      "start_index": 2011,
+      "end_index": 2403,
+      "word_count": 73,
+      "token_length": 109
+    }
+  ],
+  "_submission_type": "solo"
+}

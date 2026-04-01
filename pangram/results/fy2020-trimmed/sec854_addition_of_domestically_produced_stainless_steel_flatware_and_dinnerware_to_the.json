@@ -1,0 +1,36 @@
+{
+  "text": "Addition of domestically produced stainless steel flatware and dinnerware to the berry amendment. (a) Addition of Domestically Produced Stainless Steel Flatware and Dinnerware . (1) In general . Section 2533a(b) of title 10, United States Code , is amended by adding at the end the following new paragraphs: \u201c(3) Stainless steel flatware. \n \u201c(4) Dinnerware.\u201d \n . \n (2) 10 USC 2533a note . Applicability . Paragraphs (3) and (4) of section 2533a(b) of title 10, United States Code , as added by paragraph (1), shall apply with respect to contracts entered into on or after the date occurring 1 year after the date of the enactment of this Act. \n (3) 10 USC 2533a note . Repeal . Effective September 30, 2023, such paragraphs (3) and (4) are repealed . \n \n (b) Report . (1) Survey. Cost assessment. Recommenda- tions. Report required . Not later than October 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report that provides a market survey, cost assessment, description of national security considerations, and a recommendation regarding whether the procurement of dinnerware and stainless steel flatware should be limited to sources in the United States. \n (2) Analysis. Contents . The report required under paragraph (1) shall include an analysis of the following with respect to dinnerware and stainless steel flatware: (A) The extent to which such items have commercial applications. \n (B) The number of such items to be procured by current programs of record. \n (C) The criticality of such items to a military unit\u2019s mission accomplishment. \n (D) Cost estimate. The estimated cost and other considerations of reconstituting the production capability of such items, if not maintained in the United States. \n (E) National security regulations or restrictions imposed on such items that may not be imposed on such items if provided by a competitor outside the United States. \n (F) Federal, State, and local government regulations that are not related to national security that are imposed on such items that may not be imposed on a competitor outside the United States. \n (G) The extent to which such items is fielded in current programs of record. \n (H) The extent to which such items can be procured as and when needed in satisfactory quality and sufficient quantity at United States market prices. \n (I) The benefits accrued to the Department of Defense and the defense industrial base to procure such items from sources outside the United States.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Addition of domestically produced stainless steel flatware and dinnerware to the berry amendment. (a) Addition of Domestically Produced Stainless Steel Flatware and Dinnerware . (1) In general . Section 2533a(b) of title 10, United States Code , is amended by adding at the end the following new paragraphs: \u201c(3) Stainless steel flatware. \n \u201c(4) Dinnerware.\u201d \n . \n (2) 10 USC 2533a note . Applicability . Paragraphs (3) and (4) of section 2533a(b) of title 10, United States Code , as added by paragraph (1), shall apply with respect to contracts entered into on or after the date occurring 1 year after the date of the enactment of this Act. \n (3) 10 USC 2533a note . Repeal . Effective September 30, 2023, such paragraphs (3) and (4) are repealed . \n \n (b) Report . (1) Survey. Cost assessment. Recommenda- tions. Report required . Not later than October 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report that provides a market survey, cost assessment, description of national security considerations, and a recommendation regarding whether the procurement of dinnerware and stainless steel flatware should be limited to sources in the United States. \n (2) Analysis. Contents . The report required under paragraph (1) shall include an analysis of the following with respect to dinnerware and stainless steel flatware: (A) The extent to which such items have commercial applications. \n (B) The number of such items to be procured by current programs of record. \n (C) The criticality of such items to a military unit\u2019s mission accomplishment. \n (D) Cost estimate. The estimated cost and other considerations of reconstituting the production capability of such items, if not maintained in the United States. \n (E) National security regulations or restrictions imposed on such items that may not be imposed on such items if provided by a competitor outside the United States.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004771255230640664,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1919,
+      "word_count": 304,
+      "token_length": 474
+    },
+    {
+      "text": " \n (F) Federal, State, and local government regulations that are not related to national security that are imposed on such items that may not be imposed on a competitor outside the United States. \n (G) The extent to which such items is fielded in current programs of record. \n (H) The extent to which such items can be procured as and when needed in satisfactory quality and sufficient quantity at United States market prices. \n (I) The benefits accrued to the Department of Defense and the defense industrial base to procure such items from sources outside the United States.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004831572761759162,
+      "confidence": "High",
+      "start_index": 1919,
+      "end_index": 2495,
+      "word_count": 95,
+      "token_length": 120
+    }
+  ],
+  "_submission_type": "solo"
+}

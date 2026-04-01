@@ -1,0 +1,71 @@
+{
+  "text": "\u201c\u00a7\u202f1553a. 10 USC 1553a . Review of a request for upgrade of discharge or dismissal \u201c(a) Establishment . The Secretary of Defense shall establish a process by which to conduct a final review of a request for an upgrade in the characterization of a discharge or dismissal. \n \u201c(b) Consideration; Recommendation . (1) Upon the request of a petitioner, the Secretary of Defense shall review the findings and decisions of the boards established under sections 1552 and 1553 of this title regarding the final review of a request for an upgrade in the characterization of a discharge or dismissal. \n \u201c(2) The Secretary of Defense may recommend that the Secretary of the military department concerned upgrade the characterization of the discharge or dismissal of the petitioner if the Secretary of Defense determines that such recommendation is appropriate after review under paragraph (1). \n \n \u201c(c) Definitions . In this section: \u201c(1) The term \u2018 final review of a request for an upgrade in the characterization of a discharge or dismissal \u2019 means a request by a petitioner for an upgrade to the characterization of a discharge or dismissal - \u201c(A) that was not granted under sections 1552 and 1553 of this title; and \n \u201c(B) regarding which the Secretary of Defense determines the petitioner has exhausted all remedies available to the petitioner under sections 1552 and 1553 of this title. \n \n \u201c(2) The term \u2018 petitioner \u2019 means a member or former member of the armed forces (or if the member or former member is dead, the surviving spouse, next of kin, or legal representative of the member or former member) whose request for an upgrade to the characterization of a discharge or dismissal was not granted under sections 1552 and 1553 of this title.\u201d\n\nProhibition on reduction in the number of personnel assigned to duty with a service review agency. (a) Prohibition . Section 1559(a) of title 10, United States Code , is amended - (1) by striking \u201c December 31, 2019 \u201d and inserting \u201c December 31, 2025 \u201d; \n (2) by striking \u201c that agency until - \u201d and inserting \u201c that agency. \u201d; and \n (3) by striking subsections (1) and (2). \n \n (b) Plans. Report . (1) Report required . Not later than 180 days after the enactment of this Act, the Secretary of each military department shall submit a report to the Committees on Armed Services of the Senate and House of Representatives that details a plan to - (A) reduce the backlog of applications before the service review agency of the military department concerned; and \n (B) Deadline. maintain the resources required to meet the timeliness standards for disposition of applications before the Corrections Boards under section 1557 of title 10, United States Code , not later than October 1, 2021. \n \n (2) Elements . Each report under this subsection shall include the following: (A) A description of the current backlog of applications before the service review agency of the military department concerned. \n (B) The number of personnel required to meet the deadline described in paragraph (1)(B). \n (C) The plan of the Secretary concerned to modernize the application and review system of the service review agency of the military department concerned.\n\nTraining of members of boards for correction of military records and discharge review boards on sexual trauma, intimate partner violence, spousal abuse, and related matters. (a) 10 USC 1552 note . Boards for Correction of Military Records . The curriculum of training for members of boards for the correction of military records under section 534(c) of the National Defense Authorization Act for Fiscal Year 2017 ( 10 U.S.C. 1552 note ) shall include training on each of the following: (1) Sexual trauma. \n (2) Intimate partner violence. \n (3) Spousal abuse. \n (4) The various responses of individuals to trauma. \n \n (b) 10 USC 1553 note . Discharge Review Boards . (1) In general . Each Secretary concerned shall develop and provide training for members of discharge review boards under section 1553 of title 10, United States Code , that are under the jurisdiction of such Secretary on each of the following: (A) Sexual trauma. \n (B) Intimate partner violence. \n (C) Spousal abuse. \n (D) The various responses of individuals to trauma. \n \n (2) Uniformity of training . The Secretary of Defense and the Secretary of Homeland Security shall jointly ensure that the training developed and provided pursuant to this subsection is, to the extent practicable, uniform. \n (3) Secretary concerned defined . In this subsection, the term \u201c Secretary concerned \u201d has the meaning given that term in section 101(a)(9) of title 10, United States Code .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "\u201c\u00a7\u202f1553a. 10 USC 1553a . Review of a request for upgrade of discharge or dismissal \u201c(a) Establishment . The Secretary of Defense shall establish a process by which to conduct a final review of a request for an upgrade in the characterization of a discharge or dismissal. \n \u201c(b) Consideration; Recommendation . (1) Upon the request of a petitioner, the Secretary of Defense shall review the findings and decisions of the boards established under sections 1552 and 1553 of this title regarding the final review of a request for an upgrade in the characterization of a discharge or dismissal. \n \u201c(2) The Secretary of Defense may recommend that the Secretary of the military department concerned upgrade the characterization of the discharge or dismissal of the petitioner if the Secretary of Defense determines that such recommendation is appropriate after review under paragraph (1). \n \n \u201c(c) Definitions . In this section: \u201c(1) The term \u2018 final review of a request for an upgrade in the characterization of a discharge or dismissal \u2019 means a request by a petitioner for an upgrade to the characterization of a discharge or dismissal - \u201c(A) that was not granted under sections 1552 and 1553 of this title; and \n \u201c(B) regarding which the Secretary of Defense determines the petitioner has exhausted all remedies available to the petitioner under sections 1552 and 1553 of this title. \n \n \u201c(2) The term \u2018 petitioner \u2019 means a member or former member of the armed forces (or if the member or former member is dead, the surviving spouse, next of kin, or legal representative of the member or former member) whose request for an upgrade to the characterization of a discharge or dismissal was not granted under sections 1552 and 1553 of this title.\u201d\n\nProhibition on reduction in the number of personnel assigned to duty with a service review agency. (a) Prohibition . Section 1559(a) of title 10, United States Code , is amended - (1) by striking \u201c December 31, 2019 \u201d and inserting \u201c December 31, 2025 \u201d; \n (2) by striking \u201c that agency until - \u201d and inserting \u201c that agency. \u201d;",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005143133367204831,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2072,
+      "word_count": 351,
+      "token_length": 498
+    },
+    {
+      "text": " and \n (3) by striking subsections (1) and (2). \n \n (b) Plans. Report . (1) Report required . Not later than 180 days after the enactment of this Act, the Secretary of each military department shall submit a report to the Committees on Armed Services of the Senate and House of Representatives that details a plan to - (A) reduce the backlog of applications before the service review agency of the military department concerned; and \n (B) Deadline. maintain the resources required to meet the timeliness standards for disposition of applications before the Corrections Boards under section 1557 of title 10, United States Code , not later than October 1, 2021. \n \n (2) Elements . Each report under this subsection shall include the following: (A) A description of the current backlog of applications before the service review agency of the military department concerned. \n (B) The number of personnel required to meet the deadline described in paragraph (1)(B). \n (C) The plan of the Secretary concerned to modernize the application and review system of the service review agency of the military department concerned.\n\nTraining of members of boards for correction of military records and discharge review boards on sexual trauma, intimate partner violence, spousal abuse, and related matters. (a) 10 USC 1552 note . Boards for Correction of Military Records . The curriculum of training for members of boards for the correction of military records under section 534(c) of the National Defense Authorization Act for Fiscal Year 2017 ( 10 U.S.C. 1552 note ) shall include training on each of the following: (1) Sexual trauma. \n (2) Intimate partner violence. \n (3) Spousal abuse. \n (4) The various responses of individuals to trauma. \n \n (b) 10 USC 1553 note . Discharge Review Boards . (1) In general . Each Secretary concerned shall develop and provide training for members of discharge review boards under section 1553 of title 10, United States Code , that are under the jurisdiction of such Secretary on each of the following: (A) Sexual trauma. \n (B) Intimate partner violence.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005340287632188173,
+      "confidence": "High",
+      "start_index": 2072,
+      "end_index": 4153,
+      "word_count": 332,
+      "token_length": 497
+    },
+    {
+      "text": " \n (C) Spousal abuse. \n (D) The various responses of individuals to trauma. \n \n (2) Uniformity of training . The Secretary of Defense and the Secretary of Homeland Security shall jointly ensure that the training developed and provided pursuant to this subsection is, to the extent practicable, uniform. \n (3) Secretary concerned defined . In this subsection, the term \u201c Secretary concerned \u201d has the meaning given that term in section 101(a)(9) of title 10, United States Code .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00534302880987525,
+      "confidence": "High",
+      "start_index": 4153,
+      "end_index": 4631,
+      "word_count": 75,
+      "token_length": 115
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1553a_10_usc_1553a_review_of_a_request_for_upgrade_of_discharge_or_dismissal.txt",
+    "sec524_prohibition_on_reduction_in_the_number_of_personnel_assigned_to_duty_with_a_serv.txt",
+    "sec525_training_of_members_of_boards_for_correction_of_military_records_and_discharge_r.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1553a_10_usc_1553a_review_of_a_request_for_upgrade_of_discharge_or_dismissal.txt",
+      "start_index": 0,
+      "end_index": 1742,
+      "word_count": 290
+    },
+    {
+      "filename": "sec524_prohibition_on_reduction_in_the_number_of_personnel_assigned_to_duty_with_a_serv.txt",
+      "start_index": 1744,
+      "end_index": 3189,
+      "word_count": 238
+    },
+    {
+      "filename": "sec525_training_of_members_of_boards_for_correction_of_military_records_and_discharge_r.txt",
+      "start_index": 3191,
+      "end_index": 4631,
+      "word_count": 230
+    }
+  ]
+}

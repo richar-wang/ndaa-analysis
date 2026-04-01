@@ -1,0 +1,36 @@
+{
+  "text": "Modification to the defense research and development rapid innovation program. (a) Types of Awards; Award Size; Limitation on Certain Awards . Section 2359a of title 10, United States Code , is amended - (1) in subsection (a)(1), by inserting \u201c phase II Small Business Technology Transfer Program projects, \u201d after \u201c projects, \u201d; \n (2) in subsection (b) - (A) in paragraph (3), by striking \u201c $3,000,000 \u201d and all that follows through the period at the end and inserting \u201c $6,000,000. \u201d; and \n (B) by adding at the end the following new paragraph: \u201c(7) A preference under the program for funding small business concerns.\u201d \n ; and \n \n (3) in subsection (d) - (A) by striking \u201c Subject to \u201d and inserting \u201c (1) Subject to \u201d; \n (B) in paragraph (1), as so designated, by inserting \u201c and to the limitation under paragraph (2) \u201d after \u201c for such purpose \u201d; and \n (C) by adding at the end the following new paragraph: \u201c(2) During any fiscal year, the total amount of awards in an amount greater than $3,000,000 made under the program established under subsection (a) may not exceed 25 percent of the amount made available to carry out such program during such fiscal year.\u201d \n . \n \n \n (b) Report . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the program established under section 2359a(a) of title 10, United States Code (commonly known as the \u201cDefense Research and Development Rapid Innovation Program\u201d), which shall include - (1) with respect to the two fiscal years preceding the submission of the report - (A) a description of the total number of proposals funded under the program; \n (B) the percent of funds made available under the program for phase II Small Business Innovation Research Program projects (as defined under section 9 of the Small Business Act ( 15 U.S.C. 638 )); and \n (C) List. a list of phase II Small Business Innovation Research Program projects that received funding under the program that were included in major defense acquisition programs (as defined in section 2430 of title 10, United States Code ) and other defense acquisition programs that meet critical national security needs; and \n \n (2) Assessment. an assessment on the effectiveness of the program in stimulating innovative technologies, reducing acquisition or lifecycle costs, addressing technical risk, and improving the timeliness and thoroughness of test and evaluation outcomes.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Modification to the defense research and development rapid innovation program. (a) Types of Awards; Award Size; Limitation on Certain Awards . Section 2359a of title 10, United States Code , is amended - (1) in subsection (a)(1), by inserting \u201c phase II Small Business Technology Transfer Program projects, \u201d after \u201c projects, \u201d; \n (2) in subsection (b) - (A) in paragraph (3), by striking \u201c $3,000,000 \u201d and all that follows through the period at the end and inserting \u201c $6,000,000. \u201d; and \n (B) by adding at the end the following new paragraph: \u201c(7) A preference under the program for funding small business concerns.\u201d \n ; and \n \n (3) in subsection (d) - (A) by striking \u201c Subject to \u201d and inserting \u201c (1) Subject to \u201d; \n (B) in paragraph (1), as so designated, by inserting \u201c and to the limitation under paragraph (2) \u201d after \u201c for such purpose \u201d; and \n (C) by adding at the end the following new paragraph: \u201c(2) During any fiscal year, the total amount of awards in an amount greater than $3,000,000 made under the program established under subsection (a) may not exceed 25 percent of the amount made available to carry out such program during such fiscal year.\u201d \n . \n \n \n (b) Report . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the program established under section 2359a(a) of title 10, United States Code (commonly known as the \u201cDefense Research and Development Rapid Innovation Program\u201d), which shall include - (1) with respect to the two fiscal years preceding the submission of the report - (A) a description of the total number of proposals funded under the program; \n (B) the percent of funds made available under the program for phase II Small Business Innovation Research Program projects (as defined under section 9 of the Small Business Act ( 15 U.S.C. 638 )); and \n (C) List.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006393485120497644,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1908,
+      "word_count": 327,
+      "token_length": 493
+    },
+    {
+      "text": " a list of phase II Small Business Innovation Research Program projects that received funding under the program that were included in major defense acquisition programs (as defined in section 2430 of title 10, United States Code ) and other defense acquisition programs that meet critical national security needs; and \n \n (2) Assessment. an assessment on the effectiveness of the program in stimulating innovative technologies, reducing acquisition or lifecycle costs, addressing technical risk, and improving the timeliness and thoroughness of test and evaluation outcomes.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0064435177482664585,
+      "confidence": "High",
+      "start_index": 1908,
+      "end_index": 2482,
+      "word_count": 82,
+      "token_length": 105
+    }
+  ],
+  "_submission_type": "solo"
+}

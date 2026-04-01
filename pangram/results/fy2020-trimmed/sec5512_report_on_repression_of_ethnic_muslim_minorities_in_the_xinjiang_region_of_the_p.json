@@ -1,0 +1,36 @@
+{
+  "text": "Report on repression of ethnic muslim minorities in the xinjiang region of the people\u2019s republic of china. (a) Consultation. Report . Not later than 150 days after the date of the enactment of this Act, consistent with the protection of intelligence sources and methods, the Director of National Intelligence shall, in consultation with the Secretary of State, submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on activity by the People\u2019s Republic \nof China to repress ethnic Muslim minorities in the Xinjiang region of China. \n (b) Assessments. Contents . The report under subsection (a) shall include the following: (1) An assessment of the number of individuals detained in \u201cpolitical reeducation camps\u201d, and the conditions in such camps for detainees, in the Xinjiang region of China, including whether detainees endure torture, forced renunciation of faith, or other mistreatment. \n (2) A description, as possible, of the geographic location of such camps. \n (3) A description, as possible, of the methods used by China to \u201creeducate\u201d detainees and the elements of China responsible for such \u201creeducation\u201d. \n (4) A description of any forced labor in such camps, and any labor performed in regional factories for low wages under the threat of being sent back to \u201cpolitical reeducation camps\u201d. \n (5) An assessment of the level of access China grants to foreign persons observing the situation in Xinjiang and a description of measures used to impede efforts to monitor the conditions in Xinjiang. \n (6) An assessment of the surveillance, detection, and control methods used by China to target ethnic minorities, including new \u201chigh-tech\u201d policing models and a description of any civil liberties or privacy protections provided under such models. \n (7) An assessment and identification of the technological and financial support provided by United States-based companies, including technological support for the development of facial recognition capabilities or technologies for digital surveillance, social control, or censorship, and financial support, including from financial institutions, investment vehicles, and pension funds, to China-based companies or Chinese government entities providing material support to the digital surveillance or repression of Uyghur and other ethnic minorities in Xinjiang by the Xinjiang authorities. \n \n (c) Coordination . The Director of National Intelligence shall carry out subsection (a) in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, and the head of any other agency of the Federal Government that the Director of National Intelligence determines appropriate. \n (d) Form . The report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on repression of ethnic muslim minorities in the xinjiang region of the people\u2019s republic of china. (a) Consultation. Report . Not later than 150 days after the date of the enactment of this Act, consistent with the protection of intelligence sources and methods, the Director of National Intelligence shall, in consultation with the Secretary of State, submit to the congressional intelligence committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on activity by the People\u2019s Republic \nof China to repress ethnic Muslim minorities in the Xinjiang region of China. \n (b) Assessments. Contents . The report under subsection (a) shall include the following: (1) An assessment of the number of individuals detained in \u201cpolitical reeducation camps\u201d, and the conditions in such camps for detainees, in the Xinjiang region of China, including whether detainees endure torture, forced renunciation of faith, or other mistreatment. \n (2) A description, as possible, of the geographic location of such camps. \n (3) A description, as possible, of the methods used by China to \u201creeducate\u201d detainees and the elements of China responsible for such \u201creeducation\u201d. \n (4) A description of any forced labor in such camps, and any labor performed in regional factories for low wages under the threat of being sent back to \u201cpolitical reeducation camps\u201d. \n (5) An assessment of the level of access China grants to foreign persons observing the situation in Xinjiang and a description of measures used to impede efforts to monitor the conditions in Xinjiang. \n (6) An assessment of the surveillance, detection, and control methods used by China to target ethnic minorities, including new \u201chigh-tech\u201d policing models and a description of any civil liberties or privacy protections provided under such models. \n (7) An assessment and identification of the technological and financial support provided by United States-based companies, including technological support for the development of facial recognition capabilities or technologies for digital surveillance, social control, or censorship, and financial support, including from financial institutions, investment vehicles, and pension funds, to China-based companies or Chinese government entities providing material support to the digital surveillance or repression of Uyghur and other ethnic minorities in Xinjiang by the Xinjiang authorities. \n \n (c) Coordination .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005167342934080146,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2493,
+      "word_count": 368,
+      "token_length": 494
+    },
+    {
+      "text": " The Director of National Intelligence shall carry out subsection (a) in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, and the head of any other agency of the Federal Government that the Director of National Intelligence determines appropriate. \n (d) Form . The report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005311668384820223,
+      "confidence": "High",
+      "start_index": 2493,
+      "end_index": 2997,
+      "word_count": 74,
+      "token_length": 94
+    }
+  ],
+  "_submission_type": "solo"
+}

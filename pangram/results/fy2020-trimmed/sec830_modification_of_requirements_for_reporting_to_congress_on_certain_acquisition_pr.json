@@ -1,0 +1,26 @@
+{
+  "text": "Modification of requirements for reporting to congress on certain acquisition programs. (a) Modification of Report to Congress . Section 2432 of title 10, United States Code , is amended - (1) in subsection (b)(1), by adding after \u201c major defense acquisition programs \u201d the following: \u201c and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars) \u201d; and \n (2) by adding at the end the following new subsections: \u201c(i) Form of Report . A Selected Acquisition Report required under this section shall be submitted in unclassified form without any designation relating to dissemination control, but may contain a classified annex. \n \u201c(j) Termination . The requirements under this section shall terminate after the final submission covering fiscal year 2021.\u201d \n . \n \n (b) Proposal for Reports on Acquisition Programs and Activities . Deadline. Methodology. Not later than October 15, 2020, the Secretary of Defense shall submit to the congressional defense committees a proposal for an alternative methodology for reporting on all acquisition programs that includes - (1) conforming changes from the most recent update of Department of Defense Directive 5000.01 (The Defense Acquisition System) and Department of Defense Instruction 5000.02 (Operation of the Defense Acquisition System); \n (2) the reporting requirements relating to Selected Acquisition Reports under section 2432 of title 10, United States Code ; \n (3) the reporting requirements relating to unit costs under section 2433 of such title; and \n (4) the reporting requirements for acquisition programs that use alternative acquisition pathways or tailored acquisition procedures.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Modification of requirements for reporting to congress on certain acquisition programs. (a) Modification of Report to Congress . Section 2432 of title 10, United States Code , is amended - (1) in subsection (b)(1), by adding after \u201c major defense acquisition programs \u201d the following: \u201c and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars) \u201d; and \n (2) by adding at the end the following new subsections: \u201c(i) Form of Report . A Selected Acquisition Report required under this section shall be submitted in unclassified form without any designation relating to dissemination control, but may contain a classified annex. \n \u201c(j) Termination . The requirements under this section shall terminate after the final submission covering fiscal year 2021.\u201d \n . \n \n (b) Proposal for Reports on Acquisition Programs and Activities . Deadline. Methodology. Not later than October 15, 2020, the Secretary of Defense shall submit to the congressional defense committees a proposal for an alternative methodology for reporting on all acquisition programs that includes - (1) conforming changes from the most recent update of Department of Defense Directive 5000.01 (The Defense Acquisition System) and Department of Defense Instruction 5000.02 (Operation of the Defense Acquisition System); \n (2) the reporting requirements relating to Selected Acquisition Reports under section 2432 of title 10, United States Code ; \n (3) the reporting requirements relating to unit costs under section 2433 of such title; and \n (4) the reporting requirements for acquisition programs that use alternative acquisition pathways or tailored acquisition procedures.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008345800451934338,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1969,
+      "word_count": 291,
+      "token_length": 443
+    }
+  ],
+  "_submission_type": "solo"
+}

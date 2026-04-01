@@ -1,0 +1,54 @@
+{
+  "text": "10 USC 7431 note . Speech disorders of cadets and midshipmen. (a) Testing . The Superintendent of a military service academy shall provide testing for speech disorders to incoming cadets or midshipmen under the jurisdiction of that Superintendent. \n (b) No Effect on Admission . The testing under subsection (a) may not have any effect on admission to a military service academy. \n (c) Results . The Superintendent shall provide each cadet or midshipman under the jurisdiction of that Superintendent the result of the testing under subsection (a) and a list of warfare unrestricted line officer positions and occupation specialities that require successful performance on the speech test. \n (d) Therapy . The Superintendent shall furnish speech therapy to a cadet or midshipman under the jurisdiction of that Superintendent at the election of the cadet or midshipman. \n (e) Lists. Report . Not later than 180 days after the date of the enactment of this Act, the Secretaries of the military departments shall submit to the Committees on Armed Services of the Senate and the House of Representatives a joint report that includes the following: (1) The number of cadets or midshipmen with an identified speech disorder in each military service academy. \n (2) A list of the health care and administrative resources related to speech disorders available to cadets and midshipmen described in paragraph (1). \n (3) A list of positions and specialties described in subsection (c) pursued by the cadets and midshipmen described in paragraph (1) at the time of graduation.\n\n\u201c\u00a7\u202f7422. 10 USC 7422 . Degree granting authority for United States Army Armament Graduate School \u201c(a) Authority . Under regulations prescribed by the Secretary of the Army, the Chancellor of the United States Army Armament Graduate School may, upon the recommendation of the faculty and provost of the school, confer appropriate degrees upon graduates who meet the degree requirements. \n \u201c(b) Limitation . A degree may not be conferred under this section unless - \u201c(1) Recommenda- tions. the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and \n \u201c(2) the United States Army Armament Graduate School is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education. \n \n \u201c(c) Congressional Notification Requirements . (1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives - \u201c(A) Records. a copy of the self-assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education\u2019s National Advisory Committee on Institutional Quality and Integrity; and \n \u201c(B) Recommenda- tions. the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority. \n \n \u201c(2) Reports. Recommenda- tions. Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation. \n \u201c(3) Reports. The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Armament Graduate School to award any new or existing degree.\u201d",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 7431 note . Speech disorders of cadets and midshipmen. (a) Testing . The Superintendent of a military service academy shall provide testing for speech disorders to incoming cadets or midshipmen under the jurisdiction of that Superintendent. \n (b) No Effect on Admission . The testing under subsection (a) may not have any effect on admission to a military service academy. \n (c) Results . The Superintendent shall provide each cadet or midshipman under the jurisdiction of that Superintendent the result of the testing under subsection (a) and a list of warfare unrestricted line officer positions and occupation specialities that require successful performance on the speech test. \n (d) Therapy . The Superintendent shall furnish speech therapy to a cadet or midshipman under the jurisdiction of that Superintendent at the election of the cadet or midshipman. \n (e) Lists. Report . Not later than 180 days after the date of the enactment of this Act, the Secretaries of the military departments shall submit to the Committees on Armed Services of the Senate and the House of Representatives a joint report that includes the following: (1) The number of cadets or midshipmen with an identified speech disorder in each military service academy. \n (2) A list of the health care and administrative resources related to speech disorders available to cadets and midshipmen described in paragraph (1). \n (3) A list of positions and specialties described in subsection (c) pursued by the cadets and midshipmen described in paragraph (1) at the time of graduation.\n\n\u201c\u00a7\u202f7422. 10 USC 7422 . Degree granting authority for United States Army Armament Graduate School \u201c(a) Authority . Under regulations prescribed by the Secretary of the Army, the Chancellor of the United States Army Armament Graduate School may, upon the recommendation of the faculty and provost of the school, confer appropriate degrees upon graduates who meet the degree requirements. \n \u201c(b) Limitation . A degree may not be conferred under this section unless - \u201c(1) Recommenda- tions.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005732276221262474,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2052,
+      "word_count": 324,
+      "token_length": 444
+    },
+    {
+      "text": " the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and \n \u201c(2) the United States Army Armament Graduate School is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education. \n \n \u201c(c) Congressional Notification Requirements . (1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives - \u201c(A) Records. a copy of the self-assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education\u2019s National Advisory Committee on Institutional Quality and Integrity; and \n \u201c(B) Recommenda- tions. the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority. \n \n \u201c(2) Reports. Recommenda- tions. Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation. \n \u201c(3) Reports. The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Armament Graduate School to award any new or existing degree.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006057074894973388,
+      "confidence": "High",
+      "start_index": 2052,
+      "end_index": 3905,
+      "word_count": 268,
+      "token_length": 348
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec558_speech_disorders_of_cadets_and_midshipmen.txt",
+    "sec7422_10_usc_7422_degree_granting_authority_for_united_states_army_armament_graduate_s.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec558_speech_disorders_of_cadets_and_midshipmen.txt",
+      "start_index": 0,
+      "end_index": 1563,
+      "word_count": 247
+    },
+    {
+      "filename": "sec7422_10_usc_7422_degree_granting_authority_for_united_states_army_armament_graduate_s.txt",
+      "start_index": 1565,
+      "end_index": 3905,
+      "word_count": 345
+    }
+  ]
+}

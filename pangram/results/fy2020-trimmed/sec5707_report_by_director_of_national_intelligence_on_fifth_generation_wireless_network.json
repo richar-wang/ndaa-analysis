@@ -1,0 +1,36 @@
+{
+  "text": "Report by director of national intelligence on fifth-generation wireless network technology. (a) Definition of Appropriate Committees of Congress . In this section, the term \u201c appropriate committees of Congress \u201d means - (1) the congressional intelligence committees; \n (2) the Committee on Foreign Relations of the Senate; and \n (3) Committee on Foreign Affairs of the House of Representatives. \n \n (b) Report . Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress a report on - (1) the threat to the national security of the United States posed by the global and regional adoption of fifth-generation wireless network (known as \u201c5G\u201d) technology built by foreign companies; \n (2) the threat to the national security of the United States posed by telecommunications companies that are subject to the jurisdiction of a foreign adversary; and \n (3) possible efforts to mitigate the threat. \n \n (c) Contents . The report under subsection (b) shall include - (1) Timeline. the timeline and scale of global and regional adoption of foreign fifth-generation wireless network technology; \n (2) the implications of such global and regional adoption on the cyber and espionage threat to the United States, the interests of the United States, and the cyber and collection capabilities of the United States; \n (3) the threat to the national security of the United States from acquisition, importation, transfer, installation, or use of any communications technology by any person subject to the jurisdiction of the United States that involves communications technology designed, developed, manufactured or supplied by, controlled by, or subject to, the jurisdiction of a foreign adversary; and \n (4) the effect of possible mitigation efforts, including with respect to - (A) a policy of the United States Government promoting the use of strong, end-to-end encryption for data transmitted over fifth-generation wireless networks; \n (B) a policy of the United States Government promoting or funding free, open-source implementation of fifth-generation wireless network technology; \n (C) subsidies or incentives provided by the United States Government that could be used to promote the adoption of secure fifth-generation wireless network technology developed by companies of the United States or companies of allies of the United States; and \n (D) Strategy. a strategy by the United States Government to reduce foreign influence and political pressure in international standard-setting bodies. \n \n \n (d) Form . The report submitted under subsection (b) shall be submitted in unclassified form, but may include a classified annex.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report by director of national intelligence on fifth-generation wireless network technology. (a) Definition of Appropriate Committees of Congress . In this section, the term \u201c appropriate committees of Congress \u201d means - (1) the congressional intelligence committees; \n (2) the Committee on Foreign Relations of the Senate; and \n (3) Committee on Foreign Affairs of the House of Representatives. \n \n (b) Report . Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress a report on - (1) the threat to the national security of the United States posed by the global and regional adoption of fifth-generation wireless network (known as \u201c5G\u201d) technology built by foreign companies; \n (2) the threat to the national security of the United States posed by telecommunications companies that are subject to the jurisdiction of a foreign adversary; and \n (3) possible efforts to mitigate the threat. \n \n (c) Contents . The report under subsection (b) shall include - (1) Timeline. the timeline and scale of global and regional adoption of foreign fifth-generation wireless network technology; \n (2) the implications of such global and regional adoption on the cyber and espionage threat to the United States, the interests of the United States, and the cyber and collection capabilities of the United States; \n (3) the threat to the national security of the United States from acquisition, importation, transfer, installation, or use of any communications technology by any person subject to the jurisdiction of the United States that involves communications technology designed, developed, manufactured or supplied by, controlled by, or subject to, the jurisdiction of a foreign adversary; and \n (4) the effect of possible mitigation efforts, including with respect to - (A) a policy of the United States Government promoting the use of strong, end-to-end encryption for data transmitted over fifth-generation wireless networks; \n (B) a policy of the United States Government promoting or funding free, open-source implementation of fifth-generation wireless network technology; \n (C) subsidies or incentives provided by the United States Government that could be used to promote the adoption of secure fifth-generation wireless network technology developed by companies of the United States or companies of allies of the United States; and \n (D) Strategy.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0047884303817732465,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2454,
+      "word_count": 367,
+      "token_length": 486
+    },
+    {
+      "text": " a strategy by the United States Government to reduce foreign influence and political pressure in international standard-setting bodies. \n \n \n (d) Form . The report submitted under subsection (b) shall be submitted in unclassified form, but may include a classified annex.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005505911074578762,
+      "confidence": "High",
+      "start_index": 2454,
+      "end_index": 2726,
+      "word_count": 39,
+      "token_length": 55
+    }
+  ],
+  "_submission_type": "solo"
+}

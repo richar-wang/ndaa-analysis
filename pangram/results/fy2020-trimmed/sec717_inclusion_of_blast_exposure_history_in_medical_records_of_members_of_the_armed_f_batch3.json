@@ -1,0 +1,71 @@
+{
+  "text": "10 USC 1071 note . Inclusion of blast exposure history in medical records of members of the armed forces. (a) Coordination. Requirement . If a covered incident occurs with respect to a member of the Armed Forces, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall document blast exposure history in the medical record of the member to assist in determining whether a future illness or injury of the member is service-connected and inform future blast exposure risk mitigation efforts of the Department of Defense. \n (b) Elements . A blast exposure history under subsection (a) shall include, at a minimum, the following: (1) The date of the exposure. \n (2) The duration of the exposure, and, if known, the measured blast pressure experienced by the individual during such exposure. \n (3) Whether the exposure occurred during combat or training. \n \n (c) Report . Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the types of information included in a blast exposure history under subsection (a). \n (d) Covered Incident Defined . In this section, the term \u201c covered incident \u201d means a concussive event or injury that requires a military acute concussive evaluation by a skilled health care provider.\n\n10 USC 1074 note . Comprehensive policy for provision of mental health care to members of the armed forces. (a) Deadline. Policy Required . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall develop and implement a comprehensive policy for the provision of mental health care to members of the Armed Forces. \n (b) Elements . The policy under subsection (a) shall address each of the following: (1) The compliance of health professionals in the military health system engaged in the provision of health care services to members with clinical practice guidelines for - (A) suicide prevention; \n (B) medication-assisted therapy for alcohol use disorders; and \n (C) medication-assisted therapy for opioid use disorders. \n \n (2) The access and availability of mental health care services to members who are victims of sexual assault or domestic violence. \n (3) The availability of naloxone reversal capability on military installations. \n (4) The promotion of referrals of members by civilian health care providers to military medical treatment facilities when such members are - (A) at high risk for suicide and diagnosed with a psychiatric disorder; or \n (B) receiving treatment for opioid use disorders. \n \n (5) The provision of comprehensive behavioral health treatment to members of the reserve components that takes into account the unique challenges associated with the deployment pattern of such members and the difficulty such members encounter post-deployment with respect to accessing such treatment in civilian communities. \n \n (c) Consideration . In developing the policy under subsection (a), the Secretary of Defense shall solicit and consider recommendations from the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff regarding the feasibility of implementation and execution of particular elements of the policy. \n (d) Report . Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the policy under subsection (a).\n\n10 USC 1071 note . Development of partnerships to improve combat casualty care for personnel of the armed forces. (a) Partnerships . (1) In general . The Secretary of Defense, through the Joint Trauma Education and Training Directorate established under section 708 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 10 U.S.C. 1071 note ), may develop partnerships with civilian academic medical centers and large metropolitan teaching hospitals to improve combat casualty care for personnel of the Armed Forces. \n (2) Partnerships with level i trauma centers . In carrying out partnerships under paragraph (1), trauma surgeons and physicians of the Department of Defense may partner with level I civilian trauma centers to provide training and readiness for the next generation of medical providers to treat critically injured burn patients. \n \n (b) Support of Partnerships . The Secretary of Defense may make every effort to support partnerships under the Joint Trauma Education and Training Directorate with academic institutions that have level I civilian trauma centers, specifically those centers with a burn center, that offer burn rotations and clinical experience to provide training and readiness for the next generation of medical providers to treat critically injured burn patients. \n (c) Level I Civilian Trauma Center Defined . In this section, the term \u201c level I civilian trauma center \u201d has the meaning given that term in section 708 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 10 U.S.C. 1071 note ).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "10 USC 1071 note . Inclusion of blast exposure history in medical records of members of the armed forces. (a) Coordination. Requirement . If a covered incident occurs with respect to a member of the Armed Forces, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall document blast exposure history in the medical record of the member to assist in determining whether a future illness or injury of the member is service-connected and inform future blast exposure risk mitigation efforts of the Department of Defense. \n (b) Elements . A blast exposure history under subsection (a) shall include, at a minimum, the following: (1) The date of the exposure. \n (2) The duration of the exposure, and, if known, the measured blast pressure experienced by the individual during such exposure. \n (3) Whether the exposure occurred during combat or training. \n \n (c) Report . Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the types of information included in a blast exposure history under subsection (a). \n (d) Covered Incident Defined . In this section, the term \u201c covered incident \u201d means a concussive event or injury that requires a military acute concussive evaluation by a skilled health care provider.\n\n10 USC 1074 note . Comprehensive policy for provision of mental health care to members of the armed forces. (a) Deadline. Policy Required . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall develop and implement a comprehensive policy for the provision of mental health care to members of the Armed Forces. \n (b) Elements . The policy under subsection (a) shall address each of the following: (1) The compliance of health professionals in the military health system engaged in the provision of health care services to members with clinical practice guidelines for - (A) suicide prevention; \n (B) medication-assisted therapy for alcohol use disorders; and \n (C) medication-assisted therapy for opioid use disorders. \n \n (2) The access and availability of mental health care services to members who are victims of sexual assault or domestic violence.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006193722598254681,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2373,
+      "word_count": 381,
+      "token_length": 497
+    },
+    {
+      "text": " \n (3) The availability of naloxone reversal capability on military installations. \n (4) The promotion of referrals of members by civilian health care providers to military medical treatment facilities when such members are - (A) at high risk for suicide and diagnosed with a psychiatric disorder; or \n (B) receiving treatment for opioid use disorders. \n \n (5) The provision of comprehensive behavioral health treatment to members of the reserve components that takes into account the unique challenges associated with the deployment pattern of such members and the difficulty such members encounter post-deployment with respect to accessing such treatment in civilian communities. \n \n (c) Consideration . In developing the policy under subsection (a), the Secretary of Defense shall solicit and consider recommendations from the Secretaries of the military departments and the Chairman of the Joint Chiefs of Staff regarding the feasibility of implementation and execution of particular elements of the policy. \n (d) Report . Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the policy under subsection (a).\n\n10 USC 1071 note . Development of partnerships to improve combat casualty care for personnel of the armed forces. (a) Partnerships . (1) In general . The Secretary of Defense, through the Joint Trauma Education and Training Directorate established under section 708 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 10 U.S.C. 1071 note ), may develop partnerships with civilian academic medical centers and large metropolitan teaching hospitals to improve combat casualty care for personnel of the Armed Forces. \n (2) Partnerships with level i trauma centers . In carrying out partnerships under paragraph (1), trauma surgeons and physicians of the Department of Defense may partner with level I civilian trauma centers to provide training and readiness for the next generation of medical providers to treat critically injured burn patients. \n \n (b) Support of Partnerships .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005973979821786857,
+      "confidence": "High",
+      "start_index": 2373,
+      "end_index": 4570,
+      "word_count": 334,
+      "token_length": 439
+    },
+    {
+      "text": " The Secretary of Defense may make every effort to support partnerships under the Joint Trauma Education and Training Directorate with academic institutions that have level I civilian trauma centers, specifically those centers with a burn center, that offer burn rotations and clinical experience to provide training and readiness for the next generation of medical providers to treat critically injured burn patients. \n (c) Level I Civilian Trauma Center Defined . In this section, the term \u201c level I civilian trauma center \u201d has the meaning given that term in section 708 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 10 U.S.C. 1071 note ).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005499958448732893,
+      "confidence": "High",
+      "start_index": 4570,
+      "end_index": 5252,
+      "word_count": 110,
+      "token_length": 145
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec717_inclusion_of_blast_exposure_history_in_medical_records_of_members_of_the_armed_f.txt",
+    "sec718_comprehensive_policy_for_provision_of_mental_health_care_to_members_of_the_armed.txt",
+    "sec721_development_of_partnerships_to_improve_combat_casualty_care_for_personnel_of_the.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec717_inclusion_of_blast_exposure_history_in_medical_records_of_members_of_the_armed_f.txt",
+      "start_index": 0,
+      "end_index": 1397,
+      "word_count": 228
+    },
+    {
+      "filename": "sec718_comprehensive_policy_for_provision_of_mental_health_care_to_members_of_the_armed.txt",
+      "start_index": 1399,
+      "end_index": 3657,
+      "word_count": 346
+    },
+    {
+      "filename": "sec721_development_of_partnerships_to_improve_combat_casualty_care_for_personnel_of_the.txt",
+      "start_index": 3659,
+      "end_index": 5252,
+      "word_count": 251
+    }
+  ]
+}

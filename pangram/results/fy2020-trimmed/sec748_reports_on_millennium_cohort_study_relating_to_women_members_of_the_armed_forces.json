@@ -1,0 +1,26 @@
+{
+  "text": "Reports on millennium cohort study relating to women members of the armed forces. (a) Annual Reports Required . Not later than 180 days after the date of the enactment of this Act, and annually thereafter through January 31, 2022, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on findings of the Millennium Cohort Study relating to the gynecological and perinatal health of women members of the Armed Forces. \n (b) Matters Included . Each report under subsection (a) shall include, at a minimum - (1) Summary. a summary of general findings of the Millennium Cohort Study pertaining to gynecological and perinatal health, including diseases, disorders, and conditions that affect the functioning of reproductive systems, maternal mortality and severe maternal morbidity, birth defects, developmental disorders, low birth weight, preterm birth, reduced fertility, menstrual disorders, and other health concerns; and \n (2) identification of - (A) all research projects that have concluded during the year covered by the report and the outcomes of such projects; \n (B) areas in which the Millennium Cohort Study can increase efforts to capture data and produce studies in the field of gynecological and perinatal health of women members of the Armed Forces; and \n (C) activities underway to achieve such efforts. \n \n \n (c) Millennium Cohort Study Defined . In this section, the term \u201c Millennium Cohort Study \u201d means the longitudinal study authorized under section 743 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ( Public Law 105\u2013261 ; 112 Stat. 2074 ) to evaluate data on the health conditions of members of the Armed Forces upon the return of the members from deployment.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Reports on millennium cohort study relating to women members of the armed forces. (a) Annual Reports Required . Not later than 180 days after the date of the enactment of this Act, and annually thereafter through January 31, 2022, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on findings of the Millennium Cohort Study relating to the gynecological and perinatal health of women members of the Armed Forces. \n (b) Matters Included . Each report under subsection (a) shall include, at a minimum - (1) Summary. a summary of general findings of the Millennium Cohort Study pertaining to gynecological and perinatal health, including diseases, disorders, and conditions that affect the functioning of reproductive systems, maternal mortality and severe maternal morbidity, birth defects, developmental disorders, low birth weight, preterm birth, reduced fertility, menstrual disorders, and other health concerns; and \n (2) identification of - (A) all research projects that have concluded during the year covered by the report and the outcomes of such projects; \n (B) areas in which the Millennium Cohort Study can increase efforts to capture data and produce studies in the field of gynecological and perinatal health of women members of the Armed Forces; and \n (C) activities underway to achieve such efforts. \n \n \n (c) Millennium Cohort Study Defined . In this section, the term \u201c Millennium Cohort Study \u201d means the longitudinal study authorized under section 743 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ( Public Law 105\u2013261 ; 112 Stat. 2074 ) to evaluate data on the health conditions of members of the Armed Forces upon the return of the members from deployment.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004946385510265827,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1787,
+      "word_count": 281,
+      "token_length": 384
+    }
+  ],
+  "_submission_type": "solo"
+}

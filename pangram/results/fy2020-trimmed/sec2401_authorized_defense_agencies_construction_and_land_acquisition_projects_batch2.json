@@ -1,0 +1,64 @@
+{
+  "text": "Authorized defense agencies construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n Defense Agencies: Inside the United States \n \n \n \n \n State Installation or Location Amount \n California Beale Air Force Base $33,700,000 \n Camp Pendleton $17,700,000 \n Florida Eglin Air Force Base $16,500,000 \n Hurlburt Field $108,386,000 \n Naval Air Station Key West $16,000,000 \n Guam Joint Region Marianas $19,200,000 \n Hawaii Joint Base Pearl Harbor-Hickam $67,700,000 \n Maryland Fort Detrick $27,846,000 \n Mississippi Columbus Air Force Base $16,800,000 \n North Carolina Camp Lejeune $13,400,000 \n Fort Bragg $84,103,000 \n Oklahoma Tulsa International Airport $18,900,000 \n Rhode Island Quonset State Airport $11,600,000 \n South Carolina Joint Base Charleston $33,300,000 \n South Dakota Ellsworth Air Force Base $24,800,000 \n Virginia Defense Distribution Depot Richmond $98,800,000 \n Joint Expeditionary Base Little Creek - Fort Story $45,604,000 \n Pentagon $28,802,000 \n Training Center Dam Neck $12,770,000 \n Washington Joint Base Lewis-McChord $47,700,000 \n Wisconsin General Mitchell International Airport $25,900,000 \n CONUS Classified Classified Location $82,200,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Defense Agencies: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Germany Geilenkirchen Air Base $30,479,000 \n Germany Ramstein $66,800,000 \n Japan Yokota Air Base $136,411,000 \n Worldwide Classified Classified Location $52,000,000\n\nAuthorized energy resilience and conservation investment program projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code , for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n \n ERCIP Projects: Inside the United States \n \n \n \n \n State Installation or Location Amount \n California Mountain View $9,700,000 \n Naval Air Weapons Station China Lake $8,950,000 \n Naval Support Activity Monterey $10,540,000 \n Hawaii Joint Base Pearl Harbor-Hickam $4,000,000 \n Maryland Naval Support Activity Bethesda $13,840,000 \n South Potomac $18,460,000 \n New Mexico White Sands Missile Range $5,800,000 \n Texas Camp Swift $4,500,000 \n Fort Hood $16,500,000 \n Virginia National Reconnaissance Office Headquarters $66,000 \n Washington Naval Base Kitsap $23,670,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code , for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n ERCIP Projects: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Guam Naval Base Guam $16,970,000 \n Unspecified Worldwide Unspecified Worldwide Locations $150,000,000",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Authorized defense agencies construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n Defense Agencies: Inside the United States \n \n \n \n \n State Installation or Location Amount \n California Beale Air Force Base $33,700,000 \n Camp Pendleton $17,700,000 \n Florida Eglin Air Force Base $16,500,000 \n Hurlburt Field $108,386,000 \n Naval Air Station Key West $16,000,000 \n Guam Joint Region Marianas $19,200,000 \n Hawaii Joint Base Pearl Harbor-Hickam $67,700,000 \n Maryland Fort Detrick $27,846,000 \n Mississippi Columbus Air Force Base $16,800,000 \n North Carolina Camp Lejeune $13,400,000 \n Fort Bragg $84,103,000 \n Oklahoma Tulsa International Airport $18,900,000 \n Rhode Island Quonset State Airport $11,600,000 \n South Carolina Joint Base Charleston $33,300,000 \n South Dakota Ellsworth Air Force Base $24,800,000 \n Virginia Defense Distribution Depot Richmond $98,800,000 \n Joint Expeditionary Base Little Creek - Fort Story $45,604,000 \n Pentagon $28,802,000 \n Training Center Dam Neck $12,770,000",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013015722101997763,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1449,
+      "word_count": 188,
+      "token_length": 470
+    },
+    {
+      "text": " \n Washington Joint Base Lewis-McChord $47,700,000 \n Wisconsin General Mitchell International Airport $25,900,000 \n CONUS Classified Classified Location $82,200,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Defense Agencies: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Germany Geilenkirchen Air Base $30,479,000 \n Germany Ramstein $66,800,000 \n Japan Yokota Air Base $136,411,000 \n Worldwide Classified Classified Location $52,000,000\n\nAuthorized energy resilience and conservation investment program projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code , for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n \n ERCIP Projects: Inside the United States \n \n \n \n \n State Installation or Location Amount \n California Mountain View $9,700,000 \n Naval Air Weapons Station China Lake $8,950,000 \n Naval Support Activity Monterey $10,540,000 \n Hawaii Joint Base Pearl Harbor-Hickam $4,000,000 \n Maryland Naval Support Activity Bethesda $13,840,000 \n South",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009090364755441744,
+      "confidence": "High",
+      "start_index": 1449,
+      "end_index": 3220,
+      "word_count": 235,
+      "token_length": 481
+    },
+    {
+      "text": " Potomac $18,460,000 \n New Mexico White Sands Missile Range $5,800,000 \n Texas Camp Swift $4,500,000 \n Fort Hood $16,500,000 \n Virginia National Reconnaissance Office Headquarters $66,000 \n Washington Naval Base Kitsap $23,670,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code , for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n ERCIP Projects: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Guam Naval Base Guam $16,970,000 \n Unspecified Worldwide Unspecified Worldwide Locations $150,000,000",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007343953371875815,
+      "confidence": "High",
+      "start_index": 3220,
+      "end_index": 4112,
+      "word_count": 121,
+      "token_length": 262
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec2401_authorized_defense_agencies_construction_and_land_acquisition_projects.txt",
+    "sec2402_authorized_energy_resilience_and_conservation_investment_program_projects.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec2401_authorized_defense_agencies_construction_and_land_acquisition_projects.txt",
+      "start_index": 0,
+      "end_index": 2345,
+      "word_count": 303
+    },
+    {
+      "filename": "sec2402_authorized_energy_resilience_and_conservation_investment_program_projects.txt",
+      "start_index": 2347,
+      "end_index": 4112,
+      "word_count": 241
+    }
+  ]
+}

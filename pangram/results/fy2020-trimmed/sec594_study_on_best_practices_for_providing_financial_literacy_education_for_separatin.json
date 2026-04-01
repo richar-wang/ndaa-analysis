@@ -1,0 +1,26 @@
+{
+  "text": "Study on best practices for providing financial literacy education for separating members of the armed forces. (a) Coordination. Study Required . The Secretary of Defense, and with respect to members of the Coast Guard, in coordination with the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy, shall conduct a study on the best practices to provide financial literacy education for separating members of the Armed Forces. \n (b) Elements . The study required by subsection (a) shall include - (1) Recommenda- tions. an examination, recommendations, and reporting on best practices for providing financial literacy education to separating members of the Armed Forces; and \n (2) detailed current financial literacy programs for separating members of the Armed Forces. \n \n (c) Consultation . In conducting the study required by subsection (a), the Secretaries shall consult with the Financial Literacy and Education Commission of the Department of the Treasury. \n (d) Report . Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the committees on Armed Services of the Senate and the House of Representatives a report on the study under subsection (a). \n (e) Financial Literacy Defined . In this section, the term \u201c financial literacy \u201d means education regarding personal finance including the insurance, credit, loan, banking, career training and education benefits available to veterans.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Study on best practices for providing financial literacy education for separating members of the armed forces. (a) Coordination. Study Required . The Secretary of Defense, and with respect to members of the Coast Guard, in coordination with the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy, shall conduct a study on the best practices to provide financial literacy education for separating members of the Armed Forces. \n (b) Elements . The study required by subsection (a) shall include - (1) Recommenda- tions. an examination, recommendations, and reporting on best practices for providing financial literacy education to separating members of the Armed Forces; and \n (2) detailed current financial literacy programs for separating members of the Armed Forces. \n \n (c) Consultation . In conducting the study required by subsection (a), the Secretaries shall consult with the Financial Literacy and Education Commission of the Department of the Treasury. \n (d) Report . Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the committees on Armed Services of the Senate and the House of Representatives a report on the study under subsection (a). \n (e) Financial Literacy Defined . In this section, the term \u201c financial literacy \u201d means education regarding personal finance including the insurance, credit, loan, banking, career training and education benefits available to veterans.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004765242338180542,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1511,
+      "word_count": 235,
+      "token_length": 300
+    }
+  ],
+  "_submission_type": "solo"
+}

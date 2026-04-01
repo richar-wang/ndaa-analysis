@@ -1,0 +1,71 @@
+{
+  "text": "National missile defense policy. (a) Policy . Subsection (a) of section 1681 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 10 U.S.C. 2431 note ) is amended to read as follows: \u201c(a) Policy . It is the policy of the United States to - \u201c(1) maintain and improve, with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense - \u201c(A) an effective, layered missile defense system capable of defending the territory of the United States against the developing and increasingly complex missile threat posed by rogue states; and \n \u201c(B) an effective regional missile defense system capable of defending the allies, partners, and deployed forces of the United States against increasingly complex missile threats; and \n \n \u201c(2) rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States.\u201d \n \n . \n (b) Deadline. 10 USC 2431 note . Redesignation Requirement . Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to section 1105 of title 31, United States Code , the Secretary of Defense \nshall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight.\n\nLimitation on availability of funds for lower tier air and missile defense sensor. (a) Limitation . Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Army for the lower tier air and missile defense sensor, not more than 75 percent may be obligated or expended until the Secretary of the Army submits the report under subsection (b). \n (b) Time period. Report . The Secretary of the Army shall submit to the congressional defense committees a report on the test and demonstration of lower tier air and missile defense sensors that occurred during the third quarter of fiscal year 2019. Such report shall include the following: \n (1) An explanation of how the test and demonstration was conducted and what the test and demonstration set out to achieve, including - (A) an explanation of the performance specifications used; and \n (B) a description of the emulated threats used in the test and demonstration and how such threats compare to emerging regional air and missile threats. \n \n (2) An explanation of the capability of the sensor system that the Secretary determined to be the winner of the test and demonstration, including with respect to - (A) the capability of such sensor system against key threats and requirements, including whether such sensor system will be delivered with full 360-degree coverage and the ability of such sensor system to detect, track, and surveil targets; \n (B) the estimated procurement and life-cycle costs of operating such sensor system; and \n (C) the cost, timeline, and approach that will be used to integrate the lower tier air and missile defense sensor with other sensors using the Integrated Air and Missile Defense Battle Command System. \n \n (3) An explanation of whether future performance improvements to the lower tier air and missile defense sensor are conditional on intellectual property and how such improvements will be made if the United States does not own such intellectual property.\n\nMissile defense interceptor site in contiguous united states. (a) Report . Not later than January 31, 2020, the Secretary of Defense shall submit to the congressional defense committees a report on the designation made on June 26, 2019, of a preferred potential future missile field site in the contiguous United States from the sites evaluated pursuant to section 227 of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112\u2013239 ; 126 Stat. 1678 ). The report shall address the following: (1) The environmental impact statement prepared pursuant to such section 227. \n (2) The strategic and operational effectiveness of the site, including with respect to the location that is the most advantageous site in providing coverage to the entire contiguous United States, including having the capability to provide shoot-assess-shoot coverage to the entire contiguous United States. \n (3) Construction remediation efforts and impacts to the existing environment at the site. \n (4) The existing infrastructure at the site. \n (5) The costs to construct, equip, and operate the site. \n \n (b) Form . The report under subsection (a) shall be submitted in unclassified form, but may include a classified annex. \n (c) Rule of Construction . Nothing in this section may be construed - (1) as requiring the Secretary of Defense to begin a military construction project relating to the missile defense site in the contiguous United States; or \n (2) as a statement that there is any current military requirement for such a site. \n \n (d) Conforming Repeal . Section 1681 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1776 ) is repealed .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "National missile defense policy. (a) Policy . Subsection (a) of section 1681 of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 10 U.S.C. 2431 note ) is amended to read as follows: \u201c(a) Policy . It is the policy of the United States to - \u201c(1) maintain and improve, with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense - \u201c(A) an effective, layered missile defense system capable of defending the territory of the United States against the developing and increasingly complex missile threat posed by rogue states; and \n \u201c(B) an effective regional missile defense system capable of defending the allies, partners, and deployed forces of the United States against increasingly complex missile threats; and \n \n \u201c(2) rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States.\u201d \n \n . \n (b) Deadline. 10 USC 2431 note . Redesignation Requirement . Not later than the date on which the President submits to Congress the annual budget request of the President for fiscal year 2021 pursuant to section 1105 of title 31, United States Code , the Secretary of Defense \nshall, as the Secretary considers appropriate, redesignate all strategies, policies, programs, and systems under the jurisdiction of the Secretary to reflect that missile defense programs of the United States defend against ballistic, cruise, and hypersonic missiles in all phases of flight.\n\nLimitation on availability of funds for lower tier air and missile defense sensor. (a) Limitation . Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Army for the lower tier air and missile defense sensor, not more than 75 percent may be obligated or expended until the Secretary of the Army submits the report under subsection (b). \n (b) Time period. Report . The Secretary of the Army shall submit to the congressional defense committees a report on the test and demonstration of lower tier air and missile defense sensors that occurred during the third quarter of fiscal year 2019.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004495019240615268,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2210,
+      "word_count": 353,
+      "token_length": 494
+    },
+    {
+      "text": " Such report shall include the following: \n (1) An explanation of how the test and demonstration was conducted and what the test and demonstration set out to achieve, including - (A) an explanation of the performance specifications used; and \n (B) a description of the emulated threats used in the test and demonstration and how such threats compare to emerging regional air and missile threats. \n \n (2) An explanation of the capability of the sensor system that the Secretary determined to be the winner of the test and demonstration, including with respect to - (A) the capability of such sensor system against key threats and requirements, including whether such sensor system will be delivered with full 360-degree coverage and the ability of such sensor system to detect, track, and surveil targets; \n (B) the estimated procurement and life-cycle costs of operating such sensor system; and \n (C) the cost, timeline, and approach that will be used to integrate the lower tier air and missile defense sensor with other sensors using the Integrated Air and Missile Defense Battle Command System. \n \n (3) An explanation of whether future performance improvements to the lower tier air and missile defense sensor are conditional on intellectual property and how such improvements will be made if the United States does not own such intellectual property.\n\nMissile defense interceptor site in contiguous united states. (a) Report . Not later than January 31, 2020, the Secretary of Defense shall submit to the congressional defense committees a report on the designation made on June 26, 2019, of a preferred potential future missile field site in the contiguous United States from the sites evaluated pursuant to section 227 of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112\u2013239 ; 126 Stat. 1678 ). The report shall address the following: (1) The environmental impact statement prepared pursuant to such section 227. \n (2) The strategic and operational effectiveness of the site, including with respect to the location that is the most advantageous site in providing coverage to the entire contiguous United States, including having the capability to provide shoot-assess-shoot coverage to the entire contiguous United States. \n (3) Construction remediation efforts and impacts to the existing environment at the site. \n (4) The existing infrastructure at the site.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004999873668162359,
+      "confidence": "High",
+      "start_index": 2210,
+      "end_index": 4605,
+      "word_count": 372,
+      "token_length": 499
+    },
+    {
+      "text": " \n (5) The costs to construct, equip, and operate the site. \n \n (b) Form . The report under subsection (a) shall be submitted in unclassified form, but may include a classified annex. \n (c) Rule of Construction . Nothing in this section may be construed - (1) as requiring the Secretary of Defense to begin a military construction project relating to the missile defense site in the contiguous United States; or \n (2) as a statement that there is any current military requirement for such a site. \n \n (d) Conforming Repeal . Section 1681 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1776 ) is repealed .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0051920246332883835,
+      "confidence": "High",
+      "start_index": 4605,
+      "end_index": 5258,
+      "word_count": 111,
+      "token_length": 172
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1681_national_missile_defense_policy.txt",
+    "sec1686_limitation_on_availability_of_funds_for_lower_tier_air_and_missile_defense_senso.txt",
+    "sec1691_missile_defense_interceptor_site_in_contiguous_united_states.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1681_national_missile_defense_policy.txt",
+      "start_index": 0,
+      "end_index": 1562,
+      "word_count": 243
+    },
+    {
+      "filename": "sec1686_limitation_on_availability_of_funds_for_lower_tier_air_and_missile_defense_senso.txt",
+      "start_index": 1564,
+      "end_index": 3564,
+      "word_count": 323
+    },
+    {
+      "filename": "sec1691_missile_defense_interceptor_site_in_contiguous_united_states.txt",
+      "start_index": 3566,
+      "end_index": 5258,
+      "word_count": 270
+    }
+  ]
+}

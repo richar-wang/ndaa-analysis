@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 2366a note . Analysis of alternatives pursuant to materiel development decisions. (a) Deadlines. Update. Study. Timeline . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall update existing guidance for analyses of alternatives conducted pursuant to a materiel development decision for a major defense acquisition program to incorporate the following: (1) Time period. Study completion within nine months. \n (2) Study guidance issued by the Director, Cost Assessment and Program Evaluation of a scope designed to provide for reasonable completion of the study within the nine-month period. \n (3) Procedures. Procedures for waiver of the timeline requirements of this subsection on a case-by-case basis if - (A) the subject of the analysis is of extreme technical complexity; \n (B) collection of additional intelligence is required to inform the analysis; \n (C) insufficient technical expertise is available to complete the analysis; or \n (D) Determination. the Secretary determines that there other sufficient reasons for delay of the analysis. \n \n \n (b) Reporting . If an analysis of alternatives cannot be completed within the allotted time, or a waiver is used, the Secretary shall report to the congressional defense committees the following information: (1) Waiver. For a waiver, the basis for use of the waivers, including the reasons why the study cannot be completed within the allotted time. \n (2) Study. Estimates. For a study estimated to take more than nine months - (A) an estimate of when the analysis will be completed; \n (B) an estimate of any additional costs to complete the analysis; and \n (C) other relevant information pertaining to the analysis and its completion. \n \n \n (c) Report on Analyses of Alternatives . (1) Assessment . (A) In general . The Under Secretary of Defense for Acquisition and Sustainment shall engage with an independent entity, including under the Program for Acquisition Innovation Research, to assess the conduct of analyses of alternatives. \n (B) Elements . The assessment required under subparagraph (A) shall - (i) assess the time required to complete analyses of alternatives within the Department of Defense completed over the last five fiscal years, as compared with best practices; \n (ii) Recommenda- tions. provide recommendations and policy options to improve analyses of alternatives; and \n (iii) discuss any other matters as identified by the Under Secretary. \n \n (C) Access to data . The Under Secretary shall ensure that the independent entity is provided access to the data, information, and resources necessary to complete the required analyses and assessment. \n \n (2) Review. Report . Not later than one year after the date of the enactment of this Act, the Under Secretary shall submit to the congressional defense committees a report including the assessment required under paragraph (1) and a review and assessment by the Under Secretary of the findings made in the assessment.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 2366a note . Analysis of alternatives pursuant to materiel development decisions. (a) Deadlines. Update. Study. Timeline . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall update existing guidance for analyses of alternatives conducted pursuant to a materiel development decision for a major defense acquisition program to incorporate the following: (1) Time period. Study completion within nine months. \n (2) Study guidance issued by the Director, Cost Assessment and Program Evaluation of a scope designed to provide for reasonable completion of the study within the nine-month period. \n (3) Procedures. Procedures for waiver of the timeline requirements of this subsection on a case-by-case basis if - (A) the subject of the analysis is of extreme technical complexity; \n (B) collection of additional intelligence is required to inform the analysis; \n (C) insufficient technical expertise is available to complete the analysis; or \n (D) Determination. the Secretary determines that there other sufficient reasons for delay of the analysis. \n \n \n (b) Reporting . If an analysis of alternatives cannot be completed within the allotted time, or a waiver is used, the Secretary shall report to the congressional defense committees the following information: (1) Waiver. For a waiver, the basis for use of the waivers, including the reasons why the study cannot be completed within the allotted time. \n (2) Study. Estimates. For a study estimated to take more than nine months - (A) an estimate of when the analysis will be completed; \n (B) an estimate of any additional costs to complete the analysis; and \n (C) other relevant information pertaining to the analysis and its completion. \n \n \n (c) Report on Analyses of Alternatives . (1) Assessment . (A) In general . The Under Secretary of Defense for Acquisition and Sustainment shall engage with an independent entity, including under the Program for Acquisition Innovation Research, to assess the conduct of analyses of alternatives. \n (B) Elements . The assessment required under subparagraph (A) shall - (i) assess the time required to complete analyses of alternatives within the Department of Defense completed over the last five fiscal years, as compared with best practices; \n (ii) Recommenda- tions.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005060136958491057,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2316,
+      "word_count": 354,
+      "token_length": 496
+    },
+    {
+      "text": " provide recommendations and policy options to improve analyses of alternatives; and \n (iii) discuss any other matters as identified by the Under Secretary. \n \n (C) Access to data . The Under Secretary shall ensure that the independent entity is provided access to the data, information, and resources necessary to complete the required analyses and assessment. \n \n (2) Review. Report . Not later than one year after the date of the enactment of this Act, the Under Secretary shall submit to the congressional defense committees a report including the assessment required under paragraph (1) and a review and assessment by the Under Secretary of the findings made in the assessment.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004700264427810907,
+      "confidence": "High",
+      "start_index": 2316,
+      "end_index": 2998,
+      "word_count": 106,
+      "token_length": 133
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Return to chief information officer of the department of defense of responsibility for business systems and related matters. (a) Return of Responsibility . (1) In general . Section 142(b)(1) of title 10, United States Code , is amended by striking \u201c systems and \u201d each place it appears in subparagraphs (A), (B), and (C). \n (2) Conforming amendments to cmo authorities . Section 132a(b) of such title is amended - (A) in paragraph (2), by striking \u201c performance measurement and management, and business information technology management and improvement activities and programs \u201d and inserting \u201c and performance measurement and management activities and programs \u201d; \n (B) by striking paragraphs (4) and (5); and \n (C) by redesignating paragraphs (6) and (7) as paragraphs (4) and (5), respectively. \n \n \n (b) 10 USC 2223 note . Chief Data Officer Responsibility for DoD Data Sets . (1) In general . In addition to any other functions and responsibilities specified in section 3520(c) of title 44, United States, Code, the Chief Data Officer of the Department of Defense shall also be the official in the Department of Defense \nwith principal responsibility for providing for the availability of common, usable, Defense-wide data sets. \n (2) Access to all dod data . In order to carry out the responsibility specified in paragraph (1), the Chief Data Officer shall have access to all Department of Defense data, including data in connection with warfighting missions and back-office data. \n (3) Responsible to cio . The Chief Data Officer shall report directly to the Chief Information Officer of the Department of Defense in the performance of the responsibility specified in paragraph (1). \n (4) Recommenda- tions. Report . Not later than December 1, 2019, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such recommendations for legislative or administrative action as the Secretary considers appropriate to carry out this subsection.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Return to chief information officer of the department of defense of responsibility for business systems and related matters. (a) Return of Responsibility . (1) In general . Section 142(b)(1) of title 10, United States Code , is amended by striking \u201c systems and \u201d each place it appears in subparagraphs (A), (B), and (C). \n (2) Conforming amendments to cmo authorities . Section 132a(b) of such title is amended - (A) in paragraph (2), by striking \u201c performance measurement and management, and business information technology management and improvement activities and programs \u201d and inserting \u201c and performance measurement and management activities and programs \u201d; \n (B) by striking paragraphs (4) and (5); and \n (C) by redesignating paragraphs (6) and (7) as paragraphs (4) and (5), respectively. \n \n \n (b) 10 USC 2223 note . Chief Data Officer Responsibility for DoD Data Sets . (1) In general . In addition to any other functions and responsibilities specified in section 3520(c) of title 44, United States, Code, the Chief Data Officer of the Department of Defense shall also be the official in the Department of Defense \nwith principal responsibility for providing for the availability of common, usable, Defense-wide data sets. \n (2) Access to all dod data . In order to carry out the responsibility specified in paragraph (1), the Chief Data Officer shall have access to all Department of Defense data, including data in connection with warfighting missions and back-office data. \n (3) Responsible to cio . The Chief Data Officer shall report directly to the Chief Information Officer of the Department of Defense in the performance of the responsibility specified in paragraph (1). \n (4) Recommenda- tions. Report . Not later than December 1, 2019, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such recommendations for legislative or administrative action as the Secretary considers appropriate to carry out this subsection.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004676529671996832,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2031,
+      "word_count": 319,
+      "token_length": 454
+    }
+  ],
+  "_submission_type": "solo"
+}

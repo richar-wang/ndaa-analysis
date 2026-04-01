@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 2283 note . Pilot program for development of technology-enhanced capabilities with partnership intermediaries. (a) Establishment . The Commander of the United States Special Operations Command may use the greater of $2,000,000 or 5 percent of the funds required to be expended by the United States Special Operations Command under section 9(f)(1) of the Small Business Act ( 15 U.S.C. 638(f)(1) ) for a pilot program to increase participation by small business concerns in the development of technology-enhanced capabilities for special operations forces. \n (b) Use of Partnership Intermediary . (1) Authorization . The Commander of the United States Special Operations Command may modify an existing agreement with a partnership intermediary to assist the Commander in carrying out the pilot program under this section, including with respect to the award of contracts and agreements to small business concerns. \n (2) Use of funds . None of the funds referred to in subsection (a) shall be used to pay a partnership intermediary for any administrative costs associated with the pilot program. \n \n (c) Coordination. Report . Not later than October 1, 2020, and October 1, 2021, the Commander of the United States Special Operations Command, in coordination with the Under Secretary of Defense for Research and Engineering, shall submit to the congressional defense committees, the Committee on Small Business of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a report describing any agreement with a partnership intermediary entered into pursuant to this section. The report shall include, for each such agreement, the amount of funds obligated, an identification of the recipient of such funds, and a description of the use of such funds. \n (d) Termination . The authority to carry out a pilot program under this section shall terminate on September 30, 2021. \n (e) Definitions . In this section: (1) Partnership intermediary . The term \u201c partnership intermediary \u201d has the meaning given the term in section 23(c) of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3715(c) ). \n (2) Small business concern . The term \u201c small business concern \u201d has the meaning given the term under section 3 of the Small Business Act ( 15 U.S.C. 632 ). \n (3) Small business innovation research program . The term \u201c Small Business Innovation Research Program \u201d has the meaning given the term in section 9(e)(4) of the Small Business Act ( 15 U.S.C. 638(e) ). \n (4) Small business technology transfer program . The term \u201c Small Business Technology Transfer Program \u201d has the meaning given the term in section 9(e)(6) of the Small Business Act ( 15 U.S.C. 638(e) ). \n (5) Technology-enhanced capability . The term \u201c technology-enhanced capability \u201d means a product, concept, or process that improves the ability of a member of the Armed Forces to achieve an assigned mission.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 2283 note . Pilot program for development of technology-enhanced capabilities with partnership intermediaries. (a) Establishment . The Commander of the United States Special Operations Command may use the greater of $2,000,000 or 5 percent of the funds required to be expended by the United States Special Operations Command under section 9(f)(1) of the Small Business Act ( 15 U.S.C. 638(f)(1) ) for a pilot program to increase participation by small business concerns in the development of technology-enhanced capabilities for special operations forces. \n (b) Use of Partnership Intermediary . (1) Authorization . The Commander of the United States Special Operations Command may modify an existing agreement with a partnership intermediary to assist the Commander in carrying out the pilot program under this section, including with respect to the award of contracts and agreements to small business concerns. \n (2) Use of funds . None of the funds referred to in subsection (a) shall be used to pay a partnership intermediary for any administrative costs associated with the pilot program. \n \n (c) Coordination. Report . Not later than October 1, 2020, and October 1, 2021, the Commander of the United States Special Operations Command, in coordination with the Under Secretary of Defense for Research and Engineering, shall submit to the congressional defense committees, the Committee on Small Business of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a report describing any agreement with a partnership intermediary entered into pursuant to this section. The report shall include, for each such agreement, the amount of funds obligated, an identification of the recipient of such funds, and a description of the use of such funds. \n (d) Termination . The authority to carry out a pilot program under this section shall terminate on September 30, 2021. \n (e) Definitions . In this section: (1) Partnership intermediary . The term \u201c partnership intermediary \u201d has the meaning given the term in section 23(c) of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3715(c) ). \n (2) Small business concern . ",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0046082834513591865,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2188,
+      "word_count": 340,
+      "token_length": 482
+    },
+    {
+      "text": "The term \u201c small business concern \u201d has the meaning given the term under section 3 of the Small Business Act ( 15 U.S.C. 632 ). \n (3) Small business innovation research program . The term \u201c Small Business Innovation Research Program \u201d has the meaning given the term in section 9(e)(4) of the Small Business Act ( 15 U.S.C. 638(e) ). \n (4) Small business technology transfer program . The term \u201c Small Business Technology Transfer Program \u201d has the meaning given the term in section 9(e)(6) of the Small Business Act ( 15 U.S.C. 638(e) ). \n (5) Technology-enhanced capability . The term \u201c technology-enhanced capability \u201d means a product, concept, or process that improves the ability of a member of the Armed Forces to achieve an assigned mission.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005105137825012207,
+      "confidence": "High",
+      "start_index": 2188,
+      "end_index": 2935,
+      "word_count": 128,
+      "token_length": 184
+    }
+  ],
+  "_submission_type": "solo"
+}

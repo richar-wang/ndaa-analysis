@@ -1,0 +1,26 @@
+{
+  "text": "End strengths for selected reserve. (a) In General . The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2020, as follows: (1) The Army National Guard of the United States, 336,000. \n (2) The Army Reserve, 189,500. \n (3) The Navy Reserve, 59,000. \n (4) The Marine Corps Reserve, 38,500. \n (5) The Air National Guard of the United States, 107,700. \n (6) The Air Force Reserve, 70,100. \n (7) The Coast Guard Reserve, 7,000. \n \n (b) End Strength Reductions . The end strengths prescribed by subsection (a) for the Selected Reserve of any reserve component shall be proportionately reduced by - (1) the total authorized strength of units organized to serve as units of the Selected Reserve of such component which are on active duty (other than for training) at the end of the fiscal year; and \n (2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty (other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year. \n \n (c) End Strength Increases . Whenever units or individual members of the Selected Reserve of any reserve component are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be increased proportionately by the total authorized strengths of such units and by the total number of such individual members.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "End strengths for selected reserve. (a) In General . The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2020, as follows: (1) The Army National Guard of the United States, 336,000. \n (2) The Army Reserve, 189,500. \n (3) The Navy Reserve, 59,000. \n (4) The Marine Corps Reserve, 38,500. \n (5) The Air National Guard of the United States, 107,700. \n (6) The Air Force Reserve, 70,100. \n (7) The Coast Guard Reserve, 7,000. \n \n (b) End Strength Reductions . The end strengths prescribed by subsection (a) for the Selected Reserve of any reserve component shall be proportionately reduced by - (1) the total authorized strength of units organized to serve as units of the Selected Reserve of such component which are on active duty (other than for training) at the end of the fiscal year; and \n (2) the total number of individual members not in units organized to serve as units of the Selected Reserve of such component who are on active duty (other than for training or for unsatisfactory participation in training) without their consent at the end of the fiscal year. \n \n (c) End Strength Increases . Whenever units or individual members of the Selected Reserve of any reserve component are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be increased proportionately by the total authorized strengths of such units and by the total number of such individual members.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007753581274300814,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1542,
+      "word_count": 251,
+      "token_length": 381
+    }
+  ],
+  "_submission_type": "solo"
+}

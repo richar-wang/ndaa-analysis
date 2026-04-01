@@ -1,0 +1,26 @@
+{
+  "text": "Report on civilian personnel shortages for appropriate oversight of management of military housing constructed or acquired using alternative authority for acquisition and improvement of military housing. (a) Coordination. Report . Not later than six months after the date of the enactment of this Act, the Secretary of Defense, in coordination \nwith the Secretaries of the military departments, shall submit to the congressional defense committees a report containing the following: (1) Evaluation. An evaluation of the extent to which shortages in the number of civilian personnel performing oversight functions at Department of Defense housing management offices or assigned to housing-related functions at headquarters levels contribute to problems regarding the management of privatized military housing. \n (2) Recommenda- tions. Recommendations to address such personnel shortages - (A) to eliminate problems regarding the management of privatized military housing; \n (B) to ensure oversight of the partner\u2019s execution of the housing agreement and the delivery of all requirements in accordance with implementing guidance provided by the Secretaries of the military departments; \n (C) to improve oversight of and expedite the work-order process; and \n (D) to facilitate a positive experience for members of the Armed Forces and their dependents who reside in privatized military housing. \n \n \n (b) Personnel Recommendations . As part of the recommendations required by subsection (a)(2), the Secretary of Defense shall identify the following: (1) The number of additional personnel who are required, the installation and headquarter locations at which they will be employed, the employment positions they will fill, and the duties they will perform, including a breakdown of duty requirements by function, such as oversight, home inspectors, and maintenance. \n (2) The number of such additional personnel already hired as of the date on which the report is submitted and their duty locations and the timeline for employing the remaining required personnel identified under paragraph (1). \n (3) Cost estimate. The estimated cost of employing the additional required personnel identified under paragraph (1).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Report on civilian personnel shortages for appropriate oversight of management of military housing constructed or acquired using alternative authority for acquisition and improvement of military housing. (a) Coordination. Report . Not later than six months after the date of the enactment of this Act, the Secretary of Defense, in coordination \nwith the Secretaries of the military departments, shall submit to the congressional defense committees a report containing the following: (1) Evaluation. An evaluation of the extent to which shortages in the number of civilian personnel performing oversight functions at Department of Defense housing management offices or assigned to housing-related functions at headquarters levels contribute to problems regarding the management of privatized military housing. \n (2) Recommenda- tions. Recommendations to address such personnel shortages - (A) to eliminate problems regarding the management of privatized military housing; \n (B) to ensure oversight of the partner\u2019s execution of the housing agreement and the delivery of all requirements in accordance with implementing guidance provided by the Secretaries of the military departments; \n (C) to improve oversight of and expedite the work-order process; and \n (D) to facilitate a positive experience for members of the Armed Forces and their dependents who reside in privatized military housing. \n \n \n (b) Personnel Recommendations . As part of the recommendations required by subsection (a)(2), the Secretary of Defense shall identify the following: (1) The number of additional personnel who are required, the installation and headquarter locations at which they will be employed, the employment positions they will fill, and the duties they will perform, including a breakdown of duty requirements by function, such as oversight, home inspectors, and maintenance. \n (2) The number of such additional personnel already hired as of the date on which the report is submitted and their duty locations and the timeline for employing the remaining required personnel identified under paragraph (1). \n (3) Cost estimate. The estimated cost of employing the additional required personnel identified under paragraph (1).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02632821537554264,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2211,
+      "word_count": 317,
+      "token_length": 410
+    }
+  ],
+  "_submission_type": "solo"
+}

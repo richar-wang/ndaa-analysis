@@ -1,0 +1,36 @@
+{
+  "text": "Modification of requirements for longitudinal medical study on blast pressure exposure of members of the armed forces and collection of exposure information. (a) Modification of Study . Section 734 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1444 ) is amended - (1) in subsection (b) - (A) in paragraph (2), by striking \u201c ; and \u201d and inserting a semicolon; \n (B) in paragraph (3), by striking the period at the end and inserting \u201c ; and \u201d; and \n (C) by adding at the end the following new paragraph: \u201c(4) assess the feasibility and advisability of - \u201c(A) uploading the data gathered from the study into the Defense Occupational and Environmental Health Readiness System \u2013 Industrial Hygiene (Doehrs-ih) or similar system; \n \u201c(B) allowing personnel of the Department of Defense and the Department of Veterans Affairs to have access to such system; and \n \u201c(C) ensuring such data is interoperable and can be uploaded into the MHS Genesis electronic health record or successor system of the Department of Defense.\u201d \n \n ; and \n \n (2) in subsection (c) - (A) by redesignating paragraph (2) as paragraph (3); and \n (B) by inserting after paragraph (1) the following new paragraph (2): \u201c(2) Annual status report . Not later than January 1 of each year during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 and ending on the completion of the study under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a status report on the study.\u201d \n . \n \n \n (b) 10 USC 2001 note prec. Collection of Exposure Information . The Secretary of Defense shall collect blast exposure information with respect to a member of the Armed Forces in a manner - (1) consistent with blast exposure measurement training guidance of the Department of Defense, including any guidance developed pursuant to - (A) the longitudinal medical study on blast pressure exposure required by section 734 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1444 ); and \n (B) the review of guidance on blast exposure during training required by section 253 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 10 U.S.C. 2001 note prec.); \n \n (2) compatible with training and operational objectives of the Department; and \n (3) that is automated, to the extent practicable, to minimize the reporting burden of unit commanders.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Modification of requirements for longitudinal medical study on blast pressure exposure of members of the armed forces and collection of exposure information. (a) Modification of Study . Section 734 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1444 ) is amended - (1) in subsection (b) - (A) in paragraph (2), by striking \u201c ; and \u201d and inserting a semicolon; \n (B) in paragraph (3), by striking the period at the end and inserting \u201c ; and \u201d; and \n (C) by adding at the end the following new paragraph: \u201c(4) assess the feasibility and advisability of - \u201c(A) uploading the data gathered from the study into the Defense Occupational and Environmental Health Readiness System \u2013 Industrial Hygiene (Doehrs-ih) or similar system; \n \u201c(B) allowing personnel of the Department of Defense and the Department of Veterans Affairs to have access to such system; and \n \u201c(C) ensuring such data is interoperable and can be uploaded into the MHS Genesis electronic health record or successor system of the Department of Defense.\u201d \n \n ; and \n \n (2) in subsection (c) - (A) by redesignating paragraph (2) as paragraph (3); and \n (B) by inserting after paragraph (1) the following new paragraph (2): \u201c(2) Annual status report . Not later than January 1 of each year during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 and ending on the completion of the study under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a status report on the study.\u201d \n . \n \n \n (b) 10 USC 2001 note prec.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007210289327693837,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1656,
+      "word_count": 278,
+      "token_length": 416
+    },
+    {
+      "text": " Collection of Exposure Information . The Secretary of Defense shall collect blast exposure information with respect to a member of the Armed Forces in a manner - (1) consistent with blast exposure measurement training guidance of the Department of Defense, including any guidance developed pursuant to - (A) the longitudinal medical study on blast pressure exposure required by section 734 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1444 ); and \n (B) the review of guidance on blast exposure during training required by section 253 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 10 U.S.C. 2001 note prec.); \n \n (2) compatible with training and operational objectives of the Department; and \n (3) that is automated, to the extent practicable, to minimize the reporting burden of unit commanders.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006468473157534997,
+      "confidence": "High",
+      "start_index": 1656,
+      "end_index": 2557,
+      "word_count": 144,
+      "token_length": 216
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Hard and deeply buried targets. (a) Deadline. Consultation. Classified information. Briefing Required . (1) In general . Not later than December 1, 2019, the Chairman of the Joint Chiefs of Staff shall, in consultation with the Commander of the United States Strategic Command, \nprovide to the congressional defense committees a classified briefing on hard and deeply buried targets. \n (2) Assessments. Elements . The briefing required by paragraph (1) shall include the following: (A) Estimate. An estimate of the total number of high-value hard and deeply buried targets associated with United States military operations plans. \n (B) A description of the contents, functions, and hardening characteristics of the targets described in subparagraph (A), as well as their level of protection by anti-access and area denial capabilities. \n (C) An assessment of the current ability of, and requirement, cost, and implications for deterrence and strategic stability for, the United States to hold such targets at risk using existing conventional and nuclear capabilities. \n (D) An assessment of the potential ability of, and requirement, cost, and implications for deterrence and strategic stability for, the United States to hold such targets at risk using projected conventional and nuclear capabilities as of 2030. \n \n \n (b) Deadlines. Plan Required . Not later than February 15, 2020, the Secretary of Defense shall develop a plan detailing the requirement, cost, and implications for deterrence and strategic stability for the United States to possess by 2025 the capabilities to pose a credible threat against targets described in the briefing required by subsection (a).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Hard and deeply buried targets. (a) Deadline. Consultation. Classified information. Briefing Required . (1) In general . Not later than December 1, 2019, the Chairman of the Joint Chiefs of Staff shall, in consultation with the Commander of the United States Strategic Command, \nprovide to the congressional defense committees a classified briefing on hard and deeply buried targets. \n (2) Assessments. Elements . The briefing required by paragraph (1) shall include the following: (A) Estimate. An estimate of the total number of high-value hard and deeply buried targets associated with United States military operations plans. \n (B) A description of the contents, functions, and hardening characteristics of the targets described in subparagraph (A), as well as their level of protection by anti-access and area denial capabilities. \n (C) An assessment of the current ability of, and requirement, cost, and implications for deterrence and strategic stability for, the United States to hold such targets at risk using existing conventional and nuclear capabilities. \n (D) An assessment of the potential ability of, and requirement, cost, and implications for deterrence and strategic stability for, the United States to hold such targets at risk using projected conventional and nuclear capabilities as of 2030. \n \n \n (b) Deadlines. Plan Required . Not later than February 15, 2020, the Secretary of Defense shall develop a plan detailing the requirement, cost, and implications for deterrence and strategic stability for the United States to possess by 2025 the capabilities to pose a credible threat against targets described in the briefing required by subsection (a).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0503256656229496,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1673,
+      "word_count": 250,
+      "token_length": 356
+    }
+  ],
+  "_submission_type": "solo"
+}

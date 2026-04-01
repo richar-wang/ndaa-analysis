@@ -1,0 +1,26 @@
+{
+  "text": "Report on shipbuilder training and the defense industrial base. Not Coordination. later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy\u2019s 30-year shipbuilding plan and to maintain \nthe shipbuilding readiness of the defense industrial base. Analyses. Such report shall include each of the following: (1) Estimate. An analysis and estimate of the time and investment required for new shipbuilders to gain proficiency in particular shipbuilding occupational specialties, including detailed information about the occupational specialty requirements necessary for construction of naval surface ship and submarine classes to be included in the Navy\u2019s 30-year shipbuilding plan. \n (2) An analysis of the age demographics and occupational experience level (measured in years of experience) of the shipbuilding defense industrial workforce. \n (3) An analysis of the potential time and investment challenges associated with developing and retaining shipbuilding skills in organizations that lack intermediate levels of shipbuilding experience. \n (4) Recommenda- tions. Recommendations concerning how to address shipbuilder training during periods of demographic transition, including whether emerging technologies, such as augmented reality, may aid in new shipbuilder training. \n (5) Recommenda- tions. Recommendations concerning how to encourage young adults to enter the defense shipbuilding industry and to develop the skills necessary to support the shipbuilding defense industrial base.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Report on shipbuilder training and the defense industrial base. Not Coordination. later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Secretary of Labor, shall submit to the Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives a report on shipbuilder training and hiring requirements necessary to achieve the Navy\u2019s 30-year shipbuilding plan and to maintain \nthe shipbuilding readiness of the defense industrial base. Analyses. Such report shall include each of the following: (1) Estimate. An analysis and estimate of the time and investment required for new shipbuilders to gain proficiency in particular shipbuilding occupational specialties, including detailed information about the occupational specialty requirements necessary for construction of naval surface ship and submarine classes to be included in the Navy\u2019s 30-year shipbuilding plan. \n (2) An analysis of the age demographics and occupational experience level (measured in years of experience) of the shipbuilding defense industrial workforce. \n (3) An analysis of the potential time and investment challenges associated with developing and retaining shipbuilding skills in organizations that lack intermediate levels of shipbuilding experience. \n (4) Recommenda- tions. Recommendations concerning how to address shipbuilder training during periods of demographic transition, including whether emerging technologies, such as augmented reality, may aid in new shipbuilder training. \n (5) Recommenda- tions. Recommendations concerning how to encourage young adults to enter the defense shipbuilding industry and to develop the skills necessary to support the shipbuilding defense industrial base.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0052645509131252766,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1882,
+      "word_count": 265,
+      "token_length": 351
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,71 @@
+{
+  "text": "50 USC 3370 . Supply chain and counterintelligence risk management task force. (a) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means the following: (1) The congressional intelligence committees. \n (2) The Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate. \n (3) The Committee on Armed Services, the Committee on Homeland Security, and the Committee on Oversight and Reform of the House of Representatives. \n \n (b) Requirement to Establish . The Director of National Intelligence shall establish a Supply Chain and Counterintelligence Risk Management Task Force to standardize information sharing between the intelligence community and the acquisition community of the United States Government with respect to the supply chain and counterintelligence risks. \n (c) Members . The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall be composed of - (1) a representative of the Defense Security Service of the Department of Defense; \n (2) a representative of the General Services Administration; \n (3) a representative of the Office of Federal Procurement Policy of the Office of Management and Budget; \n (4) a representative of the Department of Homeland Security; \n (5) a representative of the Federal Bureau of Investigation; \n (6) the Director of the National Counterintelligence and Security Center; and \n (7) any other members the Director of National Intelligence determines appropriate. \n \n (d) Security Clearances . Each member of the Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall have a security clearance at the top secret level and be able to access sensitive compartmented information. \n (e) Annual Report . The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall submit to the appropriate congressional committees an annual report that describes the activities of the Task Force during the previous year, including identification of the supply chain, cybersecurity, and counterintelligence risks shared with the acquisition community of the United States Government by the intelligence community.\n\nJoint intelligence community council. (a) Meetings . Section 101A(d) of the National Security Act of 1947 ( 50 U.S.C. 3022(d) ) is amended - (1) by striking \u201c regular \u201d; and \n (2) by inserting \u201c as the Director considers appropriate \u201d after \u201c Council \u201d. \n \n (b) Report on Function and Utility of the Joint Intelligence Community Council . (1) Coordination. In general . No later than 180 days after the date of the enactment of this Act, the Director of National Intelligence, in coordination with the Executive Office of the President and members of the Joint Intelligence Community Council, shall submit to the congressional intelligence committees a report on the function and utility of the Joint Intelligence Community Council. \n (2) Contents . The report required by paragraph (1) shall include the following: (A) The number of physical or virtual meetings held by the Council per year since the Council\u2019s inception. \n (B) A description of the effect and accomplishments of the Council. \n (C) An explanation of the unique role of the Council relative to other entities, including with respect to the National Security Council and the Executive Committee of the intelligence community. \n (D) Recommenda- tions. Recommendations for the future role and operation of the Council. \n (E) Such other matters relating to the function and utility of the Council as the Director considers appropriate. \n \n (3) Form . The report submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.\n\n50 USC 3316 note . Submission of intelligence community policies. (a) Definitions . In this section: (1) Electronic repository . The term \u201c electronic repository \u201d means the electronic distribution mechanism, in use as of the date of the enactment of this Act, or any successor electronic distribution mechanism, by which the Director of National Intelligence submits to the congressional intelligence committees information. \n (2) Policy . The term \u201c policy \u201d, with respect to the intelligence community, includes unclassified or classified - (A) directives, policy guidance, and policy memoranda of the intelligence community; \n (B) executive correspondence of the Director of National Intelligence; and \n (C) any equivalent successor policy instruments. \n \n \n (b) Deadlines. Submission of Policies . (1) Current policy . Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees using the electronic repository all nonpublicly available policies issued by the Director of National Intelligence for the intelligence community that are in effect as of the date of the submission. \n (2) Continuous updates . Not later than 15 days after the date on which the Director of National Intelligence issues, modifies, or rescinds a policy of the intelligence community, the Director shall - (A) Notification. notify the congressional intelligence committees of such addition, modification, or removal; and \n (B) update the electronic repository with respect to such addition, modification, or removal.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "50 USC 3370 . Supply chain and counterintelligence risk management task force. (a) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means the following: (1) The congressional intelligence committees. \n (2) The Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate. \n (3) The Committee on Armed Services, the Committee on Homeland Security, and the Committee on Oversight and Reform of the House of Representatives. \n \n (b) Requirement to Establish . The Director of National Intelligence shall establish a Supply Chain and Counterintelligence Risk Management Task Force to standardize information sharing between the intelligence community and the acquisition community of the United States Government with respect to the supply chain and counterintelligence risks. \n (c) Members . The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall be composed of - (1) a representative of the Defense Security Service of the Department of Defense; \n (2) a representative of the General Services Administration; \n (3) a representative of the Office of Federal Procurement Policy of the Office of Management and Budget; \n (4) a representative of the Department of Homeland Security; \n (5) a representative of the Federal Bureau of Investigation; \n (6) the Director of the National Counterintelligence and Security Center; and \n (7) any other members the Director of National Intelligence determines appropriate. \n \n (d) Security Clearances . Each member of the Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall have a security clearance at the top secret level and be able to access sensitive compartmented information. \n (e) Annual Report . The Supply Chain and Counterintelligence Risk Management Task Force established under subsection (b) shall submit to the appropriate congressional committees an annual report that describes the activities of the Task Force during the previous year, including identification of the supply chain, cybersecurity, and counterintelligence risks shared with the acquisition community of the United States Government by the intelligence community.\n\nJoint intelligence community council. (a) Meetings .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004528519112425738,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2345,
+      "word_count": 331,
+      "token_length": 459
+    },
+    {
+      "text": " Section 101A(d) of the National Security Act of 1947 ( 50 U.S.C. 3022(d) ) is amended - (1) by striking \u201c regular \u201d; and \n (2) by inserting \u201c as the Director considers appropriate \u201d after \u201c Council \u201d. \n \n (b) Report on Function and Utility of the Joint Intelligence Community Council . (1) Coordination. In general . No later than 180 days after the date of the enactment of this Act, the Director of National Intelligence, in coordination with the Executive Office of the President and members of the Joint Intelligence Community Council, shall submit to the congressional intelligence committees a report on the function and utility of the Joint Intelligence Community Council. \n (2) Contents . The report required by paragraph (1) shall include the following: (A) The number of physical or virtual meetings held by the Council per year since the Council\u2019s inception. \n (B) A description of the effect and accomplishments of the Council. \n (C) An explanation of the unique role of the Council relative to other entities, including with respect to the National Security Council and the Executive Committee of the intelligence community. \n (D) Recommenda- tions. Recommendations for the future role and operation of the Council. \n (E) Such other matters relating to the function and utility of the Council as the Director considers appropriate. \n \n (3) Form . The report submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.\n\n50 USC 3316 note . Submission of intelligence community policies. (a) Definitions . In this section: (1) Electronic repository . The term \u201c electronic repository \u201d means the electronic distribution mechanism, in use as of the date of the enactment of this Act, or any successor electronic distribution mechanism, by which the Director of National Intelligence submits to the congressional intelligence committees information. \n (2) Policy . The term \u201c policy \u201d, with respect to the intelligence community, includes unclassified or classified - (A) directives, policy guidance, and policy memoranda of the intelligence community; \n (B) executive correspondence of the Director of National Intelligence; and \n (C) any equivalent successor policy instruments. \n \n \n (b) Deadlines.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005885614814948948,
+      "confidence": "High",
+      "start_index": 2345,
+      "end_index": 4602,
+      "word_count": 347,
+      "token_length": 494
+    },
+    {
+      "text": " Submission of Policies . (1) Current policy . Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees using the electronic repository all nonpublicly available policies issued by the Director of National Intelligence for the intelligence community that are in effect as of the date of the submission. \n (2) Continuous updates . Not later than 15 days after the date on which the Director of National Intelligence issues, modifies, or rescinds a policy of the intelligence community, the Director shall - (A) Notification. notify the congressional intelligence committees of such addition, modification, or removal; and \n (B) update the electronic repository with respect to such addition, modification, or removal.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00772689119912684,
+      "confidence": "High",
+      "start_index": 4602,
+      "end_index": 5426,
+      "word_count": 124,
+      "token_length": 158
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec6306_supply_chain_and_counterintelligence_risk_management_task_force.txt",
+    "sec6311_joint_intelligence_community_council.txt",
+    "sec6315_submission_of_intelligence_community_policies.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec6306_supply_chain_and_counterintelligence_risk_management_task_force.txt",
+      "start_index": 0,
+      "end_index": 2291,
+      "word_count": 324
+    },
+    {
+      "filename": "sec6311_joint_intelligence_community_council.txt",
+      "start_index": 2293,
+      "end_index": 3823,
+      "word_count": 243
+    },
+    {
+      "filename": "sec6315_submission_of_intelligence_community_policies.txt",
+      "start_index": 3825,
+      "end_index": 5426,
+      "word_count": 235
+    }
+  ]
+}

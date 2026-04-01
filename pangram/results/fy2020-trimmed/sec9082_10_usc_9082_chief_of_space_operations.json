@@ -1,0 +1,36 @@
+{
+  "text": "\u201c\u00a7\u202f9082. 10 USC 9082 . Chief of Space Operations \u201c(a) President. Appointment . (1) There is a Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Air Force. The Chief serves at the pleasure of the President. \n \u201c(2) Time period. The Chief shall be appointed for a term of four years. In time of war or during a national emergency declared by Congress, the Chief may be reappointed for a term of not more than four years. \n \n \u201c(b) Grade . The Chief, while so serving, has the grade of general without vacating the permanent grade of the officer. \n \u201c(c) Relationship to the Secretary of the Air Force . Except as otherwise prescribed by law and subject to section 9013(f) of this title, the Chief performs the duties of such position under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary. \n \u201c(d) Duties . Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief shall - \u201c(1) preside over the Office of the Chief of Space Operations; \n \u201c(2) Plans. Recommenda- tions. transmit the plans and recommendations of the Office of the Chief of Space Operations to the Secretary and advise the Secretary with regard to such plans and recommendations; \n \u201c(3) after approval of the plans or recommendations of the Office of the Chief of Space Operations by the Secretary, act as the agent of the Secretary in carrying them into effect; \n \u201c(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Space Force as the Secretary determines; and \n \u201c(5) perform such other military duties, not otherwise assigned by law, as are assigned to the Chief by the President, the Secretary of Defense, or the Secretary of the Air Force. \n \n \u201c(e) Effective date. Joint Chiefs of Staff . (1) Commencing one year after the date of the enactment of the United States Space Force Act, the Chief of Space Operations shall be a member of the Joint Chiefs of Staff. \n \u201c(2) To the extent that such action does not impair the independence of the Chief in the performance of the duties of the Chief as a member of the Joint Chiefs of Staff pursuant to paragraph (1), the Chief shall inform the Secretary of the Air Force regarding military advice rendered by members of the Joint \nChiefs of Staff on matters affecting the Department of the Air Force. \n \u201c(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.\u201d",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "\u201c\u00a7\u202f9082. 10 USC 9082 . Chief of Space Operations \u201c(a) President. Appointment . (1) There is a Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Air Force. The Chief serves at the pleasure of the President. \n \u201c(2) Time period. The Chief shall be appointed for a term of four years. In time of war or during a national emergency declared by Congress, the Chief may be reappointed for a term of not more than four years. \n \n \u201c(b) Grade . The Chief, while so serving, has the grade of general without vacating the permanent grade of the officer. \n \u201c(c) Relationship to the Secretary of the Air Force . Except as otherwise prescribed by law and subject to section 9013(f) of this title, the Chief performs the duties of such position under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary. \n \u201c(d) Duties . Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief shall - \u201c(1) preside over the Office of the Chief of Space Operations; \n \u201c(2) Plans. Recommenda- tions. transmit the plans and recommendations of the Office of the Chief of Space Operations to the Secretary and advise the Secretary with regard to such plans and recommendations; \n \u201c(3) after approval of the plans or recommendations of the Office of the Chief of Space Operations by the Secretary, act as the agent of the Secretary in carrying them into effect; \n \u201c(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Space Force as the Secretary determines; and \n \u201c(5) perform such other military duties, not otherwise assigned by law, as are assigned to the Chief by the President, the Secretary of Defense, or the Secretary of the Air Force. \n \n \u201c(e) Effective date. Joint Chiefs of Staff . (1) Commencing one year after the date of the enactment of the United States Space Force Act, the Chief of Space Operations shall be a member of the Joint Chiefs of Staff.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005595900830538834,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2166,
+      "word_count": 371,
+      "token_length": 500
+    },
+    {
+      "text": " \n \u201c(2) To the extent that such action does not impair the independence of the Chief in the performance of the duties of the Chief as a member of the Joint Chiefs of Staff pursuant to paragraph (1), the Chief shall inform the Secretary of the Air Force regarding military advice rendered by members of the Joint \nChiefs of Staff on matters affecting the Department of the Air Force. \n \u201c(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005123812356032431,
+      "confidence": "High",
+      "start_index": 2166,
+      "end_index": 2796,
+      "word_count": 105,
+      "token_length": 126
+    }
+  ],
+  "_submission_type": "solo"
+}

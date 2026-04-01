@@ -1,0 +1,36 @@
+{
+  "text": "Improvements to energy employees occupational illness compensation program act of 2000. (a) Office of Ombudsman . Section 3686 of the Energy Employees Occupational Illness Compensation Program Act of 2000 ( 42 U.S.C. 7385s\u201315 ) is amended - (1) in subsection (c) - (A) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and \n (B) by inserting after paragraph (1) the following new paragraph: \u201c(2) To provide guidance and assistance to claimants.\u201d \n ; and \n \n (2) in subsection (h), by striking \u201c 2019 \u201d and inserting \u201c 2020 \u201d. \n \n (b) Advisory Board on Toxic Substances and Worker Health . Section 3687 of the Energy Employees Occupational Illness Compensation Program Act of 2000 ( 42 U.S.C. 7385s\u201316 ) is amended - (1) in subsection (b)(1) - (A) in subparagraph (C), by striking \u201c ; and \u201d and inserting a semicolon; \n (B) in subparagraph (D), by striking \u201c ; and \u201d and inserting a semicolon; and \n (C) by adding after subparagraph (D) the following: \u201c(E) the claims adjudication process generally, including review of procedure manual changes prior to incorporation into the manual and claims for medical benefits; and \n \u201c(F) such other matters as the Secretary considers appropriate; and\u201d \n ; \n \n (2) in subsection (g) - (A) by striking \u201c The Secretary of Energy shall \u201d and inserting \u201c The Secretary of Energy and the Secretary of Labor shall each \u201d; and \n (B) by adding at the end the following new sentence: \u201c The Secretary of Labor shall make available to the Board the program\u2019s medical director, toxicologist, industrial hygienist and program\u2019s support contractors as requested by the Board. \u201d; \n \n (3) by redesignating subsections (h) and (i) as subsections (i) and (j), respectively; and \n (4) by inserting after subsection (g) the following: \u201c(h) Deadline. Public information. Web posting. Response to Recommendations . Not later than 60 days after submission to the Secretary of Labor of the Board\u2019s recommendations, the Secretary shall respond to the Board in writing, and post on the public internet website of the Department of Labor, a response to the recommendations that - \u201c(1) includes a statement of whether the Secretary accepts or rejects the Board\u2019s recommendations; \n \u201c(2) Timeline. if the Secretary accepts the Board\u2019s recommendations, describes the timeline for when those recommendations will be implemented; and \n \u201c(3) if the Secretary does not accept the recommendations, describes the reasons the Secretary does not agree and provides all scientific research to the Board supporting that decision.\u201d \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Improvements to energy employees occupational illness compensation program act of 2000. (a) Office of Ombudsman . Section 3686 of the Energy Employees Occupational Illness Compensation Program Act of 2000 ( 42 U.S.C. 7385s\u201315 ) is amended - (1) in subsection (c) - (A) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and \n (B) by inserting after paragraph (1) the following new paragraph: \u201c(2) To provide guidance and assistance to claimants.\u201d \n ; and \n \n (2) in subsection (h), by striking \u201c 2019 \u201d and inserting \u201c 2020 \u201d. \n \n (b) Advisory Board on Toxic Substances and Worker Health . Section 3687 of the Energy Employees Occupational Illness Compensation Program Act of 2000 ( 42 U.S.C. 7385s\u201316 ) is amended - (1) in subsection (b)(1) - (A) in subparagraph (C), by striking \u201c ; and \u201d and inserting a semicolon; \n (B) in subparagraph (D), by striking \u201c ; and \u201d and inserting a semicolon; and \n (C) by adding after subparagraph (D) the following: \u201c(E) the claims adjudication process generally, including review of procedure manual changes prior to incorporation into the manual and claims for medical benefits; and \n \u201c(F) such other matters as the Secretary considers appropriate; and\u201d \n ; \n \n (2) in subsection (g) - (A) by striking \u201c The Secretary of Energy shall \u201d and inserting \u201c The Secretary of Energy and the Secretary of Labor shall each \u201d; and \n (B) by adding at the end the following new sentence: \u201c The Secretary of Labor shall make available to the Board the program\u2019s medical director, toxicologist, industrial hygienist and program\u2019s support contractors as requested by the Board. \u201d;",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005548871953838638,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1633,
+      "word_count": 267,
+      "token_length": 454
+    },
+    {
+      "text": " \n \n (3) by redesignating subsections (h) and (i) as subsections (i) and (j), respectively; and \n (4) by inserting after subsection (g) the following: \u201c(h) Deadline. Public information. Web posting. Response to Recommendations . Not later than 60 days after submission to the Secretary of Labor of the Board\u2019s recommendations, the Secretary shall respond to the Board in writing, and post on the public internet website of the Department of Labor, a response to the recommendations that - \u201c(1) includes a statement of whether the Secretary accepts or rejects the Board\u2019s recommendations; \n \u201c(2) Timeline. if the Secretary accepts the Board\u2019s recommendations, describes the timeline for when those recommendations will be implemented; and \n \u201c(3) if the Secretary does not accept the recommendations, describes the reasons the Secretary does not agree and provides all scientific research to the Board supporting that decision.\u201d \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004998973454348743,
+      "confidence": "High",
+      "start_index": 1633,
+      "end_index": 2565,
+      "word_count": 139,
+      "token_length": 203
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Codification of certain services in support of nongovernmental organizations\u2019 activities authorized. (a) In General . Except as provided in subsection (b), section 542.516 of title 31, Code of Federal Regulations (relating to certain services in support of nongovernmental organizations\u2019 activities authorized), as in effect on the day before the date of the enactment of this Act, shall - (1) remain in effect on and after such date of enactment; and \n (2) in the case of a nongovernmental organization that is authorized to export or reexport services to Syria under such section on the day before such date of enactment, apply to such organization on and after such date of enactment to the same extent and in the same manner as such section applied to such organization on the day before such date of enactment. \n \n (b) Exception . (1) In general . Section 542.516 of title 31, Code of Federal Regulations , as codified under subsection (a), shall not apply with respect to a foreign person that has been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act ( 8 U.S.C. 1189 ), or otherwise designated as a terrorist organization, by the Secretary of State, in consultation with or upon the request of the Attorney General or the Secretary of Homeland Security. \n (2) Applicability. Federal Register, publication. Effective date . Paragraph (1) shall apply with respect to a foreign person on and after the date on which the designation of that person as a terrorist organization is published in the Federal Register.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Codification of certain services in support of nongovernmental organizations\u2019 activities authorized. (a) In General . Except as provided in subsection (b), section 542.516 of title 31, Code of Federal Regulations (relating to certain services in support of nongovernmental organizations\u2019 activities authorized), as in effect on the day before the date of the enactment of this Act, shall - (1) remain in effect on and after such date of enactment; and \n (2) in the case of a nongovernmental organization that is authorized to export or reexport services to Syria under such section on the day before such date of enactment, apply to such organization on and after such date of enactment to the same extent and in the same manner as such section applied to such organization on the day before such date of enactment. \n \n (b) Exception . (1) In general . Section 542.516 of title 31, Code of Federal Regulations , as codified under subsection (a), shall not apply with respect to a foreign person that has been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act ( 8 U.S.C. 1189 ), or otherwise designated as a terrorist organization, by the Secretary of State, in consultation with or upon the request of the Attorney General or the Secretary of Homeland Security. \n (2) Applicability. Federal Register, publication. Effective date . Paragraph (1) shall apply with respect to a foreign person on and after the date on which the designation of that person as a terrorist organization is published in the Federal Register.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005902618635445833,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1571,
+      "word_count": 257,
+      "token_length": 353
+    }
+  ],
+  "_submission_type": "solo"
+}

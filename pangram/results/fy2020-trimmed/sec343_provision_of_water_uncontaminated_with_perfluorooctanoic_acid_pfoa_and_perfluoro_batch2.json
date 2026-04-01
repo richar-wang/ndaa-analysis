@@ -1,0 +1,54 @@
+{
+  "text": "10 USC 2701 note . Provision of water uncontaminated with perfluorooctanoic acid (PFOA) And perfluorooctane sulfonate (PFOS) For agricultural purposes. (a) Authority . (1) In general . Using amounts authorized to be appropriated or otherwise made available for operation and maintenance for the military department concerned, or for operation and maintenance Defense-wide in the case of the Secretary of Defense, the Secretary concerned may provide water sources uncontaminated with perfluoroalkyl and polyfluoroalkyl substances, including PFOA and PFOS, or treatment of contaminated waters, for agricultural purposes used to produce products destined for human consumption in an area in which a water source has been determined pursuant to paragraph (2) to be contaminated with such compounds by reason of activities on a military installation under the jurisdiction of the Secretary concerned. \n (2) Applicable standard . For purposes of paragraph (1), an area is determined to be contaminated with PFOA or PFOS if - (A) the level of contamination is above the Lifetime Health Advisory for contamination with such compounds issued by the Environmental Protection Agency and printed in the Federal Register on May 25, 2016; or \n (B) on or after the date the Food and Drug Administration sets a standard for PFOA and PFOS in raw agricultural commodities and milk, the level of contamination is above such standard. \n \n \n (b) Secretary Concerned Defined . In this section, the term \u201c Secretary concerned \u201d means the following: (1) The Secretary of the Army, with respect to the Army. \n (2) The Secretary of the Navy, with respect to the Navy, the Marine Corps, and the Coast Guard (when it is operating as a service in the Navy). \n (3) The Secretary of the Air Force, with respect to the Air Force. \n (4) The Secretary of Defense, with respect to the Defense Agencies.\n\n10 USC 2701 note . Acquisition of real property by air force. (a) Authority . (1) In general . The Secretary of the Air Force may acquire one or more parcels of real property within the vicinity of an Air Force base that has shown signs of contamination from PFOA and PFOS due to activities on the base and which would extend the contiguous geographic footprint of the base and increase the force protection standoff near critical infrastructure and runways. \n (2) Improvements and personal property . The authority under paragraph (1) to acquire real property described in that paragraph shall include the authority to purchase improvements and personal property located on that real property. \n (3) Relocation expenses . The authority under paragraph (1) to acquire real property described in that paragraph shall include the authority to provide Federal financial assistance for moving costs, relocation benefits, and other expenses incurred in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq. ). \n \n (b) Environmental Activities . The Air Force shall conduct such activities at a parcel or parcels of real property acquired under subsection (a) as are necessary to remediate contamination from PFOA and PFOS related to activities at the Air Force base. \n (c) Funding . Funds for the land acquisitions authorized under subsection (a) shall be derived from amounts authorized to be appropriated for fiscal year 2020 for military construction or the unobligated balances of appropriations for military construction that are enacted after the date of the enactment of this Act. \n (d) Rule of Construction . The authority under this section constitutes authority to carry out land acquisitions for purposes of section 2802 of title 10, United States Code .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 2701 note . Provision of water uncontaminated with perfluorooctanoic acid (PFOA) And perfluorooctane sulfonate (PFOS) For agricultural purposes. (a) Authority . (1) In general . Using amounts authorized to be appropriated or otherwise made available for operation and maintenance for the military department concerned, or for operation and maintenance Defense-wide in the case of the Secretary of Defense, the Secretary concerned may provide water sources uncontaminated with perfluoroalkyl and polyfluoroalkyl substances, including PFOA and PFOS, or treatment of contaminated waters, for agricultural purposes used to produce products destined for human consumption in an area in which a water source has been determined pursuant to paragraph (2) to be contaminated with such compounds by reason of activities on a military installation under the jurisdiction of the Secretary concerned. \n (2) Applicable standard . For purposes of paragraph (1), an area is determined to be contaminated with PFOA or PFOS if - (A) the level of contamination is above the Lifetime Health Advisory for contamination with such compounds issued by the Environmental Protection Agency and printed in the Federal Register on May 25, 2016; or \n (B) on or after the date the Food and Drug Administration sets a standard for PFOA and PFOS in raw agricultural commodities and milk, the level of contamination is above such standard. \n \n \n (b) Secretary Concerned Defined . In this section, the term \u201c Secretary concerned \u201d means the following: (1) The Secretary of the Army, with respect to the Army. \n (2) The Secretary of the Navy, with respect to the Navy, the Marine Corps, and the Coast Guard (when it is operating as a service in the Navy). \n (3) The Secretary of the Air Force, with respect to the Air Force. \n (4) The Secretary of Defense, with respect to the Defense Agencies.\n\n10 USC 2701 note . Acquisition of real property by air force. (a) Authority . (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02406421507326647,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1948,
+      "word_count": 312,
+      "token_length": 435
+    },
+    {
+      "text": "1) In general . The Secretary of the Air Force may acquire one or more parcels of real property within the vicinity of an Air Force base that has shown signs of contamination from PFOA and PFOS due to activities on the base and which would extend the contiguous geographic footprint of the base and increase the force protection standoff near critical infrastructure and runways. \n (2) Improvements and personal property . The authority under paragraph (1) to acquire real property described in that paragraph shall include the authority to purchase improvements and personal property located on that real property. \n (3) Relocation expenses . The authority under paragraph (1) to acquire real property described in that paragraph shall include the authority to provide Federal financial assistance for moving costs, relocation benefits, and other expenses incurred in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq. ). \n \n (b) Environmental Activities . The Air Force shall conduct such activities at a parcel or parcels of real property acquired under subsection (a) as are necessary to remediate contamination from PFOA and PFOS related to activities at the Air Force base. \n (c) Funding . Funds for the land acquisitions authorized under subsection (a) shall be derived from amounts authorized to be appropriated for fiscal year 2020 for military construction or the unobligated balances of appropriations for military construction that are enacted after the date of the enactment of this Act. \n (d) Rule of Construction . The authority under this section constitutes authority to carry out land acquisitions for purposes of section 2802 of title 10, United States Code .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00734598523316284,
+      "confidence": "High",
+      "start_index": 1948,
+      "end_index": 3701,
+      "word_count": 275,
+      "token_length": 361
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec343_provision_of_water_uncontaminated_with_perfluorooctanoic_acid_pfoa_and_perfluoro.txt",
+    "sec344_acquisition_of_real_property_by_air_force.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec343_provision_of_water_uncontaminated_with_perfluorooctanoic_acid_pfoa_and_perfluoro.txt",
+      "start_index": 0,
+      "end_index": 1867,
+      "word_count": 296
+    },
+    {
+      "filename": "sec344_acquisition_of_real_property_by_air_force.txt",
+      "start_index": 1869,
+      "end_index": 3701,
+      "word_count": 290
+    }
+  ]
+}

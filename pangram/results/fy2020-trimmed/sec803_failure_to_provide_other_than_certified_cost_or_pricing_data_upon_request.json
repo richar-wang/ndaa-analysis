@@ -1,0 +1,36 @@
+{
+  "text": "Failure to provide other than certified cost or pricing data upon request. Section 2306a(d) of title 10, United States Code , is amended - (1) in paragraph (1), by adding at the end the following: \u201c Contracting officers shall not determine the price of a contract or subcontract to be fair and reasonable based solely on historical prices paid by the Government. \u201d; \n (2) by redesignating paragraph (2) as paragraph (3); and \n (3) by inserting after paragraph (1) the following new paragraph: \u201c(2) Ineligibility for award . (A) In the event the contracting officer is unable to determine proposed prices are fair and reasonable by any other means, an offeror who fails to make a good faith effort to comply with a reasonable request to submit data in accordance with paragraph (1) is ineligible for award unless the head of the contracting activity, or the designee of the head of contracting activity, determines that it is in the best interest of the Government to make the award to that offeror, based on consideration of pertinent factors, including the following: \u201c(i) The effort to obtain the data. \n \u201c(ii) Availability of other sources of supply of the item or service. \n \u201c(iii) The urgency or criticality of the Government\u2019s need for the item or service. \n \u201c(iv) Reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract based on information available to the contracting officer. \n \u201c(v) Rationale or justification made by the offeror for not providing the requested data. \n \u201c(vi) Risk to the Government if award is not made. \n \n \u201c(B) (i) Any new determination made by the head of the contracting activity under subparagraph (A) shall be reported to the Principal Director, Defense Pricing and Contracting on a quarterly basis. \n \u201c(ii) Reports. Time period. The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. Analysis. The report shall identify products or services offered by such offerors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. Assessment. Strategies. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service.\u201d \n \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Failure to provide other than certified cost or pricing data upon request. Section 2306a(d) of title 10, United States Code , is amended - (1) in paragraph (1), by adding at the end the following: \u201c Contracting officers shall not determine the price of a contract or subcontract to be fair and reasonable based solely on historical prices paid by the Government. \u201d; \n (2) by redesignating paragraph (2) as paragraph (3); and \n (3) by inserting after paragraph (1) the following new paragraph: \u201c(2) Ineligibility for award . (A) In the event the contracting officer is unable to determine proposed prices are fair and reasonable by any other means, an offeror who fails to make a good faith effort to comply with a reasonable request to submit data in accordance with paragraph (1) is ineligible for award unless the head of the contracting activity, or the designee of the head of contracting activity, determines that it is in the best interest of the Government to make the award to that offeror, based on consideration of pertinent factors, including the following: \u201c(i) The effort to obtain the data. \n \u201c(ii) Availability of other sources of supply of the item or service. \n \u201c(iii) The urgency or criticality of the Government\u2019s need for the item or service. \n \u201c(iv) Reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract based on information available to the contracting officer. \n \u201c(v) Rationale or justification made by the offeror for not providing the requested data. \n \u201c(vi) Risk to the Government if award is not made. \n \n \u201c(B) (i) Any new determination made by the head of the contracting activity under subparagraph (A) shall be reported to the Principal Director, Defense Pricing and Contracting on a quarterly basis. \n \u201c(ii) Reports. Time period. The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. Analysis. The report shall identify products or services offered by such offerors that should undergo should-cost analysis.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.026097454847051546,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2226,
+      "word_count": 354,
+      "token_length": 494
+    },
+    {
+      "text": " The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. Assessment. Strategies. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service.\u201d \n \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02407493768259883,
+      "confidence": "High",
+      "start_index": 2226,
+      "end_index": 2714,
+      "word_count": 75,
+      "token_length": 90
+    }
+  ],
+  "_submission_type": "solo"
+}

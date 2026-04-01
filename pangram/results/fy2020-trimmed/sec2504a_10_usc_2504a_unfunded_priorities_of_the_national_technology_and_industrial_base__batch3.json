@@ -1,0 +1,71 @@
+{
+  "text": "\u201c\u00a7\u202f2504a. 10 USC 2504a . Unfunded priorities of the national technology and industrial base: annual report \u201c(a) Annual Report . Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on the unfunded priorities to address gaps or vulnerabilities in the national technology and industrial base. \n \u201c(b) Elements . \u201c(1) In general . Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following: \u201c(A) Summary. A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part). \n \u201c(B) The additional amount of funds recommended in connection with the objectives under subparagraph (A). \n \u201c(C) Account information with respect to such priority, including the following (as applicable): \u201c(i) Line Item Number (LIN) for applicable procurement accounts. \n \u201c(ii) Program Element (PE) number for applicable research, development, test, and evaluation accounts. \n \u201c(iii) Sub-activity group (SAG) for applicable operation and maintenance accounts. \n \n \n \u201c(2) Prioritization of priorities . Each report shall present the unfunded priorities covered by such report in order of urgency of priority. \n \n \u201c(c) Unfunded Priority Defined . In this section, the term \u2018 unfunded priority \u2019, in the case of a fiscal year, means a program, activity, or mission requirement of the national technology and industrial base that - \u201c(1) is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31; \n \u201c(2) is necessary to address gaps or vulnerabilities in the national technology and industrial base; and \n \u201c(3) would have been recommended for funding through the budget referred to in paragraph (1) if - \u201c(A) additional resources had been available for the budget to fund the program, activity, or mission requirement; or \n \u201c(B) the program, activity, or mission requirement had emerged before the budget was formulated.\u201d\n\n10 USC 2302 note . Prohibition on operation or procurement of foreign-made unmanned aircraft systems. (a) Prohibition on Agency Operation or Procurement . The Secretary of Defense may not operate or enter into or renew a contract for the procurement of - (1) a covered unmanned aircraft system that - (A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; \n (B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; \n (C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or \n (D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or \n \n (2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of covered unmanned aircraft systems. \n \n (b) Exemption . The Secretary of Defense is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of - (1) Counter-UAS surrogate testing and training; or \n (2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training. \n \n (c) Waiver . The Secretary of Defense may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the congressional defense committees that the operation or procurement is required in the national interest of the United States. \n (d) Definitions . In this section: (1) Covered foreign country . The term \u201c covered foreign country \u201d means the People\u2019s Republic of China. \n (2) Covered unmanned aircraft system . The term \u201c covered unmanned aircraft system \u201d means an unmanned aircraft system and any related services and equipment.\n\nAuthorized official to carry out the procurement technical assistance cooperative agreement program. (a) Effective date. 10 USC 2411 note . Authorized Official . Effective October 1, 2021, section 2411(3) of title 10, United States Code , is amended by striking \u201c Director of the Defense Logistics Agency \u201d and inserting \u201c Under Secretary of Defense for Acquisition and Sustainment \u201d. \n (b) Deadline. Report and Briefing . Not later than November 1, 2020, the Secretary of Defense shall provide to the congressional defense committees a written report and briefing on the activities carried out in preparation for the transition of responsibilities for carrying out the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code , from the Director of Defense Logistics Agency to the Under Secretary of Defense for Acquisition and Sustainment, as required by subsection (a). \n (c) 10 USC 221 note . Annual Budget Justification Documents . The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in section 234(d) of title 10, United States Code ) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code , as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "\u201c\u00a7\u202f2504a. 10 USC 2504a . Unfunded priorities of the national technology and industrial base: annual report \u201c(a) Annual Report . Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on the unfunded priorities to address gaps or vulnerabilities in the national technology and industrial base. \n \u201c(b) Elements . \u201c(1) In general . Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following: \u201c(A) Summary. A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part). \n \u201c(B) The additional amount of funds recommended in connection with the objectives under subparagraph (A). \n \u201c(C) Account information with respect to such priority, including the following (as applicable): \u201c(i) Line Item Number (LIN) for applicable procurement accounts. \n \u201c(ii) Program Element (PE) number for applicable research, development, test, and evaluation accounts. \n \u201c(iii) Sub-activity group (SAG) for applicable operation and maintenance accounts. \n \n \n \u201c(2) Prioritization of priorities . Each report shall present the unfunded priorities covered by such report in order of urgency of priority. \n \n \u201c(c) Unfunded Priority Defined . In this section, the term \u2018 unfunded priority \u2019, in the case of a fiscal year, means a program, activity, or mission requirement of the national technology and industrial base that - \u201c(1) is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31; \n \u201c(2) is necessary to address gaps or vulnerabilities",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006569043091601795,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1911,
+      "word_count": 299,
+      "token_length": 450
+    },
+    {
+      "text": " in the national technology and industrial base; and \n \u201c(3) would have been recommended for funding through the budget referred to in paragraph (1) if - \u201c(A) additional resources had been available for the budget to fund the program, activity, or mission requirement; or \n \u201c(B) the program, activity, or mission requirement had emerged before the budget was formulated.\u201d\n\n10 USC 2302 note . Prohibition on operation or procurement of foreign-made unmanned aircraft systems. (a) Prohibition on Agency Operation or Procurement . The Secretary of Defense may not operate or enter into or renew a contract for the procurement of - (1) a covered unmanned aircraft system that - (A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; \n (B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; \n (C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or \n (D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or \n \n (2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of covered unmanned aircraft systems. \n \n (b) Exemption . The Secretary of Defense is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of - (1) Counter-UAS surrogate testing and training; or \n (2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training. \n \n (c) Waiver . The Secretary of Defense may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the congressional defense committees that the operation or procurement is required in the national interest of the United States. \n (d) Definitions . In this section: (1) Covered foreign country . The term \u201c covered foreign country \u201d means the People\u2019s Republic of China. \n (2) Covered unmanned aircraft system .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00968258086150178,
+      "confidence": "High",
+      "start_index": 1911,
+      "end_index": 4114,
+      "word_count": 347,
+      "token_length": 480
+    },
+    {
+      "text": " The term \u201c covered unmanned aircraft system \u201d means an unmanned aircraft system and any related services and equipment.\n\nAuthorized official to carry out the procurement technical assistance cooperative agreement program. (a) Effective date. 10 USC 2411 note . Authorized Official . Effective October 1, 2021, section 2411(3) of title 10, United States Code , is amended by striking \u201c Director of the Defense Logistics Agency \u201d and inserting \u201c Under Secretary of Defense for Acquisition and Sustainment \u201d. \n (b) Deadline. Report and Briefing . Not later than November 1, 2020, the Secretary of Defense shall provide to the congressional defense committees a written report and briefing on the activities carried out in preparation for the transition of responsibilities for carrying out the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code , from the Director of Defense Logistics Agency to the Under Secretary of Defense for Acquisition and Sustainment, as required by subsection (a). \n (c) 10 USC 221 note . Annual Budget Justification Documents . The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in section 234(d) of title 10, United States Code ) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code , as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00751991899839292,
+      "confidence": "High",
+      "start_index": 4114,
+      "end_index": 5727,
+      "word_count": 251,
+      "token_length": 350
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec2504a_10_usc_2504a_unfunded_priorities_of_the_national_technology_and_industrial_base_.txt",
+    "sec848_prohibition_on_operation_or_procurement_of_foreign_made_unmanned_aircraft_system.txt",
+    "sec852_authorized_official_to_carry_out_the_procurement_technical_assistance_cooperativ.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec2504a_10_usc_2504a_unfunded_priorities_of_the_national_technology_and_industrial_base_.txt",
+      "start_index": 0,
+      "end_index": 2281,
+      "word_count": 356
+    },
+    {
+      "filename": "sec848_prohibition_on_operation_or_procurement_of_foreign_made_unmanned_aircraft_system.txt",
+      "start_index": 2283,
+      "end_index": 4234,
+      "word_count": 309
+    },
+    {
+      "filename": "sec852_authorized_official_to_carry_out_the_procurement_technical_assistance_cooperativ.txt",
+      "start_index": 4236,
+      "end_index": 5727,
+      "word_count": 232
+    }
+  ]
+}

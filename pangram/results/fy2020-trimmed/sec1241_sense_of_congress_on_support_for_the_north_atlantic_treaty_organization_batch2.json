@@ -1,0 +1,54 @@
+{
+  "text": "Sense of congress on support for the north atlantic treaty organization. It is the sense of Congress that - (1) the North Atlantic Treaty Organization (NATO) is critical to achieving United States national security interests and defense objectives around the world; \n (2) NATO is the most successful military alliance in history, founded on the principles of democracy, individual liberty, and the rule of law, and its contributions to the collective defense are indispensable to the security, prosperity, and freedom of its members; \n (3) membership in NATO is a cornerstone of the security and national defense of the United States; \n (4) the United States commitment to the NATO alliance has been foundational to the rules-based international order for seven decades, helping to sustain a system of mutual security and shared values and enhance the United States security through common defense; \n (5) the United States must remain ironclad in its commitment to uphold its obligations under the North Atlantic Treaty, including Article 5 of such Treaty; \n (6) the United States should deepen strategic and defense cooperation with non-NATO European partners, and encourage NATO cooperation with such partners; \n (7) the United States should encourage defense cooperation that complements and strengthens NATO collective defense, interoperability, and allies\u2019 commitment to Article 3 of the North Atlantic Treaty; and \n (8) the United States should pursue a long-term policy to strengthen relationships with NATO allies, oppose efforts to undermine and divide the NATO alliance, invest in long-term efforts to deter aggression against NATO allies and counter campaigns aimed at eroding shared values of the alliance, and enhance interoperability and planning for collective defense.\n\nExtension of authority for and report on training for eastern european national security forces in the course of multilateral exercises. (a) Extension . Subsection (h) of section 1251 of the National Defense Authorization Act for Fiscal Year 2016 ( 10 U.S.C. 333 note ) is amended - (1) in the first sentence, by striking \u201c December 31, 2020 \u201d and inserting \u201c December 31, 2021 \u201d; and \n (2) in the second sentence, by striking \u201c for for the period beginning on October 1, 2015, and ending on December 31, 2020 \u201d and inserting \u201c for the period beginning on October 1, 2015, and ending on December 31, 2021 \u201d. \n \n (b) Report . (1) Consultation. In general . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Commander of United States European Command, shall submit to the congressional defense committees a report on the authority for training Eastern European national security forces in the course of multilateral exercises under the authority of such section. \n (2) Matters to be included . The report required by paragraph (1) shall include the following: (A) For each recipient country, a description of - (i) the training provided pursuant to such authority beginning in fiscal year 2016; and \n (ii) payments of incremental expenses incurred by the country as the direct result of such training. \n \n (B) A description of the elements of the U.S. European Command theater campaign plan advanced by such authority. \n (C) Assessment. An assessment whether the training and payment of the incremental expenses incurred by each recipient country as the direct result of participation in such training could be provided pursuant to other training or security cooperation authorities of the Department of Defense. \n (D) Recommenda- tions. Any recommendations of the Secretary of Defense regarding such authority. \n (E) Any other matter the Secretary of Defense considers appropriate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Sense of congress on support for the north atlantic treaty organization. It is the sense of Congress that - (1) the North Atlantic Treaty Organization (NATO) is critical to achieving United States national security interests and defense objectives around the world; \n (2) NATO is the most successful military alliance in history, founded on the principles of democracy, individual liberty, and the rule of law, and its contributions to the collective defense are indispensable to the security, prosperity, and freedom of its members; \n (3) membership in NATO is a cornerstone of the security and national defense of the United States; \n (4) the United States commitment to the NATO alliance has been foundational to the rules-based international order for seven decades, helping to sustain a system of mutual security and shared values and enhance the United States security through common defense; \n (5) the United States must remain ironclad in its commitment to uphold its obligations under the North Atlantic Treaty, including Article 5 of such Treaty; \n (6) the United States should deepen strategic and defense cooperation with non-NATO European partners, and encourage NATO cooperation with such partners; \n (7) the United States should encourage defense cooperation that complements and strengthens NATO collective defense, interoperability, and allies\u2019 commitment to Article 3 of the North Atlantic Treaty; and \n (8) the United States should pursue a long-term policy to strengthen relationships with NATO allies, oppose efforts to undermine and divide the NATO alliance, invest in long-term efforts to deter aggression against NATO allies and counter campaigns aimed at eroding shared values of the alliance, and enhance interoperability and planning for collective defense.\n\nExtension of authority for and report on training for eastern european national security forces in the course of multilateral exercises. (a) Extension . Subsection (h) of section 1251 of the National Defense Authorization Act for Fiscal Year 2016 ( 10 U.S.C. 333 note ) is amended - (1) in the first sentence, by striking \u201c December 31, 2020 \u201d and inserting \u201c December 31,",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005261027852871588,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2158,
+      "word_count": 330,
+      "token_length": 447
+    },
+    {
+      "text": " 2021 \u201d; and \n (2) in the second sentence, by striking \u201c for for the period beginning on October 1, 2015, and ending on December 31, 2020 \u201d and inserting \u201c for the period beginning on October 1, 2015, and ending on December 31, 2021 \u201d. \n \n (b) Report . (1) Consultation. In general . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Commander of United States European Command, shall submit to the congressional defense committees a report on the authority for training Eastern European national security forces in the course of multilateral exercises under the authority of such section. \n (2) Matters to be included . The report required by paragraph (1) shall include the following: (A) For each recipient country, a description of - (i) the training provided pursuant to such authority beginning in fiscal year 2016; and \n (ii) payments of incremental expenses incurred by the country as the direct result of such training. \n \n (B) A description of the elements of the U.S. European Command theater campaign plan advanced by such authority. \n (C) Assessment. An assessment whether the training and payment of the incremental expenses incurred by each recipient country as the direct result of participation in such training could be provided pursuant to other training or security cooperation authorities of the Department of Defense. \n (D) Recommenda- tions. Any recommendations of the Secretary of Defense regarding such authority. \n (E) Any other matter the Secretary of Defense considers appropriate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0063024921342730526,
+      "confidence": "High",
+      "start_index": 2158,
+      "end_index": 3737,
+      "word_count": 251,
+      "token_length": 364
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1241_sense_of_congress_on_support_for_the_north_atlantic_treaty_organization.txt",
+    "sec1247_extension_of_authority_for_and_report_on_training_for_eastern_european_national_.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1241_sense_of_congress_on_support_for_the_north_atlantic_treaty_organization.txt",
+      "start_index": 0,
+      "end_index": 1784,
+      "word_count": 266
+    },
+    {
+      "filename": "sec1247_extension_of_authority_for_and_report_on_training_for_eastern_european_national_.txt",
+      "start_index": 1786,
+      "end_index": 3737,
+      "word_count": 315
+    }
+  ]
+}

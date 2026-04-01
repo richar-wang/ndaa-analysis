@@ -1,0 +1,36 @@
+{
+  "text": "\u201c\u00a7\u202f2891c. 10 USC 2891c . Financial transparency \u201c(a) Reports. Submission of Landlord Financial Information . (1) Not less frequently than annually, the Secretary of Defense shall \nrequire that each landlord submit to the Secretary a report providing information regarding all housing units provided by the landlord. \n \u201c(2) Information provided under paragraph (1) by a landlord shall include the following: \u201c(A) Summary. A comprehensive summary of the landlord\u2019s financial performance. \n \u201c(B) The amount of base management fees relating to all housing units provided by the landlord. \n \u201c(C) The amount of asset management fees relating to such housing units. \n \u201c(D) The amount of preferred return fees relating to such housing units. \n \u201c(E) The residual cashflow distributions relating to such housing units. \n \u201c(F) The amount of deferred fees or other fees relating to such housing units. \n \n \u201c(3) Definitions. In this subsection: \u201c(A) The term \u2018 base management fees \u2019 means the monthly management fees collected for services associated with accepting and processing rent payments, ensuring tenant rent payments, property inspections, maintenance management, and emergency maintenance calls. \n \u201c(B) the term \u2018 asset management fees \u2019 means fees paid to manage a housing unit for the purpose of ensuring the housing unit is maintained in good condition and making repairs over the lifecycle of the housing unit. \n \u201c(C) the term \u2018 preferred return fees \u2019 means fees associated with any claims on profits furnished to preferred investors with an interest in the housing unit. \n \u201c(D) the term \u2018 residual cashflow distribution \u2019 means the steps a specific housing project takes to restructure after it is determined that the project is in an unacceptable financial condition. \n \u201c(E) the term \u2018 deferred fee \u2019 means any fee that was not paid to a person in a calendar year in order to meet other financial obligations of the landlord. \n \n \n \u201c(b) Availability of Information on Use of Incentive Fees . (1) Deadline. Web posting. Not less frequently than annually, the Secretary of Defense shall publish, on a publicly accessible website, information regarding the use by the Secretary concerned of incentive fees to support contracts for the provision or management of housing units. \n \u201c(2) Contracts. The information provided under paragraph (1) shall include, with respect to each contract, the following: \u201c(A) The applicable incentive fees. \n \u201c(B) The metrics used to determine the incentive fees. \n \u201c(C) Whether incentive fees were paid in full, or were withheld in part or in full, during the period covered by the release of information. \n \u201c(D) If any incentive fees were withheld, the reasons for such withholding.\u201d",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "\u201c\u00a7\u202f2891c. 10 USC 2891c . Financial transparency \u201c(a) Reports. Submission of Landlord Financial Information . (1) Not less frequently than annually, the Secretary of Defense shall \nrequire that each landlord submit to the Secretary a report providing information regarding all housing units provided by the landlord. \n \u201c(2) Information provided under paragraph (1) by a landlord shall include the following: \u201c(A) Summary. A comprehensive summary of the landlord\u2019s financial performance. \n \u201c(B) The amount of base management fees relating to all housing units provided by the landlord. \n \u201c(C) The amount of asset management fees relating to such housing units. \n \u201c(D) The amount of preferred return fees relating to such housing units. \n \u201c(E) The residual cashflow distributions relating to such housing units. \n \u201c(F) The amount of deferred fees or other fees relating to such housing units. \n \n \u201c(3) Definitions. In this subsection: \u201c(A) The term \u2018 base management fees \u2019 means the monthly management fees collected for services associated with accepting and processing rent payments, ensuring tenant rent payments, property inspections, maintenance management, and emergency maintenance calls. \n \u201c(B) the term \u2018 asset management fees \u2019 means fees paid to manage a housing unit for the purpose of ensuring the housing unit is maintained in good condition and making repairs over the lifecycle of the housing unit. \n \u201c(C) the term \u2018 preferred return fees \u2019 means fees associated with any claims on profits furnished to preferred investors with an interest in the housing unit. \n \u201c(D) the term \u2018 residual cashflow distribution \u2019 means the steps a specific housing project takes to restructure after it is determined that the project is in an unacceptable financial condition. \n \u201c(E) the term \u2018 deferred fee \u2019 means any fee that was not paid to a person in a calendar year in order to meet other financial obligations of the landlord. \n \n \n \u201c(b) Availability of Information on Use of Incentive Fees . (1) Deadline. Web posting. Not less frequently than annually, the Secretary of Defense shall publish, on a publicly accessible website, information regarding the use by the Secretary concerned of incentive fees to support contracts for the provision or management of housing units.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004807603864097281,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2278,
+      "word_count": 354,
+      "token_length": 495
+    },
+    {
+      "text": " \n \u201c(2) Contracts. The information provided under paragraph (1) shall include, with respect to each contract, the following: \u201c(A) The applicable incentive fees. \n \u201c(B) The metrics used to determine the incentive fees. \n \u201c(C) Whether incentive fees were paid in full, or were withheld in part or in full, during the period covered by the release of information. \n \u201c(D) If any incentive fees were withheld, the reasons for such withholding.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004577933624386787,
+      "confidence": "High",
+      "start_index": 2278,
+      "end_index": 2717,
+      "word_count": 68,
+      "token_length": 108
+    }
+  ],
+  "_submission_type": "solo"
+}

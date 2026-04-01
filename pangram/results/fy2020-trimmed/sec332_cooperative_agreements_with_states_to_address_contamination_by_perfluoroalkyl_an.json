@@ -1,0 +1,46 @@
+{
+  "text": "10 USC 2701 note . Cooperative agreements with states to address contamination by perfluoroalkyl and polyfluoroalkyl substances. (a) Cooperative Agreements . (1) In general . Upon request from the Governor or chief executive of a State, the Secretary of Defense shall work expeditiously, pursuant to section 2701(d) of title 10, United States Code , to finalize a cooperative agreement, or amend an existing cooperative agreement to address testing, monitoring, removal, and remedial actions relating to the contamination or suspected contamination of drinking, surface, or ground water from PFAS originating from activities of the Department of Defense by providing the mechanism and funding for the expedited review and approval of documents of the Department related to PFAS investigations and remedial actions from an active or decommissioned military installation, including a facility of the National Guard. \n (2) Minimum standards . A cooperative agreement finalized or amended under paragraph (1) shall meet or exceed the most stringent of the following standards for PFAS in any environmental media: (A) An enforceable State standard, in effect in that State, for drinking, surface, or ground water, as described in section 121(d)(2)(A)(ii) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9621(d)(2)(A)(ii) ). \n (B) An enforceable Federal standard for drinking, surface, or ground water, as described in section 121(d)(2)(A)(i) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9621(d)(2)(A)(i) ). \n (C) A health advisory under section 1412(b)(1)(F) of the Safe Drinking Water Act ( 42 U.S.C. 300g\u20131(b)(1)(F) ). \n \n (3) Other authority . In addition to the requirements for a cooperative agreement under paragraph (1), when otherwise authorized to expend funds for the purpose of addressing ground or surface water contaminated by a perfluorinated compound, the Secretary of Defense may, to expend those funds, enter into a grant agreement, cooperative agreement, or contract with - (A) the local water authority with jurisdiction over the contamination site, including - (i) a public water system (as defined in section 1401 of the Safe Drinking Water Act ( 42 U.S.C. 300f )); and \n (ii) a publicly owned treatment works (as defined in section 212 of the Federal Water Pollution Control Act ( 33 U.S.C. 1292 )); or \n \n (B) a State, local, or Tribal government. \n \n \n (b) Effective date. Deadline. Report . Beginning on February 1, 2020, if a cooperative agreement is not finalized or amended under subsection (a) within one year after the request from the Governor or chief executive under that subsection, and annually thereafter, the Secretary of Defense shall submit to the appropriate committees and Members of Congress a report - (1) explaining why the agreement has not been finalized or amended, as the case may be; and \n (2) Timeline. setting forth a projected timeline for finalizing or amending the agreement. \n \n (c) Definitions . In this section: (1) Appropriate committees and members of congress . The term \u201c appropriate committees and Members of Congress \u201d means - (A) the congressional defense committees; \n (B) the Senators who represent a State impacted by PFAS contamination described in subsection (a)(1); and \n (C) the Members of the House of Representatives who represent a district impacted by such contamination. \n \n (2) Fully fluorinated carbon atom . The term \u201c fully fluorinated carbon atom \u201d means a carbon atom on which all the hydrogen substituents have been replaced by fluorine. \n (3) PFAS . The term \u201c PFAS \u201d means perfluoroalkyl and polyfluoroalkyl substances that are man-made chemicals with at least one fully fluorinated carbon atom. \n (4) State . The term \u201c State \u201d has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "10 USC 2701 note . Cooperative agreements with states to address contamination by perfluoroalkyl and polyfluoroalkyl substances. (a) Cooperative Agreements . (1) In general . Upon request from the Governor or chief executive of a State, the Secretary of Defense shall work expeditiously, pursuant to section 2701(d) of title 10, United States Code , to finalize a cooperative agreement, or amend an existing cooperative agreement to address testing, monitoring, removal, and remedial actions relating to the contamination or suspected contamination of drinking, surface, or ground water from PFAS originating from activities of the Department of Defense by providing the mechanism and funding for the expedited review and approval of documents of the Department related to PFAS investigations and remedial actions from an active or decommissioned military installation, including a facility of the National Guard. \n (2) Minimum standards . A cooperative agreement finalized or amended under paragraph (1) shall meet or exceed the most stringent of the following standards for PFAS in any environmental media: (A) An enforceable State standard, in effect in that State, for drinking, surface, or ground water, as described in section 121(d)(2)(A)(ii) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9621(d)(2)(A)(ii) ). \n (B) An enforceable Federal standard for drinking, surface, or ground water, as described in section 121(d)(2)(A)(i) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9621(d)(2)(A)(i) ). \n (C) A health advisory under section 1412(b)(1)(F) of the Safe Drinking Water Act ( 42 U.S.C. 300g\u20131(b)(1)(F) ). \n \n (3) Other authority .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0071626921417191625,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1742,
+      "word_count": 255,
+      "token_length": 438
+    },
+    {
+      "text": " In addition to the requirements for a cooperative agreement under paragraph (1), when otherwise authorized to expend funds for the purpose of addressing ground or surface water contaminated by a perfluorinated compound, the Secretary of Defense may, to expend those funds, enter into a grant agreement, cooperative agreement, or contract with - (A) the local water authority with jurisdiction over the contamination site, including - (i) a public water system (as defined in section 1401 of the Safe Drinking Water Act ( 42 U.S.C. 300f )); and \n (ii) a publicly owned treatment works (as defined in section 212 of the Federal Water Pollution Control Act ( 33 U.S.C. 1292 )); or \n \n (B) a State, local, or Tribal government. \n \n \n (b) Effective date. Deadline. Report . Beginning on February 1, 2020, if a cooperative agreement is not finalized or amended under subsection (a) within one year after the request from the Governor or chief executive under that subsection, and annually thereafter, the Secretary of Defense shall submit to the appropriate committees and Members of Congress a report - (1) explaining why the agreement has not been finalized or amended, as the case may be; and \n (2) Timeline. setting forth a projected timeline for finalizing or amending the agreement. \n \n (c) Definitions . In this section: (1) Appropriate committees and members of congress . The term \u201c appropriate committees and Members of Congress \u201d means - (A) the congressional defense committees; \n (B) the Senators who represent a State impacted by PFAS contamination described in subsection (a)(1); and \n (C) the Members of the House of Representatives who represent a district impacted by such contamination. \n \n (2) Fully fluorinated carbon atom . The term \u201c fully fluorinated carbon atom \u201d means a carbon atom on which all the hydrogen substituents have been replaced by fluorine. \n (3) PFAS . The term \u201c PFAS \u201d means perfluoroalkyl and polyfluoroalkyl substances that are man-made chemicals with at least one fully fluorinated carbon atom.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013385326643897728,
+      "confidence": "High",
+      "start_index": 1742,
+      "end_index": 3776,
+      "word_count": 323,
+      "token_length": 470
+    },
+    {
+      "text": " \n (4) State . The term \u201c State \u201d has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9601 ).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014418994076550007,
+      "confidence": "High",
+      "start_index": 3776,
+      "end_index": 3960,
+      "word_count": 33,
+      "token_length": 57
+    }
+  ],
+  "_submission_type": "solo"
+}

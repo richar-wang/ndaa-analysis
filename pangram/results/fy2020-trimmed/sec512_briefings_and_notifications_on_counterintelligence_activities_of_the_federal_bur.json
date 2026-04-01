@@ -1,0 +1,26 @@
+{
+  "text": "\u201cSection 512. 50 USC 3111 . Briefings and notifications on counterintelligence activities of the federal bureau of investigation. \u201c(a) Quarterly Briefings . In addition to, and without any derogation of, the requirement under section 501 to keep the congressional intelligence committees fully and currently informed of the intelligence and counterintelligence activities of the United States, not less frequently than once each quarter, or more frequently if requested by the congressional intelligence committees, the Director of the Federal Bureau of Investigation shall provide to the congressional intelligence committees a briefing on the counterintelligence activities of the Federal Bureau of Investigation. Such briefings Update. shall include, at a minimum, an overview and update of - \u201c(1) the counterintelligence posture of the Bureau; \n \u201c(2) counterintelligence investigations; and \n \u201c(3) any other information relating to the counterintelligence activities of the Bureau that the Director determines necessary. \n \n \u201c(b) Notifications . In addition to the quarterly briefings under subsection (a), the Director of the Federal Bureau of Investigation shall promptly notify the congressional intelligence committees of any counterintelligence investigation carried out by the Bureau with respect to any counterintelligence risk or threat that is related to an election or campaign for Federal office. \n \u201c(c) Guidelines . \u201c(1) Development and consultation . The Director shall develop guidelines governing the scope of the briefings provided under subsection (a), the notifications provided under subsection (b), and the information required by section 5304(a)(2) of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020. The Director shall consult the congressional intelligence committees during such development. \n \u201c(2) Submission . The Director shall submit to the congressional intelligence committees - \u201c(A) the guidelines under paragraph (1) upon issuance; and \n \u201c(B) Updates. Deadline. any updates to such guidelines by not later than 15 days after making such update.\u201d",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "\u201cSection 512. 50 USC 3111 . Briefings and notifications on counterintelligence activities of the federal bureau of investigation. \u201c(a) Quarterly Briefings . In addition to, and without any derogation of, the requirement under section 501 to keep the congressional intelligence committees fully and currently informed of the intelligence and counterintelligence activities of the United States, not less frequently than once each quarter, or more frequently if requested by the congressional intelligence committees, the Director of the Federal Bureau of Investigation shall provide to the congressional intelligence committees a briefing on the counterintelligence activities of the Federal Bureau of Investigation. Such briefings Update. shall include, at a minimum, an overview and update of - \u201c(1) the counterintelligence posture of the Bureau; \n \u201c(2) counterintelligence investigations; and \n \u201c(3) any other information relating to the counterintelligence activities of the Bureau that the Director determines necessary. \n \n \u201c(b) Notifications . In addition to the quarterly briefings under subsection (a), the Director of the Federal Bureau of Investigation shall promptly notify the congressional intelligence committees of any counterintelligence investigation carried out by the Bureau with respect to any counterintelligence risk or threat that is related to an election or campaign for Federal office. \n \u201c(c) Guidelines . \u201c(1) Development and consultation . The Director shall develop guidelines governing the scope of the briefings provided under subsection (a), the notifications provided under subsection (b), and the information required by section 5304(a)(2) of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020. The Director shall consult the congressional intelligence committees during such development. \n \u201c(2) Submission . The Director shall submit to the congressional intelligence committees - \u201c(A) the guidelines under paragraph (1) upon issuance; and \n \u201c(B) Updates. Deadline. any updates to such guidelines by not later than 15 days after making such update.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.020582718774676323,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2150,
+      "word_count": 302,
+      "token_length": 441
+    }
+  ],
+  "_submission_type": "solo"
+}

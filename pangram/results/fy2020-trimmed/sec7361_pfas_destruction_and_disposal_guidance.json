@@ -1,0 +1,26 @@
+{
+  "text": "Publications. 15 USC 8961 . Deadline. Pfas destruction and disposal guidance. (a) In General . Not later than 1 year after the date of enactment of this Act, the Administrator shall publish interim guidance on the destruction and disposal of perfluoroalkyl and polyfluoroalkyl substances and materials containing perfluoroalkyl and polyfluoroalkyl substances, including - (1) aqueous film-forming foam; \n (2) soil and biosolids; \n (3) textiles, other than consumer goods, treated with perfluoroalkyl and polyfluoroalkyl substances; \n (4) spent filters, membranes, resins, granular carbon, and other waste from water treatment; \n (5) landfill leachate containing perfluoroalkyl and polyfluoroalkyl substances; and \n (6) solid, liquid, or gas waste streams containing perfluoroalkyl and polyfluoroalkyl substances from facilities manufacturing or using perfluoroalkyl and polyfluoroalkyl substances. \n \n (b) Considerations; Inclusions . The interim guidance under subsection (a) shall - (1) take into consideration - (A) the potential for releases of perfluoroalkyl and polyfluoroalkyl substances during destruction or disposal, including through volatilization, air dispersion, or leachate; and \n (B) potentially vulnerable populations living near likely destruction or disposal sites; and \n \n (2) provide guidance on testing and monitoring air, effluent, and soil near potential destruction or disposal sites for releases described in paragraph (1)(A). \n \n (c) Time period. Revisions . The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator \ndetermines to be appropriate, but not less frequently than once every 3 years.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Publications. 15 USC 8961 . Deadline. Pfas destruction and disposal guidance. (a) In General . Not later than 1 year after the date of enactment of this Act, the Administrator shall publish interim guidance on the destruction and disposal of perfluoroalkyl and polyfluoroalkyl substances and materials containing perfluoroalkyl and polyfluoroalkyl substances, including - (1) aqueous film-forming foam; \n (2) soil and biosolids; \n (3) textiles, other than consumer goods, treated with perfluoroalkyl and polyfluoroalkyl substances; \n (4) spent filters, membranes, resins, granular carbon, and other waste from water treatment; \n (5) landfill leachate containing perfluoroalkyl and polyfluoroalkyl substances; and \n (6) solid, liquid, or gas waste streams containing perfluoroalkyl and polyfluoroalkyl substances from facilities manufacturing or using perfluoroalkyl and polyfluoroalkyl substances. \n \n (b) Considerations; Inclusions . The interim guidance under subsection (a) shall - (1) take into consideration - (A) the potential for releases of perfluoroalkyl and polyfluoroalkyl substances during destruction or disposal, including through volatilization, air dispersion, or leachate; and \n (B) potentially vulnerable populations living near likely destruction or disposal sites; and \n \n (2) provide guidance on testing and monitoring air, effluent, and soil near potential destruction or disposal sites for releases described in paragraph (1)(A). \n \n (c) Time period. Revisions . The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator \ndetermines to be appropriate, but not less frequently than once every 3 years.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01733960025012493,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1673,
+      "word_count": 223,
+      "token_length": 367
+    }
+  ],
+  "_submission_type": "solo"
+}

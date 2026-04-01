@@ -1,0 +1,26 @@
+{
+  "text": "Assessment of accelerated promotion program suspension. (a) Deadline. In General . Not later than 90 days after the date of the enactment of this Act, the Secretary of the Navy shall conduct an assessment of the impacts resulting from the Navy\u2019s suspension in 2016 of the Accelerated Promotion Program (in this section referred to as the \u201cAPP\u201d). \n (b) Elements Time periods. Determination. . The assessment required under subsection (a) shall include the following elements: (1) An identification of the number of employees who were hired at the four public shipyards between January 23, 2016, and December 22, 2016, covering the period in which APP was suspended, and who would have otherwise been eligible for APP had the program been in effect at the time they were hired. \n (2) An assessment for employees identified in paragraph (1) to determine the difference between wages earned from the date of hire to the date on which wage data is collected for purposes of the assessment and the wages which would have been earned during this same period had that employee participated in APP from the date of hire and been promoted according to the average promotion timeframe for participants hired in the five-year period prior to the suspension. \n (3) An assessment for each employee identified in paragraph (1) to determine at what grade and step each effected employee who would have met the required experience and training to qualify for an accelerated promotion would be on October 1, 2020, had that employee been promoted according to the average promotion timeframe for participants hired in the five-year period prior to the suspension. \n (4) Evaluation. An evaluation of existing authorities available to the Secretary to determine whether the Secretary can take measures using those authorities to provide the pay difference and corresponding interest to each effected employee who has otherwise met the required experience and training to qualify for an accelerated promotion identified in paragraph (2) and \ndirectly promote the employee to the grade and step identified in paragraph (3). \n \n (c) Report . The Secretary shall submit to the congressional defense committees a report on the results of the assessment required under subsection (a) by not later than June 1, 2020, and shall provide interim briefings upon request.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Assessment of accelerated promotion program suspension. (a) Deadline. In General . Not later than 90 days after the date of the enactment of this Act, the Secretary of the Navy shall conduct an assessment of the impacts resulting from the Navy\u2019s suspension in 2016 of the Accelerated Promotion Program (in this section referred to as the \u201cAPP\u201d). \n (b) Elements Time periods. Determination. . The assessment required under subsection (a) shall include the following elements: (1) An identification of the number of employees who were hired at the four public shipyards between January 23, 2016, and December 22, 2016, covering the period in which APP was suspended, and who would have otherwise been eligible for APP had the program been in effect at the time they were hired. \n (2) An assessment for employees identified in paragraph (1) to determine the difference between wages earned from the date of hire to the date on which wage data is collected for purposes of the assessment and the wages which would have been earned during this same period had that employee participated in APP from the date of hire and been promoted according to the average promotion timeframe for participants hired in the five-year period prior to the suspension. \n (3) An assessment for each employee identified in paragraph (1) to determine at what grade and step each effected employee who would have met the required experience and training to qualify for an accelerated promotion would be on October 1, 2020, had that employee been promoted according to the average promotion timeframe for participants hired in the five-year period prior to the suspension. \n (4) Evaluation. An evaluation of existing authorities available to the Secretary to determine whether the Secretary can take measures using those authorities to provide the pay difference and corresponding interest to each effected employee who has otherwise met the required experience and training to qualify for an accelerated promotion identified in paragraph (2) and \ndirectly promote the employee to the grade and step identified in paragraph (3). \n \n (c) Report . The Secretary shall submit to the congressional defense committees a report on the results of the assessment required under subsection (a) by not later than June 1, 2020, and shall provide interim briefings upon request.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008397507481276989,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2338,
+      "word_count": 373,
+      "token_length": 477
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "Determinations. Clarification for members of the national guard and reserves. (a) 5 USC 6382 note . Executive Branch Employees . For purposes of determining the eligibility of an employee who is a member of the National Guard or Reserves to take leave under section 6382(a) of title 5, United States Code , or to substitute such leave pursuant to subsection (d)(2)(A) of section 6382 of such title (as added by section 1102), any service by such employee on active duty (as defined in section 6381(7) of such title) shall be counted as service as an employee for purposes of section 6381(1)(B) of such title. \n (b) 2 USC 1312 note . Congressional Employees . For purposes of determining the eligibility of a covered employee (as such term is defined in section 101(3) of the Congressional Accountability Act) who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 (pursuant to section 202(a)(1) of the Congressional Accountability Act), any service by such employee on active duty (as defined in section 101(14) of the Family and Medical Leave Act of 1993) shall be counted as time during which such employee has been employed in an employing office for purposes of section 202(a)(2)(B) of the Congressional Accountability Act. \n (c) 29 USC 2612 note . Gao and Library of Congress Employees . For purposes of determining the eligibility of an employee of the Government Accountability Office or Library of Congress who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993, any service by such employee on active duty (as defined in section 101(14) \nof such Act) shall be counted as time during which such employee has been employed for purposes of section 101(2)(A) of such Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Determinations. Clarification for members of the national guard and reserves. (a) 5 USC 6382 note . Executive Branch Employees . For purposes of determining the eligibility of an employee who is a member of the National Guard or Reserves to take leave under section 6382(a) of title 5, United States Code , or to substitute such leave pursuant to subsection (d)(2)(A) of section 6382 of such title (as added by section 1102), any service by such employee on active duty (as defined in section 6381(7) of such title) shall be counted as service as an employee for purposes of section 6381(1)(B) of such title. \n (b) 2 USC 1312 note . Congressional Employees . For purposes of determining the eligibility of a covered employee (as such term is defined in section 101(3) of the Congressional Accountability Act) who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 (pursuant to section 202(a)(1) of the Congressional Accountability Act), any service by such employee on active duty (as defined in section 101(14) of the Family and Medical Leave Act of 1993) shall be counted as time during which such employee has been employed in an employing office for purposes of section 202(a)(2)(B) of the Congressional Accountability Act. \n (c) 29 USC 2612 note . Gao and Library of Congress Employees . For purposes of determining the eligibility of an employee of the Government Accountability Office or Library of Congress who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993, any service by such employee on active duty (as defined in section 101(14) \nof such Act) shall be counted as time during which such employee has been employed for purposes of section 101(2)(A) of such Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.03489077836275101,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1824,
+      "word_count": 310,
+      "token_length": 472
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,26 @@
+{
+  "text": "10 USC 2871 note . Radon testing of privatized military housing. (a) Report . Not later than March 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report identifying the installations of the Department of Defense that have privatized military housing that should be monitored for levels of radon at or above the action level. \n (b) Testing Procedures and Standards . The Secretaries of the military departments shall ensure that landlords providing privatized military housing at installations identified under subsection (a) establish testing procedures that are consistent with then current national consensus standards and are in compliance with applicable Federal, State, and local radon regulations in order to ensure radon levels are below recommended levels established by the Environmental Protection Agency, whether through - (1) regular testing of privatized military housing by persons who possess certification pursuant to the proficiency program operated under section 305(a)(2) of the Toxic Substances Control Act ( 15 U.S.C. 2665(a)(2) ); or \n (2) the installation of monitoring equipment in privatized military housing. \n \n (c) Deadline. Determination. Plan. Notification Regarding Need for Mitigation . If, as a result of testing described in subsection (b), a unit of privatized military housing needs radon mitigation to ensure radon levels are below recommended levels, the landlord providing the housing unit shall submit to the Secretary of the military department concerned, not later than seven days after the determination of the need for radon mitigation, the mitigation plan for the housing unit.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "10 USC 2871 note . Radon testing of privatized military housing. (a) Report . Not later than March 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report identifying the installations of the Department of Defense that have privatized military housing that should be monitored for levels of radon at or above the action level. \n (b) Testing Procedures and Standards . The Secretaries of the military departments shall ensure that landlords providing privatized military housing at installations identified under subsection (a) establish testing procedures that are consistent with then current national consensus standards and are in compliance with applicable Federal, State, and local radon regulations in order to ensure radon levels are below recommended levels established by the Environmental Protection Agency, whether through - (1) regular testing of privatized military housing by persons who possess certification pursuant to the proficiency program operated under section 305(a)(2) of the Toxic Substances Control Act ( 15 U.S.C. 2665(a)(2) ); or \n (2) the installation of monitoring equipment in privatized military housing. \n \n (c) Deadline. Determination. Plan. Notification Regarding Need for Mitigation . If, as a result of testing described in subsection (b), a unit of privatized military housing needs radon mitigation to ensure radon levels are below recommended levels, the landlord providing the housing unit shall submit to the Secretary of the military department concerned, not later than seven days after the determination of the need for radon mitigation, the mitigation plan for the housing unit.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005137890577316284,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1664,
+      "word_count": 246,
+      "token_length": 330
+    }
+  ],
+  "_submission_type": "solo"
+}

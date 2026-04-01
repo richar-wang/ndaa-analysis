@@ -1,0 +1,36 @@
+{
+  "text": "Modification of authorized uses of certain property conveyed by the united states in los angeles, california. (a) In General . Section 2 of Public Law 85\u2013236 ( 71 Stat. 517 ) is amended in the first sentence by inserting after \u201c for other military purposes \u201d the following: \u201c and for purposes of meeting the needs of the homeless (as that term is defined in section 103 of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11302 )) \u201d. \n (b) Homeless persons. Modification of Use . (1) Application . The State of California shall submit to the Administrator of General Services an application for use of the property conveyed by section 2 of Public Law 85\u2013236 for purposes of meeting the needs of the homeless in accordance with the amendment made by subsection (a). \n (2) Deadline. Determination. Review of application . Not later than 60 days after the date of receipt of an application pursuant to paragraph (1), the Administrator and the Secretary of Health and Human Services shall jointly determine whether the use of the property described in the application is a use for purposes of meeting the needs of the homeless. \n (3) Review. Consultation. Compatibility with military purposes . Before executing any instrument of modification of the deed of conveyance, the Administrator and the Secretary shall request a review by the Chief of the National Guard Bureau, in consultation with the Secretary of the Army, to ensure that any modification of the use of the property described in the application is compatible with the current and anticipated future use of the property for training members of the National Guard and other military purposes. \n (4) Determination. Records. Modification of instrument of conveyance . If the Chief of the National Guard Bureau determines pursuant to the review under paragraph (3) that the modification of the use of the property described in the application is compatible with the use of the property for training members of the National Guard and other military purposes, the Administrator shall execute and record in the appropriate office an instrument of modification of the deed of conveyance executed pursuant to Public Law 85\u2013236 in order to authorize such use of the property described in the application. Deadline. The instrument shall be filed within 60 days of such determination and include such additional terms and conditions as the Administrator considers appropriate to protect the interests of the United States.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Modification of authorized uses of certain property conveyed by the united states in los angeles, california. (a) In General . Section 2 of Public Law 85\u2013236 ( 71 Stat. 517 ) is amended in the first sentence by inserting after \u201c for other military purposes \u201d the following: \u201c and for purposes of meeting the needs of the homeless (as that term is defined in section 103 of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11302 )) \u201d. \n (b) Homeless persons. Modification of Use . (1) Application . The State of California shall submit to the Administrator of General Services an application for use of the property conveyed by section 2 of Public Law 85\u2013236 for purposes of meeting the needs of the homeless in accordance with the amendment made by subsection (a). \n (2) Deadline. Determination. Review of application . Not later than 60 days after the date of receipt of an application pursuant to paragraph (1), the Administrator and the Secretary of Health and Human Services shall jointly determine whether the use of the property described in the application is a use for purposes of meeting the needs of the homeless. \n (3) Review. Consultation. Compatibility with military purposes . Before executing any instrument of modification of the deed of conveyance, the Administrator and the Secretary shall request a review by the Chief of the National Guard Bureau, in consultation with the Secretary of the Army, to ensure that any modification of the use of the property described in the application is compatible with the current and anticipated future use of the property for training members of the National Guard and other military purposes. \n (4) Determination. Records. Modification of instrument of conveyance . If the Chief of the National Guard Bureau determines pursuant to the review under paragraph (3) that the modification of the use of the property described in the application is compatible with the use of the property for training members of the National Guard and other military purposes, the Administrator shall execute and record in the appropriate office an instrument of modification of the deed of conveyance executed pursuant to Public Law 85\u2013236 in order to authorize such use of the property described in the application.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006891255674418062,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2258,
+      "word_count": 370,
+      "token_length": 476
+    },
+    {
+      "text": " Deadline. The instrument shall be filed within 60 days of such determination and include such additional terms and conditions as the Administrator considers appropriate to protect the interests of the United States.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008194253081455827,
+      "confidence": "High",
+      "start_index": 2258,
+      "end_index": 2474,
+      "word_count": 32,
+      "token_length": 37
+    }
+  ],
+  "_submission_type": "solo"
+}

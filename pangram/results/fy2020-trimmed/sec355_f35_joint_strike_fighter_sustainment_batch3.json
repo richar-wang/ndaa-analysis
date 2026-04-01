@@ -1,0 +1,71 @@
+{
+  "text": "F\u201335 Joint strike fighter sustainment. (a) Limitation on Use of Funds . Of the amounts authorized to be appropriated or otherwise made available in this Act for the Office of the Under Secretary of Defense for Acquisition and Sustainment for fiscal year 2020, not more than 75 percent may be obligated or expended until the date on which the Under Secretary submits the report required by subsection (b). \n (b) Report Required . The Under Secretary of Defense for Acquisition and Sustainment shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on steps being taken to improve the availability and accountability of F\u201335 parts within the supply chain. Plan. At a minimum, the report shall include a detailed plan for each of the following elements: (1) How the accountable property system of record will be updated with information from the prime contractors supplying such parts on required cost and related data with respect to the parts and how the F\u201335 Program Office will ensure such contractors are adhering to contractual requirements for the management, reporting, visibility, and accountability of all such parts supplied by the prime contractors. \n (2) How the accountability property system of record will have interfaces that allow the F\u201335 Program Office and other authorized entities to have proper accountability of assets in accordance with applicable Department of Defense Instructions, Department of Defense Manuals, and other applicable regulations. \n (3) How the F\u201335 Program Office, in coordination with the military departments, will ensure business rules for the prioritization of F\u201335 parts across all program participants are sufficient, effective, and responsive. \n (4) Steps being taken to ensure parts within the base, afloat, and deployment spares packages are compatible for deploying F\u201335 aircraft and account for updated parts demand.\n\n10 USC 8685 note . Pilot program to train skilled technicians in critical shipbuilding skills. (a) Establishment . The Secretary of the Navy may carry out a pilot program to train individuals to become skilled technicians in critical shipbuilding skills such as welding, metrology, quality assurance, machining, and additive manufacturing. \n (b) Partnerships . In carrying out the pilot program under this section, the Secretary may partner with existing Federal or State projects relating to investment and infrastructure in training and education or workforce development, such as the National Network for Manufacturing Innovation, the Industrial Base Analysis and Sustainment program of the Department of Defense, and the National Maritime Educational Council. \n (c) Termination . The authority to carry out a pilot program under this section shall terminate on September 30, 2025. \n (d) Time periods. Briefings . If the Secretary carries out a pilot program under this section, the Secretary shall provide briefings to the Committees on Armed Services of the Senate and the House of Representatives as follows: (1) Not later than 30 days before beginning to implement the pilot program, the Secretary shall provide a briefing on the plan, cost estimate, and schedule for the pilot program. \n (2) Not less frequently than annually during the period when the pilot program is carried out, the Secretary shall \nprovide briefings on the progress of the Secretary in carrying out the pilot program.\n\n10 USC 2460 note . Requirement for military department inter-service depot maintenance. (a) Joint Process for Technical Compliance and Quality Control . If the Secretary of a military department transfers any maintenance action on a platform to a depot under the jurisdiction of the Secretary of another military department, the two Secretaries shall develop and implement a process to ensure the technical compliance and quality control for the work performed. \n (b) Requirements . A process developed under subsection (a) shall include the following requirements - (1) The Secretary of the military department with jurisdiction over the depot to which the maintenance action is transferred shall - (A) ensure that the technical specifications, requirements, and standards for work to be performed are provided to such action or depot; and \n (B) Procedures. implement procedures to ensure that completed work complies with such specifications, requirements and standards. \n \n (2) The Secretary who transfers the maintenance activity or depot shall ensure that - (A) the technical specifications and requirements are clearly understood; and \n (B) the work performed is completed to the technical specifications, requirements, and standards prescribed under paragraph (1), and that the Secretary of the military department with jurisdiction over the depot is informed of any shortcoming or discrepancy. \n \n \n (c) Certification. Reports . Not later than 180 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report containing a certification that sufficient policy and procedures are in place to ensure quality control when the depot or maintenance activities of one military department support another. The report shall include a description of known shortfalls in existing policies and procedures and actions the Department of Defense is taking to address such shortfalls.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "F\u201335 Joint strike fighter sustainment. (a) Limitation on Use of Funds . Of the amounts authorized to be appropriated or otherwise made available in this Act for the Office of the Under Secretary of Defense for Acquisition and Sustainment for fiscal year 2020, not more than 75 percent may be obligated or expended until the date on which the Under Secretary submits the report required by subsection (b). \n (b) Report Required . The Under Secretary of Defense for Acquisition and Sustainment shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on steps being taken to improve the availability and accountability of F\u201335 parts within the supply chain. Plan. At a minimum, the report shall include a detailed plan for each of the following elements: (1) How the accountable property system of record will be updated with information from the prime contractors supplying such parts on required cost and related data with respect to the parts and how the F\u201335 Program Office will ensure such contractors are adhering to contractual requirements for the management, reporting, visibility, and accountability of all such parts supplied by the prime contractors. \n (2) How the accountability property system of record will have interfaces that allow the F\u201335 Program Office and other authorized entities to have proper accountability of assets in accordance with applicable Department of Defense Instructions, Department of Defense Manuals, and other applicable regulations. \n (3) How the F\u201335 Program Office, in coordination with the military departments, will ensure business rules for the prioritization of F\u201335 parts across all program participants are sufficient, effective, and responsive. \n (4) Steps being taken to ensure parts within the base, afloat, and deployment spares packages are compatible for deploying F\u201335 aircraft and account for updated parts demand.\n\n10 USC 8685 note . Pilot program to train skilled technicians in critical shipbuilding skills. (a) Establishment . The Secretary of the Navy may carry out a pilot program to train individuals to become skilled technicians in critical shipbuilding skills such as welding, metrology, quality assurance, machining, and additive manufacturing.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009112789366168508,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2255,
+      "word_count": 345,
+      "token_length": 448
+    },
+    {
+      "text": " \n (b) Partnerships . In carrying out the pilot program under this section, the Secretary may partner with existing Federal or State projects relating to investment and infrastructure in training and education or workforce development, such as the National Network for Manufacturing Innovation, the Industrial Base Analysis and Sustainment program of the Department of Defense, and the National Maritime Educational Council. \n (c) Termination . The authority to carry out a pilot program under this section shall terminate on September 30, 2025. \n (d) Time periods. Briefings . If the Secretary carries out a pilot program under this section, the Secretary shall provide briefings to the Committees on Armed Services of the Senate and the House of Representatives as follows: (1) Not later than 30 days before beginning to implement the pilot program, the Secretary shall provide a briefing on the plan, cost estimate, and schedule for the pilot program. \n (2) Not less frequently than annually during the period when the pilot program is carried out, the Secretary shall \nprovide briefings on the progress of the Secretary in carrying out the pilot program.\n\n10 USC 2460 note . Requirement for military department inter-service depot maintenance. (a) Joint Process for Technical Compliance and Quality Control . If the Secretary of a military department transfers any maintenance action on a platform to a depot under the jurisdiction of the Secretary of another military department, the two Secretaries shall develop and implement a process to ensure the technical compliance and quality control for the work performed. \n (b) Requirements . A process developed under subsection (a) shall include the following requirements - (1) The Secretary of the military department with jurisdiction over the depot to which the maintenance action is transferred shall - (A) ensure that the technical specifications, requirements, and standards for work to be performed are provided to such action or depot; and \n (B) Procedures. implement procedures to ensure that completed work complies with such specifications, requirements and standards. \n \n (2) The Secretary who transfers the maintenance activity or depot shall ensure that - (A) the technical specifications and requirements are clearly understood; and \n (B) the work performed is completed to the technical specifications, requirements, and standards prescribed under paragraph (1), and that the Secretary of the military department with jurisdiction over the depot is informed of any shortcoming or discrepancy.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0076835194744894085,
+      "confidence": "High",
+      "start_index": 2255,
+      "end_index": 4816,
+      "word_count": 385,
+      "token_length": 493
+    },
+    {
+      "text": " \n \n \n (c) Certification. Reports . Not later than 180 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report containing a certification that sufficient policy and procedures are in place to ensure quality control when the depot or maintenance activities of one military department support another. The report shall include a description of known shortfalls in existing policies and procedures and actions the Department of Defense is taking to address such shortfalls.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01020959485322237,
+      "confidence": "High",
+      "start_index": 4816,
+      "end_index": 5405,
+      "word_count": 89,
+      "token_length": 109
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec355_f35_joint_strike_fighter_sustainment.txt",
+    "sec357_pilot_program_to_train_skilled_technicians_in_critical_shipbuilding_skills.txt",
+    "sec358_requirement_for_military_department_inter_service_depot_maintenance.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec355_f35_joint_strike_fighter_sustainment.txt",
+      "start_index": 0,
+      "end_index": 1914,
+      "word_count": 295
+    },
+    {
+      "filename": "sec357_pilot_program_to_train_skilled_technicians_in_critical_shipbuilding_skills.txt",
+      "start_index": 1916,
+      "end_index": 3413,
+      "word_count": 230
+    },
+    {
+      "filename": "sec358_requirement_for_military_department_inter_service_depot_maintenance.txt",
+      "start_index": 3415,
+      "end_index": 5405,
+      "word_count": 294
+    }
+  ]
+}

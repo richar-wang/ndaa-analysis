@@ -1,0 +1,56 @@
+{
+  "text": "Research, development, test, and evaluation for overseas contingency operations. \n \n \n \n \n \n Section 4202. Research, development, test, and evaluation for overseas contingency operations (In Thousands of Dollars) \n \n Line Program Element Item FY 2020 Request Conference Authorized \n Research, development, test & Eval, army \n advanced component development & Prototypes \n 074 0603327A Air and missile defense systems engineering 500 500 \n 079 0603747A Soldier support and survivability 3,000 3,000 \n 085 0603804A Logistics and engineer equipment - ADV DEV 1,085 1,085 \n 095 0604117A MANEUVER - Short range air defense (M-SHORAD) 6,000 0 \n Unjustified request [\u20136,000] \n 097 0604119A Army advanced component development & Prototyping 4,529 4,529 \n 105 0604785A Integrated base defense (Budget activity 4) 2,000 2,000 \n Subtotal advanced component development & Prototypes 17,114 17,114 \n \n System development & Demonstration \n 151 0605035A Common infrared countermeasures (CIRCM) 11,770 11,770 \n 159 0605051A Aircraft survivability development 77,420 77,420 \n 163 0605203A Army system development & Demonstration 19,527 19,527 \n 174 0304270A Electronic warfare development 3,200 3,200 \n Subtotal system development & Demonstration 111,917 111,917 \n \n RDT&E management support \n 200 0606003A Counterintel and human intel modernization 1,875 1,875 \n Subtotal rdt&E management support 1,875 1,875 \n \n Operational systems development \n undistributed \n 238 0303028A Security and intelligence activities 22,904 22,904 \n 246 0305204A Tactical unmanned aerial vehicles 34,100 34,100 \n 247 0305206A Airborne reconnaissance systems 14,000 14,000 \n 252 0307665A Biometrics enabled intelligence 2,214 2,214 \n Subtotal operational systems development 73,218 73,218 \n \n Total research, development, test & Eval, army 204,124 198,124 \n \n Research, development, test & Eval, navy \n advanced component development & Prototypes \n 028 0603207N AIR/Ocean tactical applications 2,400 2,400 \n 038 0603527N Retract larch 22,000 22,000 \n 057 0603654N Joint service explosive ordnance development 14,178 14,178 \n 069 0603795N Land attack technology 1,428 1,428 \n Subtotal advanced component development & Prototypes 40,006 40,006 \n \n System development & Demonstration \n 143 0604755N Ship self defense (DETECT & CONTROL) 1,122 1,122 \n Subtotal system development & Demonstration 1,122 1,122 \n \n Operational systems development \n undistributed \n 228 0206313M Marine corps communications systems 15,000 15,000 \n 259A 9999999999 Classified programs 108,282 108,282 \n Subtotal operational systems development 123,282 123,282 \n \n Total research, development, test & Eval, navy 164,410 164,410 \n \n Research, development, test & Eval, af \n advanced component development & Prototypes \n 048 0604858F Tech transition program 26,450 26,450 \n 072 1206857F Space rapid capabilities office 17,885 17,885 \n Subtotal advanced component development & Prototypes 44,335 44,335 \n \n Operational systems development \n undistributed \n 177 0205671F Joint counter rcied electronic warfare 4,000 4,000 \n 217 0208288F Intel data applications 1,200 1,200 \n 311A 9999999999 Classified programs 78,713 78,713 \n Subtotal operational systems development 83,913 83,913 \n \n Total research, development, test & Eval, af 128,248 128,248 \n \n Research, development, test & Eval, dw \n applied research \n 010 0602134BR Counter improvised-threat advanced studies 1,677 1,677 \n Subtotal applied research 1,677 1,677 \n \n Advanced technology development \n 025 0603122D8Z Combating terrorism technology support 25,230 25,230 \n 027 0603134BR Counter improvised-threat simulation 49,528 49,528 \n Subtotal advanced technology development 74,758 74,758 \n \n Advanced component development and prototypes \n 094 0604134BR Counter improvised-threat demonstration, prototype development, and testing 113,590 113,590 \n Subtotal advanced component development and prototypes 113,590 113,590 \n \n Operational system development \n undistributed \n 258 1160408BB Operational enhancements 726 726 \n 259 1160431BB Warrior systems 6,000 6,000 \n 261 1160434BB Unmanned isr 5,000 5,000 \n 266A 9999999999 Classified programs 200,199 200,199 \n Subtotal operational system development 211,925 211,925 \n \n Total research, development, test & Eval, dw 401,950 401,950 \n \n Total rdt&E 898,732 892,732",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 4,
+  "windows": [
+    {
+      "text": "Research, development, test, and evaluation for overseas contingency operations. \n \n \n \n \n \n Section 4202. Research, development, test, and evaluation for overseas contingency operations (In Thousands of Dollars) \n \n Line Program Element Item FY 2020 Request Conference Authorized \n Research, development, test & Eval, army \n advanced component development & Prototypes \n 074 0603327A Air and missile defense systems engineering 500 500 \n 079 0603747A Soldier support and survivability 3,000 3,000 \n 085 0603804A Logistics and engineer equipment - ADV DEV 1,085 1,085 \n 095 0604117A MANEUVER - Short range air defense (M-SHORAD) 6,000 0 \n Unjustified request [\u20136,000] \n 097 0604119A Army advanced component development & Prototyping 4,529 4,529 \n 105 0604785A Integrated base defense (Budget activity 4) 2,000 2,000 \n Subtotal advanced component development & Prototypes 17,114 17,114 \n \n System development & Demonstration \n 151 0605035A Common infrared countermeasures (CIRCM) 11,770 11,770 \n 159 0605051A Aircraft survivability development 77,420 77,420 \n 163 0605203A Army system development & Demonstration 19,527 19,527 \n 174 0304270A Electronic",
+      "label": "Human Written",
+      "ai_assistance_score": 0.08206963890956508,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1151,
+      "word_count": 146,
+      "token_length": 466
+    },
+    {
+      "text": " warfare development 3,200 3,200 \n Subtotal system development & Demonstration 111,917 111,917 \n \n RDT&E management support \n 200 0606003A Counterintel and human intel modernization 1,875 1,875 \n Subtotal rdt&E management support 1,875 1,875 \n \n Operational systems development \n undistributed \n 238 0303028A Security and intelligence activities 22,904 22,904 \n 246 0305204A Tactical unmanned aerial vehicles 34,100 34,100 \n 247 0305206A Airborne reconnaissance systems 14,000 14,000 \n 252 0307665A Biometrics enabled intelligence 2,214 2,214 \n Subtotal operational systems development 73,218 73,218 \n \n Total research, development, test & Eval, army 204,124 198,124 \n \n Research, development, test & Eval, navy \n advanced component development & Prototypes \n 028 0603207N AIR/Ocean tactical applications 2,400 2,400 \n 038 0603527N Retract larch 22,000 22,000 \n 057 0603654N Joint service explosive ordnance development 14,178 14,178 \n 069 0603795N Land attack technology 1,428 1,428 \n Subtotal advanced component development & Prototypes 40,006 40,006",
+      "label": "Human Written",
+      "ai_assistance_score": 0.06191433841983478,
+      "confidence": "Medium",
+      "start_index": 1151,
+      "end_index": 2203,
+      "word_count": 126,
+      "token_length": 476
+    },
+    {
+      "text": " \n \n System development & Demonstration \n 143 0604755N Ship self defense (DETECT & CONTROL) 1,122 1,122 \n Subtotal system development & Demonstration 1,122 1,122 \n \n Operational systems development \n undistributed \n 228 0206313M Marine corps communications systems 15,000 15,000 \n 259A 9999999999 Classified programs 108,282 108,282 \n Subtotal operational systems development 123,282 123,282 \n \n Total research, development, test & Eval, navy 164,410 164,410 \n \n Research, development, test & Eval, af \n advanced component development & Prototypes \n 048 0604858F Tech transition program 26,450 26,450 \n 072 1206857F Space rapid capabilities office 17,885 17,885 \n Subtotal advanced component development & Prototypes 44,335 44,335 \n \n Operational systems development \n undistributed \n 177 0205671F Joint counter rcied electronic warfare 4,000 4,000 \n 217 0208288F Intel data applications 1,200 1,200 \n 311A 9999999999 Classified programs 78,713 78,713 \n Subtotal operational systems development 83,913 83,913 \n \n Total research, development, test &",
+      "label": "Human Written",
+      "ai_assistance_score": 0.04563855674738686,
+      "confidence": "Medium",
+      "start_index": 2203,
+      "end_index": 3251,
+      "word_count": 125,
+      "token_length": 457
+    },
+    {
+      "text": " Eval, af 128,248 128,248 \n \n Research, development, test & Eval, dw \n applied research \n 010 0602134BR Counter improvised-threat advanced studies 1,677 1,677 \n Subtotal applied research 1,677 1,677 \n \n Advanced technology development \n 025 0603122D8Z Combating terrorism technology support 25,230 25,230 \n 027 0603134BR Counter improvised-threat simulation 49,528 49,528 \n Subtotal advanced technology development 74,758 74,758 \n \n Advanced component development and prototypes \n 094 0604134BR Counter improvised-threat demonstration, prototype development, and testing 113,590 113,590 \n Subtotal advanced component development and prototypes 113,590 113,590 \n \n Operational system development \n undistributed \n 258 1160408BB Operational enhancements 726 726 \n 259 1160431BB Warrior systems 6,000 6,000 \n 261 1160434BB Unmanned isr 5,000 5,000 \n 266A 9999999999 Classified programs 200,199 200,199 \n Subtotal operational system development 211,925 211,925 \n \n Total research, development, test & Eval, dw 401,950 401,950 \n \n Total rdt&E 898,732 892,732",
+      "label": "Human Written",
+      "ai_assistance_score": 0.05238322354853153,
+      "confidence": "Medium",
+      "start_index": 3251,
+      "end_index": 4304,
+      "word_count": 120,
+      "token_length": 477
+    }
+  ],
+  "_submission_type": "solo"
+}

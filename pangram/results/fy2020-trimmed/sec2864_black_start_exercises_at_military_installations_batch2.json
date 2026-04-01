@@ -1,0 +1,54 @@
+{
+  "text": "Black start exercises at military installations. (a) Deadline. Requirement . Not later than September 30, 2020, the Secretary of Defense shall conduct a black start exercise at three military installations, at least one of which shall be a Joint Base. The exercises shall be conducted at installations at which such an exercise has not previously been conducted, for the purpose of identifying any shortcomings in infrastructure, joint operations, joint coordination, and security that would result from a loss of power at the installation. \n (b) Time period. Report . Not later than June 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report that contains a discussion of lessons learned from black start exercises conducted by the Secretary of Defense during the period beginning with the first such exercise and ending on December 31, 2019, including the three most recurring issues identified as a result of such exercises with respect to infrastructure, joint coordination efforts, and security. \n (c) Black Start Exercise Defined . In this section, the term \u201c black start exercise \u201d means, with respect to a military installation, an exercise in which commercial utility power at the installation is dropped before backup generation assets start, for the purpose of - (1) testing the ability of the backup systems to start, transfer the load, and carry the load until commercial power is restored; \n (2) aligning stakeholders on critical energy requirements to meet mission requirements; \n (3) validating mission operation plans, such as continuity of operations plans; \n (4) identifying infrastructure interdependencies; and \n (5) verifying backup electric power system performance.\n\n10 USC 2802 note . Pilot program to extend service life of roads and runways under the jurisdiction of the secretary of defense. (a) Consultation. Pilot Program Authorized . The Secretary of Defense, in consultation with the Secretary of Transportation, may carry out a pilot program to design, build, and test technologies, techniques, and materials in order to extend the service life of roads and runways under the jurisdiction of the Secretary of Defense. \n (b) Scope . The pilot program under subsection (a) shall include the following: (1) The design, testing, and assembly of technologies and systems suitable for pavement applications. \n (2) Research and development. Research, development, and testing of pavement materials for use in different geographic areas in the United States. \n (3) The design and procurement of platforms and equipment to test the performance, cost, feasibility, and effectiveness of the technologies, systems, and materials described in paragraphs (1) and (2). \n \n (c) Award of Contracts or Grants . (1) In general . The Secretary of Defense may carry out the pilot program under subsection (a) through the award of contracts or grants for the designing, building, or testing of technologies, techniques, and materials under the pilot program. \n (2) Merit-based selection . Any award of a contract or grant under the pilot program under subsection (a) shall be made using merit-based selection procedures. \n \n (d) Report . (1) In general . Not later than two years after the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees a report on the pilot program. \n (2) Contents . The report under paragraph (1) with respect to the pilot program shall include the following: (A) Assessment. An assessment of the effectiveness of activities under the pilot program in improving the service life of roads and runways under the jurisdiction of the Secretary. \n (B) Analysis. An analysis of the potential lifetime cost savings and reduction in energy demands associated with the extended service life of such roads and runways. \n \n \n (e) Termination of Authority . The pilot program under subsection (a) shall terminate on September 30, 2024.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Black start exercises at military installations. (a) Deadline. Requirement . Not later than September 30, 2020, the Secretary of Defense shall conduct a black start exercise at three military installations, at least one of which shall be a Joint Base. The exercises shall be conducted at installations at which such an exercise has not previously been conducted, for the purpose of identifying any shortcomings in infrastructure, joint operations, joint coordination, and security that would result from a loss of power at the installation. \n (b) Time period. Report . Not later than June 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report that contains a discussion of lessons learned from black start exercises conducted by the Secretary of Defense during the period beginning with the first such exercise and ending on December 31, 2019, including the three most recurring issues identified as a result of such exercises with respect to infrastructure, joint coordination efforts, and security. \n (c) Black Start Exercise Defined . In this section, the term \u201c black start exercise \u201d means, with respect to a military installation, an exercise in which commercial utility power at the installation is dropped before backup generation assets start, for the purpose of - (1) testing the ability of the backup systems to start, transfer the load, and carry the load until commercial power is restored; \n (2) aligning stakeholders on critical energy requirements to meet mission requirements; \n (3) validating mission operation plans, such as continuity of operations plans; \n (4) identifying infrastructure interdependencies; and \n (5) verifying backup electric power system performance.\n\n10 USC 2802 note . Pilot program to extend service life of roads and runways under the jurisdiction of the secretary of defense. (a) Consultation. Pilot Program Authorized . The Secretary of Defense, in consultation with the Secretary of Transportation, may carry out a pilot program to design, build, and test technologies, techniques, and materials in order to extend the service life of roads and runways under the jurisdiction of the Secretary of Defense. \n (b) Scope . The pilot program under subsection (a) shall include the following: (1) The design, testing, and assembly of technologies and systems suitable for pavement applications. \n (2) Research and development. ",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005191196663639484,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2409,
+      "word_count": 367,
+      "token_length": 485
+    },
+    {
+      "text": "Research, development, and testing of pavement materials for use in different geographic areas in the United States. \n (3) The design and procurement of platforms and equipment to test the performance, cost, feasibility, and effectiveness of the technologies, systems, and materials described in paragraphs (1) and (2). \n \n (c) Award of Contracts or Grants . (1) In general . The Secretary of Defense may carry out the pilot program under subsection (a) through the award of contracts or grants for the designing, building, or testing of technologies, techniques, and materials under the pilot program. \n (2) Merit-based selection . Any award of a contract or grant under the pilot program under subsection (a) shall be made using merit-based selection procedures. \n \n (d) Report . (1) In general . Not later than two years after the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees a report on the pilot program. \n (2) Contents . The report under paragraph (1) with respect to the pilot program shall include the following: (A) Assessment. An assessment of the effectiveness of activities under the pilot program in improving the service life of roads and runways under the jurisdiction of the Secretary. \n (B) Analysis. An analysis of the potential lifetime cost savings and reduction in energy demands associated with the extended service life of such roads and runways. \n \n \n (e) Termination of Authority . The pilot program under subsection (a) shall terminate on September 30, 2024.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005674357669284711,
+      "confidence": "High",
+      "start_index": 2409,
+      "end_index": 3982,
+      "word_count": 245,
+      "token_length": 336
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec2864_black_start_exercises_at_military_installations.txt",
+    "sec2865_pilot_program_to_extend_service_life_of_roads_and_runways_under_the_jurisdiction.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec2864_black_start_exercises_at_military_installations.txt",
+      "start_index": 0,
+      "end_index": 1731,
+      "word_count": 262
+    },
+    {
+      "filename": "sec2865_pilot_program_to_extend_service_life_of_roads_and_runways_under_the_jurisdiction.txt",
+      "start_index": 1733,
+      "end_index": 3982,
+      "word_count": 350
+    }
+  ]
+}

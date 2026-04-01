@@ -1,0 +1,54 @@
+{
+  "text": "Improving the onboarding methodology for intelligence personnel. (a) Reports. In General . The Secretary of Defense and the Director of National Intelligence shall, consistent with Department of Defense Instruction 1400.25, as in effect on the day before the date of the enactment of this Act - (1) not later than 180 days after the date of the enactment of this Act, submit to the appropriate committees of Congress a report that outlines a common methodology for measuring onboarding in elements of the intelligence community, including human resources and security processes; \n (2) Deadline. Assessment. Time period. not later than one year after the date of the enactment of this Act, issue metrics for assessing key phases in the onboarding described in paragraph (1) for which results will be reported by the date that is 90 days after the date of such issuance; \n (3) not later than 180 days after the date of the enactment of this Act, submit to the appropriate committees of Congress a report on collaboration among elements of the intelligence community on their onboarding processes; \n (4) not later than 180 days after the date of the enactment of this Act, submit to the appropriate committees of Congress a report on employment of automated mechanisms in elements of the intelligence community, including for tracking personnel as they pass through each phase of the onboarding process; and \n (5) Survey. not later than December 31, 2020, distribute surveys to human resources offices and applicants about their experiences with the onboarding process in elements of the intelligence community. \n \n (b) Definitions . In this section: (1) The term \u201c appropriate committees of Congress \u201d means - (A) the Select Committee on Intelligence and the Committee on Armed Services of the Senate; and \n (B) the Permanent Select Committee on Intelligence and the Committee on Armed Services of the House of Representatives. \n \n (2) The term \u201c intelligence community \u201d has the meaning given such term in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).\n\nReport on the expanded purview of the defense counterintelligence and security agency. (a) Report Required . Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report on the Defense Counterintelligence and Security Agency. \n (b) Assessments. Contents . The report submitted under subsection (a) shall include the following: (1) Identification of the resources and authorities appropriate for the inspector general for the expanded purview of the Defense Counterintelligence and Security Agency. \n (2) Identification of the resources and authorities needed to perform the civil liberties and privacy officer function of the Defense Counterintelligence and Security Agency. \n (3) An assessment of the security protocols in effect for personally identifiable information held by the Defense Counterintelligence and Security Agency. \n (4) An assessment of the governance structure of the Defense Counterintelligence and Security Agency as it relates to the Department of Defense, including with respect to status, authorities, and leadership. \n (5) An assessment of the governance structure of the Defense Counterintelligence and Security Agency as it relates to interagency partners, including the Office of Management and Budget, the Office of the Director of National Intelligence, and the Office of Personnel Management. \n (6) The methodology the Defense Counterintelligence and Security Agency will prioritize requests for background investigation requests from government agencies and industry.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Improving the onboarding methodology for intelligence personnel. (a) Reports. In General . The Secretary of Defense and the Director of National Intelligence shall, consistent with Department of Defense Instruction 1400.25, as in effect on the day before the date of the enactment of this Act - (1) not later than 180 days after the date of the enactment of this Act, submit to the appropriate committees of Congress a report that outlines a common methodology for measuring onboarding in elements of the intelligence community, including human resources and security processes; \n (2) Deadline. Assessment. Time period. not later than one year after the date of the enactment of this Act, issue metrics for assessing key phases in the onboarding described in paragraph (1) for which results will be reported by the date that is 90 days after the date of such issuance; \n (3) not later than 180 days after the date of the enactment of this Act, submit to the appropriate committees of Congress a report on collaboration among elements of the intelligence community on their onboarding processes; \n (4) not later than 180 days after the date of the enactment of this Act, submit to the appropriate committees of Congress a report on employment of automated mechanisms in elements of the intelligence community, including for tracking personnel as they pass through each phase of the onboarding process; and \n (5) Survey. not later than December 31, 2020, distribute surveys to human resources offices and applicants about their experiences with the onboarding process in elements of the intelligence community. \n \n (b) Definitions . In this section: (1) The term \u201c appropriate committees of Congress \u201d means - (A) the Select Committee on Intelligence and the Committee on Armed Services of the Senate; and \n (B) the Permanent Select Committee on Intelligence and the Committee on Armed Services of the House of Representatives. \n \n (2) The term \u201c intelligence community \u201d has the meaning given such term in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).\n\nReport on the expanded purview of the defense counterintelligence and security agency. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005298461161415886,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2161,
+      "word_count": 348,
+      "token_length": 472
+    },
+    {
+      "text": "a) Report Required . Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report on the Defense Counterintelligence and Security Agency. \n (b) Assessments. Contents . The report submitted under subsection (a) shall include the following: (1) Identification of the resources and authorities appropriate for the inspector general for the expanded purview of the Defense Counterintelligence and Security Agency. \n (2) Identification of the resources and authorities needed to perform the civil liberties and privacy officer function of the Defense Counterintelligence and Security Agency. \n (3) An assessment of the security protocols in effect for personally identifiable information held by the Defense Counterintelligence and Security Agency. \n (4) An assessment of the governance structure of the Defense Counterintelligence and Security Agency as it relates to the Department of Defense, including with respect to status, authorities, and leadership. \n (5) An assessment of the governance structure of the Defense Counterintelligence and Security Agency as it relates to interagency partners, including the Office of Management and Budget, the Office of the Director of National Intelligence, and the Office of Personnel Management. \n (6) The methodology the Defense Counterintelligence and Security Agency will prioritize requests for background investigation requests from government agencies and industry.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004734721568335468,
+      "confidence": "High",
+      "start_index": 2161,
+      "end_index": 3638,
+      "word_count": 209,
+      "token_length": 278
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1624_improving_the_onboarding_methodology_for_intelligence_personnel.txt",
+    "sec1628_report_on_the_expanded_purview_of_the_defense_counterintelligence_and_security_a.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1624_improving_the_onboarding_methodology_for_intelligence_personnel.txt",
+      "start_index": 0,
+      "end_index": 2071,
+      "word_count": 335
+    },
+    {
+      "filename": "sec1628_report_on_the_expanded_purview_of_the_defense_counterintelligence_and_security_a.txt",
+      "start_index": 2073,
+      "end_index": 3638,
+      "word_count": 221
+    }
+  ]
+}

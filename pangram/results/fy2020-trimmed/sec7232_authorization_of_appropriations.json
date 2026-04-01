@@ -1,0 +1,26 @@
+{
+  "text": "22 USC 2332 . Authorization of appropriations. (a) Department of the Treasury . There are authorized to be appropriated to the Secretary of the Treasury such sums as may be necessary for fiscal year 2020 to carry out operations and activities of the Department of the Treasury solely for purposes of carrying out this title. \n (b) Commission on Combating Synthetic Opioid Trafficking . Of the amount authorized to be appropriated by section 1403 for fiscal year 2020 and available for Drug Interdiction and Counter-Drug Activities, Defense-wide, as specified in the funding table in section 4501, the Secretary of Defense may, notwithstanding section 2215 of title 10, United States Code , transfer $5,000,000 to the Commission on Combating Synthetic Opioid Trafficking established under section 7221 in order to carry out the duties of the Commission. \n (c) Supplement Not Supplant . Amounts authorized to be appropriated by subsection (a) shall supplement and not supplant other amounts available to carry out operations and activities described in such subsections. \n (d) Time period. President. Notification Requirement . Amounts authorized to be appropriated by subsection (a) may not be obligated until 15 days after the date on which the President notifies the appropriate committees of Congress of the President\u2019s intention to obligate such funds. \n (e) Appropriate Committees of Congress Defined . In this section, the term \u201c appropriate committees of Congress \u201d means - (1) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the Senate; and \n (2) the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, the \nPermanent Select Committee on Intelligence, the Committee on Oversight and Reform, and the Committee on Appropriations of the House of Representatives.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "22 USC 2332 . Authorization of appropriations. (a) Department of the Treasury . There are authorized to be appropriated to the Secretary of the Treasury such sums as may be necessary for fiscal year 2020 to carry out operations and activities of the Department of the Treasury solely for purposes of carrying out this title. \n (b) Commission on Combating Synthetic Opioid Trafficking . Of the amount authorized to be appropriated by section 1403 for fiscal year 2020 and available for Drug Interdiction and Counter-Drug Activities, Defense-wide, as specified in the funding table in section 4501, the Secretary of Defense may, notwithstanding section 2215 of title 10, United States Code , transfer $5,000,000 to the Commission on Combating Synthetic Opioid Trafficking established under section 7221 in order to carry out the duties of the Commission. \n (c) Supplement Not Supplant . Amounts authorized to be appropriated by subsection (a) shall supplement and not supplant other amounts available to carry out operations and activities described in such subsections. \n (d) Time period. President. Notification Requirement . Amounts authorized to be appropriated by subsection (a) may not be obligated until 15 days after the date on which the President notifies the appropriate committees of Congress of the President\u2019s intention to obligate such funds. \n (e) Appropriate Committees of Congress Defined . In this section, the term \u201c appropriate committees of Congress \u201d means - (1) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the Senate; and \n (2) the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, the \nPermanent Select Committee on Intelligence, the Committee on Oversight and Reform, and the Committee on Appropriations of the House of Representatives.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004531579557806253,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1998,
+      "word_count": 304,
+      "token_length": 449
+    }
+  ],
+  "_submission_type": "solo"
+}

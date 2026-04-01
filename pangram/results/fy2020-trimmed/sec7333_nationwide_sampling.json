@@ -1,0 +1,26 @@
+{
+  "text": "15 USC 8933 . Nationwide sampling. (a) In General . The Director shall carry out a nationwide sampling to determine the concentration of highly fluorinated compounds in estuaries, lakes, streams, springs, wells, wetlands, rivers, aquifers, and soil using the performance standard developed under section 7332(a). \n (b) Requirements . In carrying out the sampling under subsection (a), the Director shall - (1) first carry out the sampling at sources of drinking water near locations with known or suspected releases of highly fluorinated compounds; \n (2) when carrying out sampling of sources of drinking water under paragraph (1), carry out the sampling prior to and, at the request of the Administrator, after any treatment of the water; \n (3) survey for ecological exposure to highly fluorinated compounds, with a priority in determining direct human exposure through drinking water; and \n (4) Consultation. consult with - (A) Determination. States to determine areas that are a priority for sampling; and \n (B) the Administrator - (i) to enhance coverage of the sampling; and \n (ii) to avoid unnecessary duplication. \n \n \n \n (c) Report . Not later than 120 days after the completion of the sampling under subsection (a), the Director shall prepare a report describing the results of the sampling and submit the report to - (1) the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate; \n (2) the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives; \n (3) the Senators of each State in which the Director carried out the sampling; and \n (4) each Member of the House of Representatives who represents a district in which the Director carried out the sampling.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "15 USC 8933 . Nationwide sampling. (a) In General . The Director shall carry out a nationwide sampling to determine the concentration of highly fluorinated compounds in estuaries, lakes, streams, springs, wells, wetlands, rivers, aquifers, and soil using the performance standard developed under section 7332(a). \n (b) Requirements . In carrying out the sampling under subsection (a), the Director shall - (1) first carry out the sampling at sources of drinking water near locations with known or suspected releases of highly fluorinated compounds; \n (2) when carrying out sampling of sources of drinking water under paragraph (1), carry out the sampling prior to and, at the request of the Administrator, after any treatment of the water; \n (3) survey for ecological exposure to highly fluorinated compounds, with a priority in determining direct human exposure through drinking water; and \n (4) Consultation. consult with - (A) Determination. States to determine areas that are a priority for sampling; and \n (B) the Administrator - (i) to enhance coverage of the sampling; and \n (ii) to avoid unnecessary duplication. \n \n \n \n (c) Report . Not later than 120 days after the completion of the sampling under subsection (a), the Director shall prepare a report describing the results of the sampling and submit the report to - (1) the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate; \n (2) the Committee on Energy and Commerce and the Committee on Natural Resources of the House of Representatives; \n (3) the Senators of each State in which the Director carried out the sampling; and \n (4) each Member of the House of Representatives who represents a district in which the Director carried out the sampling.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004865897819399834,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1765,
+      "word_count": 277,
+      "token_length": 385
+    }
+  ],
+  "_submission_type": "solo"
+}

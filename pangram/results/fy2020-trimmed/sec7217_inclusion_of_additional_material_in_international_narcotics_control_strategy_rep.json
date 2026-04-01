@@ -1,0 +1,26 @@
+{
+  "text": "Inclusion of additional material in international narcotics control strategy report. (a) Sense of Congress . It is the sense of Congress that, in order to apply economic and other financial sanctions to foreign traffickers of illicit opioids to protect the national security, foreign policy, and economy of the United States - (1) the President should instruct the Secretary of State to intensify diplomatic efforts, both in appropriate international fora such as the United Nations, the Group of Seven, the Group of Twenty, and trilaterally and bilaterally with partners of the United States, to combat foreign opioid trafficking, including by working to establish a multilateral sanctions regime with respect to foreign opioid trafficking; and \n (2) the Secretary of State, in consultation with the Secretary of the Treasury, should intensify efforts to maintain and strengthen the coalition of countries formed to combat foreign opioid trafficking. \n \n (b) Amendment to Foreign Assistance Act of 1961 . Section 489(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2291(a) ) is amended by adding at the end the following: \u201c(9) (A) Assessments. Consultation. An assessment conducted by the Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, of the extent to which any diplomatic efforts described in section 7217(a) of the Fentanyl Sanctions Act have been successful. \n \u201c(B) Each assessment required by subparagraph (A) shall include an identification of - \u201c(i) the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and \n \u201c(ii) the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.\u201d \n \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Inclusion of additional material in international narcotics control strategy report. (a) Sense of Congress . It is the sense of Congress that, in order to apply economic and other financial sanctions to foreign traffickers of illicit opioids to protect the national security, foreign policy, and economy of the United States - (1) the President should instruct the Secretary of State to intensify diplomatic efforts, both in appropriate international fora such as the United Nations, the Group of Seven, the Group of Twenty, and trilaterally and bilaterally with partners of the United States, to combat foreign opioid trafficking, including by working to establish a multilateral sanctions regime with respect to foreign opioid trafficking; and \n (2) the Secretary of State, in consultation with the Secretary of the Treasury, should intensify efforts to maintain and strengthen the coalition of countries formed to combat foreign opioid trafficking. \n \n (b) Amendment to Foreign Assistance Act of 1961 . Section 489(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2291(a) ) is amended by adding at the end the following: \u201c(9) (A) Assessments. Consultation. An assessment conducted by the Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, of the extent to which any diplomatic efforts described in section 7217(a) of the Fentanyl Sanctions Act have been successful. \n \u201c(B) Each assessment required by subparagraph (A) shall include an identification of - \u201c(i) the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and \n \u201c(ii) the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.\u201d \n \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0042343949899077415,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2047,
+      "word_count": 314,
+      "token_length": 430
+    }
+  ],
+  "_submission_type": "solo"
+}

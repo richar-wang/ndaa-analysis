@@ -1,0 +1,46 @@
+{
+  "text": "Other authorizations. \n \n \n \n Section 4501. Other authorizations (In Thousands of Dollars) \n \n Program Title FY 2020 Request Conference Authorized \n Working capital fund, army \n industrial operations 57,467 57,467 \n Supply management - ARMY 32,130 32,130 \n Total working capital fund, army 89,597 89,597 \n \n Working capital fund, air force \n transportation \n supplies and materials 92,499 92,499 \n Total working capital fund, air force 92,499 92,499 \n \n Working capital fund, defense-wide \n supply chain management - DEF 49,085 49,085 \n Total working capital fund, defense-wide 49,085 49,085 \n \n Working capital fund, deca \n working capital fund, deca 995,030 995,030 \n Total working capital fund, deca 995,030 995,030 \n \n Wcf, def counterintelligence & Security agency \n defense counterintelligence and security agency 200,000 200,000 \n Total wcf, def counterintelligence & Security agency 200,000 200,000 \n \n Chem agents & Munitions destruction \n operation & Maintenance 107,351 107,351 \n RDT&E 875,930 875,930 \n Procurement 2,218 2,218 \n Total chem agents & Munitions destruction 985,499 985,499 \n \n Drug interdiction & Ctr-drug activities, def \n counter-narcotics support 581,739 532,818 \n Realignment of National Guard Bureau funding [\u201330,921] \n Unjustified growth [\u201318,000] \n Drug demand reduction program 120,922 120,922 \n National guard counter-drug program 91,370 122,291 \n Realignment of National Guard Bureau funding [30,921] \n National guard counter-drug schools 5,371 5,371 \n Total drug interdiction & Ctr-drug activities, def 799,402 781,402 \n \n Office of the inspector general \n office of the inspector general 359,022 359,022 \n Office of the inspector general - CYBER 1,179 1,179 \n Office of the inspector general 2,965 2,965 \n Office of the inspector general 333 333 \n Total office of the inspector general 363,499 363,499 \n \n Defense health program \n in-house care 9,570,615 9,320,615 \n Unjustified growth [\u2013250,000] \n Private sector care 15,041,006 15,002,506 \n Historical underexecution [\u201338,500] \n Consolidated health support 1,975,536 1,986,536 \n Wounded Warrior Service Dog program [11,000] \n Information management 2,004,588 1,998,938 \n Historical underexecution [\u20135,650] \n Management activities 333,246 333,246 \n Education and training 793,810 793,310 \n Other costs excess growth [\u20133,000] \n Program increase - specialized medical pilot program [2,500] \n Base operations/Communications 2,093,289 2,093,289 \n R&D research 12,621 12,621 \n R&D exploratry development 84,266 84,266 \n R&D advanced development 279,766 279,766 \n R&D demonstration/Validation 128,055 128,055 \n R&D engineering development 143,527 143,527 \n R&D management and support 67,219 67,219 \n R&D capabilities enhancement 16,819 16,819 \n Proc initial outfitting 26,135 26,135 \n Proc replacement & Modernization 225,774 225,774 \n Proc joint operational medicine information system 314 314 \n Proc military health system - Desktop to datacenter 73,010 73,010 \n Proc dod healthcare management system modernization 129,091 129,091 \n Total defense health program 32,998,687 32,715,037 \n \n Total other authorizations 36,573,298 36,271,648",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Other authorizations. \n \n \n \n Section 4501. Other authorizations (In Thousands of Dollars) \n \n Program Title FY 2020 Request Conference Authorized \n Working capital fund, army \n industrial operations 57,467 57,467 \n Supply management - ARMY 32,130 32,130 \n Total working capital fund, army 89,597 89,597 \n \n Working capital fund, air force \n transportation \n supplies and materials 92,499 92,499 \n Total working capital fund, air force 92,499 92,499 \n \n Working capital fund, defense-wide \n supply chain management - DEF 49,085 49,085 \n Total working capital fund, defense-wide 49,085 49,085 \n \n Working capital fund, deca \n working capital fund, deca 995,030 995,030 \n Total working capital fund, deca 995,030 995,030 \n \n Wcf, def counterintelligence & Security agency \n defense counterintelligence and security agency 200,000 200,000 \n Total wcf, def counterintelligence & Security agency 200,000 200,000 \n \n Chem agents & Munitions destruction \n operation & Maintenance 107,351 107,351 \n RDT&E 875,930 875,930 \n Procurement 2,218 2,218 \n Total chem agents & Munitions destruction 985,499 985,499 \n \n Drug interdiction & Ctr-drug activities, def \n counter-narcotics support 581,739 532,818",
+      "label": "Human Written",
+      "ai_assistance_score": 0.031113739125430584,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1191,
+      "word_count": 148,
+      "token_length": 481
+    },
+    {
+      "text": " \n Realignment of National Guard Bureau funding [\u201330,921] \n Unjustified growth [\u201318,000] \n Drug demand reduction program 120,922 120,922 \n National guard counter-drug program 91,370 122,291 \n Realignment of National Guard Bureau funding [30,921] \n National guard counter-drug schools 5,371 5,371 \n Total drug interdiction & Ctr-drug activities, def 799,402 781,402 \n \n Office of the inspector general \n office of the inspector general 359,022 359,022 \n Office of the inspector general - CYBER 1,179 1,179 \n Office of the inspector general 2,965 2,965 \n Office of the inspector general 333 333 \n Total office of the inspector general 363,499 363,499 \n \n Defense health program \n in-house care 9,570,615 9,320,615 \n Unjustified growth [\u2013250,000] \n Private sector care 15,041,006 15,002,506 \n Historical underexecution [\u201338,500] \n Consolidated health support 1,975,536 1,986,536 \n Wounded Warrior Service Dog program [11,000] \n Information management 2,004,588 1,998,938 \n Historical underexecution [\u20135,650] \n Management activities 333,246 333,246 \n Education and training 793,810 793,310 \n Other costs excess growth [\u20133,000] \n Program increase - specialized medical",
+      "label": "Human Written",
+      "ai_assistance_score": 0.018108442115286987,
+      "confidence": "High",
+      "start_index": 1191,
+      "end_index": 2354,
+      "word_count": 142,
+      "token_length": 488
+    },
+    {
+      "text": " pilot program [2,500] \n Base operations/Communications 2,093,289 2,093,289 \n R&D research 12,621 12,621 \n R&D exploratry development 84,266 84,266 \n R&D advanced development 279,766 279,766 \n R&D demonstration/Validation 128,055 128,055 \n R&D engineering development 143,527 143,527 \n R&D management and support 67,219 67,219 \n R&D capabilities enhancement 16,819 16,819 \n Proc initial outfitting 26,135 26,135 \n Proc replacement & Modernization 225,774 225,774 \n Proc joint operational medicine information system 314 314 \n Proc military health system - Desktop to datacenter 73,010 73,010 \n Proc dod healthcare management system modernization 129,091 129,091 \n Total defense health program 32,998,687 32,715,037 \n \n Total other authorizations 36,573,298 36,271,648",
+      "label": "Human Written",
+      "ai_assistance_score": 0.012559978446612757,
+      "confidence": "High",
+      "start_index": 2354,
+      "end_index": 3121,
+      "word_count": 89,
+      "token_length": 353
+    }
+  ],
+  "_submission_type": "solo"
+}

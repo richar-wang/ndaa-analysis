@@ -1,0 +1,36 @@
+{
+  "text": "Sense of congress on notification of certain disclosures of classified information. (a) Definitions . In this section: (1) Adversary foreign government . The term \u201c adversary foreign government \u201d means the government of any of the following foreign countries: (A) North Korea. \n (B) Iran. \n (C) China. \n (D) Russia. \n (E) Cuba. \n \n (2) Covered classified information . The term \u201c covered classified information \u201d means classified information that was - (A) collected by an element of the intelligence community; or \n (B) provided by the intelligence service or military of a foreign country to an element of the intelligence community. \n \n (3) Established intelligence channels . The term \u201c established intelligence channels \u201d means methods to exchange intelligence to coordinate foreign intelligence relationships, as established pursuant to law by the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Security Agency, or other head of an element of the intelligence community. \n (4) Individual in the executive branch . The term \u201c individual in the executive branch \u201d means any officer or employee of the executive branch, including individuals - (A) occupying a position specified in article II of the Constitution ; \n (B) appointed to a position by an individual described in subparagraph (A); or \n (C) serving in the civil service or the Senior Executive Service (or similar service for senior executives of particular departments or agencies). \n \n \n (b) Findings . Congress finds that section 502 of the National Security Act of 1947 ( 50 U.S.C. 3092 ) requires elements of the intelligence community to keep the congressional intelligence committees \u201cfully and currently informed\u201d about all \u201cintelligence activities\u201d of the United States, and to \u201cfurnish to the congressional intelligence committees any information or material concerning intelligence activities * * * which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.\u201d. \n (c) Sense of Congress . It is the sense of Congress that - (1) section 502 of the National Security Act of 1947 ( 50 U.S.C. 3092 ), together with other intelligence community authorities, obligates an element of the intelligence community to submit to the congressional intelligence committees written notification, by not later than 7 days after becoming aware, that an individual in the executive branch has disclosed covered classified information to an official of an adversary foreign government using methods other than established intelligence channels; and \n (2) each such notification should include - (A) the date and place of the disclosure of classified information covered by the notification; \n (B) a description of such classified information; \n (C) identification of the individual who made such disclosure and the individual to whom such disclosure was made; and \n (D) a summary of the circumstances of such disclosure.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Sense of congress on notification of certain disclosures of classified information. (a) Definitions . In this section: (1) Adversary foreign government . The term \u201c adversary foreign government \u201d means the government of any of the following foreign countries: (A) North Korea. \n (B) Iran. \n (C) China. \n (D) Russia. \n (E) Cuba. \n \n (2) Covered classified information . The term \u201c covered classified information \u201d means classified information that was - (A) collected by an element of the intelligence community; or \n (B) provided by the intelligence service or military of a foreign country to an element of the intelligence community. \n \n (3) Established intelligence channels . The term \u201c established intelligence channels \u201d means methods to exchange intelligence to coordinate foreign intelligence relationships, as established pursuant to law by the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Security Agency, or other head of an element of the intelligence community. \n (4) Individual in the executive branch . The term \u201c individual in the executive branch \u201d means any officer or employee of the executive branch, including individuals - (A) occupying a position specified in article II of the Constitution ; \n (B) appointed to a position by an individual described in subparagraph (A); or \n (C) serving in the civil service or the Senior Executive Service (or similar service for senior executives of particular departments or agencies). \n \n \n (b) Findings . Congress finds that section 502 of the National Security Act of 1947 ( 50 U.S.C. 3092 ) requires elements of the intelligence community to keep the congressional intelligence committees \u201cfully and currently informed\u201d about all \u201cintelligence activities\u201d of the United States, and to \u201cfurnish to the congressional intelligence committees any information or material concerning intelligence activities * * * which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.\u201d. \n (c) Sense of Congress . ",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007204520050436258,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2097,
+      "word_count": 314,
+      "token_length": 437
+    },
+    {
+      "text": "It is the sense of Congress that - (1) section 502 of the National Security Act of 1947 ( 50 U.S.C. 3092 ), together with other intelligence community authorities, obligates an element of the intelligence community to submit to the congressional intelligence committees written notification, by not later than 7 days after becoming aware, that an individual in the executive branch has disclosed covered classified information to an official of an adversary foreign government using methods other than established intelligence channels; and \n (2) each such notification should include - (A) the date and place of the disclosure of classified information covered by the notification; \n (B) a description of such classified information; \n (C) identification of the individual who made such disclosure and the individual to whom such disclosure was made; and \n (D) a summary of the circumstances of such disclosure.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007468941155821085,
+      "confidence": "High",
+      "start_index": 2097,
+      "end_index": 3009,
+      "word_count": 139,
+      "token_length": 186
+    }
+  ],
+  "_submission_type": "solo"
+}

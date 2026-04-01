@@ -1,0 +1,54 @@
+{
+  "text": "50 USC 3033 note . Oversight by inspector general of the intelligence community over intelligence community whistleblower matters. (a) Deadline. Consultation. System for Notification of Information Relating to Complaints by Whistleblowers Within the Intelligence Community . Subject to subsection (b), not later than 1 year after the date of the enactment of this Act, the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, shall establish a system whereby the Inspector General of the Intelligence Community is notified in near real time of the following: (1) Submission of complaints by whistleblowers to inspectors general of elements of the intelligence community relating to the programs and activities under the jurisdiction of the Director of National Intelligence, and information related to such complaints. \n (2) Actions taken by an inspector general of an element of the Intelligence Community relating to such complaints. \n \n (b) Policies for Implementation . (1) Consultation. In general . The system established under subsection (a) may not be implemented until the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, has developed and released to each of the inspectors general of the elements of the intelligence community written policies regarding the implementation of such subsection. \n (2) Requirements . The policies required by paragraph (1) shall - (A) protect the privacy of whistleblowers, including by preventing dissemination without the consent of the whistleblower, of any information submitted previously by a whistleblower to an inspector general of an element of the intelligence community; and \n (B) Compliance. ensure compliance with the requirements of subsection (a), while - (i) ensuring that the Inspector General of the Intelligence Community can oversee whistleblower policies and practices and identify matters that, in the judgment of the Inspector General of the Intelligence Community, may be the subject of an investigation, inspection, audit, or review by the Inspector General of the Intelligence Community; and \n (ii) avoiding the imposition of inappropriate resource burdens on inspectors general of elements of the intelligence community.\n\nReport on cleared whistleblower attorneys. (a) Coordination. Report Required . Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence shall, in coordination with the Inspector General of the Intelligence Community and the Intelligence Community Inspectors General Forum, submit to the congressional intelligence committees a report on access to cleared attorneys by whistleblowers in the intelligence community. \n (b) Time period. Contents . The report submitted pursuant to subsection (a) shall include the following with respect to the 3-year period preceding the date of the report: \n (1) The number of whistleblowers in the intelligence community who requested, through formal submission or verbal request, to retain a cleared attorney and at what stage they requested an attorney. \n (2) The number of such limited security agreements approved, rejected, or pending. \n (3) The scope and clearance levels of such limited security agreements. \n (4) The number of such whistleblowers represented by cleared counsel. \n (5) Recommenda- tions. Recommendations for legislative or administrative action to ensure that whistleblowers in the intelligence community have access to cleared attorneys, including improvements to the limited security agreement process and such other options as the Inspector General of the Intelligence Community considers appropriate. \n \n (c) Survey . The Inspector General of the Intelligence Community shall ensure that the report submitted under subsection (a) is based on - (1) data from a survey of whistleblowers whose identity may be shared, as appropriate, with the Inspector General of the Intelligence Community by means of the system established pursuant to section 5334; \n (2) information obtained from the inspectors general of the intelligence community; or \n (3) information from such other sources as may be identified by the Inspector General of the Intelligence Community.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "50 USC 3033 note . Oversight by inspector general of the intelligence community over intelligence community whistleblower matters. (a) Deadline. Consultation. System for Notification of Information Relating to Complaints by Whistleblowers Within the Intelligence Community . Subject to subsection (b), not later than 1 year after the date of the enactment of this Act, the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, shall establish a system whereby the Inspector General of the Intelligence Community is notified in near real time of the following: (1) Submission of complaints by whistleblowers to inspectors general of elements of the intelligence community relating to the programs and activities under the jurisdiction of the Director of National Intelligence, and information related to such complaints. \n (2) Actions taken by an inspector general of an element of the Intelligence Community relating to such complaints. \n \n (b) Policies for Implementation . (1) Consultation. In general . The system established under subsection (a) may not be implemented until the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, has developed and released to each of the inspectors general of the elements of the intelligence community written policies regarding the implementation of such subsection. \n (2) Requirements . The policies required by paragraph (1) shall - (A) protect the privacy of whistleblowers, including by preventing dissemination without the consent of the whistleblower, of any information submitted previously by a whistleblower to an inspector general of an element of the intelligence community; and \n (B) Compliance. ensure compliance with the requirements of subsection (a), while - (i) ensuring that the Inspector General of the Intelligence Community can oversee whistleblower policies and practices and identify matters that, in the judgment of the Inspector General of the Intelligence Community, may be the subject of an investigation, inspection, audit, or review by the Inspector General of the Intelligence Community; and \n (ii) avoiding the imposition of inappropriate resource burdens on inspectors general of elements of the intelligence community.\n\nReport on cleared whistleblower attorneys. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.019302879087626935,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2378,
+      "word_count": 340,
+      "token_length": 447
+    },
+    {
+      "text": "a) Coordination. Report Required . Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence shall, in coordination with the Inspector General of the Intelligence Community and the Intelligence Community Inspectors General Forum, submit to the congressional intelligence committees a report on access to cleared attorneys by whistleblowers in the intelligence community. \n (b) Time period. Contents . The report submitted pursuant to subsection (a) shall include the following with respect to the 3-year period preceding the date of the report: \n (1) The number of whistleblowers in the intelligence community who requested, through formal submission or verbal request, to retain a cleared attorney and at what stage they requested an attorney. \n (2) The number of such limited security agreements approved, rejected, or pending. \n (3) The scope and clearance levels of such limited security agreements. \n (4) The number of such whistleblowers represented by cleared counsel. \n (5) Recommenda- tions. Recommendations for legislative or administrative action to ensure that whistleblowers in the intelligence community have access to cleared attorneys, including improvements to the limited security agreement process and such other options as the Inspector General of the Intelligence Community considers appropriate. \n \n (c) Survey . The Inspector General of the Intelligence Community shall ensure that the report submitted under subsection (a) is based on - (1) data from a survey of whistleblowers whose identity may be shared, as appropriate, with the Inspector General of the Intelligence Community by means of the system established pursuant to section 5334; \n (2) information obtained from the inspectors general of the intelligence community; or \n (3) information from such other sources as may be identified by the Inspector General of the Intelligence Community.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.029979386925697328,
+      "confidence": "High",
+      "start_index": 2378,
+      "end_index": 4298,
+      "word_count": 281,
+      "token_length": 378
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec5334_oversight_by_inspector_general_of_the_intelligence_community_over_intelligence_c.txt",
+    "sec5335_report_on_cleared_whistleblower_attorneys.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec5334_oversight_by_inspector_general_of_the_intelligence_community_over_intelligence_c.txt",
+      "start_index": 0,
+      "end_index": 2332,
+      "word_count": 334
+    },
+    {
+      "filename": "sec5335_report_on_cleared_whistleblower_attorneys.txt",
+      "start_index": 2334,
+      "end_index": 4298,
+      "word_count": 286
+    }
+  ]
+}

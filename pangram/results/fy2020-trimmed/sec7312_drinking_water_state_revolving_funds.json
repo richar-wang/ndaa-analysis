@@ -1,0 +1,36 @@
+{
+  "text": "Drinking water state revolving funds. Section 1452 of the Safe Drinking Water Act ( 42 U.S.C. 300j\u201312 ) is amended - (1) in subsection (a)(2), by adding at the end the following: \u201c(G) Emerging contaminants . \u201c(i) In general . Notwithstanding any other provision of law and subject to clause (ii), amounts deposited under subsection (t) in a State loan fund established under this section may only be used to provide grants for the purpose of addressing emerging contaminants, with a focus on perfluoroalkyl and polyfluoroalkyl substances. \n \u201c(ii) Requirements . \u201c(I) Small and disadvantaged communities . Not less than 25 percent of the amounts described in clause (i) shall be used to provide grants to - \u201c(aa) disadvantaged communities (as defined in subsection (d)(3)); or \n \u201c(bb) public water systems serving fewer than 25,000 persons. \n \n \u201c(II) Priorities . In selecting the recipient of a grant using amounts described in clause (i), a State shall use the priorities described in subsection (b)(3)(A). \n \n \u201c(iii) No increased bonding authority . The amounts deposited in the State loan fund of a State under subsection (t) may not be used as a source of payment of, or security for (directly or indirectly), in whole or in part, any obligation the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986.\u201d \n \n ; \n (2) in subsection (m)(1), in the matter preceding subparagraph (A), by striking \u201c this section \u201d and inserting \u201c this section, except for subsections (a)(2)(G) and (t) \u201d; and \n (3) by adding at the end the following: \u201c(t) Emerging Contaminants . \u201c(1) In general . Amounts made available under this subsection shall be allotted to a State as if allotted under subsection (a)(1)(D) as a capitalization grant, for deposit into the State loan fund of the State, for the purposes described in subsection (a)(2)(G). \n \u201c(2) Authorization of appropriations . There is authorized to be appropriated to carry out this subsection $100,000,000 for each of fiscal years 2020 through 2024, to remain available until expended.\u201d \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Drinking water state revolving funds. Section 1452 of the Safe Drinking Water Act ( 42 U.S.C. 300j\u201312 ) is amended - (1) in subsection (a)(2), by adding at the end the following: \u201c(G) Emerging contaminants . \u201c(i) In general . Notwithstanding any other provision of law and subject to clause (ii), amounts deposited under subsection (t) in a State loan fund established under this section may only be used to provide grants for the purpose of addressing emerging contaminants, with a focus on perfluoroalkyl and polyfluoroalkyl substances. \n \u201c(ii) Requirements . \u201c(I) Small and disadvantaged communities . Not less than 25 percent of the amounts described in clause (i) shall be used to provide grants to - \u201c(aa) disadvantaged communities (as defined in subsection (d)(3)); or \n \u201c(bb) public water systems serving fewer than 25,000 persons. \n \n \u201c(II) Priorities . In selecting the recipient of a grant using amounts described in clause (i), a State shall use the priorities described in subsection (b)(3)(A). \n \n \u201c(iii) No increased bonding authority . The amounts deposited in the State loan fund of a State under subsection (t) may not be used as a source of payment of, or security for (directly or indirectly), in whole or in part, any obligation the interest on which is exempt from the tax imposed under chapter 1 of the Internal Revenue Code of 1986.\u201d \n \n ; \n (2) in subsection (m)(1), in the matter preceding subparagraph (A), by striking \u201c this section \u201d and inserting \u201c this section, except for subsections (a)(2)(G) and (t) \u201d; and \n (3) by adding at the end the following: \u201c(t) Emerging Contaminants . \u201c(1) In general . Amounts made available under this subsection shall be allotted to a State as if allotted under subsection (a)(1)(D) as a capitalization grant, for deposit into the State loan fund of the State, for the purposes described in subsection (a)(2)(G). \n \u201c(2) Authorization of appropriations .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006023850630630146,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1916,
+      "word_count": 313,
+      "token_length": 490
+    },
+    {
+      "text": " There is authorized to be appropriated to carry out this subsection $100,000,000 for each of fiscal years 2020 through 2024, to remain available until expended.\u201d \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004819457419216633,
+      "confidence": "High",
+      "start_index": 1916,
+      "end_index": 2084,
+      "word_count": 26,
+      "token_length": 53
+    }
+  ],
+  "_submission_type": "solo"
+}

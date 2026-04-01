@@ -1,0 +1,64 @@
+{
+  "text": "Authorized air force construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2304(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of the Air Force may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n \n Air Force: Inside the United States \n \n \n \n \n State Installation or Location Amount \n Alaska Eielson Air Force Base $8,600,000 \n Arkansas Little Rock Air Force Base $47,000,000 \n California Travis Air Force Base $43,100,000 \n Colorado Peterson Air Force Base $54,000,000 \n Schriever Air Force Base $148,000,000 \n United States Air Force Academy $49,000,000 \n Georgia Moody Air Force Base $12,500,000 \n Guam Joint Region Marianas $65,000,000 \n Illinois Scott Air Force Base $100,000,000 \n Mariana Islands Tinian $316,000,000 \n Missouri Whiteman Air Force Base $27,000,000 \n Montana Malmstrom Air Force Base $235,000,000 \n Nevada Nellis Air Force Base $65,200,000 \n New Mexico Holloman Air Force Base $20,000,000 \n Kirtland Air Force Base $37,900,000 \n North Dakota Minot Air Force Base $5,500,000 \n Texas Joint Base San Antonio $243,300,000 \n Utah Hill Air Force Base $114,500,000 \n Washington Fairchild-White Bluff $31,000,000 \n Wyoming F.E. Warren Air Force Base $18,100,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2304(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of the Air Force may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Air Force: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Australia Tindal $70,600,000 \n Cyprus Royal Air Force Akrotiri $27,000,000 \n Japan Yokota Air Base $12,400,000 \n United Kingdom Royal Air Force Lakenheath $14,300,000\n\nUnited Kingdom. Modification of authorities to carry out phased joint intelligence analysis complex consolidation. (a) Fiscal Year 2015 Project Authority . In the case of the authorization contained in the table in section 2301(b) of the National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 128 Stat. 3679 ) for Royal Air Force Croughton, United Kingdom, for Phase 1 of the Joint Intelligence Analysis Complex consolidation, as specified in the funding table in section 4601 of such Act ( 128 Stat. 3973 ), the Secretary of the Air Force shall carry out the construction at Royal Air Force Molesworth, United Kingdom. \n (b) Fiscal Year 2016 Project Authority . In the case of the authorization contained in the table in section 2301(b) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114\u201392 ; 129 Stat. 1153 ), for Royal Air Force Croughton, United Kingdom, for Phase 2 of the Joint Intelligence Analysis Complex consolidation, as specified in the funding table in section 4601 of such Act ( 129 Stat. 1294 ), the Secretary of the Air Force may construct a 5,152-square meter Intelligence Analytic Center, a 5,234-square meter Intelligence Fusion Center, and a 807-square meter Battlefield Information Collection and Exploitation System Center at Royal Air Force Molesworth, United Kingdom. \n (c) Fiscal Year 2017 Project Authority . In the case of the authorization contained in the table in section 2301(b) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 130 Stat. 2697 ), for Royal Air Force Croughton, United Kingdom, for Phase 3 of the Joint Intelligence Analysis Complex consolidation, as specified in the funding table in section 4601 of such Act ( 130 Stat. 2878 ), the Secretary of the Air Force may construct a 1,562-square meter Regional Joint Intelligence Training Facility and a 4,495-square meter Combatant Command Intelligence Facility at Royal Air Force Molesworth, United Kingdom. \n (d) Conforming Repeal . Section 2305 of the National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 132 Stat. 2247 ) is repealed .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Authorized air force construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2304(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of the Air Force may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n \n Air Force: Inside the United States \n \n \n \n \n State Installation or Location Amount \n Alaska Eielson Air Force Base $8,600,000 \n Arkansas Little Rock Air Force Base $47,000,000 \n California Travis Air Force Base $43,100,000 \n Colorado Peterson Air Force Base $54,000,000 \n Schriever Air Force Base $148,000,000 \n United States Air Force Academy $49,000,000 \n Georgia Moody Air Force Base $12,500,000 \n Guam Joint Region Marianas $65,000,000 \n Illinois Scott Air Force Base $100,000,000 \n Mariana Islands Tinian $316,000,000 \n Missouri Whiteman Air Force Base $27,000,000 \n Montana Malmstrom Air Force Base $235,000,000 \n Nevada Nellis Air Force Base $65,200,000 \n New Mexico Holloman Air Force Base $20,000,000 \n Kirtland Air Force Base $37,900,000 \n North Dakota Minot Air Force Base $5,500,000 \n Texas Joint Base San Antonio",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009147210822751125,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1362,
+      "word_count": 190,
+      "token_length": 437
+    },
+    {
+      "text": " $243,300,000 \n Utah Hill Air Force Base $114,500,000 \n Washington Fairchild-White Bluff $31,000,000 \n Wyoming F.E. Warren Air Force Base $18,100,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2304(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of the Air Force may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Air Force: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Australia Tindal $70,600,000 \n Cyprus Royal Air Force Akrotiri $27,000,000 \n Japan Yokota Air Base $12,400,000 \n United Kingdom Royal Air Force Lakenheath $14,300,000\n\nUnited Kingdom. Modification of authorities to carry out phased joint intelligence analysis complex consolidation. (a) Fiscal Year 2015 Project Authority . In the case of the authorization contained in the table in section 2301(b) of the National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 128 Stat. 3679 ) for Royal Air Force Croughton, United Kingdom, for Phase 1 of the Joint Intelligence Analysis Complex consolidation, as specified in the funding table in section 4601 of such Act ( 128 Stat. 3973 ), the Secretary of the Air Force shall carry out the construction at Royal Air Force Molesworth, United Kingdom. \n (b) Fiscal Year 2016 Project Authority . In the case of the authorization contained in the table in section 2301(b) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114\u201392 ; 129 Stat.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009004857783050586,
+      "confidence": "High",
+      "start_index": 1362,
+      "end_index": 3101,
+      "word_count": 264,
+      "token_length": 495
+    },
+    {
+      "text": " 1153 ), for Royal Air Force Croughton, United Kingdom, for Phase 2 of the Joint Intelligence Analysis Complex consolidation, as specified in the funding table in section 4601 of such Act ( 129 Stat. 1294 ), the Secretary of the Air Force may construct a 5,152-square meter Intelligence Analytic Center, a 5,234-square meter Intelligence Fusion Center, and a 807-square meter Battlefield Information Collection and Exploitation System Center at Royal Air Force Molesworth, United Kingdom. \n (c) Fiscal Year 2017 Project Authority . In the case of the authorization contained in the table in section 2301(b) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114\u2013328 ; 130 Stat. 2697 ), for Royal Air Force Croughton, United Kingdom, for Phase 3 of the Joint Intelligence Analysis Complex consolidation, as specified in the funding table in section 4601 of such Act ( 130 Stat. 2878 ), the Secretary of the Air Force may construct a 1,562-square meter Regional Joint Intelligence Training Facility and a 4,495-square meter Combatant Command Intelligence Facility at Royal Air Force Molesworth, United Kingdom. \n (d) Conforming Repeal . Section 2305 of the National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 132 Stat. 2247 ) is repealed .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0100148084435474,
+      "confidence": "High",
+      "start_index": 3101,
+      "end_index": 4390,
+      "word_count": 206,
+      "token_length": 351
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec2301_authorized_air_force_construction_and_land_acquisition_projects.txt",
+    "sec2305_modification_of_authorities_to_carry_out_phased_joint_intelligence_analysis_comp.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec2301_authorized_air_force_construction_and_land_acquisition_projects.txt",
+      "start_index": 0,
+      "end_index": 2243,
+      "word_count": 312
+    },
+    {
+      "filename": "sec2305_modification_of_authorities_to_carry_out_phased_joint_intelligence_analysis_comp.txt",
+      "start_index": 2245,
+      "end_index": 4390,
+      "word_count": 348
+    }
+  ]
+}

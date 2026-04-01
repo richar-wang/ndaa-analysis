@@ -1,0 +1,26 @@
+{
+  "text": "Report on lessons learned from efforts to liberate mosul and raqqah from control of the islamic state of iraq and syria. (a) Report Required . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on lessons learned from coalition operations to liberate Mosul, Iraq, and Raqqah, Syria, from control of the Islamic State of Iraq and Syria (ISIS). \n (b) Elements . The report required by subsection (a) shall include a description of lessons learned in connection with each of the following: (1) Combat in densely populated urban environments. \n (2) Enablement of partner forces, including unique aspects of conducting combined operations with regular and irregular forces. \n (3) Advise, assist, and accompany efforts, including such efforts conducted remotely. \n (4) Integration of United States general purpose and special operations forces. \n (5) Integration of United States and international forces. \n (6) Irregular and unconventional warfare approaches, including the application of training and doctrine by special operations and general purpose forces. \n (7) Use of command, control, communications, computer, intelligence, surveillance, and reconnaissance systems and techniques. \n (8) Logistics. \n (9) Information operations. \n (10) Targeting and weaponeering, including efforts to avoid civilian casualties and other collateral damage. \n (11) Facilitation of flows of internally displaced people and humanitarian assistance. \n (12) Such other matters as the Secretary considers appropriate and could benefit training, doctrine, and resourcing of future operations. \n \n (c) Form . The report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Report on lessons learned from efforts to liberate mosul and raqqah from control of the islamic state of iraq and syria. (a) Report Required . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on lessons learned from coalition operations to liberate Mosul, Iraq, and Raqqah, Syria, from control of the Islamic State of Iraq and Syria (ISIS). \n (b) Elements . The report required by subsection (a) shall include a description of lessons learned in connection with each of the following: (1) Combat in densely populated urban environments. \n (2) Enablement of partner forces, including unique aspects of conducting combined operations with regular and irregular forces. \n (3) Advise, assist, and accompany efforts, including such efforts conducted remotely. \n (4) Integration of United States general purpose and special operations forces. \n (5) Integration of United States and international forces. \n (6) Irregular and unconventional warfare approaches, including the application of training and doctrine by special operations and general purpose forces. \n (7) Use of command, control, communications, computer, intelligence, surveillance, and reconnaissance systems and techniques. \n (8) Logistics. \n (9) Information operations. \n (10) Targeting and weaponeering, including efforts to avoid civilian casualties and other collateral damage. \n (11) Facilitation of flows of internally displaced people and humanitarian assistance. \n (12) Such other matters as the Secretary considers appropriate and could benefit training, doctrine, and resourcing of future operations. \n \n (c) Form . The report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006167377810925245,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1805,
+      "word_count": 257,
+      "token_length": 388
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "President. Waivers and exemptions. (a) Exemptions . The following activities and transactions shall be exempt from sanctions authorized under this title or any amendment made by this title: (1) Any activity subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq. ), or to any authorized intelligence activities of the United States. \n (2) Any transaction necessary to comply with United States obligations under - (A) the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States; \n (B) the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967; or \n (C) any other international agreement to which the United States is a party. \n \n \n (b) Waiver . (1) Time period. Certification. In general . The President may, for renewable periods not to exceed 180 days, waive the application of any provision of this title (other than section 7434) with respect to a foreign person if the President certifies to the appropriate congressional committees that such a waiver is in the national security interests of the United States. \n (2) Deadline. Briefing . Not later than 90 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver. \n \n (c) Humanitarian Waiver . (1) Time period. Certification. In general . The President may waive, for renewable periods not to exceed 2 years, the application of any provision of this title (other than section 7434) with respect to a nongovernmental organization providing humanitarian assistance not covered by the authorization described in section 7425 if the President certifies to the appropriate congressional committees that such a waiver is important to address a humanitarian need and is consistent with the national security interests of the United States. \n (2) Deadline. Briefing . Not later than 90 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver. \n \n (d) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives; and \n (2) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "President. Waivers and exemptions. (a) Exemptions . The following activities and transactions shall be exempt from sanctions authorized under this title or any amendment made by this title: (1) Any activity subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq. ), or to any authorized intelligence activities of the United States. \n (2) Any transaction necessary to comply with United States obligations under - (A) the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States; \n (B) the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967; or \n (C) any other international agreement to which the United States is a party. \n \n \n (b) Waiver . (1) Time period. Certification. In general . The President may, for renewable periods not to exceed 180 days, waive the application of any provision of this title (other than section 7434) with respect to a foreign person if the President certifies to the appropriate congressional committees that such a waiver is in the national security interests of the United States. \n (2) Deadline. Briefing . Not later than 90 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver. \n \n (c) Humanitarian Waiver . (1) Time period. Certification. In general . The President may waive, for renewable periods not to exceed 2 years, the application of any provision of this title (other than section 7434) with respect to a nongovernmental organization providing humanitarian assistance not covered by the authorization described in section 7425 if the President certifies to the appropriate congressional committees that such a waiver is important to address a humanitarian need and is consistent with the national security interests of the United States. \n (2) Deadline. Briefing .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008565693234021846,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2118,
+      "word_count": 335,
+      "token_length": 499
+    },
+    {
+      "text": " Not later than 90 days after the issuance of a waiver under paragraph (1), and every 180 days thereafter while the waiver remains in effect, the President shall brief the appropriate congressional committees on the reasons for the waiver. \n \n (d) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives; and \n (2) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on the Judiciary of the Senate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00592594500631094,
+      "confidence": "High",
+      "start_index": 2118,
+      "end_index": 2813,
+      "word_count": 109,
+      "token_length": 150
+    }
+  ],
+  "_submission_type": "solo"
+}

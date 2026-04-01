@@ -1,0 +1,36 @@
+{
+  "text": "Annual reports on influence operations and campaigns in the united states by the russian federation. (a) Reports . Title XI of the National Security Act of 1947 ( 50 U.S.C. 3231 et seq. ), as amended by section 5511, is further amended by adding at the end the following new section: \u201cSection 1108. 50 USC 3238 . Annual reports on influence operations and campaigns in the united states by the russian federation. \u201c(a) Requirement . On an annual basis, the Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees a report on the influence \noperations and campaigns in the United States conducted by the Russian Federation. \n \u201c(b) Assessments. Contents . Each report under subsection (a) shall include the following: \u201c(1) List. A description and listing of the Russian organizations and persons involved in influence operations and campaigns operating in the United States as of the date of the report. \n \u201c(2) An assessment of organizations that are associated with or receive funding from organizations and persons identified in paragraph (1), particularly such entities operating in the United States. \n \u201c(3) A description of the efforts by the organizations and persons identified in paragraph (1) to target, coerce, and influence populations within the United States. \n \u201c(4) An assessment of the activities of the organizations and persons identified in paragraph (1) designed to influence the opinions of elected leaders of the United States or candidates for election in the United States. \n \u201c(5) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the organizations and persons identified in paragraph (1). \n \n \u201c(c) Coordination . In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community. \n \u201c(d) Form . Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.\u201d \n \n . \n (b) Clerical Amendment . The table of contents in the first section of the National Security Act of 1947, as amended by section 5511, is further amended by inserting after the item relating to section 1107 the following new item: \n \n \n \u201cSec. 1108. \n Annual reports on influence operations and campaigns in the United States by the Russian Federation.\u201d. \n \n \n (c) 50 USC 3238 note . Initial Report . The Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees the first report under section 1108 of the National Security Act of 1947, as added by subsection (a), by not later than 180 days after the date of the enactment of this Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Annual reports on influence operations and campaigns in the united states by the russian federation. (a) Reports . Title XI of the National Security Act of 1947 ( 50 U.S.C. 3231 et seq. ), as amended by section 5511, is further amended by adding at the end the following new section: \u201cSection 1108. 50 USC 3238 . Annual reports on influence operations and campaigns in the united states by the russian federation. \u201c(a) Requirement . On an annual basis, the Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees a report on the influence \noperations and campaigns in the United States conducted by the Russian Federation. \n \u201c(b) Assessments. Contents . Each report under subsection (a) shall include the following: \u201c(1) List. A description and listing of the Russian organizations and persons involved in influence operations and campaigns operating in the United States as of the date of the report. \n \u201c(2) An assessment of organizations that are associated with or receive funding from organizations and persons identified in paragraph (1), particularly such entities operating in the United States. \n \u201c(3) A description of the efforts by the organizations and persons identified in paragraph (1) to target, coerce, and influence populations within the United States. \n \u201c(4) An assessment of the activities of the organizations and persons identified in paragraph (1) designed to influence the opinions of elected leaders of the United States or candidates for election in the United States. \n \u201c(5) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the organizations and persons identified in paragraph (1). \n \n \u201c(c) Coordination . In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community. \n \u201c(d) Form . Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.\u201d \n \n . \n (b) Clerical Amendment .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00634579364593853,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2294,
+      "word_count": 353,
+      "token_length": 489
+    },
+    {
+      "text": " The table of contents in the first section of the National Security Act of 1947, as amended by section 5511, is further amended by inserting after the item relating to section 1107 the following new item: \n \n \n \u201cSec. 1108. \n Annual reports on influence operations and campaigns in the United States by the Russian Federation.\u201d. \n \n \n (c) 50 USC 3238 note . Initial Report . The Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees the first report under section 1108 of the National Security Act of 1947, as added by subsection (a), by not later than 180 days after the date of the enactment of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008190504508093,
+      "confidence": "High",
+      "start_index": 2294,
+      "end_index": 2969,
+      "word_count": 111,
+      "token_length": 175
+    }
+  ],
+  "_submission_type": "solo"
+}

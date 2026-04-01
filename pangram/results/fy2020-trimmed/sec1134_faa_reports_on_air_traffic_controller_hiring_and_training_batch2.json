@@ -1,0 +1,54 @@
+{
+  "text": "Faa reports on air traffic controller hiring and training. (a) Reports to Congress . Not later than September 30 of 2020, 2021, 2022, and 2023, the Administrator of the Federal Aviation Administration shall submit to the appropriate committees of Congress a report regarding the hiring and training of air traffic controllers. \n (b) Contents . Each report under subsection (a) shall include the following information: (1) The number of applicants, from each hiring pool (by vacancy announcement beginning with vacancy announcement FAA-ATO-19-ALLSRCE-61676 (issued on June 14, 2019)) who have done the following: (A) Applied for the position of air traffic controller. \n (B) Been issued a tentative offer letter for the position of air traffic controller. \n (C) Been issued a firm offer letter for the position of air traffic controller. \n (D) Been hired for the position of air traffic controller. \n (E) Reported to the FAA Academy for initial qualification training. \n (F) Successfully passed Air Traffic Basics training at the FAA Academy. \n (G) Successfully passed Terminal initial training at the FAA Academy. \n (H) Successfully passed En Route initial training at the FAA Academy. \n \n (2) The average cost of training per individual for each such hiring pool for the following: (A) Air Traffic Basics training at the FAA Academy. \n (B) Terminal initial training at the FAA Academy. \n (C) En Route initial training at the FAA Academy. \n \n (3) The FAA Academy attrition rate for each such hiring pool. \n (4) The number of applicants, from each such hiring pool, who have successfully completed qualification training at their first FAA facility and the number who are still in training at their first facility. \n (5) Other information determined appropriate by the Administrator of the Federal Aviation Administration.\n\nDot inspector general review and report. (a) Review . (1) In general . Assessments. The Inspector General of the Department of Transportation (in this section referred to as the \u201cInspector General\u201d) shall conduct a review that assesses the assumptions and methodologies used to develop the air traffic controller pre-employment test. Such review shall include - (A) what job-relevant aptitudes are measured by the air traffic controller pre-employment test and to what extent such aptitudes are tested; \n (B) the scoring methodology for the air traffic controller pre-employment test, including an assessment of whether such methodology is applied uniformly for all classes of applicants; \n (C) whether the air traffic controller pre-employment test incorporates any biographical questionnaire or assessment other than basic identifiers, such as name and questions that assess personal characteristics, and the extent to which such biographical assumptions are relied upon to assess air traffic controller applicants; \n (D) Determination. the effectiveness of the pre-employment test, mental health screening, and any other applicable pre-employment assessment to determine whether an applicant possesses the skills necessary to perform the duties of a controller; and \n (E) Determination. ways to improve the pre-employment test and other applicable pre-employment assessments as the Inspector General determines appropriate. \n \n (2) Start date . The Inspector General shall initiate the review under paragraph (1) by not later than 90 days after the date of enactment of this Act. \n \n (b) Report . Not later than 180 days after the date the Inspector General initiates the review under subsection (a), the Inspector General shall submit to the appropriate committees of Congress a report on such review.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Faa reports on air traffic controller hiring and training. (a) Reports to Congress . Not later than September 30 of 2020, 2021, 2022, and 2023, the Administrator of the Federal Aviation Administration shall submit to the appropriate committees of Congress a report regarding the hiring and training of air traffic controllers. \n (b) Contents . Each report under subsection (a) shall include the following information: (1) The number of applicants, from each hiring pool (by vacancy announcement beginning with vacancy announcement FAA-ATO-19-ALLSRCE-61676 (issued on June 14, 2019)) who have done the following: (A) Applied for the position of air traffic controller. \n (B) Been issued a tentative offer letter for the position of air traffic controller. \n (C) Been issued a firm offer letter for the position of air traffic controller. \n (D) Been hired for the position of air traffic controller. \n (E) Reported to the FAA Academy for initial qualification training. \n (F) Successfully passed Air Traffic Basics training at the FAA Academy. \n (G) Successfully passed Terminal initial training at the FAA Academy. \n (H) Successfully passed En Route initial training at the FAA Academy. \n \n (2) The average cost of training per individual for each such hiring pool for the following: (A) Air Traffic Basics training at the FAA Academy. \n (B) Terminal initial training at the FAA Academy. \n (C) En Route initial training at the FAA Academy. \n \n (3) The FAA Academy attrition rate for each such hiring pool. \n (4) The number of applicants, from each such hiring pool, who have successfully completed qualification training at their first FAA facility and the number who are still in training at their first facility. \n (5) Other information determined appropriate by the Administrator of the Federal Aviation Administration.\n\nDot inspector general review and report. (a) Review . (1) In general . Assessments. The Inspector General of the Department of Transportation (in this section referred to as the \u201cInspector General\u201d) shall conduct a review that assesses the assumptions and methodologies used to develop the air traffic controller pre-employment test.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0056777395054763355,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2156,
+      "word_count": 329,
+      "token_length": 500
+    },
+    {
+      "text": " Such review shall include - (A) what job-relevant aptitudes are measured by the air traffic controller pre-employment test and to what extent such aptitudes are tested; \n (B) the scoring methodology for the air traffic controller pre-employment test, including an assessment of whether such methodology is applied uniformly for all classes of applicants; \n (C) whether the air traffic controller pre-employment test incorporates any biographical questionnaire or assessment other than basic identifiers, such as name and questions that assess personal characteristics, and the extent to which such biographical assumptions are relied upon to assess air traffic controller applicants; \n (D) Determination. the effectiveness of the pre-employment test, mental health screening, and any other applicable pre-employment assessment to determine whether an applicant possesses the skills necessary to perform the duties of a controller; and \n (E) Determination. ways to improve the pre-employment test and other applicable pre-employment assessments as the Inspector General determines appropriate. \n \n (2) Start date . The Inspector General shall initiate the review under paragraph (1) by not later than 90 days after the date of enactment of this Act. \n \n (b) Report . Not later than 180 days after the date the Inspector General initiates the review under subsection (a), the Inspector General shall submit to the appropriate committees of Congress a report on such review.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00538705029924001,
+      "confidence": "High",
+      "start_index": 2156,
+      "end_index": 3628,
+      "word_count": 213,
+      "token_length": 294
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1134_faa_reports_on_air_traffic_controller_hiring_and_training.txt",
+    "sec1135_dot_inspector_general_review_and_report.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1134_faa_reports_on_air_traffic_controller_hiring_and_training.txt",
+      "start_index": 0,
+      "end_index": 1821,
+      "word_count": 279
+    },
+    {
+      "filename": "sec1135_dot_inspector_general_review_and_report.txt",
+      "start_index": 1823,
+      "end_index": 3628,
+      "word_count": 263
+    }
+  ]
+}

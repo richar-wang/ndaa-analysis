@@ -1,0 +1,26 @@
+{
+  "text": "15 USC 8951 . Definitions. In this subtitle: (1) Contaminant . The term \u201c contaminant \u201d means any physical, chemical, biological, or radiological substance or matter in water. \n (2) Contaminant of emerging concern; emerging contaminant . The terms \u201ccontaminant of emerging concern\u201d and \u201cemerging contaminant\u201d mean a contaminant - (A) for which the Administrator has not promulgated a national primary drinking water regulation; and \n (B) that may have an adverse effect on the health of individuals. \n \n (3) Federal research strategy . The term \u201c Federal research strategy \u201d means the coordinated cross-agency plan for addressing critical research gaps related to detecting, assessing exposure to, and identifying the adverse health effects of emerging contaminants in drinking water developed by the Office of Science and Technology Policy in response to the report of the Committee on Appropriations of the Senate accompanying S. 1662 of the 115th Congress (S. Rept. 115\u2013139). \n (4) Technical assistance and support . The term \u201c technical assistance and support \u201d includes - (A) assistance with - (i) identifying appropriate analytical methods for the detection of contaminants; \n (ii) understanding the strengths and limitations of the analytical methods described in clause (i); \n (iii) troubleshooting the analytical methods described in clause (i); \n \n (B) providing advice on laboratory certification program elements; \n (C) interpreting sample analysis results; \n (D) providing training with respect to proper analytical techniques; \n (E) identifying appropriate technology for the treatment of contaminants; and \n (F) analyzing samples, if - (i) the analysis cannot be otherwise obtained in a practicable manner otherwise; and \n (ii) the capability and capacity to perform the analysis is available at a Federal facility. \n \n \n (5) Working group . The term \u201c Working Group \u201d means the Working Group established under section 7342(b)(1).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "15 USC 8951 . Definitions. In this subtitle: (1) Contaminant . The term \u201c contaminant \u201d means any physical, chemical, biological, or radiological substance or matter in water. \n (2) Contaminant of emerging concern; emerging contaminant . The terms \u201ccontaminant of emerging concern\u201d and \u201cemerging contaminant\u201d mean a contaminant - (A) for which the Administrator has not promulgated a national primary drinking water regulation; and \n (B) that may have an adverse effect on the health of individuals. \n \n (3) Federal research strategy . The term \u201c Federal research strategy \u201d means the coordinated cross-agency plan for addressing critical research gaps related to detecting, assessing exposure to, and identifying the adverse health effects of emerging contaminants in drinking water developed by the Office of Science and Technology Policy in response to the report of the Committee on Appropriations of the Senate accompanying S. 1662 of the 115th Congress (S. Rept. 115\u2013139). \n (4) Technical assistance and support . The term \u201c technical assistance and support \u201d includes - (A) assistance with - (i) identifying appropriate analytical methods for the detection of contaminants; \n (ii) understanding the strengths and limitations of the analytical methods described in clause (i); \n (iii) troubleshooting the analytical methods described in clause (i); \n \n (B) providing advice on laboratory certification program elements; \n (C) interpreting sample analysis results; \n (D) providing training with respect to proper analytical techniques; \n (E) identifying appropriate technology for the treatment of contaminants; and \n (F) analyzing samples, if - (i) the analysis cannot be otherwise obtained in a practicable manner otherwise; and \n (ii) the capability and capacity to perform the analysis is available at a Federal facility. \n \n \n (5) Working group . The term \u201c Working Group \u201d means the Working Group established under section 7342(b)(1).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0055215018801391125,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1945,
+      "word_count": 284,
+      "token_length": 435
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Assessment of legitimate and illegitimate financial and other assets of vladimir putin. (a) Sense of Congress . It is the sense of Congress that the United States should do more to expose the corruption of Vladimir Putin, whose ill-gotten wealth is perhaps the most powerful global symbol of his dishonesty and his persistent efforts to undermine the rule of law and democracy in the Russian Federation. \n (b) Deadline. Assessment . Not later than 180 days after the date of the enactment of this Act, consistent with the protection of intelligence sources and methods, the Director of National Intelligence shall submit to the appropriate congressional committees an assessment, based on all sources of intelligence, on the net worth and financial and other assets, legitimate as well as illegitimate, of Vladimir Putin and his family members, including - (1) the estimated net worth of Vladimir Putin and his family members; \n (2) a description of their legitimately and illegitimately obtained assets, including all real, personal, and intellectual property, bank or investment or similar accounts, and any other financial or business interests or holdings, including those outside of Russia; \n (3) the details of the legitimately and illegitimately obtained assets, including real, personal, and intellectual property, bank or investment or similar accounts, and any other financial or business interests or holdings, including those outside of Russia, that are owned or controlled by, accessible to, or otherwise maintained for the benefit of Vladimir Putin, including their nature, location, manner of acquisition, value, and publicly named owner (if other than Vladimir Putin); \n (4) the methods used by Vladimir Putin or others acting at his direction, with his knowledge, or for his benefit, to conceal Putin\u2019s interest in his accounts, holdings, or other assets, including the establishment of \u201cfront\u201d or shell companies and the use of intermediaries; and \n (5) an identification of the most significant senior Russian political figures, oligarchs, and any other persons who have engaged in activity intended to conceal the true financial condition of Vladimir Putin. \n \n (c) Form . The assessment required under subsection (b) shall be submitted either - (1) in unclassified form to the extent consistent with the protection of intelligence sources and methods, and may include a classified annex; or \n (2) simultaneously as both an unclassified version and a classified version. \n \n (d) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the Select Committee on Intelligence, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Finance of the Senate; and \n (2) the Permanent Select Committee on Intelligence, Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Assessment of legitimate and illegitimate financial and other assets of vladimir putin. (a) Sense of Congress . It is the sense of Congress that the United States should do more to expose the corruption of Vladimir Putin, whose ill-gotten wealth is perhaps the most powerful global symbol of his dishonesty and his persistent efforts to undermine the rule of law and democracy in the Russian Federation. \n (b) Deadline. Assessment . Not later than 180 days after the date of the enactment of this Act, consistent with the protection of intelligence sources and methods, the Director of National Intelligence shall submit to the appropriate congressional committees an assessment, based on all sources of intelligence, on the net worth and financial and other assets, legitimate as well as illegitimate, of Vladimir Putin and his family members, including - (1) the estimated net worth of Vladimir Putin and his family members; \n (2) a description of their legitimately and illegitimately obtained assets, including all real, personal, and intellectual property, bank or investment or similar accounts, and any other financial or business interests or holdings, including those outside of Russia; \n (3) the details of the legitimately and illegitimately obtained assets, including real, personal, and intellectual property, bank or investment or similar accounts, and any other financial or business interests or holdings, including those outside of Russia, that are owned or controlled by, accessible to, or otherwise maintained for the benefit of Vladimir Putin, including their nature, location, manner of acquisition, value, and publicly named owner (if other than Vladimir Putin); \n (4) the methods used by Vladimir Putin or others acting at his direction, with his knowledge, or for his benefit, to conceal Putin\u2019s interest in his accounts, holdings, or other assets, including the establishment of \u201cfront\u201d or shell companies and the use of intermediaries; and \n (5) an identification of the most significant senior Russian political figures, oligarchs, and any other persons who have engaged in activity intended to conceal the true financial condition of Vladimir Putin. \n \n (c) Form . The assessment required under subsection (b) shall be submitted either - (1) in unclassified form to the extent consistent with the protection of intelligence sources and methods, and may include a classified annex; or \n (2) simultaneously as both an unclassified version and a classified version.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005831097097446521,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2490,
+      "word_count": 379,
+      "token_length": 493
+    },
+    {
+      "text": " \n \n (d) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the Select Committee on Intelligence, the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Finance of the Senate; and \n (2) the Permanent Select Committee on Intelligence, Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0057649892987683415,
+      "confidence": "High",
+      "start_index": 2490,
+      "end_index": 2990,
+      "word_count": 74,
+      "token_length": 101
+    }
+  ],
+  "_submission_type": "solo"
+}
