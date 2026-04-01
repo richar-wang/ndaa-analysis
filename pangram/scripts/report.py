@@ -20,6 +20,7 @@ import matplotlib.ticker as mticker
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SECTIONS_DIR = os.path.join(BASE_DIR, "data", "sections")
+RESULTS_DIR = os.path.join(BASE_DIR, "pangram", "results")
 SUMMARY_DIR = os.path.join(BASE_DIR, "pangram", "summary")
 REPORT_DIR = os.path.join(BASE_DIR, "pangram", "summary")
 
@@ -216,21 +217,148 @@ def _format_legal_text(text):
     return text.strip()
 
 
-def _read_section_text(sections_dir, section_number, title):
-    """Find and read the .txt file for a given section number."""
+def _find_section_file(sections_dir, section_number):
+    """Find the .txt filename for a given section number."""
     prefix = f"sec{section_number}_"
     for f in os.listdir(sections_dir):
         if f.startswith(prefix) and f.endswith(".txt"):
-            path = os.path.join(sections_dir, f)
-            with open(path, "r", encoding="utf-8") as fh:
-                return _format_legal_text(fh.read())
-    # Fallback: try matching with lowercase 'a' suffix variants (e.g., sec2808a)
+            return f
     for f in os.listdir(sections_dir):
         if f.endswith(".txt") and f.startswith(f"sec{section_number}"):
-            path = os.path.join(sections_dir, f)
-            with open(path, "r", encoding="utf-8") as fh:
-                return _format_legal_text(fh.read())
+            return f
     return None
+
+
+def _read_section_text(sections_dir, section_number, title):
+    """Find and read the .txt file for a given section number."""
+    fn = _find_section_file(sections_dir, section_number)
+    if fn:
+        with open(os.path.join(sections_dir, fn), "r", encoding="utf-8") as fh:
+            return _format_legal_text(fh.read())
+    return None
+
+
+def _load_windows_for_section(results_dir, sections_dir, section_number):
+    """Load Pangram window data for a section from its result JSON.
+
+    Handles both solo results (windows map directly) and batch results
+    (windows need to be filtered by character offset for this section).
+    """
+    fn = _find_section_file(sections_dir, section_number)
+    if not fn:
+        return None
+
+    # Try solo result first
+    json_name = fn.replace(".txt", ".json")
+    json_path = os.path.join(results_dir, json_name)
+    if os.path.exists(json_path):
+        with open(json_path, "r", encoding="utf-8") as f:
+            result = json.load(f)
+        return result.get("windows", [])
+
+    # Search batch results that include this section
+    for rf in os.listdir(results_dir):
+        if not rf.endswith(".json"):
+            continue
+        rpath = os.path.join(results_dir, rf)
+        with open(rpath, "r", encoding="utf-8") as f:
+            result = json.load(f)
+        if result.get("_submission_type") != "batch":
+            continue
+        batch_files = result.get("_batch_files", [])
+        if fn not in batch_files:
+            continue
+        # Found the batch — filter windows by this section's offset range
+        mapping = result.get("_batch_mapping", [])
+        sec_map = next((m for m in mapping if m["filename"] == fn), None)
+        if not sec_map:
+            return None
+        sec_start = sec_map["start_index"]
+        sec_end = sec_map["end_index"]
+        windows = result.get("windows", [])
+        sec_windows = []
+        for w in windows:
+            ws = w.get("start_index", 0)
+            we = w.get("end_index", 0)
+            if ws >= sec_start and ws < sec_end:
+                # Adjust offsets to be relative to section start
+                adjusted = dict(w)
+                adjusted["start_index"] = ws - sec_start
+                adjusted["end_index"] = min(we, sec_end) - sec_start
+                sec_windows.append(adjusted)
+        return sec_windows
+
+    return None
+
+
+def _highlight_text_with_windows(raw_text, windows):
+    """Apply highlighting to text based on Pangram window labels.
+
+    AI-Generated windows get wrapped in bold (**text**).
+    Human-Written windows are left as-is.
+    Uses the normalized text that Pangram saw to map offsets,
+    then applies formatting before the legal text formatter.
+    """
+    if not windows:
+        return _format_legal_text(raw_text)
+
+    # Import normalize_text from detect.py
+    import sys as _sys
+    scripts_dir = os.path.dirname(os.path.abspath(__file__))
+    if scripts_dir not in _sys.path:
+        _sys.path.insert(0, scripts_dir)
+    from detect import normalize_text
+
+    normed = normalize_text(raw_text)
+
+    # Sort windows by start_index
+    windows = sorted(windows, key=lambda w: w.get("start_index", 0))
+
+    # Build highlighted text by interleaving normal and highlighted spans
+    parts = []
+    pos = 0
+    for w in windows:
+        ws = w.get("start_index", 0)
+        we = w.get("end_index", len(normed))
+        label = w.get("label", "Human-Written")
+
+        # Add any gap before this window as unhighlighted
+        if ws > pos:
+            parts.append(normed[pos:ws])
+
+        span = normed[ws:we]
+        if "AI" in label or "ai" in label.lower():
+            parts.append(f'<mark>{span}</mark>')
+        else:
+            parts.append(span)
+        pos = we
+
+    # Add any trailing text
+    if pos < len(normed):
+        parts.append(normed[pos:])
+
+    highlighted = "".join(parts)
+    formatted = _format_legal_text(highlighted)
+
+    # Markdown renderers don't carry <mark> across paragraph breaks.
+    # Split into paragraphs, and wrap any paragraph that's inside a mark span.
+    lines = formatted.split("\n\n")
+    result_lines = []
+    in_mark = False
+    for line in lines:
+        opens = line.count("<mark>")
+        closes = line.count("</mark>")
+        if in_mark and "<mark>" not in line:
+            line = "<mark>" + line
+            opens += 1
+        if in_mark and "</mark>" not in line:
+            line = line + "</mark>"
+            closes += 1
+        # Track state: are we inside a mark at end of this paragraph?
+        in_mark = (in_mark + opens - closes) > 0
+        result_lines.append(line)
+
+    return "\n\n".join(result_lines)
 
 
 def generate_report(year):
@@ -362,10 +490,13 @@ def generate_report(year):
                        f"{r['word_count']} | {r['prediction_short']} | {ai_pct} | {r['total_segments']} |")
         md.append(f"")
 
-    # Full text of flagged sections
+    # Full text of flagged sections with AI-generated spans highlighted
     all_flagged = reliable + low_conf
     sections_dir = os.path.join(SECTIONS_DIR, year)
+    results_dir = os.path.join(RESULTS_DIR, year)
     md.append(f"## Full Text of Flagged Sections")
+    md.append(f"")
+    md.append(f"<mark>Highlighted text</mark> indicates spans classified as AI-generated by Pangram.")
     md.append(f"")
     for r in all_flagged:
         sec_num = r["section_number"]
@@ -374,19 +505,28 @@ def generate_report(year):
         pred = r["prediction_short"]
         rel = r["reliability"]
 
-        # Find the .txt file for this section
-        text = _read_section_text(sections_dir, sec_num, r.get("title", ""))
-
         md.append(f"### Section {sec_num} — {title}")
         md.append(f"")
         md.append(f"**Classification:** {pred} | **AI Score:** {ai_pct} "
                    f"| **Segments:** {r['total_segments']} | **Confidence:** {rel} "
                    f"| **Division:** {r['division']}")
         md.append(f"")
-        if text:
+
+        # Try to load window data and highlight
+        fn = _find_section_file(sections_dir, sec_num)
+        windows = _load_windows_for_section(results_dir, sections_dir, sec_num)
+        if fn and windows:
+            raw_path = os.path.join(sections_dir, fn)
+            with open(raw_path, "r", encoding="utf-8") as fh:
+                raw_text = fh.read()
+            text = _highlight_text_with_windows(raw_text, windows)
             md.append(text)
         else:
-            md.append(f"*Section text not found.*")
+            text = _read_section_text(sections_dir, sec_num, r.get("title", ""))
+            if text:
+                md.append(text)
+            else:
+                md.append(f"*Section text not found.*")
         md.append(f"")
 
     # Division breakdown
