@@ -194,27 +194,91 @@ def chart_division_breakdown(rows, year, out_dir):
 
 
 def _format_legal_text(text):
-    """Break wall-of-text legal prose into readable paragraphs.
+    """Format legal text to resemble NDAA PDF layout with indented hierarchy.
 
-    Inserts line breaks before subsection markers like (a), (1), (A), (i),
-    and before common structural phrases.
+    Uses blockquote nesting (>) to create visual indentation matching the
+    legal hierarchy: subsection (a) > paragraph (1) > subparagraph (A) >
+    clause (i) > subclause (I).
     """
-    # Break before subsection/paragraph markers: (a), (b), (1), (2), (A), (B), (i), (ii)
-    text = re.sub(r"\s*(\([a-z]\))", r"\n\n\1", text)      # (a), (b), ...
-    text = re.sub(r"\s*(\([0-9]+\))", r"\n\n\1", text)     # (1), (2), ...
-    text = re.sub(r"\s*(\([A-Z]\))", r"\n\n\1", text)      # (A), (B), ...
-    text = re.sub(r"\s*(\([ivxl]+\))", r"\n\n\1", text)    # (i), (ii), ...
+    # Insert sentinel markers before each structural element
+    S = "~@@~"  # sentinel unlikely to appear in legal text
+    text = re.sub(r"\s+(\([a-z]\)\s)", "\n" + S + r"SUB\1", text)      # (a), (b)
+    text = re.sub(r"\s+(\([0-9]+\)\s)", "\n" + S + r"PAR\1", text)    # (1), (2)
+    text = re.sub(r"\s+(\([A-Z]\)\s)", "\n" + S + r"SPAR\1", text)    # (A), (B)
+    text = re.sub(r"\s+(\([ivxl]+\)\s)", "\n" + S + r"CL\1", text)    # (i), (ii)
+    text = re.sub(r"\s+(\([IVX]+\)\s)", "\n" + S + r"SCL\1", text)    # (I), (II)
 
-    # Break before common structural phrases
-    text = re.sub(r"\s+(Not later than)", r"\n\n\1", text)
-    text = re.sub(r"\s+(The Secretary)", r"\n\n\1", text)
-    text = re.sub(r"\s+(The Director)", r"\n\n\1", text)
-    text = re.sub(r"\s+(In this section)", r"\n\n\1", text)
-    text = re.sub(r"\s+(In general)", r"\n\n\1", text)
+    lines = text.split("\n")
+    result = []
+    first_line = True
+
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+
+        if first_line:
+            # Section title line — bold it
+            # Strip section number prefix for the heading
+            heading = re.sub(r"^\d+[a-zA-Z]?\.\s*", "", line)
+            result.append(f"**{heading}**")
+            result.append("")
+            first_line = False
+        elif line.startswith(S + "SUB"):
+            # Subsection (a) — no indent, bold the marker
+            content = line[len(S) + 3:]  # strip sentinel + "SUB"
+            marker_match = re.match(r"(\([a-z]\))\s*(.*)", content)
+            if marker_match:
+                marker, rest = marker_match.groups()
+                result.append(f"**{marker}** {rest}")
+            else:
+                result.append(content)
+            result.append("")
+        elif line.startswith(S + "PAR"):
+            # Paragraph (1) — one level indent
+            content = line[len(S) + 3:]
+            marker_match = re.match(r"(\([0-9]+\))\s*(.*)", content)
+            if marker_match:
+                marker, rest = marker_match.groups()
+                result.append(f"> **{marker}** {rest}")
+            else:
+                result.append(f"> {content}")
+            result.append("")
+        elif line.startswith(S + "SPAR"):
+            # Subparagraph (A) — two levels
+            content = line[len(S) + 4:]
+            marker_match = re.match(r"(\([A-Z]\))\s*(.*)", content)
+            if marker_match:
+                result.append(f">> {marker_match.group(1)} {marker_match.group(2)}")
+            else:
+                result.append(f">> {content}")
+            result.append("")
+        elif line.startswith(S + "CL"):
+            # Clause (i) — three levels
+            content = line[len(S) + 2:]
+            marker_match = re.match(r"(\([ivxl]+\))\s*(.*)", content)
+            if marker_match:
+                result.append(f">>> {marker_match.group(1)} {marker_match.group(2)}")
+            else:
+                result.append(f">>> {content}")
+            result.append("")
+        elif line.startswith(S + "SCL"):
+            # Subclause (I) — four levels
+            content = line[len(S) + 3:]
+            marker_match = re.match(r"(\([IVX]+\))\s*(.*)", content)
+            if marker_match:
+                result.append(f">>>> {marker_match.group(1)} {marker_match.group(2)}")
+            else:
+                result.append(f">>>> {content}")
+            result.append("")
+        else:
+            result.append(line)
+            result.append("")
 
     # Clean up excessive blank lines
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+    output = "\n".join(result)
+    output = re.sub(r"\n{3,}", "\n\n", output)
+    return output.strip()
 
 
 def _find_section_file(sections_dir, section_number):
