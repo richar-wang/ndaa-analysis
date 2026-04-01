@@ -1,0 +1,5 @@
+SEC. 7701.  REVIEW OF SHARED INFORMATION TECHNOLOGY SERVICES FOR PERSONNEL VETTING. (a)  Definition of Appropriate Committees of Congress .— In this section, the term “ appropriate committees of Congress ” means— (1)  the congressional intelligence committees; 
+ (2)  the Committee on Armed Services and the Subcommittee on Defense of the Committee on Appropriations of the Senate; and 
+ (3)  the Committee on Armed Services and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives. 
+ 
+ (b)  Deadline. In General .— Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress a review of the extent to which the intelligence community can use information technology services shared among the intelligence community for purposes of personnel vetting, including with respect to human resources, suitability, and security.

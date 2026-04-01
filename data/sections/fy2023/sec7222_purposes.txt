@@ -1,0 +1,4 @@
+SEC. 7222.  PURPOSES.   The purposes of this subtitle are to— (1)  encourage agency artificial intelligence-related programs and initiatives that enhance the competitiveness of the United States and foster an approach to artificial intelligence that builds on the strengths of the United States in innovation and entrepreneurialism; 136 STAT. 3669 
+ (2)  enhance the ability of the Federal Government to translate research advances into artificial intelligence applications to modernize systems and assist agency leaders in fulfilling their missions; 
+ (3)  promote adoption of modernized business practices and advanced technologies across the Federal Government that align with the values of the United States, including the protection of privacy, civil rights, and civil liberties; and 
+ (4)  test and harness applied artificial intelligence to enhance mission effectiveness, agency program integrity, and business practice efficiency.

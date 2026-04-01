@@ -1,0 +1,38 @@
+SEC. 1541.  Deadlines. COMPREHENSIVE REVIEW OF CYBER EXCEPTED SERVICE. (a)  In General .— Not later than 180 days after the date of enactment of this Act, the Chief Information Officer of the Department of Defense and the Under Secretary of Defense for Personnel and Readiness, in coordination with the Chief Digital and Artificial Intelligence Officer and the Principal Cyber Advisor of the Department, shall conduct a comprehensive review of the Cyber Excepted Service established pursuant to  section 1599f of title 10, United States Code . 
+ (b)  Elements .— The review required under subsection (a) shall include the following: (1)  Assessment. An assessment of barriers to participation in Cyber Excepted Service positions, including— (A)  Criteria. criteria for eligibility of potential Department of Defense components and entities for participation in the Cyber Excepted Service; 
+ (B)  potential and structural limitations of the Cyber Excepted Service, including impediments to mobility or advancement by civilian employees currently in billets coded for Cyber Excepted Service; 
+ (C)  challenges to transition between competitive and excepted service; 
+ (D)  matters relating to pay disparity and challenges with compensation relative to the skill sets and value of such civilian employees in the private sector; 
+ (E)  differences between compensation, incentives, benefits, and access to career-broadening experiences; 
+ (F)  the eligibility for participation in the Cyber Excepted Service of civilian employees who are assigned to the Office of the Chief Digital and Artificial Intelligence Officer; 
+ (G)  the current and necessary mechanisms to deconflict occasions when individuals can be considered eligible for two or more excepted service systems; and 
+ (H)  any other barriers as determined by the Secretary. 
+ 
+ (2)  Evaluation. An evaluation of the process used in accepting applications, assessing candidates, and the process for and effect of adhering to provisions of law establishing preferences for hiring eligible veterans, and selecting applicants for vacancies to be filled by an individual for a Cyber Excepted Service position. 
+ (3)  Evaluation. An evaluation of current efforts to recruit and retain employees in Cyber Excepted Service positions. 
+ (4)  A description of current performance metrics used in evaluating the Cyber Excepted Service. 136 STAT. 2917 
+ (5)  Assessment. An assessment of how current efforts to develop, sustain, and improve the Cyber Excepted Service are integrated into the strategic workforce planning of the Department. 
+ (6)  Current metrics for— (A)  the number of employees in Cyber Excepted Service positions, disaggregated by occupation, grade, and level or pay band; 
+ (B)  the placement of employees in Cyber Excepted Service positions, disaggregated by military department, Defense agency, or other component within the Department; 
+ (C)  the total number of veterans hired; 
+ (D)  the number of separations of employees in Cyber Excepted Service positions, disaggregated by occupation, grade, and level or pay band; 
+ (E)  the number of retirements of employees in Cyber Excepted Service positions, disaggregated by occupation, grade, and level or pay band; 
+ (F)  the number and amounts of recruitment, relocation, and retention incentives paid to employees in Cyber Excepted Service positions, disaggregated by occupation, grade, and level or pay band; and 
+ (G)  the number of employees who declined transition to qualified Cyber Excepted Service positions. 
+ 
+ (7)  Assessment. An assessment of the training provided to supervisors of employees in Cyber Excepted Service positions on the use of the new authorities. 
+ (8)  Assessment. An assessment of the implementation of  section 1599f(a)(1)(A) of title 10, United States Code , including— (A)  how each military department, Defense agency, or other component within the Department is incorporating or intends to incorporate Cyber Excepted Service personnel in their cyber mission workforce; and 
+ (B)  how the Cyber Excepted Service has allowed each military department, Defense agency, or other component within the Department to establish, recruit and retain personnel to fill cyber mission workforce needs. 
+ 
+ (9)  Recommenda- tions. Recommendations for the Secretary of Defense and the congressional defense committees with respect to the improvement of the Cyber Excepted Service, including recommendations derived from the consideration of the elements specified in paragraphs (1) through (8). 
+ 
+ (c)  Records. Submission .— Not later than 30 days after the completion of the review under subsection (a), the Chief Information Officer shall submit to the congressional defense committees a copy of the review. 
+ (d)  Termination date. Time period. Assessments. Annual Update .— Not later than one year after the submission of the review under subsection (c), and not less frequently than once each year thereafter until September 30, 2028, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an update on progress made in enacting recommendations identified pursuant to paragraph (9) of subsection (b) and a detailed report on Cyber Excepted Service positions during the most recent one-year period, including— (1)  the metrics described in paragraph (6) of such subsection; 136 STAT. 2918 
+ (2)  an updated assessment under paragraph (8) of such subsection from the current reporting period; 
+ (3)  an updated assessment on the effect of  section 1599f of title 10, United States Code , on the ability of the Department to recruit, retain, and develop cyber professionals in the Department over the current reporting period; 
+ (4)  an updated assessment on the barriers to participation described in paragraph (1) of subsection (b) from the current reporting period; 
+ (5)  Proposal. proposed modifications to the Cyber Excepted Service; and 
+ (6)  such other matters as the Secretary considers appropriate. 
+ 
+ (e)  Definitions .— In this section: (1)  The term “ Cyber Excepted Service ” consists of those positions established under  section 1599f(a)(1)(A) of title 10, United States Code . 
+ (2)  The term “ Cyber Excepted Service position ” means a position in the Cyber Excepted Service.

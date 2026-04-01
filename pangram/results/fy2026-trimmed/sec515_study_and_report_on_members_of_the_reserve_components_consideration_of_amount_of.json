@@ -1,0 +1,26 @@
+{
+  "text": "Study and report on members of the reserve components: consideration of amount of time of service in activation; authority to waive limitation on release from active duty (a) Study The Secretary shall conduct a study to determine the recommendations of the Secretary regarding - (1) consideration of the amount of time in service or on active duty of a member of a reserve component in making a determination to order the member to active duty; and (2) the ability of a member of a reserve component to waive the limitation on release from active duty under section 12686(b) of title 10, United States Code. (b) Elements The study under subsection (a) shall address the following: (1) In evaluating the suitability of a member of a reserve component to be ordered to active duty, whether to consider the amount of time of service - (A) in the Armed Forces of such member; (B) on active duty of such member; and (C) on active duty by such member that would result in such member becoming eligible for retired pay or retainer pay under a purely military retirement system (other than the retirement system under chapter 1223 of such title). (2) Whether to change the applicability of the waiver under section 12686(b) of such title from an order to active duty that specifies a period of less than 180 days to an order to active duty that specifies a period of less than 365 days. (c) Use of information In carrying out this section, the Secretary concerned may provide, to a person performing an evaluation described in subsection (b)(1), information on the relevant experience of a member, including the amount of time a member has performed duties relevant to the duty for which such member is being evaluated. (d) Report Not later than April 1, 2026, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the results of the study under this section.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Study and report on members of the reserve components: consideration of amount of time of service in activation; authority to waive limitation on release from active duty (a) Study The Secretary shall conduct a study to determine the recommendations of the Secretary regarding - (1) consideration of the amount of time in service or on active duty of a member of a reserve component in making a determination to order the member to active duty; and (2) the ability of a member of a reserve component to waive the limitation on release from active duty under section 12686(b) of title 10, United States Code. (b) Elements The study under subsection (a) shall address the following: (1) In evaluating the suitability of a member of a reserve component to be ordered to active duty, whether to consider the amount of time of service - (A) in the Armed Forces of such member; (B) on active duty of such member; and (C) on active duty by such member that would result in such member becoming eligible for retired pay or retainer pay under a purely military retirement system (other than the retirement system under chapter 1223 of such title). (2) Whether to change the applicability of the waiver under section 12686(b) of such title from an order to active duty that specifies a period of less than 180 days to an order to active duty that specifies a period of less than 365 days. (c) Use of information In carrying out this section, the Secretary concerned may provide, to a person performing an evaluation described in subsection (b)(1), information on the relevant experience of a member, including the amount of time a member has performed duties relevant to the duty for which such member is being evaluated. (d) Report Not later than April 1, 2026, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the results of the study under this section.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006600618828088045,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1934,
+      "word_count": 333,
+      "token_length": 416
+    }
+  ],
+  "_submission_type": "solo"
+}

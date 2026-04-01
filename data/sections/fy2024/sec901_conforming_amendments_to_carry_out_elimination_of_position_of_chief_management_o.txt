@@ -1,0 +1,34 @@
+SEC. 901.  CONFORMING AMENDMENTS TO CARRY OUT ELIMINATION OF POSITION OF CHIEF MANAGEMENT OFFICER. (a)  Removal of References to Chief Management Officer in Provisions of Law Relating to Precedence .— Chapter 4 of title 10, United States Code ,  is amended — (1)  in section 133a(c)— (A)  in paragraph (1), by  striking  “ , the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense ” and  inserting  “ and the Deputy Secretary of Defense ”; and 
+ (B)  in paragraph (2), by  striking  “ the Chief Management Officer, ”; 
+ 
+ (2)  in section 133b(c)— (A)  in paragraph (1), by  striking  “ the Chief Management Officer of the Department of Defense, ”; and 
+ (B)  in paragraph (2), by  striking  “ the Chief Management Officer, ”; 
+ 
+ (3)  in section 137a(d), by  striking  “ the Chief Management Officer of the Department of Defense, ”; and 
+ (4)  in section 138(d), by  striking  “ the Chief Management Officer of the Department of Defense, ”. 
+ 
+ (b)  Assignment of Periodic Review of Defense Agencies and DOD Field Activities to Secretary of Defense .— Section 192(c) of such title  is amended — (1)  in paragraph (1)— (A)  in subparagraph (A), by  striking  “ the Chief Management Officer of the Department of Defense ” and  inserting  “ the Secretary of Defense ”; and 
+ (B)  in subparagraphs (B) and (C), by  striking  “ the Chief Management Officer ” and  inserting  “ the Secretary ”; and 
+ 
+ (2)  in paragraph (2), by  striking  “ the Chief Management Officer ” each place it appears and  inserting  “ the Secretary ”. 
+ 
+ (c)  Assignment of Responsibility for Financial Improvement and Audit Remediation to Under Secretary of Defense (Comptroller) .— Section 240b of such title  is amended — (1)  in subsection (a)(1), by  striking  “ The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), ” and  inserting  “ The Under Secretary of Defense (Comptroller) shall, in consultation with the Performance Improvement Officer of the Department of Defense, ”; and 
+ (2)  in subsection (b)(1)(C)(ii), by  striking  “ the Chief Management Officer ” and  inserting  “ the Performance Improvement Officer ”. 
+ 
+ (d)  Removal of Chief Management Officer as Recipient of Reports of Audits by External Auditors .— Section  137 STAT. 355 
+240d(d)(1)(A) of such title  is amended  by  striking  “ and the Chief Management Officer of the Department of Defense ”. 
+ (e)  Conforming Amendments to Provisions of Law Related to Freedom of Information Act Exemptions .— Such title is further amended— (1)  in section 130e— (A)  by  striking  subsection (d); 
+ (B)  by  redesignating  subsections (e) and (f) as subsections (d) and (e), respectively; and 
+ (C)  in subsection (d), as so redesignated— (i)  by  striking  “ , or the Secretary’s designee, ”; and 
+ (ii)  by  striking  “ , through the Office of the Director of Administration and Management ”; and 
+ 
+ 
+ (2)  in section 2254a— (A)  by  striking  subsection (c); 
+ (B)  by  redesignating  subsection (d) as subsection (c); and 
+ (C)  in subsection (c), as so redesignated— (i)  by  striking  “ , or the Secretary’s designee, ”; and 
+ (ii)  by  striking  “ , through the Office of the Director of Administration and Management ”. 
+ 
+ 
+ 
+ (f)  Assignment of Responsibility for Annual Review of Agency Information Technology Portfolio to the Chief Information Officer .— Section 11319(d)(4) of title 40, United States Code ,  is amended , in the second sentence, by  striking  “ the Chief Management Officer of the Department of Defense (or any successor to such Officer), in consultation with the Chief Information Officer, the Under Secretary of Defense for Acquisition and Sustainment, and ” and  inserting  “ the Chief Information Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and ”. 
+ (g)  Removal of Chief Management Officer as Required Coordinator on Defense Resale Matters .— Section 631(a) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 2481 note )  is amended  by  striking  “ , in coordination with the Chief Management Officer of the Department of Defense, ”.

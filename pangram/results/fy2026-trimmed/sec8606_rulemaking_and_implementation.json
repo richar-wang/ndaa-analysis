@@ -1,0 +1,36 @@
+{
+  "text": "Rulemaking and implementation (a) Rulemaking authority (1) In general Not later than 180 days after the date of enactment of this Act, the Secretary of Homeland Security and the Attorney General, in coordination with the Secretary of Defense and the Secretary of Transportation, shall develop and publish regulations governing counter-UAS authority for SLTT law enforcement agencies and correctional agencies under this title and the amendments made by this title. (2) Role of FAA In carrying out the rulemaking in paragraph (1), the Secretary of Homeland Security and the Attorney General shall coordinate with the Administrator of the Federal Aviation Administration on any aspect of the rulemaking that affects aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of airspace. (3) Saving clause Nothing in this section shall be construed to vest in the Secretary or the Attorney General any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration. (4) Authorized equipment and technology The Secretary of Homeland Security, the Attorney General, the Secretary of Defense, in coordination with the Administrator of the Federal Aviation Administration, the Chairman of the Federal Communications Commission, and the Administrator of National Telecommunications and Information Administrator shall authorize equipment and technology to be used for actions in subparagraphs (B), (C), (D), and (F) of section 210G(b)(1) of the Homeland Security Act of 2002. (b) Training and compliance (1) In general The Attorney General, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Department of Transportation, shall approve standards for training programs for SLTT law enforcement agencies or correctional agencies for the safe and lawful interception of drones. Such training programs shall include instruction on the legal, operational, and technological aspects of counter-UAS operations. (2) Compliance audits The Attorney General and the Secretary of Homeland Security shall periodically conduct compliance audits to prevent misuse of counter-UAS authority. (c) Definitions In this section: (1) SLTT law enforcement agency The term SLTT law enforcement agency means a State, local, Tribal, or territorial law enforcement agency. (2) Correctional agency The term correctional agency means a Federal, State, local, Tribal, or territorial government body responsible for operating correctional facilities or a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency to operate such facilities. (3) Correctional facility The term correctional facility means any jail, prison, or any other penal or detention facility operated by a State, local, Tribal, or territorial law enforcement agency, or by a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency, and used to house individuals who have been arrested, detained, held, or charged with or convicted of criminal offenses.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Rulemaking and implementation (a) Rulemaking authority (1) In general Not later than 180 days after the date of enactment of this Act, the Secretary of Homeland Security and the Attorney General, in coordination with the Secretary of Defense and the Secretary of Transportation, shall develop and publish regulations governing counter-UAS authority for SLTT law enforcement agencies and correctional agencies under this title and the amendments made by this title. (2) Role of FAA In carrying out the rulemaking in paragraph (1), the Secretary of Homeland Security and the Attorney General shall coordinate with the Administrator of the Federal Aviation Administration on any aspect of the rulemaking that affects aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of airspace. (3) Saving clause Nothing in this section shall be construed to vest in the Secretary or the Attorney General any authority of the Secretary of Transportation or the Administrator of the Federal Aviation Administration. (4) Authorized equipment and technology The Secretary of Homeland Security, the Attorney General, the Secretary of Defense, in coordination with the Administrator of the Federal Aviation Administration, the Chairman of the Federal Communications Commission, and the Administrator of National Telecommunications and Information Administrator shall authorize equipment and technology to be used for actions in subparagraphs (B), (C), (D), and (F) of section 210G(b)(1) of the Homeland Security Act of 2002. (b) Training and compliance (1) In general The Attorney General, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Department of Transportation, shall approve standards for training programs for SLTT law enforcement agencies or correctional agencies for the safe and lawful interception of drones. Such training programs shall include instruction on the legal, operational, and technological aspects of counter-UAS operations. (2) Compliance audits The Attorney General and the Secretary of Homeland Security shall periodically conduct compliance audits to prevent misuse of counter-UAS authority. (c) Definitions In this section: (1) SLTT law enforcement agency The term SLTT law enforcement agency means a State, local, Tribal, or territorial law enforcement agency. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.19579305686056614,
+      "confidence": "Low",
+      "start_index": 0,
+      "end_index": 2359,
+      "word_count": 341,
+      "token_length": 454
+    },
+    {
+      "text": "2) Correctional agency The term correctional agency means a Federal, State, local, Tribal, or territorial government body responsible for operating correctional facilities or a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency to operate such facilities. (3) Correctional facility The term correctional facility means any jail, prison, or any other penal or detention facility operated by a State, local, Tribal, or territorial law enforcement agency, or by a private party that is under contract with a State, local, Tribal, or territorial law enforcement agency, and used to house individuals who have been arrested, detained, held, or charged with or convicted of criminal offenses.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.19503173977136612,
+      "confidence": "Low",
+      "start_index": 2359,
+      "end_index": 3098,
+      "word_count": 111,
+      "token_length": 146
+    }
+  ],
+  "_submission_type": "solo"
+}

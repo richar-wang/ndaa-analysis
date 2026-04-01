@@ -1,0 +1,26 @@
+{
+  "text": "Recycling for critical minerals (a) In General The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Director of the Defense Logistics Agency, shall expand the recovery and reuse of strategic and critical materials under the Strategic Material Recovery and Reuse Program of the Defense Logistics Agency established pursuant to section 6(a)(5) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98e(a)(5) ) (in this section referred to as the Program ). (b) Briefing on expansion Not later than March 1, 2026, the Director of the Defense Logistics Agency shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on a plan for expansion of the Program which shall include - (1) a list of strategic and critical materials that are determined to be in shortfall in the National Defense Stockpile in the most recent report on stockpile requirements submitted to Congress under section 14(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h\u20135(a) ) that will be prioritized for inclusion in the Program; (2) a description of resources required to include the additional strategic and critical materials identified under paragraph (1) in the Program; (3) any barriers to expansion of the Program; and (4) best practices from the efforts of the Director under the Program with respect to optical-grade germanium that can be implemented to expand the Program. (c) Strategic and critical materials defined In this section, the term strategic and critical materials means materials determined to be strategic and critical materials under section 3(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98b(a) ).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Recycling for critical minerals (a) In General The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Director of the Defense Logistics Agency, shall expand the recovery and reuse of strategic and critical materials under the Strategic Material Recovery and Reuse Program of the Defense Logistics Agency established pursuant to section 6(a)(5) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98e(a)(5) ) (in this section referred to as the Program ). (b) Briefing on expansion Not later than March 1, 2026, the Director of the Defense Logistics Agency shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on a plan for expansion of the Program which shall include - (1) a list of strategic and critical materials that are determined to be in shortfall in the National Defense Stockpile in the most recent report on stockpile requirements submitted to Congress under section 14(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h\u20135(a) ) that will be prioritized for inclusion in the Program; (2) a description of resources required to include the additional strategic and critical materials identified under paragraph (1) in the Program; (3) any barriers to expansion of the Program; and (4) best practices from the efforts of the Director under the Program with respect to optical-grade germanium that can be implemented to expand the Program. (c) Strategic and critical materials defined In this section, the term strategic and critical materials means materials determined to be strategic and critical materials under section 3(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98b(a) ).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004969264846295118,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1741,
+      "word_count": 277,
+      "token_length": 376
+    }
+  ],
+  "_submission_type": "solo"
+}

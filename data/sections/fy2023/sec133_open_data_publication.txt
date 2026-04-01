@@ -1,0 +1,4 @@
+“SEC. 133.  12 USC 1772f . OPEN DATA PUBLICATION.   “All public data assets published by the Administration under this title shall be— “(1)  made available as an open Government data asset (as defined in  section 3502 of title 44, United States Code ); 
+ “(2)  freely available for download; 
+ “(3)  rendered in a human-readable format; and 
+ “(4)  accessible via application programming interface where appropriate.”

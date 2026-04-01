@@ -1,0 +1,26 @@
+{
+  "text": "Relations between Kosovo and Serbia (a) Sense of Congress It is the sense of Congress that - (1) the Agreement on the Path to Normalization of Relations, which was agreed to by Kosovo and Serbia on February 27, 2023, with the facilitation of the European Union, is a positive step forward in advancing normalization between the two countries; (2) Serbia and Kosovo should seek to make immediate progress on the Implementation Annex to the agreement referred to in paragraph (1); (3) once sufficient progress has been made on the Implementation Annex, the United States should consider advancing initiatives to strengthen bilateral relations with both countries, which could include - (A) establishing bilateral strategic dialogues with Kosovo and Serbia; and (B) advancing concrete initiatives to deepen economic ties and investment with both countries; and (4) the United States should continue to support a comprehensive final agreement between Kosovo and Serbia based on mutual recognition. (b) Statement of policy It is the policy of the United States Government that - (1) it shall not pursue any policy that advocates for land swaps, partition, or other forms of redrawing borders along ethnic lines in the Western Balkans as a means to settle disputes between nation states in the region; and (2) it should support pluralistic democracies in countries in the Western Balkans as a means to prevent a return to the ethnic strife that once characterized the region.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Relations between Kosovo and Serbia (a) Sense of Congress It is the sense of Congress that - (1) the Agreement on the Path to Normalization of Relations, which was agreed to by Kosovo and Serbia on February 27, 2023, with the facilitation of the European Union, is a positive step forward in advancing normalization between the two countries; (2) Serbia and Kosovo should seek to make immediate progress on the Implementation Annex to the agreement referred to in paragraph (1); (3) once sufficient progress has been made on the Implementation Annex, the United States should consider advancing initiatives to strengthen bilateral relations with both countries, which could include - (A) establishing bilateral strategic dialogues with Kosovo and Serbia; and (B) advancing concrete initiatives to deepen economic ties and investment with both countries; and (4) the United States should continue to support a comprehensive final agreement between Kosovo and Serbia based on mutual recognition. (b) Statement of policy It is the policy of the United States Government that - (1) it shall not pursue any policy that advocates for land swaps, partition, or other forms of redrawing borders along ethnic lines in the Western Balkans as a means to settle disputes between nation states in the region; and (2) it should support pluralistic democracies in countries in the Western Balkans as a means to prevent a return to the ethnic strife that once characterized the region.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.06737282127141953,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1469,
+      "word_count": 235,
+      "token_length": 290
+    }
+  ],
+  "_submission_type": "solo"
+}

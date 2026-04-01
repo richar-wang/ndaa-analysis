@@ -1,0 +1,593 @@
+section_number,title,division,word_count,headline,prediction_short,fraction_ai,fraction_ai_assisted,fraction_human,total_segments,num_ai_segments,num_ai_assisted_segments,num_human_segments,reliability
+1001,General transfer authority,General Provisions,254,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1002,Consolidation of reporting requirements relating to Department of Defense financial improvement and audit remediation plan,General Provisions,623,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1020,Exemption of unmanned surface vessels and unmanned underwater vehicles from certain technical authority requirements,General Provisions,229,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1021,Pilot program on use of automated shipbuilding technologies and capabilities,General Provisions,303,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1042,Senior leaders of the Department of Defense and other specified persons: authority to provide protection,General Provisions,854,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1047,Authority to transfer Tâ€“37 aircraft to Arizona Aviation Historical Group,General Provisions,523,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1048,"Authorization of Eastern Regional Range Complex for multi-domain operations and robotic autonomous systems training, testing, and experimentation",General Provisions,473,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1049,Limitation on use of funds for deactivation of Expeditionary Combat Aviation Brigades,General Provisions,236,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1051,Prohibition on destruction or scrapping of World War IIâ€“era aircraft,General Provisions,299,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1052,Limitation on availability of funds for travel expenses of the Office of the Secretary of Defense,General Provisions,361,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1053,Congressional notification of support for immigration enforcement operations,General Provisions,605,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1062,"Modifications to authority for transfer and sale of certain surplus firearms, ammunition, and parts",General Provisions,738,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1066,Reports on installation of certain collision avoidance systems in military rotary-wing aircraft,General Provisions,419,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1068,"GAO review and report on biological weapons experiments on and in relation to ticks, tick-borne disease",General Provisions,499,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1070,Semiannual report on Department of Defense operations at the southern land border,General Provisions,433,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1071,Assessment on potential establishment of incubator programs for secure facilities and networks at universities,General Provisions,659,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+107,Automatic execution of conforming changes,Coast Guard Authorization Act of 2025,236,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+301,Automatic execution of conforming changes,Coast Guard Authorization Act of 2025,228,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1085,AUKUS Improvement Act of 2025,General Provisions,596,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1086,Framework for reforming technology transfer and foreign disclosure policies,General Provisions,847,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1087,Procurement and distribution of sports foods and dietary supplements to members of the Armed Forces assigned to the United States Special Operations Command,General Provisions,502,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1088,Pilot program on enhanced use of advanced sensor networks to improve Air Force counter-unmanned aircraft system capabilities for base defense,General Provisions,686,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1089,Pilot program and other requirements for accelerating protection of certain facilities and assets from unmanned aircraft,General Provisions,667,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1090,Process for complaints and investigations of transportation service providers and transportation officers,General Provisions,634,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1092,Updates and preservation of memorials to chaplains at Arlington National Cemetery,General Provisions,424,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1093,Critical infrastructure compatibility tabletop exercise,General Provisions,423,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1095,Commission on the National Defense Strategy,General Provisions,2435,Fully Human Written,Human,0.0000,0.0000,1.0000,7,0,0,7,high
+1110,"Amendments to title 5, United States Code",Civilian Personnel,470,AI Detected,Mixed,0.7933,0.0000,0.2067,2,1,0,1,low
+1111,Educational travel authority for dependents of certain employees,Civilian Personnel,246,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1115,Personnel management,Civilian Personnel,249,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+113,Authorization to initiate early production of future long-range assault aircraft,Procurement,330,,AI,0.5000,0.0000,0.5000,2,1,0,1,low
+114,Limitation on availability of funds for the Next Generation Command and Control portfolio of capabilities of the Army,Procurement,240,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+1140,Contracts that provide best value for taxpayer,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",389,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1211,Improvements to security cooperation workforce and defense acquisition workforce,Matters relating to foreign nations,546,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1212,Modifications to foreign military sales processes,Matters relating to foreign nations,534,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1213,Periodic review of FMS-only list,Matters relating to foreign nations,339,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1214,Assessment and establishment of office to support the acquisition of specified non-program of record systems by foreign allies and partners,Matters relating to foreign nations,451,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1215,Guidance for coordination of international arms transfers,Matters relating to foreign nations,472,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1226,Enhancing security partnership with Jordan and Lebanon,Matters relating to foreign nations,294,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1228,Limitation on availability of funds for the Iraqi security forces,Matters relating to foreign nations,337,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1229B,Report on United States force posture and activities in Syria,Matters relating to foreign nations,418,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+122,Modification to limitations on Navy medium and large unmanned surface vessels,Procurement,272,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+126,Authority for advance procurement of certain components to support continuous production of Virginia-class submarines,Procurement,308,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+129,Vessel construction managers for the construction of certain Navy vessels,Procurement,315,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+131,Limitation on availability of funds for TAGOS ship program,Procurement,286,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1232,Extension and modification of United States-Israel cooperation to counter unmanned systems in all warfighting domains,Matters relating to foreign nations,538,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1234,"Research, development, test, and evaluation of emerging technologies to further the warfighting capabilities of the United States and certain partner countries",Matters relating to foreign nations,680,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1235,Report on United States-Israel military exercises,Matters relating to foreign nations,253,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1243,Extension and modification of Ukraine Security Assistance Initiative,Matters relating to foreign nations,643,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1245,Report relating to allied and partner support to Ukraine,Matters relating to foreign nations,566,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1247,Baltic Security Initiative,Matters relating to foreign nations,521,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1249,Oversight of United States military posture in Europe,Matters relating to foreign nations,1201,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+1250,Report on United States deterrence and defense posture in the European region,Matters relating to foreign nations,926,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1253,Partnership for Indo-Pacific Industrial Resilience,Matters relating to foreign nations,762,AI Detected,Mixed,0.5152,0.0000,0.4848,3,2,0,1,medium
+1254,Strategy to strengthen multilateral defense in the Indo-Pacific,Matters relating to foreign nations,449,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1255,Sense of Congress on defense alliances and partnerships in the Indo-Pacific region,Matters relating to foreign nations,592,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1266,Joint program with Taiwan to enable fielding of uncrewed systems and counter-uncrewed systems capabilities,Matters relating to foreign nations,400,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1268,Oversight of United States military posture on the Korean Peninsula,Matters relating to foreign nations,1101,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1269,Report on enhanced defense relations with the Philippines,Matters relating to foreign nations,552,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1270,Modernizing the defense capabilities of the Philippines,Matters relating to foreign nations,1527,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+1271,Limitation on availability of funds for travel expenses of the Office of the Secretary of Defense,Matters relating to foreign nations,347,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1274,Report regarding joint training with Mexico to counter transnational criminal organizations,Matters relating to foreign nations,303,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+1273,Defending international security by restricting unacceptable partnerships and tactics,Matters relating to foreign nations,1292,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+127,Procurement authorities for Medium Landing Ships,Procurement,442,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+12,Disclosure of information,National Oceanic and Atmospheric Administration,364,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+130g,Oversight of sensitive activities of the Department of Defense.,"Space Activities, Strategic Programs, and Intelligence Matters",251,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1622,Sensitive activities of the Department of Defense,"Space Activities, Strategic Programs, and Intelligence Matters",357,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1625,Annual report on requests of combatant commands for remote sensing data,"Space Activities, Strategic Programs, and Intelligence Matters",236,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1411,Modifications to Strategic and Critical Materials Stock Piling Act,Other Authorizations,478,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1412,Recycling for critical minerals,Other Authorizations,277,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+145,Extension of requirements relating to Câ€“130 aircraft,Procurement,231,,AI,1.0000,0.0000,0.0000,1,1,0,0,low
+151,Bomber aircraft force structure and transition roadmap,Procurement,307,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+152,"Requirement for an intelligence, surveillance, and reconnaissance roadmap for the Air Force",Procurement,291,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+147,Modification to minimum inventory requirement for Aâ€“10 aircraft,Procurement,507,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1503,Framework for integration of information technology technical debt assessment into annual budget process,Cyberspace-related Matters,653,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1504,Department of Defense Data Ontology Governance Working Group,Cyberspace-related Matters,1109,AI Detected,Mixed,0.3502,0.0000,0.6498,4,2,0,2,medium
+1505,Future force employment concepts development tabletop exercises,Cyberspace-related Matters,372,,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1506,Occupational resiliency of the Cyber Mission Force,Cyberspace-related Matters,308,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+1508,Prohibition on availability of funds to modify authorities of the Commander of United States Cyber Command,Cyberspace-related Matters,227,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+1507,Prohibition on the elimination of certain cyber assessment capabilities for test and evaluation,Cyberspace-related Matters,554,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+150,Bâ€“21 bomber aircraft program accountability matrices,Procurement,637,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1511,Secure mobile phones for senior officials and personnel performing sensitive functions,Cyberspace-related Matters,277,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1512,Artificial intelligence and machine learning security in the Department of Defense,Cyberspace-related Matters,558,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1513,Physical and cybersecurity procurement requirements for artificial intelligence systems,Cyberspace-related Matters,1055,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1514,Collaborative cybersecurity educational program,Cyberspace-related Matters,842,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1521,Accountability of the Authorization to Operate processes,Cyberspace-related Matters,918,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1532,Guidance and prohibition on use of certain artificial intelligence,Cyberspace-related Matters,674,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1533,Artificial intelligence model assessment and oversight,Cyberspace-related Matters,1212,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+1534,Digital sandbox environments for artificial intelligence,Cyberspace-related Matters,750,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1535,Artificial Intelligence Futures Steering Committee,Cyberspace-related Matters,873,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1543,Study on reducing incentives for cyber attacks on defense critical infrastructure of the United States,Cyberspace-related Matters,489,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1544,Integration of reserve component into cyber mission force,Cyberspace-related Matters,428,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1545,Annual report on Mission Assurance Coordination Board activities,Cyberspace-related Matters,515,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1546,"Limitation on the divestment, consolidation, and curtailment of certain electronic warfare test and evaluation activities",Cyberspace-related Matters,227,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+15A,Authority regarding unmanned aircraft systems,Matters Relating to Elements of the Intelligence Community,2992,Fully Human Written,Human,0.0000,0.0000,1.0000,9,0,0,9,high
+1601,Acquisition career path in the Space Force,"Space Activities, Strategic Programs, and Intelligence Matters",1067,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1603,Acquisition and operation of space systems for space warfighting and control,"Space Activities, Strategic Programs, and Intelligence Matters",275,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2275d,Acquisition and operation of space systems for space warfighting and control,"Space Activities, Strategic Programs, and Intelligence Matters",243,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+9088,Duty assignments after officer training course,"Space Activities, Strategic Programs, and Intelligence Matters",228,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+1607,"Study on establishing a tactical surveillance, reconnaissance, and tracking program of record","Space Activities, Strategic Programs, and Intelligence Matters",376,AI Detected,Mixed,0.6524,0.0000,0.3476,2,1,0,1,low
+1608,Spaceport of the Future initiative and study on future space launch capacity,"Space Activities, Strategic Programs, and Intelligence Matters",799,AI Detected,AI,0.8695,0.0000,0.1305,3,2,0,1,medium
+161,Requirements relating to executive airlift aircraft,Procurement,402,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1621,Vendor support to clandestine activities,"Space Activities, Strategic Programs, and Intelligence Matters",623,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1633,"Matters relating to the nuclear-armed, sea-launched cruise missile","Space Activities, Strategic Programs, and Intelligence Matters",228,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1637,Deep cleaning of launch control centers of the Air Force Global Strike Command,"Space Activities, Strategic Programs, and Intelligence Matters",292,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+9068,Air Force Global Strike Command,"Space Activities, Strategic Programs, and Intelligence Matters",366,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1635,"Organizational realignment with respect to Office of the Assistant Secretary of Defense for Nuclear Deterrence, Chemical and Biological Defense Policy and Programs; limitation on availability of certain funds","Space Activities, Strategic Programs, and Intelligence Matters",419,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1641,Strategy to sustain Minuteman III intercontinental ballistic missile and maximize end-of-life margin,"Space Activities, Strategic Programs, and Intelligence Matters",590,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1652,Golden Dome missile defense system,"Space Activities, Strategic Programs, and Intelligence Matters",572,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1655,Matters related to integrated air and missile defense capabilities to defend Guam,"Space Activities, Strategic Programs, and Intelligence Matters",255,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1656,Design and construction of missile instrumentation range safety vessels,"Space Activities, Strategic Programs, and Intelligence Matters",322,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1658,Limitation on authority to reduce sustainment for or halt operation of the AN/FPSâ€“108 COBRA DANE radar,"Space Activities, Strategic Programs, and Intelligence Matters",287,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1661,Biennial assessments of the Ronald Reagan Ballistic Missile Defense Test Site,"Space Activities, Strategic Programs, and Intelligence Matters",289,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5516,Prohibition on privatized or subscription-based missile defense intercept capabilities,"Space Activities, Strategic Programs, and Intelligence Matters",315,,AI,1.0000,0.0000,0.0000,1,1,0,0,low
+1657,Iron Dome short-range rocket defense system and Israeli cooperative missile defense program co-development and co-production,"Space Activities, Strategic Programs, and Intelligence Matters",994,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+165,Plan for open mission systems of Fâ€“35 aircraft,Procurement,279,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1683,Annual review of the Joint Electromagnetic Battle Management Software Program,"Space Activities, Strategic Programs, and Intelligence Matters",236,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1691,Cooperative threat reduction funds,"Space Activities, Strategic Programs, and Intelligence Matters",299,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1692,Prohibition on access to Department of Defense cloud-based resources by certain individuals,"Space Activities, Strategic Programs, and Intelligence Matters",474,AI Detected,Mixed,0.7266,0.0000,0.2734,2,1,0,1,low
+1703,Temporary authority for nonimmigrant construction workers on Wake Island,Other Defense Matters,342,,AI,0.5000,0.0000,0.5000,2,1,0,1,low
+1706,Continual assessment of impact of international state arms embargoes on Israel and actions to address defense capability gaps,Other Defense Matters,359,,AI,1.0000,0.0000,0.0000,1,1,0,0,low
+1704,Mapping and report on strategic ports,Other Defense Matters,1045,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+1707,Protection of certain facilities and assets from unmanned aircraft,Other Defense Matters,1905,Fully Human Written,Human,0.0000,0.0000,1.0000,6,0,0,6,high
+1732,Portfolio acquisition executive,Acquisition Reform,693,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1733,Product support manager,Acquisition Reform,514,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1801,Alignment of the defense acquisition system with the needs of members of the Armed Forces,Acquisition Reform,1706,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+1803,Amendments to life-cycle management and product support,Acquisition Reform,2837,Fully Human Written,Human,0.0000,0.0000,1.0000,9,0,0,9,high
+1806,Matters related to cost accounting standards,Acquisition Reform,1596,Fully Human Written,Human,0.0000,0.0000,1.0000,6,0,0,6,high
+1807,Establishment of Project Spectrum,Acquisition Reform,427,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1812,Ensuring successful implementation of requirements reform,Acquisition Reform,600,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1822,Modifications to commercial products and commercial services,Acquisition Reform,453,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1826,Exemptions for nontraditional defense contractors,Acquisition Reform,406,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1828,Review of commercial products and commercial services acquisition approach,Acquisition Reform,596,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1833,Bridging Operational Objectives and Support for Transition program,Acquisition Reform,524,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1841,Civil Reserve Manufacturing Network,Acquisition Reform,1446,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+1842,Transition to advanced manufacturing for certain critical readiness items of supply,Acquisition Reform,315,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1845,Facility clearance acceleration for members of defense industrial consortiums,Acquisition Reform,232,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+1847,Report on surge capacity in the defense industrial base,Acquisition Reform,277,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+1843,Working group on the advanced manufacturing workforce,Acquisition Reform,409,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1844,Collaborative forum to address challenges to and limitations of the defense industrial base,Acquisition Reform,572,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1846,Improvements relating to advanced manufacturing,Acquisition Reform,619,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1907,Coast Guard Academy Cadet Advisory Board,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",661,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+1908,Authorization for use of Coast Guard Academy facilities and equipment by covered foundations,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",430,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+199,Joint Interagency Task Force 401,Department of Defense Organization and Management,866,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+2004c,Detail as students at schools for education required for appointment as a chaplain: commissioned officers; certain enlisted members,Military Personnel Policy,1242,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+213,"Program for the enhancement of the research, development, test, and evaluation centers of the Department of Defense","Research, Development, Test, and Evaluation",541,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+214,"Modification to authority for acquisition, construction, or furnishing of test facilities and equipment","Research, Development, Test, and Evaluation",454,Fully AI Generated,AI,1.0000,0.0000,0.0000,2,2,0,0,low
+2164c,Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools,Military Personnel Policy,957,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+2164d,Limitation on school closures and certain other actions with respect to schools operated by the Department of Defense Education Activity,Military Personnel Policy,405,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+218,Alternative test and evaluation pathway for designated defense acquisition programs,"Research, Development, Test, and Evaluation",937,AI Detected,Mixed,0.3765,0.0000,0.6235,3,1,0,2,medium
+2201,Authorized Navy construction and land acquisition projects,Navy Military Construction,362,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+220,Application of software innovation to modernize test and evaluation infrastructure,"Research, Development, Test, and Evaluation",547,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+221,"Review and alignment of standards, guidance, and policies relating to digital engineering","Research, Development, Test, and Evaluation",712,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2229b,Responsibility for contested logistics posture management,Operation and Maintenance,714,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+224,National Security and Defense Artificial Intelligence Institute,"Research, Development, Test, and Evaluation",645,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+225,Advanced robotic automation for munitions manufacturing,"Research, Development, Test, and Evaluation",226,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+226,Evaluation of additional test corridors for hypersonic and long-range weapons,"Research, Development, Test, and Evaluation",271,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+227,Western regional range complex demonstration,"Research, Development, Test, and Evaluation",359,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+229,Pilot program on modernized health and usage monitoring systems to address obsolescence in rotary-wing and tiltrotor aircraft,"Research, Development, Test, and Evaluation",241,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+232,"Limitation on availability of funds for realignment of research, development, test, and evaluation functions of Joint conventional armaments and ammunition","Research, Development, Test, and Evaluation",290,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+228,Demonstration of near real-time monitoring capabilities to enhance weapon system platforms,"Research, Development, Test, and Evaluation",385,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2301,Authorized Air Force construction and land acquisition projects,Air Force Military Construction,339,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2401,Authorized defense agencies construction and land acquisition projects,Defense Agencies Military Construction,263,,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2402,Authorized energy resilience and conservation investment program projects,Defense Agencies Military Construction,243,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+242,Biotechnology Management Office,"Research, Development, Test, and Evaluation",395,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+243,Bioindustrial commercialization program,"Research, Development, Test, and Evaluation",953,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+244,Biotechnology supply chain resiliency program,"Research, Development, Test, and Evaluation",785,AI Detected,Mixed,0.7452,0.0000,0.2548,3,2,0,1,medium
+245,Biological data for artificial intelligence,"Research, Development, Test, and Evaluation",330,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+248,Establishing biobased product merit guidance,"Research, Development, Test, and Evaluation",261,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+246,Department of Defense biotechnology strategy,"Research, Development, Test, and Evaluation",428,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+247,Ethical and responsible development and deployment of biotechnology within the Department of Defense,"Research, Development, Test, and Evaluation",476,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2517,Authority for certain personnel,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",440,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2519,Prevention of and response to hazing and bullying,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",609,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2531,Comprehensive policy and procedures on retention and access to evidence and records relating to sexual misconduct and other misconduct,Sexual Assault and Sexual Harassment Response,1949,Fully Human Written,Human,0.0000,0.0000,1.0000,6,0,0,6,high
+2532,Requirement to maintain certain records,Sexual Assault and Sexual Harassment Response,335,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2533,Covered misconduct in Coast Guard,Sexual Assault and Sexual Harassment Response,2358,Fully Human Written,Human,0.0000,0.0000,1.0000,7,0,0,7,high
+2534,Review of discharge characterization,Sexual Assault and Sexual Harassment Response,498,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2535,Safe-to-Report policy for Coast Guard,Sexual Assault and Sexual Harassment Response,397,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2537,Accountability and transparency relating to allegations of misconduct against senior leaders,Sexual Assault and Sexual Harassment Response,627,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2538,Inclusion and command review of information on covered misconduct in personnel service records,Sexual Assault and Sexual Harassment Response,454,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+253,"Quarterly briefings on research, development, test, and evaluation laboratories and facilities","Research, Development, Test, and Evaluation",323,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2636b,Responsibilities for oversight of personal property transportation,Operation and Maintenance,266,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+341,Maintenance inspection capabilities and requirements,Operation and Maintenance,295,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+344,Proposed actions with respect to causes and effects of declining aircraft readiness rates,Operation and Maintenance,262,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+349,Limitation on use of funds to establish or expand Space Force Special Operations Component Command,Operation and Maintenance,362,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+350,Pilot program for data-enabled ground vehicle maintenance,Operation and Maintenance,279,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+351,Modernization of the organic industrial base of the Army,Operation and Maintenance,325,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2654,Aircraft safety: requirements for certain highly trafficked domestic airspace,Operation and Maintenance,340,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+374,Establishment of Army museum system,Operation and Maintenance,319,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+376,Establishment of Air Force and Space Force Museum System,Operation and Maintenance,364,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+382,Initiative to control spread of greater banded hornet in Guam,Operation and Maintenance,293,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+384,"Limitation on transformation by the Army of primary helicopter training program at Fort Rucker, Alabama",Operation and Maintenance,307,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7715,Army museum system,Operation and Maintenance,293,,AI,1.0000,0.0000,0.0000,1,1,0,0,low
+269C,Eligibility of former officers to compete for certain positions,National Oceanic and Atmospheric Administration,381,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+26,Chaplain Corps and Chief of Chaplains,Matters Relating to Elements of the Intelligence Community,475,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2802,Facility construction or repair: transactions other than contracts and grants,Military Construction General Provisions,512,AI Detected,Mixed,0.3115,0.0000,0.6885,2,1,0,1,low
+2803,Requirement for the military departments to develop and update a 20-year infrastructure improvement plan,Military Construction General Provisions,476,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2804,Improvements to water management and security on military installations,Military Construction General Provisions,1519,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+2808a,Facility construction or repair: transactions other than contracts and grants,Military Construction General Provisions,448,"Mostly Human, AI Detected",Mixed,0.2983,0.0000,0.7017,2,1,0,1,low
+2809,Authority to use accelerated design-build and progressive design-build procedures for military construction projects,Military Construction General Provisions,710,Fully AI Generated,AI,1.0000,0.0000,0.0000,2,2,0,0,low
+2814,Multiyear contracting authority for certain military construction projects,Military Construction General Provisions,441,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2815,"Guidance for military construction projects for innovation, research, development, test, and evaluation",Military Construction General Provisions,235,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2816,Authorization for cost-plus-incentive-fee contracts for certain Shipyard Infrastructure Optimization Program military construction projects,Military Construction General Provisions,233,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2820,Development of infrastructure improvement plan for each military department,Military Construction General Provisions,438,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2826,Application of certain authorities and standards to historic military housing and associated historic properties of the Department of Defense,Military Construction General Provisions,1308,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+2827,Improvement of administration of military unaccompanied housing,Military Construction General Provisions,456,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2829,Pilot program for emerging technologies for moisture control and mitigation,Military Construction General Provisions,465,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2831,Inspections by qualified home inspector of privatized and Government-owned military housing,Military Construction General Provisions,377,Fully AI Generated,AI,1.0000,0.0000,0.0000,2,2,0,0,low
+2832,"Plan to improve accuracy, integration, and interoperability of Department of Defense data with respect to real property, infrastructure, and military unaccompanied housing",Military Construction General Provisions,625,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2850,Master plans for Service Academies,Military Construction General Provisions,433,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2851,Annual report on cost premium for construction of certain facilities,Military Construction General Provisions,425,Fully AI Generated,AI,1.0000,0.0000,0.0000,2,2,0,0,low
+2852,Implementation of Comptroller General recommendations relating to critical military housing supply and affordability,Military Construction General Provisions,508,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2853,Plan for deploying private fifth generation and future generation Open Radio Access Network architecture on Department of Defense military installations,Military Construction General Provisions,540,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2861,Historical marker commemorating effects of radiation exposure at Holloman Air Force Base and White Sands Missile Range,Military Construction General Provisions,384,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2866a,Risk-based approach to water management and water security at military installations,Military Construction General Provisions,1453,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+2867,"Land conveyance, former Curtis Bay Depot, Maryland",Military Construction General Provisions,517,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2868,"Land conveyance, Sigsbee Park Annex, Naval Air Station, Key West, Florida",Military Construction General Provisions,265,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2883,Joint base facility management of Department of Defense,Military Construction General Provisions,278,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2884,Designation of official responsible for coordination of defense sites within area of responsibility of Joint Region Marianas,Military Construction General Provisions,288,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2889,Consideration of modular construction methods for military construction projects with protective design elements,Military Construction General Provisions,270,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+2887,Pilot program on use of advanced manufacturing construction technologies at military installations,Military Construction General Provisions,472,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+2888,Pilot program on procurement of utility services for installations of the Department of Defense through areawide contracts,Military Construction General Provisions,443,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+306141,Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Army,Military Construction General Provisions,359,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+306142,Application of certain authorities and standards to historic military housing and associated historic properties of the Department of the Navy and the Department of the Air Force,Military Construction General Provisions,437,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+306A,Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention,Foreign Affairs Matters,1436,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+3102,Objectives of the defense acquisition system,Acquisition Reform,309,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+3113,Stockpile responsiveness and rapid capabilities programs of the National Nuclear Security Administration,Department of Energy National Security Programs,523,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+3124,Office of Environmental Management program-wide performance metrics for reducing risk,Department of Energy National Security Programs,484,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+3125,Office of Environmental Management integrated radioactive waste disposal planning and optimization,Department of Energy National Security Programs,563,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+3128,Consultation requirement with respect to transfer to private entities of plutonium or plutonium materials; report,Department of Energy National Security Programs,425,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+317,Provision of alternative drinking water to households whose private drinking water is contaminated with perfluorooctanesulfonic acid and perfluorooctanoic acid substances from Department of Defense activities,Operation and Maintenance,555,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+317,Special Advisor to Commandant for Tribal and Native Hawaiian Affairs,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",505,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+318,Judge Advocate General; Deputy Judge Advocate General: appointment; duties,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",563,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+318,Responsibilities of executive agent for installation and operational nuclear energy,Operation and Maintenance,1093,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+319,Establishment of Advanced Nuclear Transition Working Group,Operation and Maintenance,737,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+320,Department of Air Force program of record for commercial weather data,Operation and Maintenance,259,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+321,Pilot program on Navy installation nuclear energy,Operation and Maintenance,787,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+322,Strategy to accelerate remediation of contamination from perfluoroalkyl substances and polyfluoroalkyl substances,Operation and Maintenance,452,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+328a,Active Guard and Reserve duty: State disaster response duty,Military Personnel Policy,535,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+333,Training courses on workings of Congress,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",1097,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+334,Designation of senior officials responsible for integration of global contested logistics posture management,Operation and Maintenance,790,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+336,Responsibilities for oversight of certain defense personal property matters,Operation and Maintenance,531,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+342,Joint Strike Fighter sustainment,Operation and Maintenance,489,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+343,Depot-level maintenance coordination in multinational exercises,Operation and Maintenance,512,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+345,Technology enhancement for surface ship maintenance,Operation and Maintenance,708,AI Detected,Mixed,0.4630,0.0000,0.5370,3,1,0,2,medium
+346,Oversight requirements for contracts relating to relocation logistics for household goods,Operation and Maintenance,609,AI Detected,Mixed,0.5329,0.0000,0.4671,2,1,0,1,low
+347,Integration of commercially available artificial intelligence capabilities into logistics operations,Operation and Maintenance,478,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+348,Pilot program on Army depot and arsenal workload sustainment,Operation and Maintenance,478,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+3501,Authorization of appropriations for Maritime Administration,Maritime Administration,688,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+3605,Authority to acquire consumption-based solutions,Acquisition Reform,355,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+363,Reports on munitions response projects at sites formerly used by the Department of Defense,Operation and Maintenance,340,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+364,Report on critical munitions required for simultaneous conflicts,Operation and Maintenance,639,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+373,Manned rotary wing aircraft safety,Operation and Maintenance,624,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+375,Establishment of United States Navy Museum System,Operation and Maintenance,412,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+378,Minimum standards for military working dog kennels and facilities,Operation and Maintenance,535,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+379,Restroom access at military installations for certain transportation service providers,Operation and Maintenance,479,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+383,Reserve mobilization exercise to assess the capability of the Armed Forces to respond to a high-intensity contingency in the Indo-Pacific region,Operation and Maintenance,578,Fully AI Generated,AI,1.0000,0.0000,0.0000,2,2,0,0,low
+3864,Assumption of uninsurable risk on certain contracts,"Acquisition Policy, Acquisition Management, and Related Matters",293,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+801,Assumption of uninsurable risk on certain contracts,"Acquisition Policy, Acquisition Management, and Related Matters",368,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+4101,Procurement,Procurement,5842,Fully Human Written,Human,0.0000,0.0000,1.0000,55,0,0,55,high
+411,End strengths for Selected Reserve,Military Personnel Authorizations,248,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+4145,"Program for the enhancement of the research, development, test, and evaluation centers of the Department of Defense","Research, Development, Test, and Evaluation",453,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+4225,Rapid capabilities program,Department of Energy National Security Programs,357,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+4816,Appropriate scoping of artificial intelligence research within the Administration,Department of Energy National Security Programs,228,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6103,Management structure for nuclear security enterprise,Department of Energy National Security Programs,320,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6111,Stockpile stewardship program,Department of Energy National Security Programs,300,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6112,Portfolio management framework for National Nuclear Security Administration,Department of Energy National Security Programs,242,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6116,Stockpile management program,Department of Energy National Security Programs,345,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+4301,Operation and maintenance,Operation and Maintenance,3012,Fully Human Written,Human,0.0000,0.0000,1.0000,31,0,0,31,high
+430e,Vendor support to clandestine activities,"Space Activities, Strategic Programs, and Intelligence Matters",401,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+4323,Sustainment reviews,Acquisition Reform,419,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+4324,Life-cycle management and product support,Acquisition Reform,965,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+4501,Other authorizations,Other Authorizations,364,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+4601,Military construction,Military Construction,6053,Fully Human Written,Human,0.0000,0.0000,1.0000,38,0,0,38,high
+4664,Requirements relating to long-term concessions agreements with certain retailers,"Acquisition Policy, Acquisition Management, and Related Matters",582,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+4701,Department of Energy National Security programs,Department of Energy National Security Programs,1430,Fully Human Written,Human,0.0000,0.0000,1.0000,11,0,0,11,high
+4711,Abandonment of vessels prohibited,Shipping and Navigation,436,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+4712,Inventory of abandoned vessels,Shipping and Navigation,244,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+4865,Prohibition on acquisition of advanced batteries composed of materials from certain foreign sources,"Acquisition Policy, Acquisition Management, and Related Matters",735,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+500g,Integration of electronic warfare into Tier 1 and Tier 2 joint training exercises,"Space Activities, Strategic Programs, and Intelligence Matters",459,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+501,Space Force general officer management,Military Personnel Policy,744,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+504,Chaplains: career flexibility; detail as students at schools for education required for appointment,Military Personnel Policy,1404,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+508,Establishment of blast safety officer positions,Military Personnel Policy,336,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5107,Quarterly acquisition reports and major acquisition program risk assessment,Coast Guard,599,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+511,Retention of certain records,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",308,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+552,Discontinuance of aid to navigation,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",268,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7262,Policy on methods to reduce incentives for illicit maritime drug trafficking,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",298,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7266,Report on impacts of joint travel regulations on members of Coast Guard who rely on ferry systems,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",296,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7268,Report on and expansion of Coast Guard Junior Reserve Officersâ€™ Training Corps program,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",235,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+512,National Guard: Active Guard and Reserve duty in response to a State disaster,Military Personnel Policy,606,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+5143,Ambassador-at-Large for the Arctic,Organization and operations,1798,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+5144,Ambassador-at-Large for the Indian Ocean region,Organization and operations,242,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5162,Bureau of International Organization Affairs,Organization and operations,230,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5148,Countering PRC Influence Fund Unit,Organization and operations,659,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+515,Study and report on members of the reserve components: consideration of amount of time of service in activation; authority to waive limitation on release from active duty,Military Personnel Policy,332,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5160,Countering Russian Influence Fund Unit,Organization and operations,717,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+5172,Support for congressional delegations,Organization and operations,253,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5173,Notification requirements for authorized and ordered departures,Organization and operations,334,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5175,Establishing and expanding the Regional China Officer program,Organization and operations,626,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+517,Notice of impact of diplomatic and consular post closings on intelligence community,Intelligence Community Matters,320,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6309,Plan for implementing an integrated system spanning the intelligence community for accreditation of sensitive compartmented information facilities,Intelligence Community Matters,260,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6310,Reforms relating to inactive security clearances,Intelligence Community Matters,329,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+518,Notice of counterintelligence assessments and investigations of Federal candidates or officeholders,Matters Relating to Elements of the Intelligence Community,302,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6521,Notice of counterintelligence assessments and investigations by the Federal Bureau of Investigation of candidates for or holders of Federal office,Matters Relating to Elements of the Intelligence Community,360,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6522,Notification of material changes to policies or procedures governing terrorist watchlist and transnational organized crime watchlist,Matters Relating to Elements of the Intelligence Community,306,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6524,Annual report on Federal Bureau of Investigation case data,Matters Relating to Elements of the Intelligence Community,249,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+521,Individual Longitudinal Exposure Record: codification; expansion,Military Personnel Policy,435,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+522,Womenâ€™s initiative teams,Military Personnel Policy,350,,AI,0.5000,0.0000,0.5000,2,1,0,1,low
+996,Individual Longitudinal Exposure Record,Military Personnel Policy,370,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+526,Report on adequacy of reimbursement for costs of permanent change of station,Military Personnel Policy,939,AI Detected,Mixed,0.7085,0.0000,0.2915,3,2,0,1,medium
+5301,Post Data Pilot Program,Information security and cyber diplomacy,260,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5304,Commercial spyware,Information security and cyber diplomacy,332,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5303,Reports on technology transformation projects at the Department,Information security and cyber diplomacy,747,Fully AI Generated,AI,1.0000,0.0000,0.0000,3,3,0,0,medium
+532,Alternative service in areas of national interest by individuals denied enlistment,Military Personnel Policy,334,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+658,Medical accession standards for members of the armed forces,Military Personnel Policy,349,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+533,Medical accession standards for members of the Armed Forces,Military Personnel Policy,379,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5404,Foreign information manipulation and interference strategy,Public diplomacy,455,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+545,Mandatory training on government ethics and national security law,Military Personnel Policy,271,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+549,Accreditation of National Guard Marksmanship Training Center,Military Personnel Policy,240,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+548,Limitation on authority to reorganize the Senior Reserve Officers' Training Corps of the Army,Military Personnel Policy,451,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+5506,"Report on security conditions in Damascus, Syria, required for the reopening of the United States diplomatic mission",Diplomatic security,381,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+5606,Report on United States Mission Australia staffing,Miscellaneous,415,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+571,Transition Assistance Program: amendments; pilot program; reports,Military Personnel Policy,971,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+584,Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools,Military Personnel Policy,991,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+589A,Verification of reporting of eligible federally connected children for purposes of Federal impact aid programs,Military Personnel Policy,329,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+589,Certain assistance to local educational agencies that benefit dependents of military and civilian personnel,Military Personnel Policy,372,,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+589D,Pilot program to increase payments for child care services in high-cost areas,Military Personnel Policy,496,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+589V,Management of special education in schools operated by Department of Defense Education Activity,Military Personnel Policy,874,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+5,Eligibility for Federal services,Other Matters,383,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6104,"Monitoring of industrial base for nuclear weapons components, subsystems, and materials",Department of Energy National Security Programs,475,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6105,Common financial reporting system for the nuclear security enterprise,Department of Energy National Security Programs,390,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6114,"Nuclear weapons stockpile stewardship, management, and responsiveness plan",Department of Energy National Security Programs,2549,Fully Human Written,Human,0.0000,0.0000,1.0000,8,0,0,8,high
+6117,Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile,Department of Energy National Security Programs,1149,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+6119,Nuclear test ban readiness program,Department of Energy National Security Programs,296,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6122,Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile,Department of Energy National Security Programs,243,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6129,Certification of completion of milestones with respect to plutonium pit aging,Department of Energy National Security Programs,282,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6133,Plan for domestic enrichment capability to satisfy Department of Defense uranium requirements,Department of Energy National Security Programs,365,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6134,Incorporation of integrated surety architecture,Department of Energy National Security Programs,244,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6180,Policy of Department of Energy regarding future defense environmental management matters,Department of Energy National Security Programs,317,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6201,Safety measures for waste tanks at Hanford Nuclear Reservation,Department of Energy National Security Programs,228,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6120,Requirements for specific request for new or modified nuclear weapons,Department of Energy National Security Programs,565,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6125,Selected acquisition reports and independent cost estimates and reviews of certain programs and facilities,Department of Energy National Security Programs,652,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6126,"Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile",Department of Energy National Security Programs,480,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6128,Plutonium pit production capacity,Department of Energy National Security Programs,962,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6131,Stockpile responsiveness program,Department of Energy National Security Programs,395,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6132,Long-term plan for meeting national security requirements for unencumbered uranium,Department of Energy National Security Programs,511,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6135,W93 nuclear warhead acquisition process,Department of Energy National Security Programs,546,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+614,Reviews of designations of imminent danger pay areas,Compensation and Other Personnel Benefits,294,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6153,Disposition of weapons-usable plutonium at Savannah River Site,Department of Energy National Security Programs,1585,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+6154,"Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina",Department of Energy National Security Programs,607,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6155,"Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide",Department of Energy National Security Programs,1268,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+6156,Acceleration of replacement of cesium blood irradiation sources,Department of Energy National Security Programs,539,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6159,Defense nuclear nonproliferation management plan,Department of Energy National Security Programs,1025,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6173,Requirement to develop future use plans for defense environmental cleanup,Department of Energy National Security Programs,472,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6174,Future-years defense environmental cleanup plan,Department of Energy National Security Programs,412,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6177,Other programs relating to technology development,Department of Energy National Security Programs,1567,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+6192,Defense site acceleration completion,Department of Energy National Security Programs,923,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6194,Plan for deactivation and decommissioning of nonoperational defense nuclear facilities,Department of Energy National Security Programs,587,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6202,Hanford waste tank cleanup program reforms,Department of Energy National Security Programs,323,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6224,Department of Energy counterintelligence polygraph program,Department of Energy National Security Programs,257,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6253,Fellowship program for development of skills critical to the nuclear security enterprise,Department of Energy National Security Programs,364,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6262,Safety oversight and enforcement at defense nuclear facilities,Department of Energy National Security Programs,268,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6266,Notification of nuclear criticality and non-nuclear incidents,Department of Energy National Security Programs,361,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6272,Reprogramming,Department of Energy National Security Programs,299,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+621,Modifications to calculation of basic allowance for subsistence for enlisted members,Compensation and Other Personnel Benefits,408,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6222,Restrictions on access to national security laboratories by foreign visitors from sensitive countries,Department of Energy National Security Programs,712,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6225,Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs,Department of Energy National Security Programs,406,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6226,Annual report and certification on status of security of atomic energy defense facilities,Department of Energy National Security Programs,378,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6227,Protection of certain nuclear facilities and assets from unmanned aircraft,Department of Energy National Security Programs,422,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6228,Reporting on penetrations of networks of contractors and subcontractors,Department of Energy National Security Programs,877,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6232,Protection against inadvertent release of restricted data and formerly restricted data,Department of Energy National Security Programs,651,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6241,"Authority for appointment of certain scientific, engineering, and technical personnel",Department of Energy National Security Programs,417,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6242,Whistleblower protection program,Department of Energy National Security Programs,966,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6243,Department of Energy defense nuclear facilities workforce restructuring plan,Department of Energy National Security Programs,935,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+624,Improvements to basic allowance for housing,Compensation and Other Personnel Benefits,781,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6261,Worker protection at nuclear weapons facilities,Department of Energy National Security Programs,382,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6263,Program to monitor department of energy workers exposed to hazardous and radioactive substances,Department of Energy National Security Programs,646,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6264,Programs for persons who may have been exposed to radiation released from Hanford Nuclear Reservation,Department of Energy National Security Programs,656,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6273,Minor construction projects,Department of Energy National Security Programs,289,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6275,Limits on construction projects,Department of Energy National Security Programs,241,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6276,Fund transfer authority,Department of Energy National Security Programs,284,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6277,Conceptual and construction design,Department of Energy National Security Programs,230,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6281,Transfer of defense environmental cleanup funds,Department of Energy National Security Programs,353,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6282,Transfer of weapons activities funds,Department of Energy National Security Programs,362,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6284,Notification of cost overruns for certain Department of Energy projects,Department of Energy National Security Programs,975,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6286,Use of best practices for capital asset projects and nuclear weapon life extension programs,Department of Energy National Security Programs,262,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6288,Unfunded priorities of the Administration,Department of Energy National Security Programs,333,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6289,Review of adequacy of nuclear weapons budget,Department of Energy National Security Programs,316,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6312,Independent acquisition project reviews of capital assets acquisition projects,Department of Energy National Security Programs,301,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6325,Notice-and-wait requirement applicable to certain third-party financing arrangements,Department of Energy National Security Programs,232,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6336,Report on use of funds for certain research and development purposes,Department of Energy National Security Programs,263,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6305,Annual survey of analytic objectivity among officers and employees of elements of the intelligence community,Intelligence Community Matters,383,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6311,Reports on financial balances for atomic energy defense activities,Department of Energy National Security Programs,643,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6321,Costs not allowed under covered contracts,Department of Energy National Security Programs,487,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6324,Contractor liability for injury or loss of property arising out of atomic weapons testing programs,Department of Energy National Security Programs,618,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6327,Enhanced procurement authority to manage supply chain risk,Department of Energy National Security Programs,1024,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6328,Cost-benefit analyses for competition of management and operating contracts,Department of Energy National Security Programs,799,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6337,Critical technology partnerships and cooperative research and development centers,Department of Energy National Security Programs,413,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6351,Transfers of real property at certain Department of Energy facilities,Department of Energy National Security Programs,719,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6354,Pilot program relating to use of proceeds of disposal or utilization of certain department of energy assets,Department of Energy National Security Programs,387,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6355,Department of Energy energy parks program,Department of Energy National Security Programs,323,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6362,University-based defense nuclear policy collaboration program,Department of Energy National Security Programs,248,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6356,Authority to use passenger carriers for contractor commuting,Department of Energy National Security Programs,546,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6404,National Counterproliferation and Biosecurity Center,Intelligence Community Efficiency and Effectiveness,706,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+6502,Improvements to security of Central Intelligence Agency installations,Matters Relating to Elements of the Intelligence Community,3052,Fully Human Written,Human,0.0000,0.0000,1.0000,9,0,0,9,high
+6511,Counterintelligence briefings for members of the Armed Forces,Matters Relating to Elements of the Intelligence Community,275,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6523,Annual report on United States persons on the terrorist watch list,Matters Relating to Elements of the Intelligence Community,421,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6604,Prohibition on use of DeepSeek on intelligence community systems,Artificial Intelligence and Other Emerging Technologies,241,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6612,Plan on enhanced intelligence sharing relating to foreign adversary biotechnological threats,Artificial Intelligence and Other Emerging Technologies,285,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6613,Enhancing biotechnology talent within the intelligence community,Artificial Intelligence and Other Emerging Technologies,324,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6614,Enhanced intelligence community support to secure United States biological data,Artificial Intelligence and Other Emerging Technologies,433,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6615,Ensuring intelligence community procurement of domestic United States production of synthetic DNA and RNA,Artificial Intelligence and Other Emerging Technologies,427,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6621,Enhancing intelligence community technology adoption metrics,Artificial Intelligence and Other Emerging Technologies,254,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6622,Report on identification of intelligence community sites for advanced nuclear technologies,Artificial Intelligence and Other Emerging Technologies,356,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+662,Provision of information regarding relocation assistance programs for members receiving orders for a change of permanent station,Compensation and Other Personnel Benefits,592,Fully AI Generated,AI,1.0000,0.0000,0.0000,2,2,0,0,low
+664,Military compensation educational campaign,Compensation and Other Personnel Benefits,301,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+665,Designation of United States Army Garrison Kwajalein Atoll as remote and isolated military installation,Compensation and Other Personnel Benefits,225,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6703,"Prohibition on intelligence community contracting with Chinese military companies engaged in biotechnology research, development, or manufacturing",Matters Relating to Foreign Countries,778,AI Detected,Mixed,0.4872,0.0000,0.5128,3,1,0,2,medium
+6704,Report on the wealth of the leadership of the Chinese Communist Party,Matters Relating to Foreign Countries,364,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6705,Assessment and report on investments by the Peopleâ€™s Republic of China in the agriculture sector of Brazil,Matters Relating to Foreign Countries,361,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6706,Identification of entities that provide support to the Peopleâ€™s Liberation Army,Matters Relating to Foreign Countries,233,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+6716,National Intelligence Estimate on the Western Hemisphere,Matters Relating to Foreign Countries,256,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6718,Requirements with respect to duty to warn former senior officials and other United States persons,Matters Relating to Foreign Countries,375,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+6803,Declassification of intelligence and additional transparency measures relating to the COVIDâ€“19 pandemic,Reports and Other Matters,466,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+6804,Classified intelligence budget justification materials and submission of intelligence community drug control resource summary,Reports and Other Matters,514,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7111,Annual report on progress of certain homeporting projects,Coast Guard,673,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7113,Quarterly acquisition brief requirements,Coast Guard,661,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7115,Requirement for Coast Guard to provide analysis of alternatives for aircraft,Coast Guard,357,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7117,Regular polar security cutter updates,Coast Guard,460,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7118,Annual plan for Coast Guard operations in the Pacific; feasibility study on supporting additional port visits and deployments in support of operation blue pacific,Coast Guard,917,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7119,Annual plan for Coast Guard operations in the Caribbean,Coast Guard,692,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+712,Military-civilian medical surge program,Health Care Provisions,898,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+715,Military medical cooperation arrangements among Five Eyes countries,Health Care Provisions,355,,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+720,Review of disclosure requirements under processes and forms relating to health care provider credentialing and privileging of Department of Defense,Health Care Provisions,345,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+717,Plan for priority assignment of medical personnel of Department of Defense,Health Care Provisions,771,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+719,Strategic infectious disease medical research plan,Health Care Provisions,826,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7201,Reorganization of chapter 3,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",4426,Fully Human Written,Human,0.0000,0.0000,1.0000,15,0,0,15,high
+7205,Preparedness plans for Coast Guard properties located in tsunami inundation zones,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",556,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7207,Coast Guard access to Department of the Treasury fund,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",533,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7215,Great Lakes icebreaking,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",772,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7218,Procurement of tactical maritime surveillance systems,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",335,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7224,Modifications and revisions relating to reopening retired grade determinations,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",551,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7228,"Authority for certain personnel; command sponsorship for dependents of members of Coast Guard assigned to Unalaska, Alaska; improved prevention of and response to hazing and bullying","Organization, Authorities, Acquisition, and Personnel of the Coast Guard",1173,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+722,Cooperation with eligible entities,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",953,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7231,Behavioral health,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",1357,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+7232,Travel allowance for members of Coast Guard assigned to Alaska,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",438,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7233,Tuition assistance and advanced education assistance pilot program,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",429,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7234,"Recruitment, relocation, and retention incentive program for civilian firefighters employed by Coast Guard remote locations","Organization, Authorities, Acquisition, and Personnel of the Coast Guard",333,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7235,Notification,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",273,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+7241,Modification of reporting requirements on covered misconduct in Coast Guard Academy; consideration of request for transfer of a cadet at the Coast Guard Academy who is the victim of a sexual assault or related offense; room reassignment,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",2833,Fully Human Written,Human,0.0000,0.0000,1.0000,8,0,0,8,high
+7242,Modification of Board of Visitors,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",1604,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+7243,Coast Guard Academy Cadet Advisory Board,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",727,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7244,Authorization for use of Coast Guard Academy facilities and equipment by covered foundations,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",512,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7247,Study on Coast Guard Academy oversight,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",307,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7248,Electronic locking mechanisms to ensure Coast Guard Academy cadet room security,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",517,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7252,Review and modification of Coast Guard Academy policy on sexual harassment and sexual violence,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",697,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7261,"Policy and briefing on availability of naloxone to treat opioid, including Fentanyl, overdoses","Organization, Authorities, Acquisition, and Personnel of the Coast Guard",659,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7263,Plan for joint and integrated maritime operational and leadership training for United States Coast Guard and Taiwan Coast Guard administration,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",436,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7264,Aids to navigation,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",1181,AI Detected,Mixed,0.4659,0.0000,0.5341,4,2,0,2,medium
+7265,Study and gap analysis with respect to Coast Guard Air Station Corpus Christi aviation hanger,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",402,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7267,Report on Junior Reserve Officersâ€™ Training Corps program,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",574,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7271,Report on Coast Guard search and rescue operations,"Organization, Authorities, Acquisition, and Personnel of the Coast Guard",540,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7301,Merchant mariner credentialing,Shipping and Navigation,3252,Fully Human Written,Human,0.0000,0.0000,1.0000,12,0,0,12,high
+7315,Training,Shipping and Navigation,272,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7512,Requirements of electronic merchant mariner credentialing system,Shipping and Navigation,371,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7317,Study of amphibious vessels,Shipping and Navigation,291,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+731,Improvement of availability of care for veterans from facilities and providers of the Department of Defense,Health Care Provisions,1525,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+7321,Ports and waterways safety,Shipping and Navigation,1031,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+7322,Study on Bering Strait vessel traffic projections and emergency response posture at ports of the United States,Shipping and Navigation,732,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7323,Improving vessel traffic service monitoring,Shipping and Navigation,447,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+732,Prohibition on painful research on domestic cats and dogs,Health Care Provisions,312,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+733,Pilot program on wastewater surveillance system of Department of Defense,Health Care Provisions,233,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+735,Study on accreditation of military dental treatment facilities,Health Care Provisions,231,,AI,1.0000,0.0000,0.0000,1,1,0,0,low
+737,Study on psychological effects of and mental health effects of unmanned aircraft systems in combat operations,Health Care Provisions,361,,AI,1.0000,0.0000,0.0000,1,1,0,0,low
+7331,Pilot program for governance and oversight of small uncrewed maritime systems,Shipping and Navigation,335,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7332,Coast Guard training course,Shipping and Navigation,359,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+7335,Uncrewed systems capabilities report,Shipping and Navigation,549,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7337,National Academy of Sciences report on uncrewed systems and use of data,Shipping and Navigation,409,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7342,Clarification of authorities,Shipping and Navigation,439,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7347,Abandoned and derelict vessel removals,Shipping and Navigation,1073,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+734,Pilot program to assist certain members of the Armed Forces and dependents with additional supplemental coverage relating to cancer,Health Care Provisions,716,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+736,Study on prevalence and mortality of cancer among military rotary-wing pilots and aviation support personnel,Health Care Provisions,617,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7401,Vessel response plans,Oil Pollution Response,507,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7407,International maritime oil spill response,Oil Pollution Response,232,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7501,Independent review of Coast Guard reforms,Sexual Assault and Sexual Harassment Response,407,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7502,Coast Guard implementation of independent review commission recommendations on addressing sexual assault and sexual harassment in the military,Sexual Assault and Sexual Harassment Response,445,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7511,Covered misconduct,Sexual Assault and Sexual Harassment Response,7204,Fully Human Written,Human,0.0000,0.0000,1.0000,21,0,0,21,high
+7512,Policy relating to care and support of victims of covered misconduct,Sexual Assault and Sexual Harassment Response,510,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7513,"Flag officer review of, and concurrence in, separation of members who have reported covered misconduct",Sexual Assault and Sexual Harassment Response,568,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7515,Training and education programs for covered misconduct prevention and response,Sexual Assault and Sexual Harassment Response,1053,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7522,Development of policies on military protective orders,Sexual Assault and Sexual Harassment Response,266,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7523,Establishment of special victim capabilities to respond to allegations of certain special victim offenses,Sexual Assault and Sexual Harassment Response,550,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7526,Report on policy on whistleblower protections,Sexual Assault and Sexual Harassment Response,643,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7527,Coast Guard and Coast Guard Academy access to defense sexual assault incident database,Sexual Assault and Sexual Harassment Response,413,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7528,Expedited transfer in cases of sexual misconduct or domestic violence,Sexual Assault and Sexual Harassment Response,794,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+7529,Access to temporary separation program for victims of alleged sex-related offenses,Sexual Assault and Sexual Harassment Response,397,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7601,"Comptroller General report on Coast Guard research, development, and innovation program",Comptroller General Reports,438,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7602,"Comptroller General study on vessel traffic service center employment, compensation, and retention",Comptroller General Reports,490,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7603,Comptroller General review of quality and availability of Coast Guard behavioral health care and resources for personnel wellness,Comptroller General Reports,616,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7604,Comptroller General study on Coast Guard efforts to reduce prevalence of missing or incomplete medical records and sharing of medical data with Department of Veterans Affairs and other entities,Comptroller General Reports,361,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7609,Comptroller General study on athletic coaching at Coast Guard Academy,Comptroller General Reports,307,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+7610,Comptroller General study and report on permanent change of station process,Comptroller General Reports,276,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+7605,Comptroller General study on Coast Guard training facility infrastructure,Comptroller General Reports,462,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7606,Comptroller General study on facility and infrastructure needs of Coast Guard stations conducting border security operations,Comptroller General Reports,498,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7607,Comptroller General study on Coast Guard basic allowance for housing,Comptroller General Reports,496,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7608,Comptroller General report on safety and security infrastructure at Coast Guard Academy,Comptroller General Reports,579,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7611,Comptroller General review of Coast Guard Investigative Service,Comptroller General Reports,644,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+7,Jurisdiction of State of North Carolina,Other Matters,235,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8804,"Drinking water well replacement for Chincoteague, Virginia",Other Matters,278,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8805,Briefing on implementation of Compact of Free Association Amendments Act of 2024 with respect to veterans in the Freely Associated States,Other Matters,236,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+801,Prohibition on investments,Prohibition and notification on investments relating to covered national security transactions,628,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+802,Notification on investments,Prohibition and notification on investments relating to covered national security transactions,491,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+803,Pilot program for financing for covered activities,"Acquisition Policy, Acquisition Management, and Related Matters",690,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+803,Report,Prohibition and notification on investments relating to covered national security transactions,979,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+804,Multilateral engagement and coordination,Prohibition and notification on investments relating to covered national security transactions,439,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+804,Multiyear procurement authority for covered systems and certain munitions,"Acquisition Policy, Acquisition Management, and Related Matters",1158,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+805,Addressing insufficiencies in technical data,"Acquisition Policy, Acquisition Management, and Related Matters",1400,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+812,Modifications to current defense acquisition requirements,"Acquisition Policy, Acquisition Management, and Related Matters",726,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8202,PROTECT Our Children Act of 2008 reauthorization,Judiciary Matters,1922,Fully Human Written,Human,0.0000,0.0000,1.0000,7,0,0,7,high
+8203,Trauma kit standards,Judiciary Matters,467,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8205,Honoring our fallen heroes,Judiciary Matters,1454,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+823,Hiring authorities for Defense Civilian Training Corps,"Acquisition Policy, Acquisition Management, and Related Matters",622,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+824,Increasing competition in defense contracting,"Acquisition Policy, Acquisition Management, and Related Matters",628,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+825,Report on strengthening the Defense Acquisition University,"Acquisition Policy, Acquisition Management, and Related Matters",570,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+826,Restructuring of performance evaluation metrics for the acquisition workforce,"Acquisition Policy, Acquisition Management, and Related Matters",600,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8302,Findings,Foreign Affairs Matters,995,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8304,Support for Taiwan admission to the IMF,Foreign Affairs Matters,283,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8313,Study and report on efforts to address fentanyl trafficking from the peopleâ€™s republic of china and other relevant countries,Foreign Affairs Matters,724,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8317,Imposition of sanctions with respect to agencies or instrumentalities of foreign states,Foreign Affairs Matters,237,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8319,Responding to crime and corruption in Haiti,Foreign Affairs Matters,1602,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+832,Enhancement of defense supply chain resilience and secondary source qualification,"Acquisition Policy, Acquisition Management, and Related Matters",643,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8332,Findings,Foreign Affairs Matters,737,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8333,Sense of Congress,Foreign Affairs Matters,687,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8335,Sanctions relating to the Western Balkans,Foreign Affairs Matters,1338,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+8336,Democratic and economic development and prosperity initiatives,Foreign Affairs Matters,1645,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+8338,Young Balkan Leaders Initiative,Foreign Affairs Matters,409,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8339,Supporting cybersecurity and cyber resilience in the Western Balkans,Foreign Affairs Matters,471,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+833,Interim national security waivers for supply chain illumination efforts,"Acquisition Policy, Acquisition Management, and Related Matters",881,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8340,Relations between Kosovo and Serbia,Foreign Affairs Matters,233,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8341,Reports on Russian and Chinese malign influence operations and campaigns in the Western Balkans,Foreign Affairs Matters,616,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+834,Strategy to eliminate acquisition of optical glass from certain nations,"Acquisition Policy, Acquisition Management, and Related Matters",391,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8352,Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention,Foreign Affairs Matters,1477,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+835,Strategy to eliminate sourcing of computer displays from certain nations,"Acquisition Policy, Acquisition Management, and Related Matters",396,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8361,National registry of Korean American divided families,Foreign Affairs Matters,549,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8363,Supporting the identification and recovery of abducted Ukrainian children,Foreign Affairs Matters,911,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8365,Strategy for countering transnational criminal organizations in Mexico,Foreign Affairs Matters,516,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8366,International nuclear energy,Foreign Affairs Matters,5452,Fully Human Written,Human,0.0000,0.0000,1.0000,16,0,0,16,high
+8367,Strategy to respond to global bases of the Peopleâ€™s Republic of China,Foreign Affairs Matters,715,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8368,Disposition of weapons and materiel in transit from Iran to the Houthis in Yemen,Foreign Affairs Matters,305,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8369,Repeal of Caesar Syria Civilian Protection Act of 2019,Foreign Affairs Matters,513,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+836,Voluntary registration of compliance with covered sourcing requirements for covered products,"Acquisition Policy, Acquisition Management, and Related Matters",986,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+837,Acceleration of qualification of compliant sources,"Acquisition Policy, Acquisition Management, and Related Matters",581,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+838,Assessment of critical infrastructure owned by the Department of Defense dependent on foreign materials or components,"Acquisition Policy, Acquisition Management, and Related Matters",615,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8402,National Oceanic and Atmospheric Administration vessel fleet,National Oceanic and Atmospheric Administration,988,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+8404,Eligibility of former officers to compete for certain positions,National Oceanic and Atmospheric Administration,482,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+841,Requirements relating to long-term concessions agreements with certain retailers,"Acquisition Policy, Acquisition Management, and Related Matters",963,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+842,Prohibition on acquisition of advanced batteries from certain foreign sources,"Acquisition Policy, Acquisition Management, and Related Matters",859,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+847,Prohibiting the purchase of photovoltaic modules or inverters from foreign entities of concern,"Acquisition Policy, Acquisition Management, and Related Matters",323,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+849,Prohibition on procurement related to certain additive manufacturing machines,"Acquisition Policy, Acquisition Management, and Related Matters",308,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+850,Phase-out of computer and printer acquisitions involving entities owned or controlled by China,"Acquisition Policy, Acquisition Management, and Related Matters",785,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8511,Imposition of sanctions,Comprehensive Outbound Investment National Security Act of 2025,426,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+851,Prohibition on contracting with certain biotechnology providers,"Acquisition Policy, Acquisition Management, and Related Matters",2866,Fully Human Written,Human,0.0000,0.0000,1.0000,9,0,0,9,high
+8521,Prohibition and notification on investments relating to covered national security transactions,Comprehensive Outbound Investment National Security Act of 2025,5233,Fully Human Written,Human,0.0000,0.0000,1.0000,15,0,0,15,high
+8531,Requirements relating to the Non-SDN Chinese Military-Industrial Complex Companies List,Comprehensive Outbound Investment National Security Act of 2025,646,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8602,Drone countermeasures to protect public safety and critical infrastructure,"Securing the Airspace, Facilitating Emergency Response, and Safeguarding Key Infrastructure, Entertainment Venues, and Stadiums",1811,Fully Human Written,Human,0.0000,0.0000,1.0000,6,0,0,6,high
+8605,Penalties,"Securing the Airspace, Facilitating Emergency Response, and Safeguarding Key Infrastructure, Entertainment Venues, and Stadiums",508,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8606,Rulemaking and implementation,"Securing the Airspace, Facilitating Emergency Response, and Safeguarding Key Infrastructure, Entertainment Venues, and Stadiums",452,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8617A,United States Navy Museum System,Operation and Maintenance,384,"Mostly Human, AI Detected",Mixed,0.1071,0.0000,0.8929,2,1,0,1,low
+863,Special Operations Command Urgent Innovative Technologies and Capabilities Initiative,"Acquisition Policy, Acquisition Management, and Related Matters",346,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+864,United States-Israel Defense Industrial Base Working Group,"Acquisition Policy, Acquisition Management, and Related Matters",350,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+865,Improving the domestic textile and industrial base,"Acquisition Policy, Acquisition Management, and Related Matters",1739,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+866,Cybersecurity regulatory harmonization,"Acquisition Policy, Acquisition Management, and Related Matters",465,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+867,Modifications to defense industrial base fund,"Acquisition Policy, Acquisition Management, and Related Matters",2471,Fully Human Written,Human,0.0000,0.0000,1.0000,8,0,0,8,high
+8698,Roles and responsibilities relating to sustainment and readiness of certain naval surface vessels,Operation and Maintenance,460,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8712,Less developed country focus,DFC Modernization and Reauthorization Act of 2025,919,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8729,Strategic Advisory Group,DFC Modernization and Reauthorization Act of 2025,782,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8730,Five-year strategic priorities plan,DFC Modernization and Reauthorization Act of 2025,419,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8731,Development finance education,DFC Modernization and Reauthorization Act of 2025,318,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+8732,Internships,DFC Modernization and Reauthorization Act of 2025,590,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+873,Combatant command experimentation authority,"Acquisition Policy, Acquisition Management, and Related Matters",322,,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+874,Annual report on contract cancellations and terminations,"Acquisition Policy, Acquisition Management, and Related Matters",315,,Human,0.0000,0.0000,1.0000,0,0,0,0,low
+8743,Terms and conditions,DFC Modernization and Reauthorization Act of 2025,526,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+875,Ability to withhold contract payments during period of pendancy of a bid protest,"Acquisition Policy, Acquisition Management, and Related Matters",441,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+8801,Pilot program for sound insulation repair and replacement,Other Matters,785,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+8803,Lumbee Fairness Act,Other Matters,1339,Fully Human Written,Human,0.0000,0.0000,1.0000,4,0,0,4,medium
+906,Additional authorities for Office of Strategic Capital,Department of Defense Organization and Management,999,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+907,Defense Science Board study on optimal organizational structure for digital solution and software delivery,Department of Defense Organization and Management,510,"Mostly Human, AI Detected",Mixed,0.2680,0.0000,0.7320,2,1,0,1,low
+912,Joint Interagency Task Force 401,Department of Defense Organization and Management,1424,Fully Human Written,Human,0.0000,0.0000,1.0000,5,0,0,5,medium
+914,Small-UAS Industrial Base Working Group,Department of Defense Organization and Management,839,Fully Human Written,Human,0.0000,0.0000,1.0000,3,0,0,3,medium
+916,Limitation on availability of funds for modification or consolidation of geographic combatant commands,Department of Defense Organization and Management,631,Fully Human Written,Human,0.0000,0.0000,1.0000,2,0,0,2,low
+917,Limitation on availability of funds for the Army pending submittal of plan on the proposed integration of the Joint Munitions Command and the Army Sustainment Command,Department of Defense Organization and Management,304,Fully Human Written,Human,0.0000,0.0000,1.0000,1,0,0,1,low
+9784,Air Force and Space Force Museum System,Operation and Maintenance,334,Fully AI Generated,AI,1.0000,0.0000,0.0000,1,1,0,0,low

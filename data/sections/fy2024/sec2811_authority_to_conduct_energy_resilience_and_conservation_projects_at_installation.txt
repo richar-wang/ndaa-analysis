@@ -1,0 +1,18 @@
+SEC. 2811.  AUTHORITY TO CONDUCT ENERGY RESILIENCE AND CONSERVATION PROJECTS AT INSTALLATIONS AT WHICH CERTAIN ENERGY PROJECTS HAVE OCCURRED. (a)  In General .— Subsection (k) of  section 2688 of title 10, United States Code ,  is amended  to read as follows: “(k)  Improvement of Conveyed Utility System .— (1)  In the case of a utility system that has been conveyed under this section and that only provides utility services to a military installation, the Secretary of Defense or the Secretary of a military department may authorize a contract on a sole source basis with the conveyee of the utility system to carry out a military construction project as authorized and appropriated for by law for an infrastructure improvement that enhances the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system. 
+ “(2)  The Secretary of Defense or the Secretary of a military department may convey under subsection (j) any infrastructure constructed under paragraph (1) that is in addition to the utility system conveyed under such paragraph.” 
+ 
+ . 
+ (b)  10 USC 2920 note . Department of Defense Infrastructure Resilience and Readiness .— (1)  Authority .— The Secretary of Defense and the Secretary of the military department concerned may utilize existing areawide contracts to procure utility services from a utility service supplier— (A)  to support installation energy resilience and mission readiness; 
+ (B)  for the protection of critical infrastructure of the Department of Defense located at a military installation; and 
+ (C)  to achieve energy resilience at military installations through implementation of utility system infrastructure projects, to include facilities sustainment, restoration, and modernization of such infrastructure. 
+ 
+ (2)  Sunset .— The authority under this subsection shall terminate on September 30, 2032. 
+ (3)  Definitions .— In this section: (A)  Areawide contract .— The term “ areawide contract ” means a contract entered into between the General Services Administration and a utility service supplier under  section 501 of title 40, United States Code , to procure the utility service needs of Federal agencies within the franchise territory of the supplier. 137 STAT. 749 
+ (B)  Energy resilience .— The term “ energy resilience ” has the meaning given the term in  section 101(e) of title 10, United States Code . 
+ (C)  Franchise territory .— The term “ franchise territory ” means a geographical area that a utility service supplier has a right to serve based upon a franchise granted by an independent regulatory body, a certificate of public convenience and necessity, or other legal means. 
+ (D)  Utility service .— The term “ utility service ”— (i)  means a utility or service described in  section 2872a(b) of title 10, United States Code ; 
+ (ii)  includes the services supplied by a utility service supplier described in an areawide contract such as connection, change, disconnection, continue service, line extension, alteration or relocation, metering, and special facilities, including primary generation, backup generation, microgrid controls, charging capabilities, and any supporting infrastructure; and 
+ (iii)  includes ancillary services, including total maintenance and repair, major restoration and repair, studies, and any other services, as appropriate. 
+ 
+ (E)  Utility service supplier .— The term “ utility service supplier ” means an entity that supplies a utility service. 
+ (F)  Utility system .— The term “ utility system ” has the meaning given the term in subsections (i)(1)(A) and (i)(2)(A) of  section 2688 of title 10, United States Code .

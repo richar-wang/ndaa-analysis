@@ -1,0 +1,71 @@
+{
+  "text": "Transition to advanced manufacturing for certain critical readiness items of supply (a) Plan required Not later than 120 days after the date of the enactment of this Act, the product support manager for each covered system shall - (1) conduct an assessment of critical readiness items of supply that could be produced by advanced manufacturing within the 24-month period following the date of the enactment of this Act for the purposes of - (A) increasing the amount of such items of supply to meet readiness rates; (B) reducing manufacturing time or costs of such items of supply; and (C) increasing the ability to scale production of such items of supply rapidly; (2) identify any research, development, engineering, or testing conducted by the original equipment manufacturer, a contractor, or the Federal Government required to transition production of such items of supply to production by advanced manufacturing; and (3) submit to the appropriate program manager and portfolio acquisition executive a plan to transition production described in paragraph (1) to the maximum extent practicable, along with an estimate of non-recurring costs to complete such transition and a recommendation whether such costs should be paid by the appropriate contractor or the Federal Government. (b) Use of existing authorities The product support manager described in subsection (a) shall initiate and coordinate qualification and acceptance of parts produced using advanced manufacturing to address critical readiness items of supply using the expedited qualification process established in section 865 of the National Defense Authorization Act for Fiscal Year 2025 ( 10 U.S.C. 4811 note). (e) Definitions In this section: (1) The term critical readiness items of supply has the meaning given in section 1733 of title 10, United States Code, as added by section 1803 of this Act. (2) The term advanced manufacturing has the meaning given in section 4841(f) of title 10, United States Code, as added by section 1841 of this Act.\n\nFacility clearance acceleration for members of defense industrial consortiums (a) Acceleration of facility clearance The Secretary of Defense shall ensure that each entity that is a member of the collaborative forum described in section 1844(a) of this Act - (1) is sponsored for a facility clearance; (2) is provided access to sensitive compartmented information facilities and classified networks where the member can perform classified work; and (3) not less than quarterly, is invited to in-person meetings with relevant personnel of the Department of Defense to discuss classified information. (b) Plan Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report detailing a plan to increase the number of facility clearances provided to members described in subsection (a) or to companies awarded contracts in accordance with Executive Order 12968. Such plan shall include - (1) an assessment of any existing related efforts to increase sensitive compartmented information facilities and how such efforts might be accelerated and elevated in priority; (2) target metrics for increased facility clearances in association with membership in the collaborative forum described in subsection (a) or to companies awarded contracts in accordance with Executive Order 12968; (3) an identification of any additional funding or authorities required to support increased processing of facility clearances; and (4) any other matters the Secretary of Defense considers relevant.\n\nReport on surge capacity in the defense industrial base (a) Report required Not later than March 1, 2026, the Assistant Secretary of Defense for Industrial Base Policy and the Director of Defense Pricing, Contracting, and Acquisition Policy shall jointly submit to the Committees on Armed Services of the House of Representatives and the Senate a report on efforts to identify and address regulations or policies that discourage or prevent contractors in the defense industrial base from maintaining or investing in surge capacity. (b) Elements The report required subsection (a) shall include the following: (1) An identification of policies that incentivize contractors in the defense industrial base to reduce or eliminate surge capacity, including section 31.205-17 of the Federal Acquisition Regulation (relating to idle facilities and idle capacity costs). (2) Any steps taken by the Secretary of Defense to address regulatory barriers discouraging or preventing contractors in the defense industrial base from maintaining or investing in surge capacity within the defense industrial base as part of the implementation of Executive Order 14265 titled Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base (90 Fed. Reg. 15621; April 15, 2025). (3) The assessment of the demonstration exercise of industrial mobilization and supply chain management planning capabilities required by section 859(d) of the National Defense Authorization Act for Fiscal Year 2023 ( 10 U.S.C. 4811 note). (c) Surge capacity defined In this section, the term surge capacity mean the ability of contractors in the defense industrial base to rapidly increase production capacity to meet increased demand for defense articles and defense services (as such terms are defined, respectively, in section 301 of title 10, United States Code).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Transition to advanced manufacturing for certain critical readiness items of supply (a) Plan required Not later than 120 days after the date of the enactment of this Act, the product support manager for each covered system shall - (1) conduct an assessment of critical readiness items of supply that could be produced by advanced manufacturing within the 24-month period following the date of the enactment of this Act for the purposes of - (A) increasing the amount of such items of supply to meet readiness rates; (B) reducing manufacturing time or costs of such items of supply; and (C) increasing the ability to scale production of such items of supply rapidly; (2) identify any research, development, engineering, or testing conducted by the original equipment manufacturer, a contractor, or the Federal Government required to transition production of such items of supply to production by advanced manufacturing; and (3) submit to the appropriate program manager and portfolio acquisition executive a plan to transition production described in paragraph (1) to the maximum extent practicable, along with an estimate of non-recurring costs to complete such transition and a recommendation whether such costs should be paid by the appropriate contractor or the Federal Government. (b) Use of existing authorities The product support manager described in subsection (a) shall initiate and coordinate qualification and acceptance of parts produced using advanced manufacturing to address critical readiness items of supply using the expedited qualification process established in section 865 of the National Defense Authorization Act for Fiscal Year 2025 ( 10 U.S.C. 4811 note). (e) Definitions In this section: (1) The term critical readiness items of supply has the meaning given in section 1733 of title 10, United States Code, as added by section 1803 of this Act. (2) The term advanced manufacturing has the meaning given in section 4841(f) of title 10, United States Code, as added by section 1841 of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.019391129662593203,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2018,
+      "word_count": 316,
+      "token_length": 413
+    },
+    {
+      "text": "\n\nFacility clearance acceleration for members of defense industrial consortiums (a) Acceleration of facility clearance The Secretary of Defense shall ensure that each entity that is a member of the collaborative forum described in section 1844(a) of this Act - (1) is sponsored for a facility clearance; (2) is provided access to sensitive compartmented information facilities and classified networks where the member can perform classified work; and (3) not less than quarterly, is invited to in-person meetings with relevant personnel of the Department of Defense to discuss classified information. (b) Plan Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report detailing a plan to increase the number of facility clearances provided to members described in subsection (a) or to companies awarded contracts in accordance with Executive Order 12968. Such plan shall include - (1) an assessment of any existing related efforts to increase sensitive compartmented information facilities and how such efforts might be accelerated and elevated in priority; (2) target metrics for increased facility clearances in association with membership in the collaborative forum described in subsection (a) or to companies awarded contracts in accordance with Executive Order 12968; (3) an identification of any additional funding or authorities required to support increased processing of facility clearances; and (4) any other matters the Secretary of Defense considers relevant.\n\nReport on surge capacity in the defense industrial base (a) Report required Not later than March 1, 2026, the Assistant Secretary of Defense for Industrial Base Policy and the Director of Defense Pricing, Contracting, and Acquisition Policy shall jointly submit to the Committees on Armed Services of the House of Representatives and the Senate a report on efforts to identify and address regulations or policies that discourage or prevent contractors in the defense industrial base from maintaining or investing in surge capacity. (b) Elements The report required subsection (a) shall include the following: (1) An identification of policies that incentivize contractors in the defense industrial base to reduce or eliminate surge capacity, including section 31.205-17 of the Federal Acquisition Regulation (relating to idle facilities and idle capacity costs). (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.017286956271467112,
+      "confidence": "High",
+      "start_index": 2018,
+      "end_index": 4452,
+      "word_count": 362,
+      "token_length": 462
+    },
+    {
+      "text": "2) Any steps taken by the Secretary of Defense to address regulatory barriers discouraging or preventing contractors in the defense industrial base from maintaining or investing in surge capacity within the defense industrial base as part of the implementation of Executive Order 14265 titled Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base (90 Fed. Reg. 15621; April 15, 2025). (3) The assessment of the demonstration exercise of industrial mobilization and supply chain management planning capabilities required by section 859(d) of the National Defense Authorization Act for Fiscal Year 2023 ( 10 U.S.C. 4811 note). (c) Surge capacity defined In this section, the term surge capacity mean the ability of contractors in the defense industrial base to rapidly increase production capacity to meet increased demand for defense articles and defense services (as such terms are defined, respectively, in section 301 of title 10, United States Code).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008639122010208666,
+      "confidence": "High",
+      "start_index": 4452,
+      "end_index": 5439,
+      "word_count": 148,
+      "token_length": 213
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1842_transition_to_advanced_manufacturing_for_certain_critical_readiness_items_of_sup.txt",
+    "sec1845_facility_clearance_acceleration_for_members_of_defense_industrial_consortiums.txt",
+    "sec1847_report_on_surge_capacity_in_the_defense_industrial_base.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1842_transition_to_advanced_manufacturing_for_certain_critical_readiness_items_of_sup.txt",
+      "start_index": 0,
+      "end_index": 2018,
+      "word_count": 316
+    },
+    {
+      "filename": "sec1845_facility_clearance_acceleration_for_members_of_defense_industrial_consortiums.txt",
+      "start_index": 2020,
+      "end_index": 3586,
+      "word_count": 233
+    },
+    {
+      "filename": "sec1847_report_on_surge_capacity_in_the_defense_industrial_base.txt",
+      "start_index": 3588,
+      "end_index": 5439,
+      "word_count": 276
+    }
+  ]
+}

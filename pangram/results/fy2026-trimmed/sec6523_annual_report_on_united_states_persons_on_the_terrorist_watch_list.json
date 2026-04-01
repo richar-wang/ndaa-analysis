@@ -1,0 +1,36 @@
+{
+  "text": "Annual report on United States persons on the terrorist watch list (a) Report Not later than January 31, 2026, and annually thereafter for two years, the Director of the Federal Bureau of Investigation shall submit to the appropriate congressional committees a report on known or presumed United States persons who are included on the terrorist watchlist. (b) Contents Each report required under subsection (a) shall include, with respect to the preceding calendar year, the following information: (1) The total number of persons who were included on the terrorist watchlist as of January 1 and the total number of such persons included as of December 31. (2) The total number of known or presumed United States persons who were included on the terrorist watchlist as of January 1 and the total number of such persons included as of December 31, including with respect to each of those dates - (A) the number of known or presumed United States persons who were included on a no fly list; (B) the number of known or presumed United States persons who were included on a selectee list for additional screening; (C) the number of known or presumed United States persons who were included on the terrorist watchlist as an exception to a reasonable suspicion standard and who are not subject to additional screening, but who are included on the list to support specific screening functions of the Federal Government; (D) the name of each terrorist organization with which the known or presumed United States persons are suspected of being affiliated and the number of such persons who are suspected of affiliating with each such terrorist organization; and (E) an identification of each Federal agency that nominated the United States persons to the terrorist watchlist and the number of such persons nominated by each Federal agency. (c) Definitions In this section: (1) Appropriate congressional committees The term appropriate congressional committees means - (A) the congressional intelligence committees; (B) the Committees on Appropriations of the Senate and the House of Representatives; (C) the Committees on the Judiciary of the Senate and the House of Representatives; and (D) the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives. (2) Terrorist watchlist The term terrorist watchlist means the Terrorist Screening Dataset or any successor or similar watchlist. (3) United States person The term United States person has the meaning given the term in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 ).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Annual report on United States persons on the terrorist watch list (a) Report Not later than January 31, 2026, and annually thereafter for two years, the Director of the Federal Bureau of Investigation shall submit to the appropriate congressional committees a report on known or presumed United States persons who are included on the terrorist watchlist. (b) Contents Each report required under subsection (a) shall include, with respect to the preceding calendar year, the following information: (1) The total number of persons who were included on the terrorist watchlist as of January 1 and the total number of such persons included as of December 31. (2) The total number of known or presumed United States persons who were included on the terrorist watchlist as of January 1 and the total number of such persons included as of December 31, including with respect to each of those dates - (A) the number of known or presumed United States persons who were included on a no fly list; (B) the number of known or presumed United States persons who were included on a selectee list for additional screening; (C) the number of known or presumed United States persons who were included on the terrorist watchlist as an exception to a reasonable suspicion standard and who are not subject to additional screening, but who are included on the list to support specific screening functions of the Federal Government; (D) the name of each terrorist organization with which the known or presumed United States persons are suspected of being affiliated and the number of such persons who are suspected of affiliating with each such terrorist organization; and (E) an identification of each Federal agency that nominated the United States persons to the terrorist watchlist and the number of such persons nominated by each Federal agency. (c) Definitions In this section: (1) Appropriate congressional committees The term appropriate congressional committees means - (A) the congressional intelligence committees; (B) the Committees on Appropriations of the Senate and the House of Representatives; (C) the Committees on the Judiciary of the Senate and the House of Representatives; and (D) the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives. (2) Terrorist watchlist The term terrorist watchlist means the Terrorist Screening Dataset or any successor or similar watchlist. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010106853830317656,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2459,
+      "word_count": 392,
+      "token_length": 483
+    },
+    {
+      "text": "3) United States person The term United States person has the meaning given the term in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 ).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004640315659344196,
+      "confidence": "High",
+      "start_index": 2459,
+      "end_index": 2631,
+      "word_count": 31,
+      "token_length": 48
+    }
+  ],
+  "_submission_type": "solo"
+}

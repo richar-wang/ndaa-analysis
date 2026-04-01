@@ -1,0 +1,11 @@
+SEC. 7504.  50 USC 3334r . DESIGNATION OF A CHIEF TECHNOLOGY OFFICER WITHIN CERTAIN ELEMENTS OF THE INTELLIGENCE COMMUNITY. (a)  Designation Authority .— The head of each covered element of the intelligence community shall designate a senior official to serve as the chief technology officer of such element. 
+ (b)  Covered Elements .— For purposes of this section, the covered elements of the intelligence community are the following: (1)  The Central Intelligence Agency. 
+ (2)  The Defense Intelligence Agency. 
+ (3)  The Federal Bureau of Investigation. 
+ (4)  The National Geospatial-Intelligence Agency. 
+ (5)  The National Security Agency. 
+ (6)  The National Reconnaissance Office. 
+ 
+ (c)  Responsibility .— The chief technology officer of each covered element of the intelligence community shall be responsible  137 STAT. 1084 
+for assisting the head of such element in the identification and adoption of technology to advance mission needs. 
+ (d)  Prohibition of Dual Appointment .— Any chief technology officer designated pursuant to subsection (a) may not concurrently serve as the chief information officer, the chief data officer, or the principal science officer of any element of the intelligence community.

@@ -1,0 +1,36 @@
+{
+  "text": "Modification to authority for acquisition, construction, or furnishing of test facilities and equipment (a) Jointly funded projects Section 4174 of title 10, United States Code, is amended - (1) in subsection (a), by striking A contract of a military department and inserting A covered contract ; and (2) by adding at the end the following new subsections: (d) (1) In a case in which research, developmental, or test facilities and equipment described in this section are used to support multiple contracts or programs across different military departments, other elements of the Department of Defense, other Federal agencies outside the Department of Defense, or eligible non-Federal entities, a jointly funded project may be established. (2) Under a jointly funded project, the Secretary of Defense (or the Secretary\u2019s designee) shall enter into a written agreement with each entity participating in the project. Each such agreement shall, at a minimum, address the following: (A) Cost sharing arrangements, including the proportion of total project costs to be borne by each entity. (B) Allocation of access to the facilities and equipment, including prioritization procedures in cases of competing demands. (C) Management and oversight responsibilities, including the designation of a lead agency. (D) Ownership and intellectual property rights related to the facilities, equipment, and any resulting data or inventions. (E) Dispute resolution mechanisms. (3) A non-Federal entity, including a private company, academic institution, or non-profit organization, may participate in a jointly funded project under this subsection only if the Secretary of Defense determines such participation is in the national security interest and consistent with applicable laws and regulations. (4) The Secretary of Defense shall issue regulations to implement this subsection. Such regulations shall include specific criteria for evaluating proposed jointly funded projects, standardized agreement templates, and procedures for ensuring the transparency and accountability of such projects. (e) This section applies to contracts funded using funds appropriated or otherwise made available for - (1) research, development, test, and evaluation, including science and technology funds designated as budget activity 1 (basic research), budget activity 2 (applied research), and budget activity 3 (advanced technology development) (as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14\u2013R)); and (2) operation and maintenance, to the extent that such funds are used to support activities authorized under this section. (f) In this section, the term covered contract means - (1) a contract of a military department; or (2) a contract for a jointly funded project as described subsection (d). . (b) Regulations required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection (a).",
+  "version": "3.2",
+  "headline": "Fully AI Generated",
+  "prediction": "We are confident that this document is fully AI-generated",
+  "prediction_short": "AI",
+  "fraction_ai": 1.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.0,
+  "num_ai_segments": 2,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 0,
+  "windows": [
+    {
+      "text": "Modification to authority for acquisition, construction, or furnishing of test facilities and equipment (a) Jointly funded projects Section 4174 of title 10, United States Code, is amended - (1) in subsection (a), by striking A contract of a military department and inserting A covered contract ; and (2) by adding at the end the following new subsections: (d) (1) In a case in which research, developmental, or test facilities and equipment described in this section are used to support multiple contracts or programs across different military departments, other elements of the Department of Defense, other Federal agencies outside the Department of Defense, or eligible non-Federal entities, a jointly funded project may be established. (2) Under a jointly funded project, the Secretary of Defense (or the Secretary\u2019s designee) shall enter into a written agreement with each entity participating in the project. Each such agreement shall, at a minimum, address the following: (A) Cost sharing arrangements, including the proportion of total project costs to be borne by each entity. (B) Allocation of access to the facilities and equipment, including prioritization procedures in cases of competing demands. (C) Management and oversight responsibilities, including the designation of a lead agency. (D) Ownership and intellectual property rights related to the facilities, equipment, and any resulting data or inventions. (E) Dispute resolution mechanisms. (3) A non-Federal entity, including a private company, academic institution, or non-profit organization, may participate in a jointly funded project under this subsection only if the Secretary of Defense determines such participation is in the national security interest and consistent with applicable laws and regulations. (4) The Secretary of Defense shall issue regulations to implement this subsection. Such regulations shall include specific criteria for evaluating proposed jointly funded projects, standardized agreement templates, and procedures for ensuring the transparency and accountability of such projects. (",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.9625851180818346,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2082,
+      "word_count": 301,
+      "token_length": 389
+    },
+    {
+      "text": "e) This section applies to contracts funded using funds appropriated or otherwise made available for - (1) research, development, test, and evaluation, including science and technology funds designated as budget activity 1 (basic research), budget activity 2 (applied research), and budget activity 3 (advanced technology development) (as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14\u2013R)); and (2) operation and maintenance, to the extent that such funds are used to support activities authorized under this section. (f) In this section, the term covered contract means - (1) a contract of a military department; or (2) a contract for a jointly funded project as described subsection (d). . (b) Regulations required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection (a).",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.9331546227137247,
+      "confidence": "High",
+      "start_index": 2082,
+      "end_index": 3096,
+      "word_count": 156,
+      "token_length": 217
+    }
+  ],
+  "_submission_type": "solo"
+}

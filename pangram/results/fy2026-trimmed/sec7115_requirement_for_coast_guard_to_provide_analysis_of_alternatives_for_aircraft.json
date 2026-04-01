@@ -1,0 +1,26 @@
+{
+  "text": "Requirement for Coast Guard to provide analysis of alternatives for aircraft (a) In general Not later than 6 months after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of the implementation of the recommendations contained in the report of the Government Accountability Office titled Aircraft Fleet and Aviation Workforce Assessments Needed, and issued April 9, 2024 (GAO\u201324\u2013106374). (b) Contents The report required under section (a) shall contain the following: (1) An assessment of the type of helicopters the Coast Guard requires to meet the mission demands of the Coast Guard. (2) An analysis of alternatives, including an analytical study comparing the operational effectiveness, costs, and risks to determine the best suited aircraft to meet mission needs. (3) A fleet mix analysis to identify the necessary number of helicopters to meet the mission needs of the Coast Guard across all districts, including all air stations, seasonal air stations, and cutters designed to support rotary wing aircraft. (c) Minimum rotary wing fleet (1) In general The Commandant shall maintain an operational, geographically dispersed rotary wing fleet of not less than - (A) 140 aircraft for the purpose of meeting minimum operational capabilities until the Commandant submits the report required under this section; and (B) 175 aircraft for the purpose of meeting minimum operational capabilities on any date after September 30, 2030, until the Commandant submits a determination that the Coast Guard can meet its mission capabilities with fewer aircraft. (2) Report In the event the operational rotary wing fleet of the Coast Guard falls below the requirements of this subsection, the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a notification not later than 5 business days after the inability of the Commandant to meet the requirement. This report shall be submitted to such committees every 120 days until the Coast Guard meets the requirement of 175 rotary wing aircraft.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Requirement for Coast Guard to provide analysis of alternatives for aircraft (a) In general Not later than 6 months after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the status of the implementation of the recommendations contained in the report of the Government Accountability Office titled Aircraft Fleet and Aviation Workforce Assessments Needed, and issued April 9, 2024 (GAO\u201324\u2013106374). (b) Contents The report required under section (a) shall contain the following: (1) An assessment of the type of helicopters the Coast Guard requires to meet the mission demands of the Coast Guard. (2) An analysis of alternatives, including an analytical study comparing the operational effectiveness, costs, and risks to determine the best suited aircraft to meet mission needs. (3) A fleet mix analysis to identify the necessary number of helicopters to meet the mission needs of the Coast Guard across all districts, including all air stations, seasonal air stations, and cutters designed to support rotary wing aircraft. (c) Minimum rotary wing fleet (1) In general The Commandant shall maintain an operational, geographically dispersed rotary wing fleet of not less than - (A) 140 aircraft for the purpose of meeting minimum operational capabilities until the Commandant submits the report required under this section; and (B) 175 aircraft for the purpose of meeting minimum operational capabilities on any date after September 30, 2030, until the Commandant submits a determination that the Coast Guard can meet its mission capabilities with fewer aircraft. (2) Report In the event the operational rotary wing fleet of the Coast Guard falls below the requirements of this subsection, the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a notification not later than 5 business days after the inability of the Commandant to meet the requirement. This report shall be submitted to such committees every 120 days until the Coast Guard meets the requirement of 175 rotary wing aircraft.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02660762518644333,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2307,
+      "word_count": 357,
+      "token_length": 457
+    }
+  ],
+  "_submission_type": "solo"
+}

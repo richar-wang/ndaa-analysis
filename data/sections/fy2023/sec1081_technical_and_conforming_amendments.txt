@@ -1,0 +1,29 @@
+SEC. 1081.  Effective dates. TECHNICAL AND CONFORMING AMENDMENTS. (a)  Title 10, United States Code .— Title 10, United States Code ,  is amended  as follows: (1)  The table of chapters at the beginning of subtitle 10 USC prec. 101.  A  is amended  by  striking  the item relating to the second chapter 19 (relating to cyber matters). 
+ (2)  Section 113  is amended — (A)  in subsection (l)(2)(F), by  inserting  a period after “ inclusion in the armed forces ”; and 
+ (B)  in subsection (m), by  redesignating  the second paragraph (8) as paragraph (9). 
+ 
+ (3)  The section heading for section 2691  is amended  by  striking  “ state ” and  inserting  “ State ”. 
+ (4)  Section 3014  is amended  by  striking  “ section 4002(a) or 4003 ” and  inserting  “ section 4021(a) or 4022 ”. 
+ (5)  Section 4423(e)  is amended  by  striking  “ section 4003 ” and  inserting  “ section 4022 ”. 
+ (6)  Section 4831(a)  is amended  by  striking  “ section 4002 ” and  inserting  “ section 4021 ”. 
+ (7)  Section 4833(c)  is amended  by  striking  “ section 4002 ” and  inserting  “ section 4021 ”. 
+ 
+ (b)  National Defense Authorization Act for Fiscal Year 2022 . 10 USC 113 note . — Effective as of December 27, 2021, and as if included therein as enacted, section 907(a) of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 )  is amended  by  striking  “ 116–283 ” and  inserting  “ 115–232 ”. 
+ (c)  National Defense Authorization Act for Fiscal Year 2020 . 10 USC 391 note . — Effective as of December 20, 2019, and as if included therein as enacted, section 905(a)(2) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 391 note )  is amended  by  inserting  a period at the end. 
+ (d)  National Defense Authorization Act for Fiscal Year 2014 . 10 USC 2224 note . — Effective as of December 26, 2013, and as if included therein as enacted, section 932(c)(2)(D) of the National Defense Authorization Act for Fiscal Year 2014 ( Public Law 113–66 ;  10 U.S.C. 2224 note )  is amended  by  striking  “ subsection (c)(3) ” and  inserting  “ paragraph (3) ”. 136 STAT. 2798 
+ (e)  Automatic Execution of Conforming Changes to Tables of Sections, Tables of Contents, and Similar Tabular Entries in Defense Laws .— (1)  Elimination of need for separate conforming amendment .— Chapter 1 of title 10, United States Code , 10 USC prec. 101.   is amended  by  adding  at the end the following new section: “§ 102. 10 USC 102 .  Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries “(a)  Automatic Execution of Conforming Changes .— When an amendment to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment. 
+ “(b)  Exceptions .— Subsection (a) shall not apply to an amendment described in such subsection when— “(1)  the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment; or 
+ “(2)  the amendment otherwise expressly exempts itself from the operation of this section. 
+ 
+ “(c)  Definition. Covered Defense Law .— In this section, the term ‘ covered defense law ’ means— “(1)  this title; 
+ “(2)  titles 32 and 37; 
+ “(3)  any national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and 
+ “(4)  any other law designated in the text thereof as a covered defense law for purposes of application of this section.” 
+ 
+ 
+ . 
+ (2)  Conforming amendment .— The heading of chapter 1 of title 10, United  10 USC prec. 101. States Code,  is amended  to read as follows: “CHAPTER 1— 10 USC prec. 101. DEFINITIONS, RULES OF CONSTRUCTION, CROSS REFERENCES, AND RELATED MATTERS” 
+ . 
+ (3)  10 USC 102 note . Application of amendment .— Section 102 of title 10, United States Code , as added by paragraph (1), shall apply to the amendments made by this section and other amendments made by this Act. 
+ 
+ (f)  10 USC 102 note . Coordination With Other Amendments Made by This Act .— For purposes of applying amendments made by provisions of this Act other than this section, the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.

@@ -1,0 +1,12 @@
+SEC. 543.  NOTIFICATION OF ISSUANCE OF MILITARY PROTECTIVE ORDER TO CIVILIAN LAW ENFORCEMENT. (a)  Notification of Issuance .— Section 1567a of title 10, United States Code ,  is amended — (1)  Deadline. in subsection (a), by  striking  “ and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify ” and  inserting  “ , the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify ”; 
+ (2)  by  redesignating  subsection (b) as subsection (c); 
+ (3)  by  inserting  after subsection (a) the following new subsection (b); “(b)  Deadlines. Notification in Event of Transfer .— In the event that a member of the armed forces against whom a military protective order is issued is transferred to another unit— “(1)  not later than the date of the transfer, the commander of the unit from which the member is transferred shall notify the commander of the unit to which the member is transferred of— “(A)  the issuance of the protective order; and 
+ “(B)  the individuals involved in the order; and 
+ 
+ “(2)  not later than seven days after receiving the notice under paragraph (1), the commander of the unit to which the member is transferred shall provide notice of the order to the appropriate civilian authorities in accordance with subsection (a).” 
+ 
+ ; and 
+ (4)  in subsection (c), as so redesignated, by  striking  “ commander of the military installation ” and  inserting  “ commander of the unit to which the member is assigned ”. 
+ 
+ (b)  Annual Report Required .— Not later than March 1, 2021, and each year thereafter through 2025, the Secretary of Defense shall submit to the congressional defense committees a report that identifies— (1)  the number of military protective orders issued in the calendar year preceding the year in which the report is submitted; and 
+ (2)  the number of such orders that were reported to appropriate civilian authorities in accordance with  section 1567a(a) of title 10, United States Code , in such preceding year.

@@ -1,0 +1,36 @@
+{
+  "text": "Department of Defense biotechnology strategy (a) In general Not later than June 1, 2026, the Secretary of Defense shall, in coordination with the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment, submit to the Committees on Armed Services of the Senate and the House of Representatives a strategy on the national security implications of emerging biotechnologies, including the future role that biotechnology will play in defense, and means to improve industry, interagency, and international relationships in this sector. (b) Elements The strategy required pursuant to subsection (a) shall include the following elements: (1) How the Department of Defense will develop and expand a network of commercial facilities for the biomanufacture of products that are critical for defense needs. (2) Review and update of military specifications in order to better incorporate or substitute current products with biotechnology-based products. (3) Updated plans and policies for the Department to enter into advance market commitments and offtake agreements for biotechnology products that have defense applications. (4) Review of how the Department could better incorporate military-relevant applications of emerging biotechnology into wargaming exercises, tabletop exercises, or other net assessment analyses. (5) The benefits and costs of issuing a research grand challenge, or a series of challenges, that focus on making biotechnology predictably engineerable and how the Department would implement such research grand challenge or series of challenges. (6) Development of a biotechnology regulation science and technology program within the Department, including development of digital infrastructure to support simplified regulation and the development of biometrology tools. (7) Updated plans and policies for intergovernmental support that the Department could provide in encouraging member countries of the North Atlantic Treaty Organization (NATO) to aggregate demand and pool purchasing power for biotechnology products. (8) Review of plans and guidance on how the Department can work to develop, integrate, and disseminate biotechnology research initiatives across member countries of NATO, and how the Department might coordinate with international stakeholders to utilize the combined research capabilities of such member countries to drive a biotechnology development approach. (9) Review of the feasibility and advisability of using cloud computing methods to safely store biological data to include considerations related to cybersecurity, biosecurity, and data privacy. (10) Development of a training program for all members of the Armed Forces, civilian employees of the Department, and contractors of the Department whose duties include - (A) creating or deploying novel biotechnologies; (B) analyzing, preparing for, or responding to biological threats; or (C) planning, research and development, engineering, or testing and evaluation of systems regarding biotechnology.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Department of Defense biotechnology strategy (a) In general Not later than June 1, 2026, the Secretary of Defense shall, in coordination with the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment, submit to the Committees on Armed Services of the Senate and the House of Representatives a strategy on the national security implications of emerging biotechnologies, including the future role that biotechnology will play in defense, and means to improve industry, interagency, and international relationships in this sector. (b) Elements The strategy required pursuant to subsection (a) shall include the following elements: (1) How the Department of Defense will develop and expand a network of commercial facilities for the biomanufacture of products that are critical for defense needs. (2) Review and update of military specifications in order to better incorporate or substitute current products with biotechnology-based products. (3) Updated plans and policies for the Department to enter into advance market commitments and offtake agreements for biotechnology products that have defense applications. (4) Review of how the Department could better incorporate military-relevant applications of emerging biotechnology into wargaming exercises, tabletop exercises, or other net assessment analyses. (5) The benefits and costs of issuing a research grand challenge, or a series of challenges, that focus on making biotechnology predictably engineerable and how the Department would implement such research grand challenge or series of challenges. (6) Development of a biotechnology regulation science and technology program within the Department, including development of digital infrastructure to support simplified regulation and the development of biometrology tools. (7) Updated plans and policies for intergovernmental support that the Department could provide in encouraging member countries of the North Atlantic Treaty Organization (NATO) to aggregate demand and pool purchasing power for biotechnology products. (8) Review of plans and guidance on how the Department can work to develop, integrate, and disseminate biotechnology research initiatives across member countries of NATO, and how the Department might coordinate with international stakeholders to utilize the combined research capabilities of such member countries to drive a biotechnology development approach. (9) Review of the feasibility and advisability of using cloud computing methods to safely store biological data to include considerations related to cybersecurity, biosecurity, and data privacy. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007061853213235736,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2654,
+      "word_count": 372,
+      "token_length": 475
+    },
+    {
+      "text": "10) Development of a training program for all members of the Armed Forces, civilian employees of the Department, and contractors of the Department whose duties include - (A) creating or deploying novel biotechnologies; (B) analyzing, preparing for, or responding to biological threats; or (C) planning, research and development, engineering, or testing and evaluation of systems regarding biotechnology.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006896228063851595,
+      "confidence": "High",
+      "start_index": 2654,
+      "end_index": 3057,
+      "word_count": 57,
+      "token_length": 78
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Biological data for artificial intelligence (a) AI accessibility to qualified biological data resources (1) In general Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall develop and implement requirements that ensure qualified biological data resources created by research entirely funded by the Department of Defense are collected and stored in a manner that facilitates the use of such qualified biological data resources for advanced computational methods, including artificial intelligence. (2) Elements The requirements implemented under subsection (a) shall include the following: (A) A definition of the term qualified biological data resource for the purposes of such requirements, which shall be based on one or more of the following criteria: (i) The type of biological data generated. (ii) The size of the dataset involved. (iii) The amount of Federal funds awarded to the research that created such qualified biological data resource. (iv) The level of sensitivity of the biological data generated. (v) Any other factor determined appropriate by the Secretary of Defense. (B) Guidance on the metrics and metadata included under such requirements to indicate data quality, including usability, interoperability, and completeness. (C) Requirements for tiered levels of cybersecurity safeguards and access controls for the storage of biological data. (D) Exceptions to such requirements, including for biological data that may implicate national security. (E) Requirements for the protection of the privacy of individuals. (b) Consultation and considerations In developing and implementing the requirements under subsection (a), the Secretary shall - (1) consult with the Secretaries of the military departments, the heads of the research laboratories of each of the Armed Forces, and relevant individuals and entities in the private sector and academia who have received funding for research from the Department of Defense to ensure that such requirements are not overly burdensome; and (2) review and incorporate, to the extent the Secretary determines appropriate, existing Federal frameworks and standards for the use of qualified biological data resources for advanced computational methods.\n\nEstablishing biobased product merit guidance (a) In general Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering, in coordination with the Secretaries of the military departments, shall develop and make publicly available guidance for private entities on how such entities can effectively demonstrate, validate, and verify that a biobased product of such entity provides capabilities meeting the requirements of the Department of Defense. (b) Analysis In developing the guidance required by subsection (a), the Under Secretary of Defense for Research and Engineering shall conduct an analysis of current military specifications for suitable product categories and make such analysis publicly available for use by private entities, such as in industry or academia. Such analysis shall include: (1) Assessment of all current military specifications and identification of those that may - (A) have existing biobased products that meet such specifications; (B) could be met with biobased products with some modification; or (C) have no military specification where a new one may be required. (2) Assessment of current validation and verification processes related to military specifications to determine if modifications to such processes are needed to consider biobased product alternatives. (3) Review of existing acquisition policy and practices related to procurement of materials meeting military specifications to determine if any changes to such processes are recommended to accommodate biobased products. (c) Biobased product defined In this section, the term biobased product means a product manufactured, produced, or developed through the application of living organisms to alter living or non-living materials.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Biological data for artificial intelligence (a) AI accessibility to qualified biological data resources (1) In general Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall develop and implement requirements that ensure qualified biological data resources created by research entirely funded by the Department of Defense are collected and stored in a manner that facilitates the use of such qualified biological data resources for advanced computational methods, including artificial intelligence. (2) Elements The requirements implemented under subsection (a) shall include the following: (A) A definition of the term qualified biological data resource for the purposes of such requirements, which shall be based on one or more of the following criteria: (i) The type of biological data generated. (ii) The size of the dataset involved. (iii) The amount of Federal funds awarded to the research that created such qualified biological data resource. (iv) The level of sensitivity of the biological data generated. (v) Any other factor determined appropriate by the Secretary of Defense. (B) Guidance on the metrics and metadata included under such requirements to indicate data quality, including usability, interoperability, and completeness. (C) Requirements for tiered levels of cybersecurity safeguards and access controls for the storage of biological data. (D) Exceptions to such requirements, including for biological data that may implicate national security. (E) Requirements for the protection of the privacy of individuals. (b) Consultation and considerations In developing and implementing the requirements under subsection (a), the Secretary shall - (1) consult with the Secretaries of the military departments, the heads of the research laboratories of each of the Armed Forces, and relevant individuals and entities in the private sector and academia who have received funding for research from the Department of Defense to ensure that such requirements are not overly burdensome; and (2) review and incorporate, to the extent the Secretary determines appropriate, existing Federal frameworks and standards for the use of qualified biological data resources for advanced computational methods.\n\nEstablishing biobased product merit guidance (a) In general Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering, in coordination with the Secretaries of the military departments, shall develop and make publicly available guidance for private entities on how such entities can effectively demonstrate, validate, and verify that a biobased product of such entity provides capabilities meeting the requirements of the Department of Defense. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.052167540364381336,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2772,
+      "word_count": 408,
+      "token_length": 496
+    },
+    {
+      "text": "b) Analysis In developing the guidance required by subsection (a), the Under Secretary of Defense for Research and Engineering shall conduct an analysis of current military specifications for suitable product categories and make such analysis publicly available for use by private entities, such as in industry or academia. Such analysis shall include: (1) Assessment of all current military specifications and identification of those that may - (A) have existing biobased products that meet such specifications; (B) could be met with biobased products with some modification; or (C) have no military specification where a new one may be required. (2) Assessment of current validation and verification processes related to military specifications to determine if modifications to such processes are needed to consider biobased product alternatives. (3) Review of existing acquisition policy and practices related to procurement of materials meeting military specifications to determine if any changes to such processes are recommended to accommodate biobased products. (c) Biobased product defined In this section, the term biobased product means a product manufactured, produced, or developed through the application of living organisms to alter living or non-living materials.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.10871877943476042,
+      "confidence": "Medium",
+      "start_index": 2772,
+      "end_index": 4050,
+      "word_count": 184,
+      "token_length": 221
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec245_biological_data_for_artificial_intelligence.txt",
+    "sec248_establishing_biobased_product_merit_guidance.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec245_biological_data_for_artificial_intelligence.txt",
+      "start_index": 0,
+      "end_index": 2254,
+      "word_count": 330
+    },
+    {
+      "filename": "sec248_establishing_biobased_product_merit_guidance.txt",
+      "start_index": 2256,
+      "end_index": 4050,
+      "word_count": 261
+    }
+  ]
+}

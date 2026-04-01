@@ -1,0 +1,25 @@
+SEC. 11205.  AUTHORITY TO ENTER INTO TRANSACTIONS OTHER THAN CONTRACTS AND GRANTS TO PROCURE COST-EFFECTIVE TECHNOLOGY FOR MISSION NEEDS. (a)  In General .— Subchapter III of chapter 11 of title 14, United States Code ,  is amended  by  adding  at the end the following: “§ 1158. 14 USC 1158 .  Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs “(a)  In General .— Subject to subsections (b) and (c), the Commandant may enter into transactions (other than contracts, cooperative agreements, and grants) to operate, test, and acquire cost-effective technology for the purpose of meeting the mission needs of the Coast Guard. 
+ “(b)  Operation, Testing, and Acquisition .— Operation, testing, and acquisition of technologies under subsection (a) shall be— “(1)  carried out in accordance with Coast Guard policies and guidance; and 
+ “(2)  consistent with the operational requirements of the Coast Guard. 
+ 
+ “(c)  Limitations .— The Commandant may not enter into a transaction under subsection (a) with respect to a technology that— “(1)  does not comply with the cybersecurity standards of the Coast Guard; or 
+ “(2)  is sourced from an entity domiciled in the People’s Republic of China, unless the Commandant determines that the prototype or procurement of such a technology is for the purpose of— “(A)  counter-UAS or surrogate testing; or 
+ “(B)  intelligence, electronic warfare, and information warfare, testing, and analysis. 
+ 
+ 
+ “(d)  Education and Training .— The Commandant shall ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section are provided adequate education and training with respect to the authority under this section. 
+ “(e)  Regulations .— The Commandant shall prescribe regulations as necessary to carry out this section. 136 STAT. 4010 
+ “(f)  Counter-UAS Defined .— In this section, the term ‘ counter-UAS ’ has the meaning given such term in section 44801 of title 49.” 
+ 
+ . 
+ (b)  Clerical Amendment .— The analysis for  chapter 11 of title 14, United States Code , 14 USC prec. 1101.   is amended  by  inserting  after the item relating to section 1157 the following: 
+ 
+ “1158.  
+ Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs.”. 
+ 
+ 
+ (c)  Report .— (1)  In general .— Not later than 5 years after the date of the enactment of this Act, the Commandant shall submit to the appropriate committees of Congress a report that— (A)  describes the use of the authority pursuant to  section 1158 of title 14, United States Code  (as added by this section); and 
+ (B)  Assessment. assesses the mission and operational benefits of such authority. 
+ 
+ (2)  Appropriate committees of congress defined .— In this subsection, the term “ appropriate committees of Congress ” means— (A)  the Committee on Commerce, Science, and Transportation of the Senate; and 
+ (B)  the Committee on Transportation and Infrastructure of the House of Representatives.

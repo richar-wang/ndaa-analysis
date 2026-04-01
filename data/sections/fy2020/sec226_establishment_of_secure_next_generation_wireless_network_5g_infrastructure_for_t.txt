@@ -1,0 +1,17 @@
+SEC. 226.  10 USC 2223a note . ESTABLISHMENT OF SECURE NEXT-GENERATION WIRELESS NETWORK (5G) INFRASTRUCTURE FOR THE NEVADA TEST AND TRAINING RANGE AND BASE INFRASTRUCTURE. (a)  Deadline. Establishment Required .— Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall establish secure fifth-generation wireless network components and capabilities at no fewer than two Department of Defense installations in accordance with this section. 
+ (b)  Installations .— (1)  Locations .— The Secretary shall establish components and capabilities under subsection (a) at the following: (A)  The Nevada Test and Training Range, which shall serve as a Major Range and Test Facility Base (MRTFB) for fifth-generation wireless networking. 
+ (B)  Such Department installations or other installations as the Secretary considers appropriate for the purpose set forth in paragraph (2). 
+ 
+ (2)  Purpose .— The purpose of the establishment of components and capabilities under subsection (a) at the locations described in paragraph (1) of this subsection is to demonstrate the following: (A)  The potential military utility of high bandwidth, scalable, and low latency fifth-generation wireless networking technology. 
+ (B)  Advanced security technology that is applicable to fifth-generation networks as well as legacy Department command and control networks. 
+ (C)  Secure interoperability with fixed and wireless systems (legacy and future systems). 
+ (D)  Enhancements such as spectrum and waveform diversity, frequency hopping and spreading, and beam forming for military requirements. 
+ (E)  Technology for dynamic network slicing for specific use cases and applications requiring varying levels of latency, scale, and throughput. 
+ (F)  Technology for dynamic spectrum sharing and network isolation. 
+ (G)  Base infrastructure installation of high bandwidth, scalable, and low latency fifth-generation wireless networking technology. 
+ (H)  Applications for secure fifth-generation wireless network capabilities for the Department, such as the following: (i)  Interactive augmented reality or synthetic training environments. 
+ (ii)  Internet of things devices. 
+ (iii)  Autonomous systems. 
+ (iv)  Advanced manufacturing through the following: (I)  Department-sponsored centers for manufacturing innovation (as defined in section 34(c) of the National Institute of Standards and Technology Act ( 15 U.S.C. 278s(c) )). 
+ (II)  Department research and development organizations. 
+ (III)  Manufacturers in the defense industrial base of the United States. 133 STAT. 1270

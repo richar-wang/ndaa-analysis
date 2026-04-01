@@ -1,0 +1,11 @@
+SEC. 5841.  DATA STANDARDS AND OPEN DATA PUBLICATION REQUIREMENTS FOR THE OFFICE OF THE COMPTROLLER OF THE CURRENCY.   The Revised Statutes of the United States  is amended  by  inserting  after section 332 ( 12 U.S.C. 14 ) the following: “SEC. 333.  12 USC 14a . DATA STANDARDS; OPEN DATA PUBLICATION. “(a)  Data Standards .— “(1)  Requirement .— The Comptroller of the Currency shall, by rule, adopt data standards for all collections of information  136 STAT. 3432 
+that are regularly filed with or submitted to the Comptroller of the Currency by any entity with respect to which the Office of the Comptroller of the Currency is the appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 )). 
+ “(2)  Consistency .— The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 124 of the Financial Stability Act of 2010, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 124. 
+ 
+ “(b)  Open Data Publication .— All public data assets published by the Comptroller of the Currency under title LXII or the Dodd-Frank Wall Street Reform and Consumer Protection Act ( Public Law 111–203 ;  124 Stat. 1376 ) shall be— “(1)  made available as an open Government data asset (as defined in  section 3502 of title 44, United States Code ); 
+ “(2)  freely available for download; 
+ “(3)  rendered in a human-readable format; and 
+ “(4)  accessible via application programming interface where appropriate.” 
+ 
+ 
+ .

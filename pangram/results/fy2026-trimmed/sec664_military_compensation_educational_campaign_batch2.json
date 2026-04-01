@@ -1,0 +1,54 @@
+{
+  "text": "Military compensation educational campaign (a) Educational campaign required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall commence an educational campaign to improve the understanding and awareness of members of the Armed Forces and the families of such members with respect to the major components of monetary and nonmonetary compensation for such members. (b) Consistency with compensation review The Secretary shall carry out the educational campaign required by subsection (a) in a manner consistent with the recommendations contained in the report entitled The Fourteenth Quadrennial Review of Military Compensation submitted to Congress in January 2025 pursuant to section 1008(b) of title 37, United States Code. (c) Minimum time of campaign The educational campaign required by subsection (a) shall be carried out for not less than one year. (d) Elements The educational campaign required by subsection (a) shall address - (1) the elements of regular military compensation (RMC), as defined in section 101(25) of title 37, United States Code; (2) special and incentive pays; (3) the calculation of retired pay for length of service; (4) educational assistance programs and benefits; (5) health care for members of the Armed Forces serving in active components and the families of such members; (6) nonmonetary benefits; and (7) any other matters relating to monetary or nonmonetary compesnation for members of the Armed Forces the Secretary considers appropriate. (e) Briefing (1) Implementation plan Not later than April 1, 2026, the Secretary of Defense shall provide to the congressional defense committees a briefing on the plan to implement this section. (2) Effectiveness Not later than 60 days after the completion of the educational campaign required by subsection (a), the Secretary of Defense shall provide to the congressional defense committees a briefing on the effectiveness of the educational campaign.\n\nDesignation of United States Army Garrison Kwajalein Atoll as remote and isolated military installation (a) Designation Not later than 30 days after the date of the enactment of this Act, the Under Secretary of Defense for Personnel and Readiness and the Secretary of the Army, in coordination with the Commander of the United States Army Pacific, shall designate United States Army Garrison Kwajalein Atoll as a remote and isolated military installation. (b) Notification Not later than 30 days after the date on which the designation described in subsection (a) is completed, the Secretary of the Army shall submit a notification to the congressional defense committees confirming completion of the designation. (c) Briefing required Not later than 90 days after the date on which the Secretary of the Army submits the notification described in subsection (b), the Commander of the United States Army Pacific shall brief the congressional defense committees on adjustments to Department of Defense resourcing for and support to United States Army Garrison Kwajalein Atoll as a result of the designation described in subsection (a). (d) Definition In this section, the term remote and isolated military installation means a military installation determined to be remote and isolated pursuant to the criteria set forth in Department of Defense Instructions 1015.10 and 1015.18, dated July 6, 2009, and May 30, 2024, respectively (or successor instruction).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Military compensation educational campaign (a) Educational campaign required Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall commence an educational campaign to improve the understanding and awareness of members of the Armed Forces and the families of such members with respect to the major components of monetary and nonmonetary compensation for such members. (b) Consistency with compensation review The Secretary shall carry out the educational campaign required by subsection (a) in a manner consistent with the recommendations contained in the report entitled The Fourteenth Quadrennial Review of Military Compensation submitted to Congress in January 2025 pursuant to section 1008(b) of title 37, United States Code. (c) Minimum time of campaign The educational campaign required by subsection (a) shall be carried out for not less than one year. (d) Elements The educational campaign required by subsection (a) shall address - (1) the elements of regular military compensation (RMC), as defined in section 101(25) of title 37, United States Code; (2) special and incentive pays; (3) the calculation of retired pay for length of service; (4) educational assistance programs and benefits; (5) health care for members of the Armed Forces serving in active components and the families of such members; (6) nonmonetary benefits; and (7) any other matters relating to monetary or nonmonetary compesnation for members of the Armed Forces the Secretary considers appropriate. (e) Briefing (1) Implementation plan Not later than April 1, 2026, the Secretary of Defense shall provide to the congressional defense committees a briefing on the plan to implement this section. (2) Effectiveness Not later than 60 days after the completion of the educational campaign required by subsection (a), the Secretary of Defense shall provide to the congressional defense committees a briefing on the effectiveness of the educational campaign.\n\nDesignation of United States Army Garrison Kwajalein Atoll as remote and isolated military installation (a) Designation Not later than 30 days after the date of the enactment of this Act, the Under Secretary of Defense for Personnel and Readiness and the Secretary of the Army, in coordination with the Commander of the United States Army Pacific, shall designate United States Army Garrison Kwajalein Atoll as a remote and isolated military installation. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005771770408110959,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2439,
+      "word_count": 373,
+      "token_length": 500
+    },
+    {
+      "text": "b) Notification Not later than 30 days after the date on which the designation described in subsection (a) is completed, the Secretary of the Army shall submit a notification to the congressional defense committees confirming completion of the designation. (c) Briefing required Not later than 90 days after the date on which the Secretary of the Army submits the notification described in subsection (b), the Commander of the United States Army Pacific shall brief the congressional defense committees on adjustments to Department of Defense resourcing for and support to United States Army Garrison Kwajalein Atoll as a result of the designation described in subsection (a). (d) Definition In this section, the term remote and isolated military installation means a military installation determined to be remote and isolated pursuant to the criteria set forth in Department of Defense Instructions 1015.10 and 1015.18, dated July 6, 2009, and May 30, 2024, respectively (or successor instruction).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0091699727345258,
+      "confidence": "High",
+      "start_index": 2439,
+      "end_index": 3438,
+      "word_count": 153,
+      "token_length": 211
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec664_military_compensation_educational_campaign.txt",
+    "sec665_designation_of_united_states_army_garrison_kwajalein_atoll_as_remote_and_isolate.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec664_military_compensation_educational_campaign.txt",
+      "start_index": 0,
+      "end_index": 1980,
+      "word_count": 301
+    },
+    {
+      "filename": "sec665_designation_of_united_states_army_garrison_kwajalein_atoll_as_remote_and_isolate.txt",
+      "start_index": 1982,
+      "end_index": 3438,
+      "word_count": 224
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+SEC. 3128.  50 USC 2453 note . INTEGRATED SCHEDULE FOR FUTURE-YEARS NUCLEAR SECURITY PROGRAM. (a)  In General .— The Administrator for Nuclear Security shall— (1)  develop and maintain a high-level milestone schedule document for all covered construction projects that includes production infrastructure modernization schedules with weapons modernization programs; and 
+ (2)  for each covered construction project included in the high-level milestone schedule document under paragraph (1), include in such document an identification and explanation of the status of any associated integrated master schedule. 
+ 
+ (b)  Inclusion in Future-years Nuclear Security Program .— The milestone schedule document required under subsection (a) shall be included in the future-years nuclear security program for fiscal year 2025 and each subsequent fiscal year. 
+ (c)  Covered Construction Project . Definition. — In this section, the term “ covered construction project ” means— (1)  a construction project that is subject to Department of Energy Order 413.3B, or a successor order; or 
+ (2)  a program designated as Enhanced Management A or B under the Program Execution Instruction of the Office of Defense Programs of the National Nuclear Security Administration.

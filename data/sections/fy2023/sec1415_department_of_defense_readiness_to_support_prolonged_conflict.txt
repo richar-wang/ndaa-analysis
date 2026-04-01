@@ -1,0 +1,22 @@
+SEC. 1415.  50 USC 98d note . DEPARTMENT OF DEFENSE READINESS TO SUPPORT PROLONGED CONFLICT. (a)  Studies Required .— (1)  In general .— For each report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h-5(a) ), the National Defense Stockpile Manager shall— (A)  Time period. conduct a study on the strategic materials required by the Department of Defense to sustain combat operations for not less than one year against the pacing threat identified in the National Defense Strategy; and 136 STAT. 2874 
+ (B)  Reports. Classified information. not later than January 15, 2024, submit to the congressional defense committees a report on such study in a classified form with an unclassified summary. 
+ 
+ (2)  Energy storage and electronic components .— (A)  Time period. In general .— The Under Secretary of Defense for Acquisition and Sustainment shall conduct a study of the energy storage and electronic components necessary to sustain combat operations for not less than one year against the pacing threat identified in the National Defense Strategy. 
+ (B)  Report .— — (i)  In general .— Not later than January 15, 2024, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on the study required under subparagraph (A). 
+ (ii)  Form .— The report required by clause (i) shall be submitted in an unclassified form but may contain a classified annex. 
+ (iii)  Elements .— The report required by clause (i) shall include the following: (I)  A description of the specific number and type of energy storage and electronic components that the Department of Defense requires for the manufacture of munitions, combat support items, and weapon systems to sustain combat operations. 
+ (II)  A description of the specific number and type of energy storage and electronic components that the Department of Defense requires to replenish or replace munitions, combat support items, and weapon systems that are lost or expended during the execution and sustainment of the relevant operational plan. 
+ (III)  A description of supply chain vulnerabilities during the sustainment and execution period, such as sole sources of supply, war damage, and shipping interdiction. 
+ (IV)  A description of supply chain vulnerabilities prior to the sustainment and execution period and the replenishment and replacement period, such as reliance on sole sources of supply, geographic proximity to strategic competitors, and diminishing manufacturing sources. 
+ (V)  An identification of alternative sources of supply for energy and electronics components that are domestic or are from allies or partners of the United States. 
+ (VI)  Assessment. An assessment of the technical and economic feasibility of the preparedness and response programs of the Department of Defense, such as the National Defense Stockpile, the Warstopper program, war reserves and pre-positioned stocks, contract options, or other methods to mitigate postulated shortfalls to Department of Defense requirements. 136 STAT. 2875 
+ (VII)  Any other such elements deemed appropriate by the Under Secretary of Defense for Acquisition and Sustainment. 
+ 
+ 
+ (C)  Energy storage and electronic component defined .— In this paragraph, the term “ energy storage and electronic component ” includes— (i)  an item that operates by controlling the flow of electrons or other electrically charged particles in circuits, using interconnections of electrical devices such as resistors, inductors, capacitors, diodes, switches, transistors, or integrated circuits; and 
+ (ii)  battery cells, battery modules, battery packs, and other related components related to batteries. 
+ 
+ 
+ 
+ (b)  Acquisition Priority .— Consistent with the authority in section 5 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98d ) and subject to the availability of appropriations, the National Defense Stockpile Manager shall acquire the highest priority strategic and critical materials identified in the report submitted under subsection (a)(1). 
+ (c)  Strategic and Critical Materials Defined .— In this section, the term “ strategic and critical materials ” has the meaning given such term in section 12 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h-3 ).

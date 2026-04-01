@@ -1,0 +1,5 @@
+SEC. 146.  LIMITATION ON ACTIONS RELATING TO REMOTE VISION SYSTEMS OF KC–46A AIRCRAFT. (a)  Certification. Limitation .— The Secretary of the Air Force may not take any action described in subsection (b) until the date on which the Secretary certifies to the Committees on Armed Services of the Senate and the House of Representatives that— (1)  the Secretary has identified a solution to fix the remote vision systems of KC–46A aircraft; and 
+ (2)  such solution resolves all issues identified in the category 1 deficiency reports for such systems, except for issues relating to the panoramic system. 
+ 
+ (b)  Actions Described .— The actions described in this subsection are the following: (1)  Approving the incorporation of version 2.0 of the KC–46A remote vision system into production aircraft (other than an aircraft specifically used to test and validate that version of the system). 
+ (2)  Retrofitting aircraft with version 2.0 of the KC–46A remote vision system (other than an aircraft specifically used to test and validate that version of the system). 137 STAT. 178

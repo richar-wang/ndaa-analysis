@@ -1,0 +1,6 @@
+SEC. 3131.  CIVIL PENALTIES FOR VIOLATIONS OF CERTAIN WHISTLEBLOWER PROTECTIONS.   Section 234A of the Atomic Energy Act of 1954 ( 42 U.S.C. 2282a )  is amended — (1)  in the heading, by  inserting  “ and whistleblower ” after “ safety ”; 
+ (2)  in subsection a.— (A)  by  inserting  “ , or who violates any applicable law, rule, regulation, or order related to nuclear safety whistleblower protections, ” before “ shall be subject to a civil penalty ”; and 
+ (B)  by  adding  at the end the following new sentence: “ The Secretary of Energy may carry out this section with respect to the National Nuclear Security Administration by acting through the Administrator for Nuclear Security. ”; and 
+ 
+ (3)  Definition. by  adding  at the end the following new subsection: “e.  In this section, the term ‘ nuclear safety whistleblower protections ’ means the protections for employees of contractors or subcontractors from reprisals pursuant to  section 4712 of title 41, United States Code , section 211 of the Energy Reorganization Act of 1974 ( 42 U.S.C. 5851 ), or other provisions of Federal law (including rules, regulations, or orders) affording such protections, with respect to disclosures or other activities covered by such protections that relate to nuclear safety.” 
+ .

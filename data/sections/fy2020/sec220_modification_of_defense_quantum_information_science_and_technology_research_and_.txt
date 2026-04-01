@@ -1,0 +1,38 @@
+SEC. 220.  MODIFICATION OF DEFENSE QUANTUM INFORMATION SCIENCE AND TECHNOLOGY RESEARCH AND DEVELOPMENT PROGRAM.   Section 234 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  10 U.S.C. 2358 note )  is amended — (1)  in subsection (b)— (A)  in paragraph (2), by  striking  “ private sector entities ” and  inserting  “ private sector and international entities ”; and 
+ (B)  in paragraph (6), by  striking  “ facilities and infrastructure ” and  inserting  “ facilities, workforce, and infrastructure ”; 
+ 
+ (2)  Consultations. in subsection (c)— (A)  in paragraph (2), by  striking  “ quantum sciences; ” and  inserting   “quantum information sciences, including through consultation with— “(A)  the National Quantum Coordination Office; 
+ “(B)  the subcommittee on Quantum Information Science of the National Science and Technology Council; 
+ “(C)  other organizations and elements of the Department of Defense; 
+ “(D)  other Federal agencies; and 
+ “(E)  appropriate private sector organizations;” 
+ ; 
+ (B)  by  redesignating  paragraphs (3) and (4) as paragraphs (6) and (7), respectively; 
+ (C)  by  inserting  after paragraph (2), the following new paragraphs: “(3)  Plans. in consultation with the entities listed in paragraph (2), develop plans for— “(A)  the development of the quantum information science and technology workforce; 
+ “(B)  enhancing awareness of quantum information science and technology; 
+ “(C)  reducing the risk of cybersecurity threats posed by quantum information science technology; and 
+ “(D)  development of ethical guidelines for the use of quantum information science technology; 
+ 
+ “(4)  in consultation with the National Institute of Standards and Technology and other appropriate Federal entities, develop a quantum information science taxonomy and standards and requirements for quantum information technology; 
+ “(5)  support efforts to increase the technology readiness level of quantum information science technologies under development in the United States;” 
+ ; 133 STAT. 1261 
+ (D)  in paragraph (6), as so redesignated, by  striking  “ quantum science ” and  inserting  “ quantum information science ”; and 
+ (E)  in paragraph (7), as so redesignated, by  striking  “ for meeting the long-term challenges and achieving the specific technical goals ” and  inserting  “ for carrying out the program under subsection (a) ”; 
+ 
+ (3)  by  redesignating  subsection (d) as subsection (e); 
+ (4)  by  inserting  afer subsection (c) the following new subsection (d): “(d)  Quantum Information Science Research Centers .— The Secretary of each military department may establish or designate a defense laboratory or establish activities to engage with appropriate public and private sector organizations, including academic organizations, to enhance and accelerate the research, development, and deployment of quantum information sciences and quantum information science-enabled technologies and systems. The Secretary of Defense shall ensure that not less than one such laboratory or center is established or designated.” 
+ ; and 
+ (5)  in paragraph (2) of subsection (e), as so redesignated— (A)  in subparagraph (A), by  inserting  “ information ” before “ sciences ”; 
+ (B)  in subparagraph (B), (i)  by  inserting  “ information ” before “ sciences ”; and 
+ (ii)  by  inserting  “ , including a discussion of likely impacts of quantum information science and technology on military capabilities ” before the period at the end; 
+ 
+ (C)  in subparagraph (C), by  inserting  “ information ” before “ sciences ”; 
+ (D)  by  redesignating  subparagraph (E) as subparagraph (F); and 
+ (E)  by  striking  subparagraph (D) and  inserting  the following new subparagraphs: “(D)  A description of the activities carried out in accordance with this section, including, for each such activity— “(i)  a roadmap for the activity; 
+ “(ii)  Summary. a summary of the funding provided for the activity; and 
+ “(iii)  Timeline. an estimated timeline for the development and military deployment of quantum technologies supported through the activity. 
+ 
+ “(E)  A description of the efforts of the Department of Defense to update classification and cybersecurity practices relating to quantum technology, including— “(i)  Requirements. security processes and requirements for engagement with allied countries; and 
+ “(ii)  Plan. a plan for security-cleared government and contractor workforce development.” 
+ 
+ .

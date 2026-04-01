@@ -1,0 +1,17 @@
+SEC. 1683.  DEVELOPMENT OF HYPERSONIC AND BALLISTIC MISSILE TRACKING SPACE SENSOR PAYLOAD. (a)  Development .— Section 1683 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ;  10 U.S.C. 2431 note )  is amended — (1)  by  redesignating  subsections (d), (e), (f), (g), and (h), as subsections (e), (f), (g), (h), and (j), respectively; and 
+ (2)  by  inserting  after subsection (c) the following new subsection (d): “(d)  Hypersonic and Ballistic Missile Tracking Space Sensor Payload .— “(1)  Coordination. Development .— The Director of the Missile Defense Agency, in coordination with the Director of the Space Development Agency and the Secretary of the Air Force, as appropriate, shall— “(A)  develop a hypersonic and ballistic missile tracking space sensor payload; and 
+ “(B)  include such payload as a component of the sensor architecture developed under subsection (a). 
+ 
+ “(2)  Deadline. Assignment of primary responsibility .— Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, the Secretary of Defense shall— “(A)  assign the Director of the Missile Defense Agency with the principal responsibility for the development and deployment of a hypersonic and ballistic tracking space sensor payload; and 
+ “(B)  Certification. submit to the congressional defense committees a certification of such assignment.” 
+ 
+ 
+ . 
+ 
+ (b)  Updated Plan .— Such section is further amended by  inserting  after subsection (h), as redesignated by subsection (a), the following new subsection: “(i)  Deadline. Updated Plan .— Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, the Secretary of Defense shall submit to the appropriate congressional committees an update to the plan under subsection (h), including with respect to the following: “(1)  How the Director of the Missile Defense Agency, the Director of the Defense Advanced Research Projects Agency, the Secretary of the Air Force, and the Director of the Space Development Agency, will each participate in the development of the sensor architecture under subsection (a) and the inclusion of the hypersonic and ballistic missile tracking space sensor  133 STAT. 1783 
+payload as a component of such architecture pursuant to subsection (d), with respect to both prototype and operational capabilities, including how each such official will work together to avoid duplication of efforts. 
+ “(2)  How such payload will address the requirement of the United States Strategic Command for a hypersonic and ballistic missile tracking space sensing capability. 
+ “(3)  Cost estimates. The estimated costs (in accordance with subsection (e)) to develop, acquire, and deploy, and the lifecycle costs to operate and sustain, the payload under subsection (d) and include such payload in the sensor architecture developed under subsection (a).” 
+ 
+ . 
+ (c)  Conforming Amendment .— Subsection (h)(1) of such section, as redesignated by subsection (a),  is amended  by  striking  “ with subsection (d) ” and  inserting  “ with subsection (e) ”.

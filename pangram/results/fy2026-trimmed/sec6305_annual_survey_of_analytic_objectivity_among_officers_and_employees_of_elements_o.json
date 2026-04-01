@@ -1,0 +1,36 @@
+{
+  "text": "Annual survey of analytic objectivity among officers and employees of elements of the intelligence community (a) In general Section 1019(b) of the National Security Intelligence Reform Act of 2004 (title I of Public Law 108\u2013458 ; 50 U.S.C. 3364(b) ) is amended by adding at the end the following new paragraph: (4) (A) The individual or entity assigned responsibility under subsection (a) shall annually conduct a survey of analytic objectivity among officers and employees of the intelligence community. (B) The head of each element of the intelligence community shall take all practical actions to encourage maximum participation by officers and employees of such element with respect to the survey conducted under subparagraph (A). . (b) Elements of the intelligence community (1) In general Not less frequently than once each year for two years, each head of an element of the intelligence community specified in paragraph (4) shall conduct a survey of analytic objectivity among officers and employees of such element who are involved in the production of intelligence products. (2) Elements Each survey conducted pursuant to paragraph (1) for an element of the intelligence community shall cover the following: (A) Perceptions of the officers and employees regarding the presence of bias or politicization affecting the intelligence cycle. (B) Types of intelligence products perceived by the officers and employees as most prone to objectivity concerns. (C) Whether responders to the survey raised identified analytic objectivity concerns with an analytic ombudsman or appropriate entity. (3) Coordination The head of each element of the intelligence community specified in paragraph (4) shall, to the extent practicable, coordinate with the individual or entity assigned responsibility under section 1019(a) of the National Security Intelligence Reform Act of 2004 (title I of Public Law 108\u2013458 ; 50 U.S.C. 3364(a) ) and the appropriate ombudsman for analytic objectivity with respect to the design and execution of the survey required by paragraph (1) to maximize the utility and efficiency of the survey. (4) Elements of the intelligence community specified The elements of the intelligence community specified in this paragraph are the following: (A) The National Security Agency. (B) The Defense Intelligence Agency. (C) The National Geospatial-Intelligence Agency. (D) The Directorate of Intelligence of the Federal Bureau of Investigation. (E) The Office of Intelligence and Analysis of the Department of Homeland Security.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Annual survey of analytic objectivity among officers and employees of elements of the intelligence community (a) In general Section 1019(b) of the National Security Intelligence Reform Act of 2004 (title I of Public Law 108\u2013458 ; 50 U.S.C. 3364(b) ) is amended by adding at the end the following new paragraph: (4) (A) The individual or entity assigned responsibility under subsection (a) shall annually conduct a survey of analytic objectivity among officers and employees of the intelligence community. (B) The head of each element of the intelligence community shall take all practical actions to encourage maximum participation by officers and employees of such element with respect to the survey conducted under subparagraph (A). . (b) Elements of the intelligence community (1) In general Not less frequently than once each year for two years, each head of an element of the intelligence community specified in paragraph (4) shall conduct a survey of analytic objectivity among officers and employees of such element who are involved in the production of intelligence products. (2) Elements Each survey conducted pursuant to paragraph (1) for an element of the intelligence community shall cover the following: (A) Perceptions of the officers and employees regarding the presence of bias or politicization affecting the intelligence cycle. (B) Types of intelligence products perceived by the officers and employees as most prone to objectivity concerns. (C) Whether responders to the survey raised identified analytic objectivity concerns with an analytic ombudsman or appropriate entity. (3) Coordination The head of each element of the intelligence community specified in paragraph (4) shall, to the extent practicable, coordinate with the individual or entity assigned responsibility under section 1019(a) of the National Security Intelligence Reform Act of 2004 (title I of Public Law 108\u2013458 ; 50 U.S.C. 3364(a) ) and the appropriate ombudsman for analytic objectivity with respect to the design and execution of the survey required by paragraph (1) to maximize the utility and efficiency of the survey. (4) Elements of the intelligence community specified The elements of the intelligence community specified in this paragraph are the following: (A) The National Security Agency. (B) The Defense Intelligence Agency. (C) The National Geospatial-Intelligence Agency. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006314264093008306,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2379,
+      "word_count": 359,
+      "token_length": 498
+    },
+    {
+      "text": "D) The Directorate of Intelligence of the Federal Bureau of Investigation. (E) The Office of Intelligence and Analysis of the Department of Homeland Security.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00563957029953599,
+      "confidence": "High",
+      "start_index": 2379,
+      "end_index": 2537,
+      "word_count": 24,
+      "token_length": 30
+    }
+  ],
+  "_submission_type": "solo"
+}

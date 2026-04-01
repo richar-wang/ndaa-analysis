@@ -1,0 +1,54 @@
+{
+  "text": "Educational travel authority for dependents of certain employees (a) In general Notwithstanding section 1599b of title 10, United States Code, the Secretary of Defense shall direct the Director of the Defense Travel Management Office to update the Joint Travel Regulations, not later than February 1, 2026, to authorize educational travel for a dependent of a covered employee without regard to whether the Federal agency responsible for the employment of the covered employee anticipates that the covered employee will, during the 30-day period following the scheduled date of the dependent\u2019s departure for the travel, be transferred to a location in the United States or travel to the United States for home leave. (b) Briefings required (1) Initial briefing Not later than February 1, 2026, the Secretary shall brief the Committees on Armed Services of the Senate and the House of Representatives on the update to the Joint Travel Regulations required by subsection (a). (2) Subsequent briefings Not later than one year after providing the briefing required by paragraph (1) and annually thereafter until February 1, 2029, the Secretary shall brief the Committees on Armed Services of the Senate and the House of Representatives on the use of the authority described in subsection (a) and the cost to the Federal Government of the use of that authority. (c) Covered employee defined In this section, the term covered employee means an employee of the Department of Defense Education Activity assigned to United States Naval Station, Guantanamo Bay, Cuba.\n\nPersonnel management (a) Policy and regulations The Secretary of Defense shall establish policy and prescribe regulations for the overall management, oversight, and administration of civilian employees of the military departments. Such policy and such regulations shall provide for such management, oversight, and administration to be under the purview of - (1) with respect to civilian employees of the Department of the Army, a Deputy Chief of Staff of the Army detailed to that position under section 7035 of title 10, United States Code; (2) with respect to civilian employees of the Department of the Navy, the Chief of Naval Personnel appointed under section 8081 of such title; and (3) with respect to civilian employees of the Department of the Air Force, a Deputy Chief of Staff of the Air Force detailed to that position under section 9035 of such title. (b) Implementation (1) Plan Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan to implement subsection (a). (2) Issuance of regulations The Secretary of Defense shall establish policy and prescribe regulations under subsection (a) not later than one year after the date of the enactment of this Act. (3) Effective date Subsection (a) and the policy established and regulations prescribed under subsection (a) shall take effect on the date that is one year after the date of the enactment of this Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Educational travel authority for dependents of certain employees (a) In general Notwithstanding section 1599b of title 10, United States Code, the Secretary of Defense shall direct the Director of the Defense Travel Management Office to update the Joint Travel Regulations, not later than February 1, 2026, to authorize educational travel for a dependent of a covered employee without regard to whether the Federal agency responsible for the employment of the covered employee anticipates that the covered employee will, during the 30-day period following the scheduled date of the dependent\u2019s departure for the travel, be transferred to a location in the United States or travel to the United States for home leave. (b) Briefings required (1) Initial briefing Not later than February 1, 2026, the Secretary shall brief the Committees on Armed Services of the Senate and the House of Representatives on the update to the Joint Travel Regulations required by subsection (a). (2) Subsequent briefings Not later than one year after providing the briefing required by paragraph (1) and annually thereafter until February 1, 2029, the Secretary shall brief the Committees on Armed Services of the Senate and the House of Representatives on the use of the authority described in subsection (a) and the cost to the Federal Government of the use of that authority. (c) Covered employee defined In this section, the term covered employee means an employee of the Department of Defense Education Activity assigned to United States Naval Station, Guantanamo Bay, Cuba.\n\nPersonnel management (a) Policy and regulations The Secretary of Defense shall establish policy and prescribe regulations for the overall management, oversight, and administration of civilian employees of the military departments. Such policy and such regulations shall provide for such management, oversight, and administration to be under the purview of - (1) with respect to civilian employees of the Department of the Army, a Deputy Chief of Staff of the Army detailed to that position under section 7035 of title 10, United States Code; (2) with respect to civilian employees of the Department of the Navy, the Chief of Naval Personnel appointed under section 8081 of such title; and (3) with respect to civilian employees of the Department of the Air Force, a Deputy Chief of Staff of the Air Force detailed to that position under section 9035 of such title. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011329380329698324,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2425,
+      "word_count": 386,
+      "token_length": 496
+    },
+    {
+      "text": "b) Implementation (1) Plan Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan to implement subsection (a). (2) Issuance of regulations The Secretary of Defense shall establish policy and prescribe regulations under subsection (a) not later than one year after the date of the enactment of this Act. (3) Effective date Subsection (a) and the policy established and regulations prescribed under subsection (a) shall take effect on the date that is one year after the date of the enactment of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011911114677786827,
+      "confidence": "High",
+      "start_index": 2425,
+      "end_index": 3070,
+      "word_count": 109,
+      "token_length": 138
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1111_educational_travel_authority_for_dependents_of_certain_employees.txt",
+    "sec1115_personnel_management.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1111_educational_travel_authority_for_dependents_of_certain_employees.txt",
+      "start_index": 0,
+      "end_index": 1557,
+      "word_count": 245
+    },
+    {
+      "filename": "sec1115_personnel_management.txt",
+      "start_index": 1559,
+      "end_index": 3070,
+      "word_count": 249
+    }
+  ]
+}

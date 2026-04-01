@@ -1,0 +1,54 @@
+{
+  "text": "Authorization to initiate early production of future long-range assault aircraft (a) Authorization The Secretary of the Army may enter into contracts, in advance of full-rate production, for the procurement of future long-range assault aircraft as part of an accelerated low-rate early production effort for such aircraft. (b) Objectives In carrying out the early production effort described in subsection (a), the Secretary of the Army shall pursue the following objectives: (1) To expedite delivery of future long-range assault aircraft operational capability to the warfighter. (2) To maintain momentum and learning continuity between test article completion and full production ramp-up. (3) To stabilize and retain the specialized workforce and industrial base supporting future assault aircraft, including critical suppliers and production facilities. (4) To mitigate cost escalation risks and improve program affordability across the life cycle. (c) Considerations In executing the authority provided by subsection (a), the Secretary shall - (1) prioritize program continuity, cost-efficiency, and workforce retention across the supply chain for tiltrotor aircraft; (2) ensure that aircraft procured as part of the early production effort described in subsection (a) incorporate lessons learned from test article evaluations; (3) maintain flexibility in design to accommodate future upgrades through the modular open systems architecture and digital backbone; (4) ensure that the program completes a rigorous developmental test flight campaign prior to delivering the platform to the operational forces; and (5) ensure that the program completes a rigorous operational test and evaluation prior to entering into full rate production. (d) Briefing to Congress Not later than 180 days after the date of the enactment of this Act, the Secretary of the Army shall provide to the congressional defense committees a briefing detailing - (1) the implementation plan and timeline for the procurement and early production effort described in subsection (a); (2) the status of industrial base readiness and supply chain coordination in support of such early production effort; and (3) estimated long-term cost savings and operational benefits expected to be derived from such early production effort.\n\nLimitation on availability of funds for the Next Generation Command and Control portfolio of capabilities of the Army Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2026 for the Department of the Army for the Army\u2019s Next Generation Command and Control (NGC2) portfolio of capabilities, not more than 50 percent may be obligated or expended until the Secretary of the Army submits to the congressional defense committees a report that includes the following: (1) The Army\u2019s detailed funding plans for current and new procurements for experimentation and final fielding for its tactical network, and a cost and capability assessment of current and proposed solutions. (2) Testing and fielding plans for any new procurements for such network, including an explanation of - (A) how any new programs meet the resiliency requirements specified in section 168 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116\u201392 ; 133 Stat. 1251); and (B) how any new programs will utilize NSA High Assurance certified encryption and decryption. (3) Plans to integrate existing programs of record with new programs of record and plans to ensure all systems are interoperable with both fielded systems of the Army and the systems of foreign partners. (4) Plans to complete a developmental test campaign and a formal operational test and evaluation prior to fielding new capabilities to the operational forces for use other than for experimentation.",
+  "version": "3.2",
+  "headline": "AI Detected",
+  "prediction": "We are confident that this document is a mix of AI-generated, and human-written content",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.45767613038906413,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.5423238696109358,
+  "num_ai_segments": 1,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Authorization to initiate early production of future long-range assault aircraft (a) Authorization The Secretary of the Army may enter into contracts, in advance of full-rate production, for the procurement of future long-range assault aircraft as part of an accelerated low-rate early production effort for such aircraft. (b) Objectives In carrying out the early production effort described in subsection (a), the Secretary of the Army shall pursue the following objectives: (1) To expedite delivery of future long-range assault aircraft operational capability to the warfighter. (2) To maintain momentum and learning continuity between test article completion and full production ramp-up. (3) To stabilize and retain the specialized workforce and industrial base supporting future assault aircraft, including critical suppliers and production facilities. (4) To mitigate cost escalation risks and improve program affordability across the life cycle. (c) Considerations In executing the authority provided by subsection (a), the Secretary shall - (1) prioritize program continuity, cost-efficiency, and workforce retention across the supply chain for tiltrotor aircraft; (2) ensure that aircraft procured as part of the early production effort described in subsection (a) incorporate lessons learned from test article evaluations; (3) maintain flexibility in design to accommodate future upgrades through the modular open systems architecture and digital backbone; (4) ensure that the program completes a rigorous developmental test flight campaign prior to delivering the platform to the operational forces; and (5) ensure that the program completes a rigorous operational test and evaluation prior to entering into full rate production. (",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.78150719390029,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1741,
+      "word_count": 245,
+      "token_length": 309
+    },
+    {
+      "text": "d) Briefing to Congress Not later than 180 days after the date of the enactment of this Act, the Secretary of the Army shall provide to the congressional defense committees a briefing detailing - (1) the implementation plan and timeline for the procurement and early production effort described in subsection (a); (2) the status of industrial base readiness and supply chain coordination in support of such early production effort; and (3) estimated long-term cost savings and operational benefits expected to be derived from such early production effort.\n\nLimitation on availability of funds for the Next Generation Command and Control portfolio of capabilities of the Army Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2026 for the Department of the Army for the Army\u2019s Next Generation Command and Control (NGC2) portfolio of capabilities, not more than 50 percent may be obligated or expended until the Secretary of the Army submits to the congressional defense committees a report that includes the following: (1) The Army\u2019s detailed funding plans for current and new procurements for experimentation and final fielding for its tactical network, and a cost and capability assessment of current and proposed solutions. (2) Testing and fielding plans for any new procurements for such network, including an explanation of - (A) how any new programs meet the resiliency requirements specified in section 168 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116\u201392 ; 133 Stat. 1251); and (B) how any new programs will utilize NSA High Assurance certified encryption and decryption. (3) Plans to integrate existing programs of record with new programs of record and plans to ensure all systems are interoperable with both fielded systems of the Army and the systems of foreign partners. (4) Plans to complete a developmental test campaign and a formal operational test and evaluation prior to fielding new capabilities to the operational forces for use other than for experimentation.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.11796345292801831,
+      "confidence": "High",
+      "start_index": 1741,
+      "end_index": 3804,
+      "word_count": 327,
+      "token_length": 417
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec113_authorization_to_initiate_early_production_of_future_long_range_assault_aircraft.txt",
+    "sec114_limitation_on_availability_of_funds_for_the_next_generation_command_and_control_.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec113_authorization_to_initiate_early_production_of_future_long_range_assault_aircraft.txt",
+      "start_index": 0,
+      "end_index": 2296,
+      "word_count": 331
+    },
+    {
+      "filename": "sec114_limitation_on_availability_of_funds_for_the_next_generation_command_and_control_.txt",
+      "start_index": 2298,
+      "end_index": 3804,
+      "word_count": 240
+    }
+  ]
+}

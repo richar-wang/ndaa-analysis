@@ -1,0 +1,6 @@
+SEC. 5872.  OPEN DATA PUBLICATION BY THE NATIONAL CREDIT UNION ADMINISTRATION.   Title I of the Federal Credit Union Act ( 12 U.S.C. 1752 et seq. ), as amended by section 5701, is further amended by  adding  at the end the following: “SEC. 133.  12 USC 1772f . OPEN DATA PUBLICATION.   “All public data assets published by the Administration under this title shall be— “(1)  made available as an open Government data asset (as defined in  section 3502 of title 44, United States Code ); 
+ “(2)  freely available for download; 
+ “(3)  rendered in a human-readable format; and 
+ “(4)  accessible via application programming interface where appropriate.” 
+ 
+ .

@@ -1,0 +1,36 @@
+{
+  "text": "Integration of reserve component into cyber mission force (a) Study on force presentation, force generation, and force employment of the reserve component into the cyber mission force (1) Study required Not later than October 1, 2026, the Secretary of Defense shall carry out a study on the appropriate framework for structuring and organizing, including training and preparing, the reserve component personnel and units to be employed within the Cyber Mission Force for cyberspace operations. (2) Elements The study required under paragraph (1) shall include the following: (A) An analysis of the types of cyberspace operations and missions of the Cyber Mission Force that will maximize the use of the expertise, unique authorities, local industry expertise, and academic partnerships of reserve components, including methods to identify skills and competencies relevant to carrying out such operations and types of missions that are developed through civilian career experience and that are not part of primary military occupational specialties. (B) An evaluation of optimal structures and organizations for integrating reserve component personnel and units into operational employment of cyber capabilities within the Cyber Mission Force, including consideration of operational models under which reserve component personnel are activated on an individual basis to perform cyber operations rather than activation on a unit basis. (C) An identification of the billets, resources, and support infrastructure needed to satisfy the structures and organizations evaluated under subparagraph (B). (D) An explanation of the skills and training required to employ reserve component personnel in the organizations or structures evaluated under subparagraph (B), how the Secretaries of the military departments and Commander of the United States Cyber Command will conduct such training, including methods to leverage unique skills possessed by reserve component personnel through civilian career experience, and how the Commander will evaluate and assure parity in force capabilities between reserve component and active component cyber forces. (E) An evaluation of the existing barriers to integrating reserve components into the Cyber Mission Force in support of cyberspace operations and an assessment of options to mitigate such barriers, including recommended policies or legislation with respect to paragraphs (A) through (D). (F) Such other matters as the Secretary of Defense considers appropriate. (b) Report Not later than 30 days after the date on which the Secretary of Defense completes the study required by subsection (a), the Secretary of Defense shall provide to the congressional defense committees a report on the findings of such study, including elements under paragraph (2) of such subsection and any recommendations on the organization or structure of reserve component personnel and units resulting from such study.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Integration of reserve component into cyber mission force (a) Study on force presentation, force generation, and force employment of the reserve component into the cyber mission force (1) Study required Not later than October 1, 2026, the Secretary of Defense shall carry out a study on the appropriate framework for structuring and organizing, including training and preparing, the reserve component personnel and units to be employed within the Cyber Mission Force for cyberspace operations. (2) Elements The study required under paragraph (1) shall include the following: (A) An analysis of the types of cyberspace operations and missions of the Cyber Mission Force that will maximize the use of the expertise, unique authorities, local industry expertise, and academic partnerships of reserve components, including methods to identify skills and competencies relevant to carrying out such operations and types of missions that are developed through civilian career experience and that are not part of primary military occupational specialties. (B) An evaluation of optimal structures and organizations for integrating reserve component personnel and units into operational employment of cyber capabilities within the Cyber Mission Force, including consideration of operational models under which reserve component personnel are activated on an individual basis to perform cyber operations rather than activation on a unit basis. (C) An identification of the billets, resources, and support infrastructure needed to satisfy the structures and organizations evaluated under subparagraph (B). (D) An explanation of the skills and training required to employ reserve component personnel in the organizations or structures evaluated under subparagraph (B), how the Secretaries of the military departments and Commander of the United States Cyber Command will conduct such training, including methods to leverage unique skills possessed by reserve component personnel through civilian career experience, and how the Commander will evaluate and assure parity in force capabilities between reserve component and active component cyber forces. (E) An evaluation of the existing barriers to integrating reserve components into the Cyber Mission Force in support of cyberspace operations and an assessment of options to mitigate such barriers, including recommended policies or legislation with respect to paragraphs (A) through (D). (F) Such other matters as the Secretary of Defense considers appropriate. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.05385692736932209,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 2502,
+      "word_count": 360,
+      "token_length": 426
+    },
+    {
+      "text": "b) Report Not later than 30 days after the date on which the Secretary of Defense completes the study required by subsection (a), the Secretary of Defense shall provide to the congressional defense committees a report on the findings of such study, including elements under paragraph (2) of such subsection and any recommendations on the organization or structure of reserve component personnel and units resulting from such study.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.05474128574132919,
+      "confidence": "Medium",
+      "start_index": 2502,
+      "end_index": 2933,
+      "word_count": 68,
+      "token_length": 77
+    }
+  ],
+  "_submission_type": "solo"
+}

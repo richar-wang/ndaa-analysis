@@ -1,0 +1,54 @@
+{
+  "text": "Combatant command experimentation authority (a) Authority Each commander of a combatant command shall have the authority to conduct experimentation, prototyping, and technology demonstrations to support the development and testing of innovative technologies and capability solutions to address operational needs identified by the combatant command. (b) Procedures The commander of a combatant command may use the special authorities for contracting described in subsection (b) of section 843 of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118\u201331 ; 10 U.S.C. 3601 note) for activities carried out under subsection (a), provided that the procedures described in such section are followed. (c) Recommendation for follow-on production Upon completion of an experiment, prototype, or technology demonstration, if a commander of a combatant command submits to a senior contracting official (as defined in section 1737 of title 10, United States Code) a written determination that the demonstrated technology or capability meets the operational need of the combatant command, such written determination may be used to fulfill the following requirements: (1) A justification for using other than competitive procedures under section 3204 of title 10, United States Code, to acquire the technology or capability which was successfully demonstrated. (2) A validated capability needs statement or a written determination that the capability is needed to address a deficiency that affects performance of missions assigned to that command. (d) Sunset The authority under this section shall terminate on September 30, 2028. (e) Inclusion in annual report The Chairman on of the Joint Chiefs of Staff, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall include in each report required after the date of the enactment of this Act by subsection (e) of section 843 of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118\u201331 ; 6 U.S.C. 3601 note) an explanation of each use of the authority under this section during the period covered by the report.\n\nAnnual report on contract cancellations and terminations (a) Report required (1) In general For each of fiscal years 2027 through 2031, not later than 10 days after the date on which the President submits the budget to Congress pursuant to section 1105 of title 31, United States Code, for each such fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report listing any cancellation or termination for the preceding fiscal year of a contract in an amount greater than the simplified acquisition threshold. (2) Fiscal year 2025 cancellations and terminations The Secretary of Defense shall include in the first report submitted under paragraph (1) a description of any cancellation or termination of a contract in an amount greater than the simplified acquisition threshold during fiscal year 2025. (b) Elements The report required under subsection (a) shall include the following elements: (1) An identification of the unique Government identification number (commonly referred to as a Procurement Instrument Identification Number or an Indefinite Delivery Vehicle ) for each contract cancelled or terminated. (2) The total value of the contracts described in paragraph (1). (3) The total existing obligations against each such contract. (4) Any termination settlement paid, if applicable, for cancelling or terminating a contract described in paragraph (1). (5) A brief justification of the rationale for such cancellation or termination, disaggregated by contracts - (A) that do not align with the priorities of the Secretary of Defense; (B) for which the requirement no longer exists; (C) for which the requirement has decreased; (D) for which the requirement exists, but the contract did not meet requirements for cost or the schedule or performance of the contract are unacceptable; or (E) any other rationale as determined by the Secretary. (6) For any contract described in paragraph (5)(E), a justification of the proposed timeline for awarding a new contract to meet the specified requirement.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Combatant command experimentation authority (a) Authority Each commander of a combatant command shall have the authority to conduct experimentation, prototyping, and technology demonstrations to support the development and testing of innovative technologies and capability solutions to address operational needs identified by the combatant command. (b) Procedures The commander of a combatant command may use the special authorities for contracting described in subsection (b) of section 843 of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118\u201331 ; 10 U.S.C. 3601 note) for activities carried out under subsection (a), provided that the procedures described in such section are followed. (c) Recommendation for follow-on production Upon completion of an experiment, prototype, or technology demonstration, if a commander of a combatant command submits to a senior contracting official (as defined in section 1737 of title 10, United States Code) a written determination that the demonstrated technology or capability meets the operational need of the combatant command, such written determination may be used to fulfill the following requirements: (1) A justification for using other than competitive procedures under section 3204 of title 10, United States Code, to acquire the technology or capability which was successfully demonstrated. (2) A validated capability needs statement or a written determination that the capability is needed to address a deficiency that affects performance of missions assigned to that command. (d) Sunset The authority under this section shall terminate on September 30, 2028. (e) Inclusion in annual report The Chairman on of the Joint Chiefs of Staff, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall include in each report required after the date of the enactment of this Act by subsection (e) of section 843 of the National Defense Authorization Act for Fiscal Year 2024 ( Public Law 118\u201331 ; 6 U.S.C. 3601 note) an explanation of each use of the authority under this section during the period covered by the report.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006027430347684357,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2124,
+      "word_count": 321,
+      "token_length": 439
+    },
+    {
+      "text": "\n\nAnnual report on contract cancellations and terminations (a) Report required (1) In general For each of fiscal years 2027 through 2031, not later than 10 days after the date on which the President submits the budget to Congress pursuant to section 1105 of title 31, United States Code, for each such fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report listing any cancellation or termination for the preceding fiscal year of a contract in an amount greater than the simplified acquisition threshold. (2) Fiscal year 2025 cancellations and terminations The Secretary of Defense shall include in the first report submitted under paragraph (1) a description of any cancellation or termination of a contract in an amount greater than the simplified acquisition threshold during fiscal year 2025. (b) Elements The report required under subsection (a) shall include the following elements: (1) An identification of the unique Government identification number (commonly referred to as a Procurement Instrument Identification Number or an Indefinite Delivery Vehicle ) for each contract cancelled or terminated. (2) The total value of the contracts described in paragraph (1). (3) The total existing obligations against each such contract. (4) Any termination settlement paid, if applicable, for cancelling or terminating a contract described in paragraph (1). (5) A brief justification of the rationale for such cancellation or termination, disaggregated by contracts - (A) that do not align with the priorities of the Secretary of Defense; (B) for which the requirement no longer exists; (C) for which the requirement has decreased; (D) for which the requirement exists, but the contract did not meet requirements for cost or the schedule or performance of the contract are unacceptable; or (E) any other rationale as determined by the Secretary. (6) For any contract described in paragraph (5)(E), a justification of the proposed timeline for awarding a new contract to meet the specified requirement.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01084750081160261,
+      "confidence": "High",
+      "start_index": 2124,
+      "end_index": 4170,
+      "word_count": 315,
+      "token_length": 418
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec873_combatant_command_experimentation_authority.txt",
+    "sec874_annual_report_on_contract_cancellations_and_terminations.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec873_combatant_command_experimentation_authority.txt",
+      "start_index": 0,
+      "end_index": 2124,
+      "word_count": 321
+    },
+    {
+      "filename": "sec874_annual_report_on_contract_cancellations_and_terminations.txt",
+      "start_index": 2126,
+      "end_index": 4170,
+      "word_count": 315
+    }
+  ]
+}

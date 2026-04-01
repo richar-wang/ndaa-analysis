@@ -1,0 +1,8 @@
+SEC. 820.  NOTIFICATION OF NAVY PROCUREMENT PRODUCTION DISRUPTIONS. (a)  In General .— Chapter 137 of title 10, United States Code ,  is amended  by  adding  at the end the following new section: “§ 2339b. 10 USC 2339b .  Notification of Navy procurement production disruptions “(a)  Deadline. Time period. Requirement for Contractor To Provide Notice of Delays .— The Secretary of the Navy shall require prime contractors of any Navy procurement program funded under either the Shipbuilding and Conversion, Navy account or the Other Procurement, Navy account to report within 15 calendar days any stop work order or other manufacturing disruption of 15 calendar days or more, by the prime contractor or any subcontractor, to the respective program manager and Navy technical authority. 133 STAT. 1490 
+ “(b)  Quarterly Reports .— The Secretary of the Navy shall submit to the congressional defense committees not later than 15 calendar days after the end of each quarter of a fiscal year a report listing all notifications made pursuant to subsection (a) during the preceding quarter.” 
+ 
+ . 
+ (b)  Clerical Amendment .— The table of sections at the beginning of  chapter 137 of title 10, United States Code , 10 USC 2301  prec.   is amended  by  inserting  after the item relating to section 2339a the following new item: 
+ 
+ “2339b.  
+ Notification of Navy procurement production disruptions.”.

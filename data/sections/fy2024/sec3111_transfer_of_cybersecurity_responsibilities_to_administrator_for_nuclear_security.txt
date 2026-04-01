@@ -1,0 +1,3 @@
+SEC. 3111.  TRANSFER OF CYBERSECURITY RESPONSIBILITIES TO ADMINISTRATOR FOR NUCLEAR SECURITY.   The National Nuclear Security Administration Act ( 50 U.S.C. 2401 et seq. )  is amended — (1)  in section 3212(b) ( 50 U.S.C. 2402(b) ), by  adding  at the end the following new paragraph: “(20)  Information resources management, including cybersecurity.” 
+ ; and 
+ (2)  in section 3232(b)(3) ( 50 U.S.C. 2422(b)(3) ), by  striking  “ and cyber ”.

@@ -1,0 +1,36 @@
+{
+  "text": "Report on United States force posture and activities in Syria (a) In general Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Defense, in coordination with Commander of the United States Central Command, shall provide to the congressional defense committees a report on the status of the conditions-based consolidation of United States force posture, basing locations, and activities in Syria. (b) Elements The report described in subsection (a) shall include the following: (1) A determination of whether such force posture, basing locations, and activities continue to sufficiently - (A) meet objectives consistent with the purposes outlined in section 1209(a) of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 128 Stat. 354), including new cooperation with the Syrian Government and other members of the Global Coalition to Defeat the Islamic State of Iraq and Syria; (B) deter Iran and Iranian-linked groups, including the Iranian Revolutionary Guard Corps Quds Force and the proxies and affiliates of such Force operating inside Syria; (C) support the Syrian Democratic Forces and other Syrian groups and individuals in maintaining stability and security throughout the formation of a representative and inclusive Syrian government that defends the rights and interests of all minorities; and (D) deter instability emanating from Syria, including threats to the United States and allies and partners of the United States, including Israel. (2) A description of the operational and strategic conditions informing decisions made relative to subsection (a), including detailed evaluation criteria and processes for continual assessment. (3) A description of how the objectives in subsection (a) are being met, or what changes need to be implemented to meet such objectives. (4) A description of the current posture of the Armed Forces in Syria and levels of engagement by the Armed Forces with Syrian groups and individuals. (5) Changes in the assessment of the threat to the United States, and allies and partners of the United States, from the Islamic State of Iraq and Syria. (6) A description of any planned posture changes of the Armed Forces in Syria, and the projected impacts on United States engagement with partner forces in Syria. (7) Any other matters the Secretary or the Commander deem relevant. (c) Form The report shall be submitted in unclassified form but may include a classified annex. (d) Sunset The requirement under this section shall terminate 3 years after the date of enactment of this Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on United States force posture and activities in Syria (a) In general Not later than 120 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Defense, in coordination with Commander of the United States Central Command, shall provide to the congressional defense committees a report on the status of the conditions-based consolidation of United States force posture, basing locations, and activities in Syria. (b) Elements The report described in subsection (a) shall include the following: (1) A determination of whether such force posture, basing locations, and activities continue to sufficiently - (A) meet objectives consistent with the purposes outlined in section 1209(a) of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 128 Stat. 354), including new cooperation with the Syrian Government and other members of the Global Coalition to Defeat the Islamic State of Iraq and Syria; (B) deter Iran and Iranian-linked groups, including the Iranian Revolutionary Guard Corps Quds Force and the proxies and affiliates of such Force operating inside Syria; (C) support the Syrian Democratic Forces and other Syrian groups and individuals in maintaining stability and security throughout the formation of a representative and inclusive Syrian government that defends the rights and interests of all minorities; and (D) deter instability emanating from Syria, including threats to the United States and allies and partners of the United States, including Israel. (2) A description of the operational and strategic conditions informing decisions made relative to subsection (a), including detailed evaluation criteria and processes for continual assessment. (3) A description of how the objectives in subsection (a) are being met, or what changes need to be implemented to meet such objectives. (4) A description of the current posture of the Armed Forces in Syria and levels of engagement by the Armed Forces with Syrian groups and individuals. (5) Changes in the assessment of the threat to the United States, and allies and partners of the United States, from the Islamic State of Iraq and Syria. (6) A description of any planned posture changes of the Armed Forces in Syria, and the projected impacts on United States engagement with partner forces in Syria. (7) Any other matters the Secretary or the Commander deem relevant. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00525048840790987,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2448,
+      "word_count": 384,
+      "token_length": 486
+    },
+    {
+      "text": "c) Form The report shall be submitted in unclassified form but may include a classified annex. (d) Sunset The requirement under this section shall terminate 3 years after the date of enactment of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00525048840790987,
+      "confidence": "High",
+      "start_index": 2448,
+      "end_index": 2653,
+      "word_count": 35,
+      "token_length": 43
+    }
+  ],
+  "_submission_type": "solo"
+}

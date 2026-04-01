@@ -1,0 +1,5 @@
+SEC. 1644.  OPERATIONAL TIMELINE FOR STRATEGIC AUTOMATED COMMAND AND CONTROL SYSTEM. (a)  Deadline. In General .— The Secretary of the Air Force shall develop a replacement of the Strategic Automated Command and Control System (SACCS) by not later than the date on which the LGM–35A Sentinel intercontinental ballistic missile program reaches initial operational capability. 
+ (b)  Replacement Capabilities .— The replacement required by subsection (a) shall— (1)  replace the SACCS base processors; 
+ (2)  replace the SACCS processors at launch control centers; 
+ (3)  provide internet protocol connectivity for wing-wide command centers of the LGM–35A Sentinel intercontinental ballistic missile program; and 
+ (4)  include such other capabilities necessary to address the evolving requirements of the LGM–35A Sentinel intercontinental ballistic missile program as the Secretary considers appropriate.

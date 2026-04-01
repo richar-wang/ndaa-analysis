@@ -1,0 +1,18 @@
+SEC. 6504.  STRATEGY FOR COUNTERING RUSSIAN CYBER THREATS TO UNITED STATES ELECTIONS. (a)  Appropriate Congressional Committees Defined .— In this section, the term “ appropriate congressional committees ” means the following: (1)  The congressional intelligence committees. 
+ (2)  The Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate. 
+ (3)  The Committee on Armed Services and the Committee on Homeland Security of the House of Representatives. 
+ (4)  The Committee on Foreign Relations of the Senate. 
+ (5)  The Committee on Foreign Affairs of the House of Representatives. 
+ 
+ (b)  Deadline. Coordination. Requirement for a Strategy .— Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence, in coordination with the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Secretary of State, the Secretary of Defense, and the Secretary of the Treasury, shall develop a whole-of-government strategy for countering the threat of Russian cyber attacks and attempted cyber attacks against electoral systems and processes in the United States, including Federal, State, and local election systems, voter registration databases, voting tabulation equipment, and equipment and processes for the secure transmission of election results. 
+ (c)  Elements of the Strategy .— The strategy required by subsection (b) shall include the following elements: 133 STAT. 2205 (1)  A whole-of-government approach to protecting United States electoral systems and processes that includes the agencies and departments indicated in subsection (b) as well as any other agencies and departments of the United States, as determined appropriate by the Director of National Intelligence and the Secretary of Homeland Security. 
+ (2)  Input solicited from Secretaries of State of the various States and the chief election officials of the States. 
+ (3)  Technical security measures, including auditable paper trails for voting machines, securing wireless and internet connections, and other technical safeguards. 
+ (4)  Detection of cyber threats, including attacks and attempted attacks by Russian government or nongovernment cyber threat actors. 
+ (5)  Improvements in the identification and attribution of Russian government or nongovernment cyber threat actors. 
+ (6)  Deterrence, including actions and measures that could or should be undertaken against or communicated to the Government of Russia or other entities to deter attacks against, or interference with, United States election systems and processes. 
+ (7)  Improvements in Federal Government communications with State and local election officials. 
+ (8)  Public education and communication efforts. 
+ (9)  Benchmarks and milestones to enable the measurement of concrete steps taken and progress made in the implementation of the strategy. 
+ 
+ (d)  Deadline. Congressional Briefing .— Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence and the Secretary of Homeland Security shall jointly brief the appropriate congressional committees on the strategy developed under subsection (b).

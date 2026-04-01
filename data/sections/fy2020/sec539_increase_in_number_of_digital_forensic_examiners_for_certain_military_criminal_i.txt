@@ -1,0 +1,6 @@
+SEC. 539.  10 USC 1561 note  prec. INCREASE IN NUMBER OF DIGITAL FORENSIC EXAMINERS FOR CERTAIN MILITARY CRIMINAL INVESTIGATIVE ORGANIZATIONS. (a)  In General .— Each Secretary of a military department shall take appropriate actions to increase the number of digital forensic examiners in each military criminal investigative organization specified in subsection (b) under the jurisdiction of such Secretary by not fewer than 10 from the authorized number of such examiners for such organization as of September 30, 2019. 
+ (b)  Military Criminal Investigative Organizations .— The military criminal investigative organizations specified in this subsection are the following: (1)  The Army Criminal Investigation Command. 
+ (2)  The Naval Criminal Investigative Service. 
+ (3)  The Air Force Office of Special Investigations. 
+ 
+ (c)  Funding .— Funds for additional digital forensic examiners as required by subsection (a) for fiscal year 2020, including for compensation, initial training, and equipment, shall be derived from amounts authorized to be appropriated for that fiscal year for the Armed Force concerned for operation and maintenance.

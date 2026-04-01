@@ -1,0 +1,26 @@
+{
+  "text": "Disposition of weapons and materiel in transit from Iran to the Houthis in Yemen (a) Disposition of weapons and materiel The President may treat as stocks of the United States, including for drawdown uses consistent with section 506(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2318(a) ), any weapon or materiel intended for the Houthis in the Republic of Yemen and obtained by the United States in transit or otherwise. (b) Report Not later than 180 days after the date of the enactment of this Act, and annually thereafter for five years, the President shall submit to the appropriate committees of Congress a report that includes the following: (1) The number of times the President exercised the authority under subsection (a). (2) An inventory of the weapons and materiel treated as United States stocks pursuant to such authority. (3) An inventory of the weapons and materiel provided to foreign partners, to include the Government of Yemen, pursuant to the authority provided in subsection (a). (4) An assessment of the capacity and overall professionalism of the Yemeni coast guard, including their capability to expand oversight of Yemen\u2019s territorial waters and carry out lawful anti-piracy and interdiction efforts, particularly with respect to implementation of any relevant United Nations Security Council Resolutions, and an overview of the steps the United States is taking to support these efforts; and (5) an assessment of the legal authorities underpinning the interdiction of illicit shipments to the Houthis, and related challenges to boosting the success of international interdiction efforts. (c) Appropriate committees of Congress defined In this section, the term appropriate committees of Congress means - (1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and (2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Disposition of weapons and materiel in transit from Iran to the Houthis in Yemen (a) Disposition of weapons and materiel The President may treat as stocks of the United States, including for drawdown uses consistent with section 506(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2318(a) ), any weapon or materiel intended for the Houthis in the Republic of Yemen and obtained by the United States in transit or otherwise. (b) Report Not later than 180 days after the date of the enactment of this Act, and annually thereafter for five years, the President shall submit to the appropriate committees of Congress a report that includes the following: (1) The number of times the President exercised the authority under subsection (a). (2) An inventory of the weapons and materiel treated as United States stocks pursuant to such authority. (3) An inventory of the weapons and materiel provided to foreign partners, to include the Government of Yemen, pursuant to the authority provided in subsection (a). (4) An assessment of the capacity and overall professionalism of the Yemeni coast guard, including their capability to expand oversight of Yemen\u2019s territorial waters and carry out lawful anti-piracy and interdiction efforts, particularly with respect to implementation of any relevant United Nations Security Council Resolutions, and an overview of the steps the United States is taking to support these efforts; and (5) an assessment of the legal authorities underpinning the interdiction of illicit shipments to the Houthis, and related challenges to boosting the success of international interdiction efforts. (c) Appropriate committees of Congress defined In this section, the term appropriate committees of Congress means - (1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and (2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00976248737424612,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1938,
+      "word_count": 305,
+      "token_length": 400
+    }
+  ],
+  "_submission_type": "solo"
+}

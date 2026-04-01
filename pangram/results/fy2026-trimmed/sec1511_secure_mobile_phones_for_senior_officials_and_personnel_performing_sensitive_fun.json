@@ -1,0 +1,26 @@
+{
+  "text": "Secure mobile phones for senior officials and personnel performing sensitive functions (a) In general Beginning not later than 90 days after the date of enactment of this Act, the Secretary of Defense shall ensure that each wireless mobile phone the Department of Defense provides to a senior official of the Department or any other employee of the Department who performs sensitive national security functions, as determined by the Secretary, and all related telecommunications services are acquired under contracts or other agreements that require the enhanced cybersecurity protections described in subsection (b). (b) Protections described The enhanced cybersecurity protections described in this subsection enhanced cybersecurity protections for wireless mobile phones and related telecommunication services that includes - (1) encryption of data on the wireless mobile phones and of all telecommunications to and from the wireless mobile phones through such telecommunication services; (2) capabilities to mitigate or obfuscate persistent device identifiers, including periodic rotation of network or hardware identifiers to reduce the risk of inappropriate tracking of the activity or location of the wireless mobile phones; and (3) the capability to continuously monitor the wireless mobile phones. (c) Report Not later than 180 days after the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report containing - (1) a list of the contracts or other agreements entered into pursuant to subsection (a); (2) the criteria used by the Secretary to determine which employees of the Department of Defense performs sensitive national security functions for the purposes of subsection (a), and the total number of such employees; and (3) the total costs of wireless mobile phones and telecommunication services required by subsection (a).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Secure mobile phones for senior officials and personnel performing sensitive functions (a) In general Beginning not later than 90 days after the date of enactment of this Act, the Secretary of Defense shall ensure that each wireless mobile phone the Department of Defense provides to a senior official of the Department or any other employee of the Department who performs sensitive national security functions, as determined by the Secretary, and all related telecommunications services are acquired under contracts or other agreements that require the enhanced cybersecurity protections described in subsection (b). (b) Protections described The enhanced cybersecurity protections described in this subsection enhanced cybersecurity protections for wireless mobile phones and related telecommunication services that includes - (1) encryption of data on the wireless mobile phones and of all telecommunications to and from the wireless mobile phones through such telecommunication services; (2) capabilities to mitigate or obfuscate persistent device identifiers, including periodic rotation of network or hardware identifiers to reduce the risk of inappropriate tracking of the activity or location of the wireless mobile phones; and (3) the capability to continuously monitor the wireless mobile phones. (c) Report Not later than 180 days after the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report containing - (1) a list of the contracts or other agreements entered into pursuant to subsection (a); (2) the criteria used by the Secretary to determine which employees of the Department of Defense performs sensitive national security functions for the purposes of subsection (a), and the total number of such employees; and (3) the total costs of wireless mobile phones and telecommunication services required by subsection (a).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0054058050736784935,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1892,
+      "word_count": 278,
+      "token_length": 331
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Ensuring intelligence community procurement of domestic United States production of synthetic DNA and RNA (a) In general Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence, in consultation with such other heads of elements of the intelligence community as the Director considers appropriate, shall establish a policy to ensure that elements of the intelligence community that procure products made using synthetic DNA or RNA from domestic sources do not contract with Chinese biotechnology suppliers or Chinese biotechnology supply chain intermediaries that are determined by the Director to pose a security or supply chain threat to the United States. (b) Elements The policy required by subsection (a) shall provide that an element of the intelligence community may not - (1) procure or obtain any product made using synthetic DNA or RNA unless - (A) the final assembly or processing of the product occurs in the United States; (B) all significant processing of the product occurs in the United States; and (C) all or nearly all ingredients or components of the product are made and sourced in the United States or an allied nation; or (2) contract with any Chinese biotechnology supplier or Chinese biotechnology supply chain intermediary that is determined by the Director to pose a security or supply chain threat to the United States. (c) Waiver As part of the policy required by subsection (a), the Director of National Intelligence may establish a waiver process for the heads of the elements of the intelligence community under which the head of the relevant element may waive the prohibition under subsection (b). A waiver may be made under the process only if the head of the relevant element complies with any conditions the Director may establish for the waiver process. (d) Definitions In this section: (1) Biotechnology The term \u2018\u2018biotechnology\u2019\u2019 means the use of biological processes, organisms, or systems for manufacturing, research, or medical purposes, including genetic engineering, synthetic biology, and bioinformatics. (2) Chinese biotechnology supplier The term Chinese biotechnology supplier means a supplier of biotechnology that is organized under the laws of, or otherwise subject to the jurisdiction of, the People\u2019s Republic of China. (3) Chinese biotechnology supply chain intermediary The term Chinese biotechnology supply chain intermediary means a United States domestic supplier of biotechnology where a controlling interest in the United States domestic supplier is owned by the People\u2019s Republic of China. (4) Synthetic DNA or RNA The term synthetic DNA or RNA means any nucleic acid sequence that is produced de novo through chemical or enzymatic synthesis.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Ensuring intelligence community procurement of domestic United States production of synthetic DNA and RNA (a) In general Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence, in consultation with such other heads of elements of the intelligence community as the Director considers appropriate, shall establish a policy to ensure that elements of the intelligence community that procure products made using synthetic DNA or RNA from domestic sources do not contract with Chinese biotechnology suppliers or Chinese biotechnology supply chain intermediaries that are determined by the Director to pose a security or supply chain threat to the United States. (b) Elements The policy required by subsection (a) shall provide that an element of the intelligence community may not - (1) procure or obtain any product made using synthetic DNA or RNA unless - (A) the final assembly or processing of the product occurs in the United States; (B) all significant processing of the product occurs in the United States; and (C) all or nearly all ingredients or components of the product are made and sourced in the United States or an allied nation; or (2) contract with any Chinese biotechnology supplier or Chinese biotechnology supply chain intermediary that is determined by the Director to pose a security or supply chain threat to the United States. (c) Waiver As part of the policy required by subsection (a), the Director of National Intelligence may establish a waiver process for the heads of the elements of the intelligence community under which the head of the relevant element may waive the prohibition under subsection (b). A waiver may be made under the process only if the head of the relevant element complies with any conditions the Director may establish for the waiver process. (d) Definitions In this section: (1) Biotechnology The term \u2018\u2018biotechnology\u2019\u2019 means the use of biological processes, organisms, or systems for manufacturing, research, or medical purposes, including genetic engineering, synthetic biology, and bioinformatics. (2) Chinese biotechnology supplier The term Chinese biotechnology supplier means a supplier of biotechnology that is organized under the laws of, or otherwise subject to the jurisdiction of, the People\u2019s Republic of China. (3) Chinese biotechnology supply chain intermediary The term Chinese biotechnology supply chain intermediary means a United States domestic supplier of biotechnology where a controlling interest in the United States domestic supplier is owned by the People\u2019s Republic of China. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0061796908266842365,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2600,
+      "word_count": 403,
+      "token_length": 483
+    },
+    {
+      "text": "4) Synthetic DNA or RNA The term synthetic DNA or RNA means any nucleic acid sequence that is produced de novo through chemical or enzymatic synthesis.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0061796908266842365,
+      "confidence": "High",
+      "start_index": 2600,
+      "end_index": 2751,
+      "word_count": 26,
+      "token_length": 29
+    }
+  ],
+  "_submission_type": "solo"
+}

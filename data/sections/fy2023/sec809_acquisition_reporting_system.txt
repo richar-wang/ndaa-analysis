@@ -1,0 +1,11 @@
+SEC. 809.  ACQUISITION REPORTING SYSTEM. (a)  10 USC 4351 note . In General .— The Secretary of Defense shall institute a defense acquisition reporting system to replace the requirements of  section 4351 of title 10, United States Code , as soon as practicable but not later than June 30, 2023. 
+ (b)  Elements .— The reporting system required under subsection (a) shall— (1)  produce the information necessary to carry out the actions specified in  chapter 325 of title 10, United States Code ; 136 STAT. 2706 
+ (2)  produce the information necessary to carry out the actions specified in sections 4217 and 4311 of the Atomic Energy Defense Act ( 50 U.S.C. 2537 , 2577); 
+ (3)  incorporate— (A)  the lessons learned from the demonstration carried out under subsection (b) of section 805 of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ;  135 Stat. 1816 ); and 
+ (B)  Plans. the plans required under subsection (c) of such section ( Public Law 117–81 ;  135 Stat. 1817 ); 
+ 
+ (4)  Time period. provide the congressional defense committees and other designated Government entities with access to acquisition reporting that is updated on a not less than quarterly basis; and 
+ (5)  include such other information and functions as the Secretary of Defense determines appropriate to support the acquisition reporting needs of the Department of Defense. 
+ 
+ (c)  Conforming Amendments .— The Atomic Energy Defense Act ( 50 U.S.C. 2501 et seq. )  is amended — (1)  in section 4217(a)(2), 50 USC 2537 .  by  inserting  “ or any successor system, ” after “ United States Code, ”; and 
+ (2)  in section 4311(a)(2), 50 USC 2577 .  by  inserting  “ or any successor system, ” after “ United States Code, ”.

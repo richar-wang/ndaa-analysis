@@ -1,0 +1,19 @@
+SEC. 662.  REPORT ON ACCURACY OF BASIC ALLOWANCE FOR HOUSING. (a)  Report; Elements .— Not later than one year after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretary of the department in which the Coast Guard is operating, shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on BAH. Such report shall contain the following elements: (1)  Evaluations. The evaluation of the Secretary— (A)  of the efficiency and accuracy of the current system used to calculate BAH; 
+ (B)  the appropriateness of using mean and median housing costs in such calculation; 
+ (C)  of existing MHAs, in relation to choices in, and availability of, housing to servicemembers; 
+ (D)  of the suitability of the six standard housing profiles in relation to the average family sizes of servicemembers, disaggregated by uniformed service, rank, and MHA; 
+ (E)  of the flexibility of BAH to respond to changes in real estate markets; and 
+ (F)  of residential real estate processes to determine rental rates. 
+ 
+ (2)  Recommenda- tions. The recommendation of the Secretary— 136 STAT. 2641 
+ (A)  regarding the feasibility of including information, furnished by Federal entities, regarding school districts, in calculating BAH; 
+ (B)  whether to calculate BAH more frequently, including in response to a sudden change in the housing market; 
+ (C)  whether to enter into an agreement with a covered entity, to compile data and develop an enterprise grade, objective, data-driven algorithm to calculate BAH; 
+ (D)  whether to publish the methods used by the Secretary to calculate BAH on a publicly accessible website of the Department of Defense; and 
+ (E)  whether BAH calculations appropriately account for increased housing costs associated with Coast Guard facilities. 
+ 
+ 
+ (b)  Definitions .— In this section: (1)  The term “ BAH ” means the basic allowance for housing for members of the uniformed services under  section 403 of title 37, United States Code . 
+ (2)  The term “ covered entity ” means a nationally recognized entity in the field of commercial real estate that has data on local rental rates in real estate markets across the United States. 
+ (3)  The term “ MHA ” means military housing area. 
+ (4)  The term “ servicemember ” has the meaning given such term in section 101 of the Servicemembers Civil Relief Act ( 50 U.S.C. 3911 ).

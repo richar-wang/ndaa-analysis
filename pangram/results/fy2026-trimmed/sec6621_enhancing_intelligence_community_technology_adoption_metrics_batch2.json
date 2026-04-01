@@ -1,0 +1,54 @@
+{
+  "text": "Enhancing intelligence community technology adoption metrics (a) Metric Development and Implementation Not later than 270 days after the date of the enactment of this Act, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the National Reconnaissance Office, and the Director of the Defense Intelligence Agency shall each develop and implement a process (which may be different from the processes of the other elements) that makes use of a single set of metrics to assess, on an agency-wide, aggregate basis, the success of the agency\u2019s efforts regarding the adoption, integration, and operational impact of the most relevant emerging technologies within the respective agencies of those Directors. (b) Briefing Not later than one year after the date of enactment of this Act, the head of each agency described in subsection (a) shall provide to the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives a briefing on the implementation of this section, including - (1) the metrics established under subsection (a); (2) the success of the element toward meeting such metrics; and (3) any recommendations of the head of such agency for legislative or regulatory reforms to improve technology adoption. (c) Definitions In this section, the term emerging technology has the meaning given such term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117\u2013263 ; 50 U.S.C. 3024 note).\n\nReport on identification of intelligence community sites for advanced nuclear technologies (a) Definition of appropriate committees of Congress In this section, the term appropriate committees of Congress means - (1) the congressional intelligence committees; (2) the Committees on Armed Services of the Senate and the House of Representatives; (3) the Committee on Energy and Natural Resources, the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Environment and Public Works of the Senate; and (4) the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives. (b) Report on identification of sites Not later than 240 days after the date of the enactment of this Act, the Director of National Intelligence shall, in consultation with such heads of elements of the intelligence community as the Director considers necessary, and in coordination with efforts of the Secretary of Defense and the Secretary of Energy, submit to the appropriate committees of Congress a report identifying 1 or more sites which could benefit from secure, resilient energy through the deployment of advanced nuclear technologies, which deployment would be to serve in whole or in part the facility, structure, infrastructure, or part thereof for which a head of an element of the intelligence community has financial or maintenance responsibility. (c) Plans The report submitted pursuant to subsection (b) shall include plans to ensure - (1) prioritizing early site preparation and licensing activities for deployment of advanced nuclear technologies with a goal of beginning advanced nuclear technology deployment at any identified site not later than 3 years after the date of the enactment of this Act; (2) the ability to authorize an identified site to interconnect with the commercial electric grid, in accordance with the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq. ), if the head of the element responsible for the reactor deployment determines that such interconnection enhances national security; and (3) fuel for the advanced nuclear technologies operated at identified sites is not subject to obligations (as defined in section 110.2 of title 10, Code of Federal Regulations, or successor regulations).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Enhancing intelligence community technology adoption metrics (a) Metric Development and Implementation Not later than 270 days after the date of the enactment of this Act, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the National Geospatial-Intelligence Agency, the Director of the National Reconnaissance Office, and the Director of the Defense Intelligence Agency shall each develop and implement a process (which may be different from the processes of the other elements) that makes use of a single set of metrics to assess, on an agency-wide, aggregate basis, the success of the agency\u2019s efforts regarding the adoption, integration, and operational impact of the most relevant emerging technologies within the respective agencies of those Directors. (b) Briefing Not later than one year after the date of enactment of this Act, the head of each agency described in subsection (a) shall provide to the congressional intelligence committees and the Committees on Appropriations of the Senate and the House of Representatives a briefing on the implementation of this section, including - (1) the metrics established under subsection (a); (2) the success of the element toward meeting such metrics; and (3) any recommendations of the head of such agency for legislative or regulatory reforms to improve technology adoption. (c) Definitions In this section, the term emerging technology has the meaning given such term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117\u2013263 ; 50 U.S.C. 3024 note).\n\nReport on identification of intelligence community sites for advanced nuclear technologies (a) Definition of appropriate committees of Congress In this section, the term appropriate committees of Congress means - (1) the congressional intelligence committees; (2) the Committees on Armed Services of the Senate and the House of Representatives; (3) the Committee on Energy and Natural Resources, the Committee on Commerce, Science, and Transportation, the Committee on Homeland Security and Governmental Affairs, and the Committee on Environment and Public Works of the Senate; and (4) the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008206117385998368,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2353,
+      "word_count": 356,
+      "token_length": 462
+    },
+    {
+      "text": "b) Report on identification of sites Not later than 240 days after the date of the enactment of this Act, the Director of National Intelligence shall, in consultation with such heads of elements of the intelligence community as the Director considers necessary, and in coordination with efforts of the Secretary of Defense and the Secretary of Energy, submit to the appropriate committees of Congress a report identifying 1 or more sites which could benefit from secure, resilient energy through the deployment of advanced nuclear technologies, which deployment would be to serve in whole or in part the facility, structure, infrastructure, or part thereof for which a head of an element of the intelligence community has financial or maintenance responsibility. (c) Plans The report submitted pursuant to subsection (b) shall include plans to ensure - (1) prioritizing early site preparation and licensing activities for deployment of advanced nuclear technologies with a goal of beginning advanced nuclear technology deployment at any identified site not later than 3 years after the date of the enactment of this Act; (2) the ability to authorize an identified site to interconnect with the commercial electric grid, in accordance with the Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq. ), if the head of the element responsible for the reactor deployment determines that such interconnection enhances national security; and (3) fuel for the advanced nuclear technologies operated at identified sites is not subject to obligations (as defined in section 110.2 of title 10, Code of Federal Regulations, or successor regulations).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00670771230943501,
+      "confidence": "High",
+      "start_index": 2353,
+      "end_index": 3988,
+      "word_count": 256,
+      "token_length": 315
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec6621_enhancing_intelligence_community_technology_adoption_metrics.txt",
+    "sec6622_report_on_identification_of_intelligence_community_sites_for_advanced_nuclear_te.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec6621_enhancing_intelligence_community_technology_adoption_metrics.txt",
+      "start_index": 0,
+      "end_index": 1655,
+      "word_count": 254
+    },
+    {
+      "filename": "sec6622_report_on_identification_of_intelligence_community_sites_for_advanced_nuclear_te.txt",
+      "start_index": 1657,
+      "end_index": 3988,
+      "word_count": 357
+    }
+  ]
+}

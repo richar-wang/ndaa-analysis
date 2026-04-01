@@ -1,0 +1,26 @@
+{
+  "text": "Development of policies on military protective orders (1) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall issue updated written detailed policies of the Coast Guard relating to military protective orders that are consistent with the law and policies of the Department of Defense. (2) Elements The policies developed under paragraph (1) shall require - (A) that any denial of a request for a military protective order shall include a written explanation for the denial, which shall be - (i) forwarded to the next flag officer in the chain of command of the commanding officer or other approving authority who denied the request; and (ii) provided to the member who submitted the request; and (B) the recusal of an approving authority from participating in the granting or denying of a military protective order, if such authority was, at any time - (i) the subject of a complaint of any form of assault, harassment, or retaliation filed by the member requesting the military protective order or the member who is the subject of the military protective order; or (ii) associated with the member requesting the military protective order or the member who is the subject of the military protective order in a manner that presents as an actual or apparent conflict of interest. (3) Notification requirement The Commandant shall develop a policy to ensure that sexual assault response coordinators, victim advocates, and other appropriate personnel shall inform victims of the process by which the victim may request an expedited transfer, a no-contact order, or a military or civilian protective order.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Development of policies on military protective orders (1) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall issue updated written detailed policies of the Coast Guard relating to military protective orders that are consistent with the law and policies of the Department of Defense. (2) Elements The policies developed under paragraph (1) shall require - (A) that any denial of a request for a military protective order shall include a written explanation for the denial, which shall be - (i) forwarded to the next flag officer in the chain of command of the commanding officer or other approving authority who denied the request; and (ii) provided to the member who submitted the request; and (B) the recusal of an approving authority from participating in the granting or denying of a military protective order, if such authority was, at any time - (i) the subject of a complaint of any form of assault, harassment, or retaliation filed by the member requesting the military protective order or the member who is the subject of the military protective order; or (ii) associated with the member requesting the military protective order or the member who is the subject of the military protective order in a manner that presents as an actual or apparent conflict of interest. (3) Notification requirement The Commandant shall develop a policy to ensure that sexual assault response coordinators, victim advocates, and other appropriate personnel shall inform victims of the process by which the victim may request an expedited transfer, a no-contact order, or a military or civilian protective order.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008678232319653034,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1646,
+      "word_count": 268,
+      "token_length": 316
+    }
+  ],
+  "_submission_type": "solo"
+}

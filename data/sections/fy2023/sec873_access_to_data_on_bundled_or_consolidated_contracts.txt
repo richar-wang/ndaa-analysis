@@ -1,0 +1,21 @@
+SEC. 873.  ACCESS TO DATA ON BUNDLED OR CONSOLIDATED CONTRACTS. (a)  In General .— Section 15(p) of the Small Business Act ( 15 U.S.C. 644(p) )  is amended — (1)  by  amending  paragraph (1) to read as follows: “(1)  Bundled or consolidated contract defined .— In this subsection, the term ‘ bundled or consolidated contract ’ has the meaning given in subsection (s).” 
+ ; 
+ (2)  in paragraph (4)— (A)  in the paragraph heading, by  striking  “ contract bundling ” and  inserting  “ bundled or consolidated contracts ”; 
+ (B)  in subparagraph (A), by  striking  “ contract bundling ” and  inserting  “ bundled or consolidated contracts ”; 
+ (C)  in subparagraph (B)— (i)  in clause (i), by  striking  “ bundled contracts ” and  inserting  “ bundled or consolidated contracts ”; and 
+ (ii)  in clause (ii)— (I)  in the matter preceding subclause (I), by  striking  “ bundled contracts ” and  inserting  “ bundled or consolidated contracts ”; 
+ (II)  in subclause (I), by  striking  “ were bundled ” and  inserting  “ were included in bundled or consolidated contracts ”; and 
+ (III)  in subclause (II)— (aa)  in the matter preceding item (aa), by  striking  “ bundled contract ” and  inserting  “ bundled or consolidated contract ”; 
+ (bb)  in items (aa), (dd), and (ee) by  inserting  “ or the consolidation of contract requirements (as applicable) ” after “ bundling of contract requirements ” each place it appears; 
+ (cc)  in item (bb), by  striking  “ bundling the contract requirements ” and  inserting  “ the bundling of contract requirements or the  136 STAT. 2741 
+consolidation of contract requirements (as applicable) ”; 
+ (dd)  in item (cc), by  striking  “ the bundled status of contract requirements ” and  inserting  “ contract requirements in a bundled or consolidated contract ”; and 
+ (ee)  in item (ee), by  striking  “ consolidated requirements ” and  inserting  “ contract ”; and 
+ 
+ 
+ 
+ 
+ (3)  in paragraph (5)(B), by  striking  “ provide, upon request ” and all that follows through the period at the end and  inserting  the following: “ provide to the Administrator data and information described in paragraphs (2) and (4). ”. 
+ 
+ (b)  Technical Amendment .— Section 15(p)(2) of the Small Business Act ( 15 U.S.C. 644(p) )  is amended — (1)  by  striking  “ Database ” in the paragraph heading and all that follows through “ Not later ” and  inserting  “ Database.— Not later ”; and 
+ (2)  by  redesignating  clauses (i) and (ii) as subparagraphs (A) and (B), respectively.

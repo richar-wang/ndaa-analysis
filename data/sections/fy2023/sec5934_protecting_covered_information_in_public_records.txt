@@ -1,0 +1,67 @@
+SEC. 5934.  PROTECTING COVERED INFORMATION IN PUBLIC RECORDS. (a)  Government Agencies .— (1)  In general .— Each at-risk individual may— (A)  file written notice of the status of the individual as an at-risk individual, for themselves and immediate family members, with each Government agency that includes information necessary to ensure compliance with this section; and 
+ (B)  request that each Government agency described in subparagraph (A) mark as private their covered information and that of their immediate family members. 
+ 
+ (2)  No public posting .— Government agencies shall not publicly post or display publicly available content that includes covered information of an at-risk individual or immediate family member. Government agencies, upon receipt of a written request under paragraph (1)(A), shall remove the covered information of the at-risk individual or immediate family member from publicly available content not later than 72 hours after such receipt. 
+ (3)  Exceptions .— Nothing in this section shall prohibit a Government agency from providing access to records containing the covered information of a Federal judge to a third party if the third party— (A)  possesses a signed release from the Federal judge or a court order; 
+ (B)  is subject to the requirements of title V of the Gramm-Leach-Bliley Act ( 15 U.S.C. 6801 et seq. ); or 
+ (C)  executes a confidentiality agreement with the Government agency. 
+ 
+ 
+ (b)  Delegation of Authority .— (1)  In general .— An at-risk individual may directly, or through an agent designated by the at-risk individual, make any notice or request required or authorized by this section on behalf of the at-risk individual. The notice or request shall be in writing and contain information necessary to ensure compliance with this section, including information expressly referencing the prohibition on the posting or transfer of covered information, information regarding redress and penalties for violations provided in subsection (f), and contact information to allow the recipient to verify the accuracy of any notice or request and answer questions by the recipient of the notice or request. 
+ (2)  Authorization of government agencies to make requests .— (A)  Administrative office of the united states courts .— Upon written request of an at-risk individual described in subparagraphs (A) through (E) of section 5933(4), the Director of the Administrative Office of the United States Courts is authorized to make any notice or request required or authorized by this section on behalf of the at-risk individual. The notice or request shall include information necessary to ensure compliance with this section, as determined by the Administrative Office of the United States Courts. The Director may delegate this authority under  section 602(d) of title 28, United States Code . Any notice or request made under this subsection shall be deemed to have been made by the at-risk individual  136 STAT. 3463 
+and comply with the notice and request requirements of this section. 
+ (B)  United states court of appeals for veterans claims .— Upon written request of an at-risk individual described in section 5933(4)(F), the chief judge of the United States Court of Appeals for Veterans Claims is authorized to make any notice or request required or authorized by this section on behalf of the at-risk individual. Any notice or request made under this subsection shall be deemed to have been made by the at-risk individual and comply with the notice and request requirements of this section. 
+ (C)  United states court of appeals for the armed forces .— Upon written request of an at-risk individual described in section 5933(4)(G), the chief judge of the United States Court of Appeals for the Armed Forces is authorized to make any notice or request required or authorized by this section on behalf of the at-risk individual. Any notice or request made under this subsection shall be deemed to have been made by the at-risk individual and comply with the notice and request requirements of this section. 
+ (D)  United states tax court .— Upon written request of an at-risk individual described in subparagraph (H) or (I) of section 5933(4), the chief judge of the United States Tax Court is authorized to make any notice or request required or authorized by this section on behalf of the at-risk individual. Any notice or request made under this subsection shall be deemed to have been made by the at-risk individual and comply with the notice and request requirements of this section. 
+ 
+ 
+ (c)  State and Local Governments .— (1)  Grant program to prevent disclosure of personal information of at-risk individuals or immediate family members .— (A)  Authorization .— The Attorney General may make grants to prevent the release of covered information of at-risk individuals and immediate family members (in this subsection referred to as “judges’ covered information”) to the detriment of such individuals or their immediate family members to an entity that— (i)  is— (I)  a State or unit of local government, as defined in section 901 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ( 34 U.S.C. 10251 ); or 
+ (II)  an agency of a State or unit of local government; and 
+ 
+ (ii)  operates a State or local database or registry that contains covered information. 
+ 
+ (B)  Application .— An entity seeking a grant under this subsection shall submit to the Attorney General an application at such time, in such manner, and containing such information as the Attorney General may reasonably require. 
+ 
+ (2)  Scope of grants .— Grants made under this subsection may be used to create or expand programs designed to protect judges’ covered information, including through— 136 STAT. 3464 (A)  the creation of programs to redact or remove judges’ covered information, upon the request of an at-risk individual, from public records in State agencies, including hiring a third party to redact or remove judges’ covered information from public records; 
+ (B)  the expansion of existing programs that the State may have enacted in an effort to protect judges’ covered information; 
+ (C)  the development or improvement of protocols, procedures, and policies to prevent the release of judges’ covered information; 
+ (D)  the defrayment of costs of modifying or improving existing databases and registries to ensure that judges’ covered information is covered from release; and 
+ (E)  the development of confidential opt out systems that will enable at-risk individuals to make a single request to keep judges’ covered information out of multiple databases or registries. 
+ 
+ (3)  Report .— (A)  In general .— Not later than 1 year after the date of enactment of this Act, and biennially thereafter, the Comptroller General of the United States, shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives an annual report that includes— (i)  a detailed amount spent by States and local governments on protecting judges’ covered information; 
+ (ii)  where the judges’ covered information was found; and 
+ (iii)  the collection of any new types of personal data found to be used to identify judges who have received threats, including prior home addresses, employers, and institutional affiliations such as nonprofit boards. 
+ 
+ (B)  States and local governments .— States and local governments that receive funds under this subsection shall submit to the Comptroller General of the United States a report on data described in clauses (i) and (ii) of subparagraph (A) to be included in the report required under that subparagraph. 
+ 
+ 
+ (d)  Data Brokers and Other Businesses .— (1)  Prohibitions .— (A)  Data brokers .— It shall be unlawful for a data broker to knowingly sell, license, trade for consideration, transfer, or purchase covered information of an at-risk individual or immediate family members. 
+ (B)  Other persons and businesses .— (i)  In general .— Except as provided in clause (ii), no person, business, or association shall publicly post or publicly display on the internet covered information of an at-risk individual or immediate family member if the at-risk individual has made a written request to that person, business, or association not to disclose or acquire the covered information of the at-risk individual or immediate family member. 
+ (ii)  Exceptions .— Clause (i) shall not apply to— 136 STAT. 3465 (I)  the display on the internet of the covered information of an at-risk individual or immediate family member if the information is relevant to and displayed as part of a news story, commentary, editorial, or other speech on a matter of public concern; 
+ (II)  covered information that the at-risk individual voluntarily publishes on the internet after the date of enactment of this Act; or 
+ (III)  covered information lawfully received from a Federal Government source (or from an employee or agent of the Federal Government). 
+ 
+ 
+ 
+ (2)  Required conduct .— (A)  In general .— After receiving a written request under paragraph (1)(B), the person, business, or association shall— (i)  Deadline. remove within 72 hours the covered information identified in the written request from the internet and ensure that the information is not made available on any website or subsidiary website controlled by that person, business, or association and identify any other instances of the identified information that should also be removed; and 
+ (ii)  assist the sender to locate the covered information of the at-risk individual or immediate family member posted on any website or subsidiary website controlled by that person, business, or association. 
+ 
+ (B)  Transfer .— (i)  In general .— Except as provided in clause (ii), after receiving a written request under paragraph (1)(B), the person, business, or association shall not transfer the covered information of the at-risk individual or immediate family member to any other person, business, or association through any medium. 
+ (ii)  Exceptions .— Clause (i) shall not apply to— (I)  the transfer of the covered information of the at-risk individual or immediate family member if the information is relevant to and displayed as part of a news story, commentary, editorial, or other speech on a matter of public concern; 
+ (II)  covered information that the at-risk individual or immediate family member voluntarily publishes on the internet after the date of enactment of this Act; or 
+ (III)  a transfer made at the request of the at-risk individual or that is necessary to effectuate a request to the person, business, or association from the at-risk individual. 
+ 
+ 
+ 
+ 
+ (e)  Data Security .— (1)  Recipients .— Any interactive computer service shall implement and maintain reasonable security procedures and practices to protect any information collected or received to comply with the requirements of this subtitle from unauthorized use, disclosure, access, destruction, or modification. 
+ (2)  Government custodians .— The Administrative Office of the United States Courts and the administrators of the courts described in this subtitle shall implement and maintain  136 STAT. 3466 
+reasonable security procedures and practices to protect any information they collect, receive, or transmit pursuant to the provisions of this subtitle. 
+ 
+ (f)  Redress and Penalties .— (1)  In general .— If the covered information of an at-risk individual described in subparagraphs (A) through (E) of section 5933(4) or their immediate family is made public as a result of a violation of this subtitle, the Director of the Administrative Office of the United States Courts, or the designee of the Director, may file an action seeking injunctive or declaratory relief in any court of competent jurisdiction, through the Department of Justice. 
+ (2)  Authority .— The respective chief judge for judges described in subparagraphs (B), (C), and (D) of section 5934(b)(2) shall have the same authority as the Director under this paragraph for at-risk individuals in their courts or their immediate family members. 
+ (3)  Penalties and damages .— If a person, business, or association knowingly violates an order granting injunctive or declarative relief under paragraph (1), the court issuing such order may— (A)  if the person, business, or association is a government agency— (i)  impose a fine not greater than $4,000; and 
+ (ii)  award to the at-risk individual or their immediate family, as applicable, court costs and reasonable attorney’s fees; and 
+ 
+ (B)  if the person, business, or association is not a government agency, award to the at-risk individual or their immediate family, as applicable— (i)  an amount equal to the actual damages sustained by the at-risk individual or their immediate family; and 
+ (ii)  court costs and reasonable attorney’s fees.

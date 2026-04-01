@@ -1,0 +1,13 @@
+SEC. 1636.  MODIFICATION AND EXTENSION OF ANNUAL ASSESSMENT OF CYBER RESILIENCE OF NUCLEAR COMMAND AND CONTROL SYSTEM. (a)  Quarterly Briefings .— Subsection (d) of  section 499 of title 10, United States Code ,  is amended  to read as follows: “(d)  Quarterly Briefings .— (1)  Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate— “(A)  a briefing on any intrusion or anomaly in the nuclear command, control, and communications system that was identified during the previous quarter, including— “(i)  an assessment of any known, suspected, or potential impacts of such intrusions and anomalies to the mission effectiveness of military capabilities as of the date of the briefing; and 
+ “(ii)  with respect to cyber intrusions of contractor networks known or suspected to have resulted in the loss or compromise of design information regarding the nuclear command, control, and communications system; or 
+ 
+ “(B)  Notification. if no such intrusion or anomaly occurred with respect to the quarter to be covered by that briefing, a notification of such lack of intrusions and anomalies. 
+ 
+ “(2)  Definitions. In this subsection: “(A)  The term ‘ anomaly ’ means a malicious, suspicious or abnormal cyber incident that potentially threatens the national security or interests of the United States, or that is likely to result in demonstrable harm to the national security of the United States. 
+ “(B)  The term ‘ intrusion ’ means an unauthorized and malicious cyber incident that compromises a nuclear command, control, and communications system by breaking the security of such a system or causing it to enter into an insecure state.” 
+ 
+ 
+ . 
+ (b)  Extension .— Subsection (e) of such section  is amended  by  striking  “ December 31, 2027 ” and  inserting  “ December 31, 2032 ”. 
+ (c)  Conforming Repeal .— Section 171a of title 10, United States Code ,  is amended — (1)  by  striking  subsection (h); and 
+ (2)  by  redesignating  subsections (i) through (l) as subsections (h) through (k), respectively.

@@ -1,0 +1,15 @@
+SEC. 233.  10 USC 4001 note . PLAN FOR INVESTMENTS TO SUPPORT THE DEVELOPMENT OF NOVEL PROCESSING APPROACHES FOR DEFENSE APPLICATIONS. (a)  Deadline. Time period. Termination date. Investment Plans Required .— Not later than November 1, 2023, and not less frequently than once every three years thereafter until December 31, 2035, the Secretary of Defense shall submit to the congressional defense committees a plan for making investments to support the development of novel processing approaches for defense applications. 
+ (b)  Elements .— Each investment plan required by subsection (a) shall— (1)  identify any investments the Secretary has made, and any future investments the Secretary intends to make, in research and technology development to support the use and fielding of novel processing approaches for defense applications; 
+ (2)  identify any investments the Secretary has made, and any future investments the Secretary intends to make, to accelerate the development of novel processing approaches for defense applications, including investments in— (A)  personnel and workforce capabilities; 136 STAT. 2487 
+ (B)  facilities and infrastructure to host systems utilizing novel processing approaches; 
+ (C)  algorithm developments necessary to expand the functionality of each novel processing approach; 
+ (D)  other Federal agencies and federally funded laboratories; and 
+ (E)  appropriate international and commercial sector organizations and activities; 
+ 
+ (3)  describe mechanisms to coordinate and leverage investments in novel processing approaches within the Department and with non-Federal partners; 
+ (4)  describe the technical goals to be achieved and capabilities to be developed under the plan; and 
+ (5)  Recommenda- tions. include recommendations for such legislative or administration actions as may support the effective execution of the investment plan. 
+ 
+ (c)  Form .— Each plan submitted under subsection (a) shall be submitted in such form as the Secretary considers appropriate, which may include classified, unclassified, and publicly releasable formats. 
+ (d)  Novel Processing Approaches Defined .— In this section, the term “ novel processing approaches ” means— (1)  emerging techniques in computation, such as biocomputing, exascale computing, utility scale quantum computing; and 
+ (2)  associated algorithm and hardware development needed to implement such techniques.

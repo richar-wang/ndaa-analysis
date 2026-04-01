@@ -1,0 +1,26 @@
+{
+  "text": "Report on United States-Israel military exercises (a) In general Not later than 180 days after the date of the enactment of this Act, and annually thereafter for not more than 3 years, the Secretary of Defense shall submit to the appropriate congressional committees a written report on United States Department of Defense exercises conducted jointly with Israel. (b) Elements Each report required by subsection (a) shall include the following: (1) A list of Department of Defense exercises that included Israel during the preceding 1-year period. (2) A list of any other countries that participated in each such exercise. (3) A detailed description of the capabilities and missions rehearsed in each exercise. (4) A description of the manner and extent to which each exercise increased inoperability and regional cooperation. (5) A description of the manner and extent to which each exercise improved the readiness and capabilities of participating countries. (6) An assessment of any gaps in desired joint capabilities that could be addressed by conducting additional exercises to increase interoperability, along with the resources required for such additional exercises and the impact, if any, to United States readiness from conducting such additional exercises. (c) Form The report required by subsection (a) shall be submitted in unclassified form and may contain a classified annex. (d) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the congressional defense committees; and (2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Report on United States-Israel military exercises (a) In general Not later than 180 days after the date of the enactment of this Act, and annually thereafter for not more than 3 years, the Secretary of Defense shall submit to the appropriate congressional committees a written report on United States Department of Defense exercises conducted jointly with Israel. (b) Elements Each report required by subsection (a) shall include the following: (1) A list of Department of Defense exercises that included Israel during the preceding 1-year period. (2) A list of any other countries that participated in each such exercise. (3) A detailed description of the capabilities and missions rehearsed in each exercise. (4) A description of the manner and extent to which each exercise increased inoperability and regional cooperation. (5) A description of the manner and extent to which each exercise improved the readiness and capabilities of participating countries. (6) An assessment of any gaps in desired joint capabilities that could be addressed by conducting additional exercises to increase interoperability, along with the resources required for such additional exercises and the impact, if any, to United States readiness from conducting such additional exercises. (c) Form The report required by subsection (a) shall be submitted in unclassified form and may contain a classified annex. (d) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the congressional defense committees; and (2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.026190081611275673,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1679,
+      "word_count": 253,
+      "token_length": 315
+    }
+  ],
+  "_submission_type": "solo"
+}

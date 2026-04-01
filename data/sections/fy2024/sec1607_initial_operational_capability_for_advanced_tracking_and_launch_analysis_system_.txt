@@ -1,0 +1,21 @@
+SEC. 1607.  Deadlines. INITIAL OPERATIONAL CAPABILITY FOR ADVANCED TRACKING AND LAUNCH ANALYSIS SYSTEM AND REQUIREMENTS FOR SYSTEM-LEVEL REVIEW. (a)  Advanced Tracking and Launch Analysis System .— (1)  Date for initial operational capability .— Not later than 90 days after the date of the enactment of this Act, the Secretary of the Air Force shall— (A)  Designation. designate a date on which the Advanced Tracking and Launch Analysis System (commonly referred to as “ATLAS”) is expected to achieve initial operational capability; and 137 STAT. 587 
+ (B)  Notification. notify the congressional defense committees of such date. 
+ 
+ (2)  Effect of failure to timely deliver .— If the initial operational capability for the Advanced Tracking and Launch Analysis System is not achieved by the date designated under paragraph (1)(A), the Secretary shall— (A)  Termination. terminate the Advanced Tracking and Launch Analysis System program; 
+ (B)  Designation. designate an alternative program option that provides a comparable capability to the capability intended to be provided by the Advanced Tracking and Launch Analysis System; and 
+ (C)  Notification. not later than 30 days after such date, notify the congressional defense committees with respect to— (i)  such termination; 
+ (ii)  the designated alternative program option; 
+ (iii)  the justification for selecting such option; and 
+ (iv)  the estimated time and total costs to completion of such option. 
+ 
+ 
+ 
+ (b)  System-level Review .— (1)  Contracts. Time periods. Assessment. In general .— The Secretary of the Air Force shall seek to enter into a contract with a federally funded research and development center under which the center shall, not less frequently than every 2 years during the period from 2024 through 2032, conduct a review of the space command and control software acquisition program to assess the ability of such program to build a software framework that integrates multiple aspects of space operations to enable the warfighter to command and control space assets in a time of conflict. 
+ (2)  Elements .— Each review under paragraph (1) shall— (A)  Evaluation. evaluate whether and to what extent the software framework described in such paragraph integrates— (i)  sensor data applicable to the command and control of space assets; 
+ (ii)  information contained in the Unified Data Library relating to the number and location of space objects; and 
+ (iii)  the ability to control space assets based on such data and information; and 
+ 
+ (B)  address such other matters as the Secretary of the Air Force considers necessary. 
+ 
+ (3)  Briefing .— Not later than 30 days after the conclusion of each review under paragraph (1), the Secretary of the Air Force shall provide to the congressional defense committees a briefing on the findings of the review, including— (A)  Assessment. an assessment of any deficiency identified in the review; and 
+ (B)  Plan. a plan to address such deficiency in a timely manner.

@@ -1,0 +1,36 @@
+{
+  "text": "Coast Guard implementation of independent review commission recommendations on addressing sexual assault and sexual harassment in the military (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall review the report of the Independent Review Commission titled Hard Truths and the Duty to Change: Recommendations from the Independent Review Commission on Sexual Assault in the Military referred to in the memorandum of the Department of Defense titled Memorandum for Senior Pentagon Leadership Commanders of the Combatant Commands Defense Agency and DoD Field Activity Directors , dated September 22, 2021, (relating to commencing Department of Defense actions and implementation of the recommendations of the Independent Review Commission to address sexual assault and sexual harassment in the military). (b) Strategy and action plan On completion of the review required under subsection (a), and not later than 1 year after the date of enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written and detailed strategy and a written and detailed action plan that - (1) (A) identifies any recommendation set forth in the report by the Independent Review Commission described in subsection (a) that addresses a matter that is not within the jurisdiction of the Coast Guard, does not apply to the Coast Guard, or otherwise would not be beneficial to members of the Coast Guard, as determined by the Commandant; and (B) includes a brief rationale for such determination; and (2) with respect to each recommendation set forth in such report that is not identified under paragraph (1), includes - (A) (i) a detailed action plan for implementation of the recommendation; (ii) a description of changes the Commandant will make to associated Coast Guard policies so as to enable the implementation of the recommendation; (iii) an estimated timeline for implementation of the recommendation; (iv) the estimated cost of the implementation; (v) legislative proposals for such implementation, as appropriate; and (vi) any other information the Commandant considers appropriate; or (B) in the case of such a recommendation that the Commandant is unable to implement, an explanation of the reason the recommendation cannot be implemented. (c) Briefing Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter through 2028, the Commandant shall provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with a briefing on the status of the implementation of this section and any modification to the strategy and plan submitted under subsection (b).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Coast Guard implementation of independent review commission recommendations on addressing sexual assault and sexual harassment in the military (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall review the report of the Independent Review Commission titled Hard Truths and the Duty to Change: Recommendations from the Independent Review Commission on Sexual Assault in the Military referred to in the memorandum of the Department of Defense titled Memorandum for Senior Pentagon Leadership Commanders of the Combatant Commands Defense Agency and DoD Field Activity Directors , dated September 22, 2021, (relating to commencing Department of Defense actions and implementation of the recommendations of the Independent Review Commission to address sexual assault and sexual harassment in the military). (b) Strategy and action plan On completion of the review required under subsection (a), and not later than 1 year after the date of enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written and detailed strategy and a written and detailed action plan that - (1) (A) identifies any recommendation set forth in the report by the Independent Review Commission described in subsection (a) that addresses a matter that is not within the jurisdiction of the Coast Guard, does not apply to the Coast Guard, or otherwise would not be beneficial to members of the Coast Guard, as determined by the Commandant; and (B) includes a brief rationale for such determination; and (2) with respect to each recommendation set forth in such report that is not identified under paragraph (1), includes - (A) (i) a detailed action plan for implementation of the recommendation; (ii) a description of changes the Commandant will make to associated Coast Guard policies so as to enable the implementation of the recommendation; (iii) an estimated timeline for implementation of the recommendation; (iv) the estimated cost of the implementation; (v) legislative proposals for such implementation, as appropriate; and (vi) any other information the Commandant considers appropriate; or (B) in the case of such a recommendation that the Commandant is unable to implement, an explanation of the reason the recommendation cannot be implemented. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005379141929248969,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2431,
+      "word_count": 375,
+      "token_length": 463
+    },
+    {
+      "text": "c) Briefing Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter through 2028, the Commandant shall provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with a briefing on the status of the implementation of this section and any modification to the strategy and plan submitted under subsection (b).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005861418787389994,
+      "confidence": "High",
+      "start_index": 2431,
+      "end_index": 2881,
+      "word_count": 72,
+      "token_length": 92
+    }
+  ],
+  "_submission_type": "solo"
+}

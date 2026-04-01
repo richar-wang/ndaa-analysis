@@ -1,0 +1,15 @@
+SEC. 318.  10 USC note prec. 4651. PROHIBITION ON REQUIRED DISCLOSURE BY DEPARTMENT OF DEFENSE CONTRACTORS OF INFORMATION RELATING TO GREENHOUSE GAS EMISSIONS. (a)  Determinations. Prohibition on Disclosure Requirements .— (1)  Nontraditional defense contractors .— The Secretary of Defense may not require that any nontraditional defense contractor, as a condition of being awarded a contract with the Secretary, disclose a greenhouse gas inventory or any other report on greenhouse gas emissions, unless the Secretary determines that requiring such disclosure is necessary to verify a voluntary disclosure of such inventory or other report by the nontraditional defense contractor. 
+ (2)  Time period. Other than nontraditional defense contractors .— During the one-year period beginning on the date of the enactment of this Act, the Secretary of Defense may not require that any individual or entity other than a nontraditional defense contractor, as a condition of being awarded a contract  137 STAT. 219 
+with the Secretary, disclose a greenhouse gas inventory or any other report on greenhouse gas emissions, unless the Secretary determines that requiring such disclosure is necessary to verify a voluntary disclosure of such inventory or other report by the individual or entity. 
+ 
+ (b)  Waiver .— The Secretary of Defense may issue a waiver on a contract-by-contract basis provided that the information provided is directly related to the performance of the contract. In issuing such a waiver, the Secretary of Defense shall ensure that any information that is required is clearly identifiable. 
+ (c)  Definitions .— In this section: (1)  The term “ greenhouse gas ” means— (A)  carbon dioxide; 
+ (B)  methane; 
+ (C)  nitrous oxide; 
+ (D)  nitrogen trifluoride; 
+ (E)  hydrofluorocarbons; 
+ (F)  perfluorocarbons; or 
+ (G)  sulfur hexafluoride. 
+ 
+ (2)  The term “ greenhouse gas inventory ” means, with respect to a person, a quantified list of the annual greenhouse gas emissions of the person. 
+ (3)  The term “ nontraditional defense contractor ” has the meaning given the term in  section 3014 of title 10, United States Code .

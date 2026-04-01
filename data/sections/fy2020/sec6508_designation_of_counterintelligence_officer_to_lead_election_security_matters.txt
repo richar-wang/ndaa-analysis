@@ -1,0 +1,6 @@
+SEC. 6508.  50 USC 3371d . DESIGNATION OF COUNTERINTELLIGENCE OFFICER TO LEAD ELECTION SECURITY MATTERS. (a)  Coordination. In General .— The Director of National Intelligence shall designate a national counterintelligence officer within the National Counterintelligence and Security Center to lead, manage, and coordinate counterintelligence matters relating to election security. 
+ (b)  Additional Responsibilities .— The person designated under subsection (a) shall also lead, manage, and coordinate counterintelligence matters relating to risks posed by interference from foreign powers (as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 )) to the following: (1)  The Federal Government election security supply chain. 133 STAT. 2209 
+ (2)  Election voting systems and software. 
+ (3)  Voter registration databases. 
+ (4)  Critical infrastructure related to elections. 
+ (5)  Such other Government goods and services as the Director of National Intelligence considers appropriate.

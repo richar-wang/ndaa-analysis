@@ -1,0 +1,32 @@
+SEC. 1080.  MODIFICATION OF DEFINITION OF DOMESTIC SOURCE FOR TITLE III OF THE DEFENSE PRODUCTION ACT OF 1950. (a)  In General .— Section 702(7) of the Defense Production Act of 1950 ( 50 U.S.C. 4552(7) )  is amended — (1)  by  redesignating  subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and by moving such clauses, as so redesignated, two ems to the right; 
+ (2)  by  striking  “ The term ” and  inserting  the following: “(A)  In general .— Except as provided in subparagraph (B), the term” 
+ ; 
+ (3)  in clause (ii), as redesignated by paragraph (1), by  striking  “ subparagraph (A) ” and  inserting  “ clause (i) ”; and 
+ (4)  by  adding  at the end the following new subparagraph (B): “(B)  Domestic source for title iii .— “(i)  Definition. In general .— For purposes of title III, the term ‘ domestic source ’ means a business concern that— “(I)  performs substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item in— “(aa)  the United States or Canada; or 
+ “(bb)  subject to clause (ii), Australia or the United Kingdom; and 
+ 
+ “(II)  procures from business concerns described in subclause (I) substantially all of any components or assemblies required under a contract with the United States relating to a critical component or critical technology item. 
+ 
+ “(ii)  Limitations on use of business concerns in australia and united kingdom .— “(I)  In general .— A business concern described in clause (i)(I)(bb) may be treated as a domestic source only for purposes of the exercise of authorities under title III relating to national defense matters that cannot be fully addressed with business concerns described in clause (i)(I)(aa). 
+ “(II)  National defense matter defined .— For purposes of subclause (I), the term ‘ national defense matter ’ is a matter relating to the development or production of— 137 STAT. 416 “(aa)  a defense article, as defined in  section 301 of title 10, United States Code ; or 
+ “(bb)  materials critical to national security, as defined in section 10(f) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–1(f) ).” 
+ 
+ 
+ 
+ . 
+ 
+ (b)  Reports on Exercise of Title III Authorities .— Title III of the Defense Production Act of 1950 ( 50 U.S.C. 4531 et seq. )  is amended  by  adding  at the end the following new section: “SEC. 305.  50 USC 4535 . REPORTS ON EXERCISE OF AUTHORITIES. “(a)  In General . President. Briefing. — The President, or the head of an agency to which the President has delegated authorities under this title, shall submit a report and provide a briefing to the appropriate congressional committees with respect to any action taken pursuant to such authorities— “(1)  except as provided by paragraph (2), not later than 30 days after taking the action; and 
+ “(2)  in the case of an action that involves a business concern in the United Kingdom or Australia, not later than 30 days before taking the action. 
+ 
+ “(b)  Elements .— “(1)  In general .— Each report and briefing required by subsection (a) with respect to an action described in that subsection shall include— “(A)  a justification of the necessity of the use of authorities under this title; and 
+ “(B)  a description of the financial terms of any related financial transaction. 
+ 
+ “(2)  Additional elements relating to business concerns in the united kingdom or australia .— Each report and briefing required by subsection (a) with respect to an action described in paragraph (2) of that subsection shall include, in addition to the elements under paragraph (1)— “(A)  Certification. a certification that business concerns in the United States or Canada were not available with respect to the action; and 
+ “(B)  Analysis. an analysis of why such business concerns were not available. 
+ 
+ 
+ “(c)  Appropriate Congressional Committees Defined .— In this section, the term ‘ appropriate congressional committees ’ means— “(1)  the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives; and 
+ “(2)  in the case of an action described in subsection (a) involving materials critical to national security (as defined in section 702(7)(B)(ii)(II)(bb)), the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.” 
+ 
+ 
+ .

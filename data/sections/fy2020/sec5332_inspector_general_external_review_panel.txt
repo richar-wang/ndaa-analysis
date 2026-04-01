@@ -1,0 +1,64 @@
+SEC. 5332.  INSPECTOR GENERAL EXTERNAL REVIEW PANEL. (a)  Authority to Convene External Review Panels .— (1)  In general .— Title XI of the National Security Act of 1947 ( 50 U.S.C. 3231 et seq. ), as amended by section 6718,  is amended  by  adding  at the end the following new section: “SEC. 1106.  50 USC 3236 . INSPECTOR GENERAL EXTERNAL REVIEW PANEL. “(a)  Request for Review .— An individual with a claim described in subsection (b) may submit to the Inspector General of the Intelligence Community a request for a review of such claim by an external review panel convened under subsection (c). 
+ “(b)  Claims and Individuals Described .— A claim described in this subsection is any— “(1)  claim by an individual— “(A)  that the individual has been subjected to a personnel action that is prohibited under section 1104; and 
+ “(B)  who has exhausted the applicable review process for the claim pursuant to enforcement of such section; or 133 STAT. 2138 
+ 
+ “(2)  claim by an individual— “(A)  that he or she has been subjected to a reprisal prohibited by paragraph (1) of section 3001(j) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 50 U.S.C. 3341(j) ); and 
+ “(B)  who received a decision on an appeal regarding that claim under paragraph (4) of such section. 
+ 
+ 
+ “(c)  External Review Panel Convened .— “(1)  Discretion to convene .— Upon receipt of a request under subsection (a) regarding a claim, the Inspector General of the Intelligence Community may, at the discretion of the Inspector General, convene an external review panel under this subsection to review the claim. 
+ “(2)  Membership .— “(A)  Composition .— An external review panel convened under this subsection shall be composed of three members as follows: “(i)  The Inspector General of the Intelligence Community. 
+ “(ii)  Except as provided in subparagraph (B), two members selected by the Inspector General as the Inspector General considers appropriate on a case-by-case basis from among inspectors general of the following: “(I)  The Department of Defense. 
+ “(II)  The Department of Energy. 
+ “(III)  The Department of Homeland Security. 
+ “(IV)  The Department of Justice. 
+ “(V)  The Department of State. 
+ “(VI)  The Department of the Treasury. 
+ “(VII)  The Central Intelligence Agency. 
+ “(VIII)  The Defense Intelligence Agency. 
+ “(IX)  The National Geospatial-Intelligence Agency. 
+ “(X)  The National Reconnaissance Office. 
+ “(XI)  The National Security Agency. 
+ 
+ 
+ “(B)  Limitation .— An inspector general of an agency may not be selected to sit on the panel under subparagraph (A)(ii) to review any matter relating to a decision made by such agency. 
+ “(C)  Chairperson .— “(i)  In general .— Except as provided in clause (ii), the chairperson of any panel convened under this subsection shall be the Inspector General of the Intelligence Community. 
+ “(ii)  Conflicts of interest .— If the Inspector General of the Intelligence Community finds cause to recuse himself or herself from a panel convened under this subsection, the Inspector General of the Intelligence Community shall— “(I)  select a chairperson from inspectors general of the elements listed under subparagraph (A)(ii) whom the Inspector General of the Intelligence Community considers appropriate; and 
+ “(II)  Notification. notify the congressional intelligence committees of such selection. 133 STAT. 2139 
+ 
+ 
+ 
+ “(3)  Deadline. Period of review .— Each external review panel convened under this subsection to review a claim shall complete review of the claim no later than 270 days after the date on which the Inspector General convenes the external review panel. 
+ 
+ “(d)  Remedies .— “(1)  Determination. Panel recommendations .— If an external review panel convened under subsection (c) determines, pursuant to a review of a claim submitted by an individual under subsection (a), that the individual was the subject of a personnel action prohibited under section 1104 or was subjected to a reprisal prohibited by section 3001(j)(1) of the Intelligence Reform and Terrorism Prevention Act of 2004 ( 50 U.S.C. 3341(j)(1) ), the panel may recommend that the agency head take corrective action— “(A)  in the case of an employee or former employee— “(i)  to return the employee or former employee, as nearly as practicable and reasonable, to the position such employee or former employee would have held had the reprisal not occurred; or 
+ “(ii)  reconsider the employee’s or former employee’s eligibility for access to classified information consistent with national security; or 
+ 
+ “(B)  in any other case, such other action as the external review panel considers appropriate. 
+ 
+ “(2)  Agency action .— “(A)  Deadline. In general .— Not later than 90 days after the date on which the head of an agency receives a recommendation from an external review panel under paragraph (1), the head shall— “(i)  give full consideration to such recommendation; and 
+ “(ii)  Notification. inform the panel and the Director of National Intelligence of what action the head has taken with respect to the recommendation. 
+ 
+ “(B)  Notification. Failure to inform .— The Director shall notify the President of any failures to comply with subparagraph (A)(ii). 
+ 
+ 
+ “(e)  Annual Reports .— “(1)  In general .— Not less frequently than once each year, the Inspector General of the Intelligence Community shall submit to the congressional intelligence committees and the Director of National Intelligence a report on the activities under this section during the previous year. 
+ “(2)  Contents .— Subject to such limitations as the Inspector General of the Intelligence Community considers necessary to protect the privacy of an individual who has made a claim described in subsection (b), each report submitted under paragraph (1) shall include, for the period covered by the report, the following: “(A)  Determination. Recommenda- tions. The determinations and recommendations made by the external review panels convened under this section. 
+ “(B)  The responses of the heads of agencies that received recommendations from the external review panels.” 
+ 
+ 
+ 
+ . 
+ (2)  Table of contents amendment .— The table of contents in the first section of the National Security Act of 1947, as  133 STAT. 2140 
+amended by section 6718,  is amended  by  adding  at the end the following new item: 
+ 
+ 
+ “Sec. 1106.  
+ Inspector General external review panel.”. 
+ 
+ 
+ 
+ (b)  Recommendation on Addressing Whistleblower Appeals Relating to Reprisal Complaints Against Inspectors General .— (1)  Deadline. Consultation. In general .— Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Intelligence Community, in consultation with the Intelligence Community Inspectors General Forum, shall submit to the congressional intelligence committees a recommendation on how to ensure that— (A)  a whistleblower in the intelligence community who has a complaint against an inspector general in the intelligence community and who alleges a reprisal, has available the adjudication and review provided under section 1104 of the National Security Act of 1947 ( 50 U.S.C. 3234 ); and 
+ (B)  any such whistleblower who has exhausted the applicable review process may request an external review panel and receive one, at the discretion of the Inspector General of the Intelligence Community. 
+ 
+ (2)  Contents .— The recommendation submitted pursuant to paragraph (1) shall include the following: (A)  A discussion of whether and to what degree section 1106 of the National Security Act of 1947, as added by subsection (a)(1), provides appropriate authorities and mechanisms to provide an external review panel as described in paragraph (1) of this subsection and for the purposes described in such paragraph. 
+ (B)  Such recommendations for legislative or administrative action as the Inspector General may have with respect to providing an external review panel as described in paragraph (1) and for the purposes described in such paragraph.

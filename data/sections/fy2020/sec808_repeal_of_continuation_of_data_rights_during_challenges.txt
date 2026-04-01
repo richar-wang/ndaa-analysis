@@ -1,0 +1,10 @@
+SEC. 808.  REPEAL OF CONTINUATION OF DATA RIGHTS DURING CHALLENGES. (a)  Repeal .— Section 866 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  132 Stat. 1901 ;  10 U.S.C. 2321 ) is  repealed . 
+ (b)  Restoration of Amended Provision .— Subsection (i) of  section 2321 of title 10, United States Code ,  is amended  to read as follows: “(i)  Rights and Liability Upon Final Disposition .— (1)  If, upon final disposition, the contracting officer’s challenge to the use or release restriction is sustained— “(A)  the restriction shall be cancelled; and 
+ “(B)  if the asserted restriction is found not to be substantially justified, the contractor or subcontractor asserting the restriction shall be liable to the United States for payment of the cost to the United States of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the United States in challenging the asserted restriction, unless special circumstances would make such payment unjust. 
+ 
+ “(2)  If, upon final disposition, the contracting officer’s challenge to the use or release restriction is not sustained— “(A)  the United States shall continue to be bound by the restriction; and 
+ “(B)  the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as  133 STAT. 1487 
+defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.” 
+ 
+ 
+ .

@@ -1,0 +1,18 @@
+SEC. 1260I.  LIMITATION ON REMOVAL OF HUAWEI TECHNOLOGIES CO. LTD. FROM ENTITY LIST OF BUREAU OF INDUSTRY AND SECURITY. (a)  Certification. In General .— The Secretary of Commerce may not remove Huawei Technologies Co. Ltd. or any of its affiliates (in this section collectively referred to as “Huawei”) from the entity list unless and until the Secretary certifies to the appropriate congressional committees that— (1)  Huawei has sufficiently resolved or settled the charges that were the basis for the addition of Huawei to the entity list in a manner that is consistent with the standards for the removal of an entity from the entity list under the Export Administration Regulations; 
+ (2)  Huawei has sufficiently resolved or settled any other charges that Huawei violated sanctions imposed by the United States; 
+ (3)  regulations have been implemented that sufficiently restrict exporting to, and importing from, the United States items that would pose a national security threat to telecommunications systems in the United States; and 
+ (4)  the Department of Commerce has mitigated, to the maximum extent possible, other threats to the national security of the United States posed by Huawei. 
+ 
+ (b)  Report .— (1)  In general .— Not later than 60 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit to the appropriate congressional committees a report on licenses issued for exports to Huawei. 
+ (2)  Matters to be included .— For each such license, the report required by paragraph (1) shall describe— (A)  the items authorized for export; 
+ (B)  the end-uses of the items; 
+ (C)  the identities of the companies granted the license; and 
+ (D)  how the approval of the license is consistent with the national security licensing policy set forth in the Export Administration Regulations. 
+ 
+ (3)  Applicability. Disclosure by appropriate congressional committees .— Subclause (ii) of section 1761(h)(2)(B) of the Export Control Reform Act of 2018 ( 50 U.S.C. 4820(h)(2)(B) ) shall apply with respect to information in a report received by the appropriate congressional committees under paragraph (1) to the same extent and in the same manner as such subclause (ii) applies with respect to information made available under subclause (i) of such section 1761(h)(2)(B). 
+ 
+ (c)  Definitions .— In this section: (1)  Appropriate congressional committees .— The term “ appropriate congressional committees ” means— 133 STAT. 1688 (A)  the Committee on Banking, Housing, and Urban Affairs and the Select Committee on Intelligence of the Senate; and 
+ (B)  the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives. 
+ 
+ (2)  Entity list .— The term “ entity list ” means the list maintained by the Bureau of Industry and Security and set forth in Supplement No. 4 to  part 744 of title 15, Code of Federal Regulations . 
+ (3)  Export administration regulations .— The term “ Export Administration Regulations ” means subchapter C of chapter VII of  title 15, Code of Federal Regulations .

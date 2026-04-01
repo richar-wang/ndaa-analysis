@@ -1,0 +1,35 @@
+SEC. 1501.  IMPROVEMENTS TO PRINCIPAL CYBER ADVISORS. (a)  Certification Authority for Cyberspace Operations .— Subsection (c) of section 932 of the National Defense Authorization Act for Fiscal Year 2014 ( Public Law 113–66 ;  10 U.S.C. 2224 note )  is amended  by  adding  at the end the following: “(4)  Reports. Requirement. Transmittal. Budget review .— (A)  The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense agencies with responsibilities associated with any activity specified in paragraph (2) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year to the Principal Cyber Advisor for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller). 
+ “(B)  Certification. The Principal Cyber Advisor shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary of Defense a report containing the comments of the Principal Cyber Advisor with respect to all such proposed budgets, together with the certification of the Principal Cyber Advisor regarding whether each proposed budget is adequate. 
+ “(C)  Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report specifying each proposed budget that the Principal Cyber Advisor did not certify to be adequate. The report of the Secretary shall include the following matters: “(i)  Recommenda- tions. A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets specified in the report. 
+ “(ii)  Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.” 
+ 
+ 
+ . 
+ (b)  Codification of Principal Cyber Advisors .— (1)  Title 10 .— Chapter 19 of title 10, 10 USC prec. 391.  United States Code,  is amended  by  inserting  after section 392 the following new section (and conforming the table of sections at the beginning of such chapter accordingly): 136 STAT. 2878 
+ “§ 392a.   10 USC 392a . Principal Cyber Advisors” 
+ . 
+ (2)  Principal cyber advisor to secretary of defense .— Subsection (c) of section 932 of the National Defense Authorization Act for Fiscal Year 2014 ( Public Law 113–66 ;  10 U.S.C. 2224 note ), as amended by subsection (a), is— (A)  transferred to  section 392a of title 10, United States Code , as added by paragraph (1); 
+ (B)  redesignated as subsection (a); 
+ (C)  amended by  striking  paragraph (1) and  inserting  the following: “(1)  Establishment .— There is a Principal Cyber Advisor in the Department of Defense.” 
+ ; and 
+ (D)  amended in the subsection heading by  inserting  “ to Secretary of Defense ” after “ Advisor ”. 
+ 
+ (3)  Deputy cyber advisor .— Section 905 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 391 note ) is— (A)  transferred to  chapter 19 of title 10, United States Code , designated as subsection (b) of section 392a, as added by paragraph (1), and amended by  redesignating  each subordinate provision and the margins thereof accordingly; and 
+ (B)  amended— (i)  by  striking  “ this subsection ” each place it appears and  inserting  “ this paragraph ”; and 
+ (ii)  by  striking  “ subsection (a) ” each place it appears and  inserting  “ paragraph (1) ”. 
+ 
+ 
+ (4)  Principal cyber advisors to secretaries of military departments .— Section 1657 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 391 note ) is— (A)  transferred to  chapter 19 of title 10, United States Code , designated as subsection (c) of section 392a, as added by paragraph (1), and amended by  redesignating  each subordinate provision and the margins thereof accordingly; and 
+ (B)  amended— (i)  by  striking  “ subparagraph (B) ” and  inserting  “ clause (ii) ”; 
+ (ii)  by  striking  “ paragraph (1) ” each place it appears and  inserting  “ subparagraph (A) ”; 
+ (iii)  by  striking  “ paragraph (2) ” each place it appears and  inserting  “ subparagraph (B) ”; 
+ (iv)  by  striking  “ subsection (a)(1) ” and  inserting  “ paragraph (1)(A) ”; 
+ (v)  by  striking  “ subsection (a) ” each place it appears and  inserting  “ paragraph (1) ”; 
+ (vi)  by  striking  “ subsection (b) ” each place it appears and  inserting  “ paragraph (2) ”; and 
+ (vii)  by  striking  paragraph (6) (as redesignated pursuant to subparagraph (A)). 
+ 
+ 
+ 
+ (c)  Conforming Amendments .— (1)  Title 10 .— Section 167b(d)(2)(A) of title 10, United States Code ,  is amended  by  inserting  “ to the Secretary of Defense under section 392a(a) of this title ” after “ Principal Cyber Advisor ”. 136 STAT. 2879 
+ (2)  FY22 ndaa .— Section 1528(e)(2) of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ;  10 U.S.C. 2224 note )  is amended  by  striking  “ section 1657(d) of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 391 note ) ” and  inserting  “ section 392a(c)(4) of title 10, United States Code ”. 
+ (3)  FY17 ndaa .— Section 1643(b) of the National Defense Authorization Act for Fiscal Year 2017 ( Public Law 114–328 ;  10 U.S.C. 2224 note )  is amended  by  striking  “ The Principal Cyber Advisor, acting through the cross-functional team established by section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 ( Public Law 113–66 ;  10 U.S.C. 2224 note ) ” and  inserting  “ The Principal Cyber Advisor to the Secretary of Defense, acting through the cross-functional team under  section 392a(a)(3) of title 10, United States Code , ”.

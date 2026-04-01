@@ -1,0 +1,54 @@
+{
+  "text": "Enhancing security partnership with Jordan and Lebanon (a) In general The Secretary of Defense, pursuant to existing authorities, shall seek to provide assistance, including training, equipment, logistics support, supplies, and services, to the Government of Jordan and the Government of Lebanon for the purposes of - (1) supporting and enhancing efforts of the military forces of Jordan; and (2) with respect to the Government of Lebanon, for increasing the capacity of the Lebanese armed forces in order to disarm the Iranian-backed terrorist group Hezbollah. (b) Plan (1) In general Not later than June 30, 2026, the Secretary of Defense, in coordination with the Commander of the United States Central Command and in consultation with the Secretary of State, shall submit to the congressional defense committees a report that describes the plan of the Department of Defense to provide assistance under subsection (a). (2) Elements The plan required by paragraph (1) shall, at a minimum, include the following elements: (A) A description of the existing authorities to provide the assistance described in subsection (a) to the Government of Jordan and the Government of Lebanon. (B) A description of the strategic objectives of the assistance described in subsection (a), including specific capability gaps that such assistance seeks to address and the recipient units of the military forces of Jordan and Lebanon for such assistance. (C) An identification of any opportunities to transfer military equipment, including aircraft and unmanned systems, from existing inventory of the Department of Defense to bolster the capabilities of the military forces of Jordan. (D) A rubric for assessing the progress of the Lebanese armed forces in disarming Hezbollah, and options for suspending assistance to the Lebanese armed forces if it is determined that such forces are unwilling to act to disarm Hezbollah.\n\nLimitation on availability of funds for the Iraqi security forces (a) Limitation on obligation of funds Not more than 75 percent of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2026 for the Iraqi security forces under section 1236 of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 128 Stat. 3558) may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees a certification that the Government of Iraq has taken credible steps - (1) to reduce the operational capacity of Iran-aligned militia groups not integrated into the Iraqi security forces through a publicly verifiable disarmament, demobilization, and reintegration process; (2) to strengthen the authority and operational control of the Prime Minister of Iraq as Commander-in-Chief over the Iraqi security forces; and (3) to investigate and hold accountable members of Iran-aligned militia groups or members of the Iraqi security forces operating outside the formal chain of command of the Iraqi security forces who engage in attacks on United States or Iraqi personnel or otherwise act in an illegal or destabilizing manner. (b) Waiver The Secretary of Defense may waive the limitation in subsection (a) for a period of not more than 180 days if the Secretary determines that such waiver is in the national security interest of the United States. Any such waiver shall be submitted in writing to the congressional defense committees not later than 15 days after issuance, along with a justification and a description of the steps being taken to achieve the objectives described in subsection (a). (c) Rule of construction Nothing in this section shall apply to funds authorized to be appropriated for the Iraqi security forces that are designated for the Kurdish Peshmerga Forces. (d) Iraqi security forces defined In this section, the term Iraqi security forces means the military and other security forces of or associated with the Government of Iraq.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Enhancing security partnership with Jordan and Lebanon (a) In general The Secretary of Defense, pursuant to existing authorities, shall seek to provide assistance, including training, equipment, logistics support, supplies, and services, to the Government of Jordan and the Government of Lebanon for the purposes of - (1) supporting and enhancing efforts of the military forces of Jordan; and (2) with respect to the Government of Lebanon, for increasing the capacity of the Lebanese armed forces in order to disarm the Iranian-backed terrorist group Hezbollah. (b) Plan (1) In general Not later than June 30, 2026, the Secretary of Defense, in coordination with the Commander of the United States Central Command and in consultation with the Secretary of State, shall submit to the congressional defense committees a report that describes the plan of the Department of Defense to provide assistance under subsection (a). (2) Elements The plan required by paragraph (1) shall, at a minimum, include the following elements: (A) A description of the existing authorities to provide the assistance described in subsection (a) to the Government of Jordan and the Government of Lebanon. (B) A description of the strategic objectives of the assistance described in subsection (a), including specific capability gaps that such assistance seeks to address and the recipient units of the military forces of Jordan and Lebanon for such assistance. (C) An identification of any opportunities to transfer military equipment, including aircraft and unmanned systems, from existing inventory of the Department of Defense to bolster the capabilities of the military forces of Jordan. (D) A rubric for assessing the progress of the Lebanese armed forces in disarming Hezbollah, and options for suspending assistance to the Lebanese armed forces if it is determined that such forces are unwilling to act to disarm Hezbollah.\n\nLimitation on availability of funds for the Iraqi security forces (a) Limitation on obligation of funds Not more than 75 percent of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2026 for the Iraqi security forces under section 1236 of the Carl Levin and Howard P. Buck McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 128 Stat.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.015984756838796396,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2323,
+      "word_count": 365,
+      "token_length": 474
+    },
+    {
+      "text": " 3558) may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees a certification that the Government of Iraq has taken credible steps - (1) to reduce the operational capacity of Iran-aligned militia groups not integrated into the Iraqi security forces through a publicly verifiable disarmament, demobilization, and reintegration process; (2) to strengthen the authority and operational control of the Prime Minister of Iraq as Commander-in-Chief over the Iraqi security forces; and (3) to investigate and hold accountable members of Iran-aligned militia groups or members of the Iraqi security forces operating outside the formal chain of command of the Iraqi security forces who engage in attacks on United States or Iraqi personnel or otherwise act in an illegal or destabilizing manner. (b) Waiver The Secretary of Defense may waive the limitation in subsection (a) for a period of not more than 180 days if the Secretary determines that such waiver is in the national security interest of the United States. Any such waiver shall be submitted in writing to the congressional defense committees not later than 15 days after issuance, along with a justification and a description of the steps being taken to achieve the objectives described in subsection (a). (c) Rule of construction Nothing in this section shall apply to funds authorized to be appropriated for the Iraqi security forces that are designated for the Kurdish Peshmerga Forces. (d) Iraqi security forces defined In this section, the term Iraqi security forces means the military and other security forces of or associated with the Government of Iraq.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.04775064650716054,
+      "confidence": "High",
+      "start_index": 2323,
+      "end_index": 4009,
+      "word_count": 266,
+      "token_length": 329
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1226_enhancing_security_partnership_with_jordan_and_lebanon.txt",
+    "sec1228_limitation_on_availability_of_funds_for_the_iraqi_security_forces.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1226_enhancing_security_partnership_with_jordan_and_lebanon.txt",
+      "start_index": 0,
+      "end_index": 1907,
+      "word_count": 294
+    },
+    {
+      "filename": "sec1228_limitation_on_availability_of_funds_for_the_iraqi_security_forces.txt",
+      "start_index": 1909,
+      "end_index": 4009,
+      "word_count": 337
+    }
+  ]
+}

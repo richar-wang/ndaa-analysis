@@ -1,0 +1,36 @@
+{
+  "text": "Master plans for Service Academies (a) Plans required Each Secretary of a military department shall develop a master plan for each Service Academy under the jurisdiction of the Secretary to comprehensively address infrastructure requirements of such Service Academy. Each master plan shall include the following: (1) Consideration of the requirements of subparagraphs (A) through (D) of section 2864(a)(2) of title 10, United States Code. (2) For the Service Academy that is the subject of a master plan - (A) a list of infrastructure located at the Service Academy that is in poor or failing condition on or before the date described in subsection (c); (B) a plan for replacing, recapitalizing, or renovating such infrastructure not later than five years after such date; and (C) a list of infrastructure located at the Service Academy that - (i) is listed on the National Register of Historic Places (maintained under chapter 3021 of title 54, United States Code) on or before the date described in subsection (b); or (ii) will be eligible inclusion on the National Register of Historic Places not later than five years after the date of the enactment of this Act. (3) An assessment of risks posed by disruptions in energy availability, risks posed by extreme weather (as defined in section 101 of title 10 United States Code), cybersecurity risks, and risks related to availability of clean water applicable to the Service Academy that is the subject of a master plan. (b) Additional requirement Each master plan required under subsection (a) shall propose a method to address the requirements of paragraphs (1) and (3) of such subsection not later than five years after the date described in subsection (c). (c) Deadline Each master plan required under subsection (a) shall be completed not later than September 30, 2027. (d) Briefing Not later than 180 days after the date of the enactment of this Act, each Secretary of a military department shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the timeline for the completion of the master plans required under subsection (a). (e) Submission of plan Not later than 30 days after the date on which a Secretary of a military department completes a master plan required under subsection (a) or December 1, 2027, whichever is earlier, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a copy of the master plan. (f) Service Academy defined In this section, the term Service Academy has the meaning given in section 347 of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Master plans for Service Academies (a) Plans required Each Secretary of a military department shall develop a master plan for each Service Academy under the jurisdiction of the Secretary to comprehensively address infrastructure requirements of such Service Academy. Each master plan shall include the following: (1) Consideration of the requirements of subparagraphs (A) through (D) of section 2864(a)(2) of title 10, United States Code. (2) For the Service Academy that is the subject of a master plan - (A) a list of infrastructure located at the Service Academy that is in poor or failing condition on or before the date described in subsection (c); (B) a plan for replacing, recapitalizing, or renovating such infrastructure not later than five years after such date; and (C) a list of infrastructure located at the Service Academy that - (i) is listed on the National Register of Historic Places (maintained under chapter 3021 of title 54, United States Code) on or before the date described in subsection (b); or (ii) will be eligible inclusion on the National Register of Historic Places not later than five years after the date of the enactment of this Act. (3) An assessment of risks posed by disruptions in energy availability, risks posed by extreme weather (as defined in section 101 of title 10 United States Code), cybersecurity risks, and risks related to availability of clean water applicable to the Service Academy that is the subject of a master plan. (b) Additional requirement Each master plan required under subsection (a) shall propose a method to address the requirements of paragraphs (1) and (3) of such subsection not later than five years after the date described in subsection (c). (c) Deadline Each master plan required under subsection (a) shall be completed not later than September 30, 2027. (d) Briefing Not later than 180 days after the date of the enactment of this Act, each Secretary of a military department shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the timeline for the completion of the master plans required under subsection (a). (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006249891535844654,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2143,
+      "word_count": 352,
+      "token_length": 463
+    },
+    {
+      "text": "e) Submission of plan Not later than 30 days after the date on which a Secretary of a military department completes a master plan required under subsection (a) or December 1, 2027, whichever is earlier, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a copy of the master plan. (f) Service Academy defined In this section, the term Service Academy has the meaning given in section 347 of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005911660264246166,
+      "confidence": "High",
+      "start_index": 2143,
+      "end_index": 2623,
+      "word_count": 83,
+      "token_length": 108
+    }
+  ],
+  "_submission_type": "solo"
+}

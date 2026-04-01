@@ -1,0 +1,36 @@
+{
+  "text": "Access to temporary separation program for victims of alleged sex-related offenses (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall update the Coast Guard policy relating to temporary separation of members of the Coast Guard who are victims of alleged sex-related offenses as required under subsection (b). (b) Eligibility The updated policy required under subsection (a) shall include - (1) a provision that allows a member of the Coast Guard to request to participate in the temporary separation program if the member has reported, in an unrestricted format or to the greatest extent practicable, a restricted format, being the victim of an alleged sex-related offense on a date that is during - (A) the 5-year period preceding the requested date of separation; and (B) the military service of the member; (2) a provision that provides eligibility for a member of the Coast Guard to request temporary separation if the member has reported being the victim of an alleged sex-related offense, even if - (A) the member has had a previous temporary separation including a previous temporary separation as the victim of a previous unrelated alleged sex-related offense; or (B) the enlistment period of the member is not nearing expiration or the tour or contract of the member is not nearing completion; (3) an updated standard of review consistent with the application of, and purposes of, this section; and (4) the establishment of a process - (A) for eligible members to make requests for temporary separation under this section; and (B) that allows the Commandant to consider whether to allow a member granted temporary separation under this section to fulfill the enlistment period or tour or contract obligation of the member after the end of the temporary separation period. (c) Exception from repayment of bonuses, incentive pay, or similar benefits and termination of remaining payments For any temporary separation granted under the updated policy required under subsection (a), the Secretary concerned may conduct a review to determine whether to exercise discretion in accordance with section 373(b)(1) of title 37, United States Code. (d) Definitions In this section: (1) Secretary concerned The term Secretary concerned has the meaning given such term in section 101 of title 37, United States Code. (2) Sex-related offense The term sex-related offense has the meaning given such term in section 1044e(h) of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Access to temporary separation program for victims of alleged sex-related offenses (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall update the Coast Guard policy relating to temporary separation of members of the Coast Guard who are victims of alleged sex-related offenses as required under subsection (b). (b) Eligibility The updated policy required under subsection (a) shall include - (1) a provision that allows a member of the Coast Guard to request to participate in the temporary separation program if the member has reported, in an unrestricted format or to the greatest extent practicable, a restricted format, being the victim of an alleged sex-related offense on a date that is during - (A) the 5-year period preceding the requested date of separation; and (B) the military service of the member; (2) a provision that provides eligibility for a member of the Coast Guard to request temporary separation if the member has reported being the victim of an alleged sex-related offense, even if - (A) the member has had a previous temporary separation including a previous temporary separation as the victim of a previous unrelated alleged sex-related offense; or (B) the enlistment period of the member is not nearing expiration or the tour or contract of the member is not nearing completion; (3) an updated standard of review consistent with the application of, and purposes of, this section; and (4) the establishment of a process - (A) for eligible members to make requests for temporary separation under this section; and (B) that allows the Commandant to consider whether to allow a member granted temporary separation under this section to fulfill the enlistment period or tour or contract obligation of the member after the end of the temporary separation period. (c) Exception from repayment of bonuses, incentive pay, or similar benefits and termination of remaining payments For any temporary separation granted under the updated policy required under subsection (a), the Secretary concerned may conduct a review to determine whether to exercise discretion in accordance with section 373(b)(1) of title 37, United States Code. (d) Definitions In this section: (1) Secretary concerned The term Secretary concerned has the meaning given such term in section 101 of title 37, United States Code. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00538841774687171,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2364,
+      "word_count": 379,
+      "token_length": 477
+    },
+    {
+      "text": "2) Sex-related offense The term sex-related offense has the meaning given such term in section 1044e(h) of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00538841774687171,
+      "confidence": "High",
+      "start_index": 2364,
+      "end_index": 2500,
+      "word_count": 22,
+      "token_length": 36
+    }
+  ],
+  "_submission_type": "solo"
+}

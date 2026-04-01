@@ -1,0 +1,36 @@
+{
+  "text": "Strategy to strengthen multilateral defense in the Indo-Pacific (a) In general The Secretary of Defense, in coordination with the Secretary of State, shall develop and implement a strategy to strengthen multilateral defense against regional aggression in the Indo-Pacific region by expanding multilateral coordination with United States allies and partners in the region. (b) Strategy requirements The strategy required by subsection (a) shall describe current activities and initiatives and identify future actions to be taken over the next 5 years by the Department of Defense to - (1) expand existing bilateral engagements into multilateral forums with a focus on defense-related planning and military exercises; (2) prioritize the acquisition and fielding of military capabilities necessary for enhancing multilateral defense, including long-range precision fires and integrated air defenses amongst United States allies and partners in the Indo-Pacific region; (3) leverage reciprocal access agreements between the United States and its Indo-Pacific allies, particularly Japan, the Philippines, South Korea, and Australia, to expand regional access for allied and partner militaries, including for purposes of enhancing interoperability, prepositioning munitions stockpiles, and jointly supporting and leveraging shared facilities, operational access, and infrastructure; (4) improve command and control structures to enable enhanced multilateral coordination with Indo-Pacific allies and partners; (5) expand information-sharing and maritime domain awareness among the United States and Indo-Pacific allies and partners; (6) expand the scope and scale of multilateral military exercises and operations in the region, including more frequent combined maritime operations through the Taiwan Strait and in the South China Sea; and (7) consider foreseeable strategic and operational contingencies affecting the security of strategic transit routes in the Indo-Pacific region. (c) Submission; interim report (1) Submission of strategy Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate the strategy required by subsection (a), including an identification of - (A) any changes to funding or policy required to strengthen multilateral defense among the United States and allies and partners in the Indo-Pacific against regional aggression; and (B) any additional resources necessary to develop or to implement the requirements described in subsection (b). (2) Interim report on implementation Not later than March 15, 2027, the Secretary of Defense shall submit to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the progress of the implementation of the strategy required by subsection (a), including a description of any gap in resources or authority that limits the ability of the Department to execute such strategy.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Strategy to strengthen multilateral defense in the Indo-Pacific (a) In general The Secretary of Defense, in coordination with the Secretary of State, shall develop and implement a strategy to strengthen multilateral defense against regional aggression in the Indo-Pacific region by expanding multilateral coordination with United States allies and partners in the region. (b) Strategy requirements The strategy required by subsection (a) shall describe current activities and initiatives and identify future actions to be taken over the next 5 years by the Department of Defense to - (1) expand existing bilateral engagements into multilateral forums with a focus on defense-related planning and military exercises; (2) prioritize the acquisition and fielding of military capabilities necessary for enhancing multilateral defense, including long-range precision fires and integrated air defenses amongst United States allies and partners in the Indo-Pacific region; (3) leverage reciprocal access agreements between the United States and its Indo-Pacific allies, particularly Japan, the Philippines, South Korea, and Australia, to expand regional access for allied and partner militaries, including for purposes of enhancing interoperability, prepositioning munitions stockpiles, and jointly supporting and leveraging shared facilities, operational access, and infrastructure; (4) improve command and control structures to enable enhanced multilateral coordination with Indo-Pacific allies and partners; (5) expand information-sharing and maritime domain awareness among the United States and Indo-Pacific allies and partners; (6) expand the scope and scale of multilateral military exercises and operations in the region, including more frequent combined maritime operations through the Taiwan Strait and in the South China Sea; and (7) consider foreseeable strategic and operational contingencies affecting the security of strategic transit routes in the Indo-Pacific region. (c) Submission; interim report (1) Submission of strategy Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate the strategy required by subsection (a), including an identification of - (A) any changes to funding or policy required to strengthen multilateral defense among the United States and allies and partners in the Indo-Pacific against regional aggression; and (B) any additional resources necessary to develop or to implement the requirements described in subsection (b). (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009044114267453551,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2672,
+      "word_count": 374,
+      "token_length": 478
+    },
+    {
+      "text": "2) Interim report on implementation Not later than March 15, 2027, the Secretary of Defense shall submit to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the progress of the implementation of the strategy required by subsection (a), including a description of any gap in resources or authority that limits the ability of the Department to execute such strategy.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0085762869566679,
+      "confidence": "High",
+      "start_index": 2672,
+      "end_index": 3156,
+      "word_count": 77,
+      "token_length": 92
+    }
+  ],
+  "_submission_type": "solo"
+}

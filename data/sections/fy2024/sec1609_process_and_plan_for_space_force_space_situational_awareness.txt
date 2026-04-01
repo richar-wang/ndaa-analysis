@@ -1,0 +1,5 @@
+SEC. 1609.  10 USC 2274 note . PROCESS AND PLAN FOR SPACE FORCE SPACE SITUATIONAL AWARENESS. (a)  In General .— The Assistant Secretary of the Air Force for Space Acquisition and Integration, in consultation with Chief of Space Operations, shall— (1)  Evaluation. establish a process to regularly identify and evaluate commercial space situational awareness capabilities, including  137 STAT. 589 
+the extent to which commercial space situational awareness data could meet needs of the Space Force with respect to maintaining situational awareness in space; and 
+ (2)  develop and implement a plan to integrate the unified data library into the operational systems of the Space Force, including operational systems for space situational awareness and space command and control missions. 
+ 
+ (b)  Report .— Not later than 180 days after the date of the enactment of this Act, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall submit to the congressional defense committees a report that includes a description of the process and plan developed under subsection (a).

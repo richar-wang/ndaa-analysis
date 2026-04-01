@@ -1,0 +1,26 @@
+{
+  "text": "International maritime oil spill response (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall, in coordination with other Federal agencies, as appropriate, review and update the Canada-US Joint Maritime Pollution Contingency Plan. (b) Requirements In carrying out subsection (a), the Commandant shall - (1) review each geographic annex within the contingency plan; (2) for each geographic area covered by the plan - (A) analyze the vessel traffic patterns, including the types of vessels transiting the area, and assess the risks of a pollution incident; (B) assess the risks of a pollution incident; and (C) update the plan based on such analysis and assessment; (3) determine if any of the areas should be expanded or modified, and update the plan accordingly to include future risk projections; and (4) evaluate the coverage and gaps of response assets on each side of the United States-Canada border and the manner in which such assets may be able to aid in implementing such plan. (c) Exercises The Commandant, in coordination with the Secretary of State, shall conduct a joint training exercise not less than once a year to determine emergency response capabilities and identify other types of support necessary to effectuate a successful oil spill response, in accordance with the Canada-US Joint Maritime Pollution Contingency Plan, including any update to such Plan carried out pursuant to subsection (a).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "International maritime oil spill response (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall, in coordination with other Federal agencies, as appropriate, review and update the Canada-US Joint Maritime Pollution Contingency Plan. (b) Requirements In carrying out subsection (a), the Commandant shall - (1) review each geographic annex within the contingency plan; (2) for each geographic area covered by the plan - (A) analyze the vessel traffic patterns, including the types of vessels transiting the area, and assess the risks of a pollution incident; (B) assess the risks of a pollution incident; and (C) update the plan based on such analysis and assessment; (3) determine if any of the areas should be expanded or modified, and update the plan accordingly to include future risk projections; and (4) evaluate the coverage and gaps of response assets on each side of the United States-Canada border and the manner in which such assets may be able to aid in implementing such plan. (c) Exercises The Commandant, in coordination with the Secretary of State, shall conduct a joint training exercise not less than once a year to determine emergency response capabilities and identify other types of support necessary to effectuate a successful oil spill response, in accordance with the Canada-US Joint Maritime Pollution Contingency Plan, including any update to such Plan carried out pursuant to subsection (a).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013405966572463512,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1463,
+      "word_count": 233,
+      "token_length": 296
+    }
+  ],
+  "_submission_type": "solo"
+}

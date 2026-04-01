@@ -1,0 +1,14 @@
+SEC. 154.  10 USC note prec. 4651. PROHIBITION ON AVAILABILITY OF FUNDS FOR PROCUREMENT OF CERTAIN BATTERIES. (a)  Effective date. Limitation .— Beginning on October 1, 2027, none of the funds authorized to be appropriated or otherwise made available for the Department of Defense may be obligated or expended to  137 STAT. 181 
+procure a battery produced by an entity specified in subsection (b). 
+ (b)  Entities Specified .— The entities specified in this subsection are the following: (1)  Contemporary Amperex Technology Company, Limited (also known as “CATL”). 
+ (2)  BYD Company, Limited. 
+ (3)  Envision Energy, Limited. 
+ (4)  EVE Energy Company, Limited. 
+ (5)  Gotion High tech Company, Limited. 
+ (6)  Hithium Energy Storage Technology company, Limited. 
+ (7)  Any successor to an entity specified in paragraphs (1) through (6). 
+ 
+ (c)  Treatment of Production .— For purposes of this section, a battery shall be treated as produced by an entity specified in subsection (b) if that entity— (1)  assembles or manufactures the final product; or 
+ (2)  creates or otherwise provides a majority of the components used in the battery. 
+ 
+ (d)  Waiver .— The Secretary of Defense may waive the limitation under subsection (a).

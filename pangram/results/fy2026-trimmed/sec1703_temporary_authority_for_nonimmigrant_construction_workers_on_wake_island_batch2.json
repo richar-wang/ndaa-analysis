@@ -1,0 +1,64 @@
+{
+  "text": "Temporary authority for nonimmigrant construction workers on Wake Island (a) Authorization An alien, if otherwise qualified, may seek admission to the United States as a nonimmigrant under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years, to perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island. (b) Exemption from numerical limitations An alien admitted pursuant to subsection (a) shall not count against the numerical limitations set forth in section 214(g) of the Immigration and Nationality Act ( 8 U.S.C. 1184(g) ). (c) Cancellation of visas for misuse A visa or other document authorizing admission of an alien to the United States for the purpose of performing a service or labor related to construction on Wake Island shall be canceled if the alien enters an area within the United States other than Wake Island, Guam, the Commonwealth of Northern Mariana Islands, or a United States Minor Outlying Island in the Pacific. (d) Transferability Notwithstanding any other provision of law - (1) an alien admitted to Guam pursuant to 6(b)(1) of Public Law 94\u2013241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island; and (2) an alien admitted to the Commonwealth of the Northern Mariana Islands pursuant to 6(b)(1) of Public Law 94\u2013241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island. (e) Period of applicability An alien may seek admission to the United States pursuant to subsection (a) during the period beginning on the date of enactment of this section and ending on December 31, 2030.\n\nContinual assessment of impact of international state arms embargoes on Israel and actions to address defense capability gaps (a) Requirement for continuous assessment (1) In general The Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall conduct a continual assessment of - (A) the scope, nature, and impact on Israel\u2019s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and (B) the resulting gaps or vulnerabilities in Israel\u2019s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge. (2) Frequency The assessment required under paragraph (1) shall be updated not less than once every 180 days. (b) Potential United States mitigation (1) Identification of needs Each assessment required under subsection (a) shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions. (2) United States actions The Secretary of Defense, in coordination with the Secretary of State, shall identify potential actions the United States may take to mitigate such gaps in defensive capabilities, including - (A) addressing barriers to the delivery of defense articles or services under the foreign military sales program; (B) to the extent possible without undermining United States requirements or readiness, leveraging United States industrial base capacity to provide substitute defensive capabilities; (C) expanding joint research, development, and production of defense technologies; and (D) enhancing cooperative training, prepositioning, and logistics support. (c) Reports to congress (1) In general Not later than 120 days after the date of enactment of this section, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the findings of the most recent assessment conducted under subsection (a). (2) Form The report required by paragraph (1) shall be submitted in unclassified form and may contain a classified annex. (d) Sunset The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section.",
+  "version": "3.2",
+  "headline": "AI Detected",
+  "prediction": "We are confident that this document is a mix of AI-generated, and human-written content",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.5782122905027933,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.42178770949720673,
+  "num_ai_segments": 2,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Temporary authority for nonimmigrant construction workers on Wake Island (a) Authorization An alien, if otherwise qualified, may seek admission to the United States as a nonimmigrant under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years, to perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island. (b) Exemption from numerical limitations An alien admitted pursuant to subsection (a) shall not count against the numerical limitations set forth in section 214(g) of the Immigration and Nationality Act ( 8 U.S.C. 1184(g) ). (c) Cancellation of visas for misuse A visa or other document authorizing admission of an alien to the United States for the purpose of performing a service or labor related to construction on Wake Island shall be canceled if the alien enters an area within the United States other than Wake Island, Guam, the Commonwealth of Northern Mariana Islands, or a United States Minor Outlying Island in the Pacific. (d) Transferability Notwithstanding any other provision of law - (1) an alien admitted to Guam pursuant to 6(b)(1) of Public Law 94\u2013241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island; and (2) an alien admitted to the Commonwealth of the Northern Mariana Islands pursuant to 6(b)(1) of Public Law 94\u2013241 ( 48 U.S.C. 1806(b)(1) ) may perform a service or labor pursuant to a contract or subcontract related to construction, repairs, or renovations connected to, supporting, or associated with, a military installation on Wake Island. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.22048789635300636,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1963,
+      "word_count": 308,
+      "token_length": 472
+    },
+    {
+      "text": "e) Period of applicability An alien may seek admission to the United States pursuant to subsection (a) during the period beginning on the date of enactment of this section and ending on December 31, 2030.\n\nContinual assessment of impact of international state arms embargoes on Israel and actions to address defense capability gaps (a) Requirement for continuous assessment (1) In general The Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall conduct a continual assessment of - (A) the scope, nature, and impact on Israel\u2019s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and (B) the resulting gaps or vulnerabilities in Israel\u2019s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge. (2) Frequency The assessment required under paragraph (1) shall be updated not less than once every 180 days. (b) Potential United States mitigation (1) Identification of needs Each assessment required under subsection (a) shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions. (2) United States actions The Secretary of Defense, in coordination with the Secretary of State, shall identify potential actions the United States may take to mitigate such gaps in defensive capabilities, including - (A) addressing barriers to the delivery of defense articles or services under the foreign military sales program; (B) to the extent possible without undermining United States requirements or readiness, leveraging United States industrial base capacity to provide substitute defensive capabilities; (C) expanding joint research, development, and production of defense technologies; and (D) enhancing cooperative training, prepositioning, and logistics support. (c) Reports to congress (1) In general Not later than 120 days after the date of enactment of this section, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the findings of the most recent assessment conducted under subsection (a). (2) Form The report required by paragraph (1) shall be submitted in unclassified form and may contain a classified annex. (",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.8487605765232555,
+      "confidence": "High",
+      "start_index": 1963,
+      "end_index": 4508,
+      "word_count": 373,
+      "token_length": 483
+    },
+    {
+      "text": "d) Sunset The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section.",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.9884586930274963,
+      "confidence": "High",
+      "start_index": 4508,
+      "end_index": 4654,
+      "word_count": 23,
+      "token_length": 27
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec1703_temporary_authority_for_nonimmigrant_construction_workers_on_wake_island.txt",
+    "sec1706_continual_assessment_of_impact_of_international_state_arms_embargoes_on_israel_a.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec1703_temporary_authority_for_nonimmigrant_construction_workers_on_wake_island.txt",
+      "start_index": 0,
+      "end_index": 2167,
+      "word_count": 342
+    },
+    {
+      "filename": "sec1706_continual_assessment_of_impact_of_international_state_arms_embargoes_on_israel_a.txt",
+      "start_index": 2169,
+      "end_index": 4654,
+      "word_count": 360
+    }
+  ]
+}

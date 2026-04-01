@@ -1,0 +1,71 @@
+{
+  "text": "Jurisdiction of State of North Carolina (a) In general With respect to land located within the State of North Carolina that is owned by, or held in trust by the United States for the benefit of, the Lumbee Tribe of North Carolina, or any dependent Indian community of the Lumbee Tribe of North Carolina, the State of North Carolina shall exercise jurisdiction over - (1) all criminal offenses that are committed; and (2) all civil actions that arise. (b) Transfer of jurisdiction (1) In general Pursuant to section 403 of the Civil Rights Act of 1968 ( 25 U.S.C. 1323 ), and subject to paragraph (2), the Secretary may accept on behalf of the United States, after consulting with the Attorney General of the United States, any transfer by the State of North Carolina to the United States of any portion of the jurisdiction of the State of North Carolina described in subsection (a) over Indian country occupied by the Lumbee Tribe of North Carolina pursuant to an agreement between the Lumbee Tribe of North Carolina and the State of North Carolina. (2) Restriction A transfer of jurisdiction described in paragraph (1) may not take effect until 2 years after the effective date of the agreement described in that paragraph. (c) Effect Nothing in this section affects the application of section 109 of the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1919 ).\n\nDrinking water well replacement for Chincoteague, Virginia (a) In general Notwithstanding any other provision of law, the Administrator of the National Aeronautics and Space Administration may enter into an agreement, as appropriate, with the Town of Chincoteague, Virginia, for a period of up to five years, for reimbursement of the Town of Chincoteague\u2019s costs directly associated with the development of a plan for the following: (1) The decommissioning of drinking water wells currently situated on property administered by National Aeronautics and Space Administration. (2) The establishment of alternative drinking water wells, which are located on property under the administrative control, whether through lease, ownership, or easement, of the Town of Chincoteague. (b) Elements The plan under subsection (a) shall include, to the extent practicable, information relating to the following: (1) Any drinking water well described in paragraph (1) such subsection, including an identification relating thereto, that is to be decommissioned. (2) The location under paragraph (2) of such subsection of the site to which any alternative drinking water well is be established. (3) The estimated cost of any such establishment, including for the purchase, lease, or use of additional property, engineering, design, permitting, or construction relating thereto. (c) Submission to Congress Not later than 18 months after the date of the enactment of this Act, the Administrator of the National Aeronautics and Space Administration, in coordination with the head or other appropriate representative of any entity relevant to any agreement entered into under subsection (a), shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a copy of any such agreement.\n\nBriefing on implementation of Compact of Free Association Amendments Act of 2024 with respect to veterans in the Freely Associated States (a) In general Not later than 30 days after the date of the enactment of this Act, and not less frequently than monthly thereafter until the date that is five years after such date of enactment, the Secretary of Veterans Affairs shall provide to the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives a briefing on the status of implementation of the provisions of the Compact of Free Association Amendments Act of 2024 (title II of division G of Public Law 118\u201342 ) relating to veterans in the Freely Associated States in a way that is consistent with the intent of Congress, including - (1) engagement with the governments of the Freely Associated States; (2) a projected timeline for veterans in the Freely Associated States to receive hospital care and medical services; and (3) an estimate of the cost of implementation of such provisions. (b) Definitions In this section: (1) Freely Associated States The term Freely Associated States means - (A) the Federated States of Micronesia; (B) the Republic of the Marshall Islands; and (C) the Republic of Palau. (2) Hospital care; medical services The terms hospital care and medical services have the meanings given those terms in section 1701 of title 38, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Jurisdiction of State of North Carolina (a) In general With respect to land located within the State of North Carolina that is owned by, or held in trust by the United States for the benefit of, the Lumbee Tribe of North Carolina, or any dependent Indian community of the Lumbee Tribe of North Carolina, the State of North Carolina shall exercise jurisdiction over - (1) all criminal offenses that are committed; and (2) all civil actions that arise. (b) Transfer of jurisdiction (1) In general Pursuant to section 403 of the Civil Rights Act of 1968 ( 25 U.S.C. 1323 ), and subject to paragraph (2), the Secretary may accept on behalf of the United States, after consulting with the Attorney General of the United States, any transfer by the State of North Carolina to the United States of any portion of the jurisdiction of the State of North Carolina described in subsection (a) over Indian country occupied by the Lumbee Tribe of North Carolina pursuant to an agreement between the Lumbee Tribe of North Carolina and the State of North Carolina. (2) Restriction A transfer of jurisdiction described in paragraph (1) may not take effect until 2 years after the effective date of the agreement described in that paragraph. (c) Effect Nothing in this section affects the application of section 109 of the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1919 ).\n\nDrinking water well replacement for Chincoteague, Virginia (a) In general Notwithstanding any other provision of law, the Administrator of the National Aeronautics and Space Administration may enter into an agreement, as appropriate, with the Town of Chincoteague, Virginia, for a period of up to five years, for reimbursement of the Town of Chincoteague\u2019s costs directly associated with the development of a plan for the following: (1) The decommissioning of drinking water wells currently situated on property administered by National Aeronautics and Space Administration. (2) The establishment of alternative drinking water wells, which are located on property under the administrative control, whether through lease, ownership, or easement, of the Town of Chincoteague. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004834674078867667,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2135,
+      "word_count": 347,
+      "token_length": 466
+    },
+    {
+      "text": "b) Elements The plan under subsection (a) shall include, to the extent practicable, information relating to the following: (1) Any drinking water well described in paragraph (1) such subsection, including an identification relating thereto, that is to be decommissioned. (2) The location under paragraph (2) of such subsection of the site to which any alternative drinking water well is be established. (3) The estimated cost of any such establishment, including for the purchase, lease, or use of additional property, engineering, design, permitting, or construction relating thereto. (c) Submission to Congress Not later than 18 months after the date of the enactment of this Act, the Administrator of the National Aeronautics and Space Administration, in coordination with the head or other appropriate representative of any entity relevant to any agreement entered into under subsection (a), shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a copy of any such agreement.\n\nBriefing on implementation of Compact of Free Association Amendments Act of 2024 with respect to veterans in the Freely Associated States (a) In general Not later than 30 days after the date of the enactment of this Act, and not less frequently than monthly thereafter until the date that is five years after such date of enactment, the Secretary of Veterans Affairs shall provide to the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives a briefing on the status of implementation of the provisions of the Compact of Free Association Amendments Act of 2024 (title II of division G of Public Law 118\u201342 ) relating to veterans in the Freely Associated States in a way that is consistent with the intent of Congress, including - (1) engagement with the governments of the Freely Associated States; (2) a projected timeline for veterans in the Freely Associated States to receive hospital care and medical services; and (3) an estimate of the cost of implementation of such provisions. (b) Definitions In this section: (1) Freely Associated States The term Freely Associated States means - (A) the Federated States of Micronesia; (B) the Republic of the Marshall Islands; and (C) the Republic of Palau. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005401967974778797,
+      "confidence": "High",
+      "start_index": 2135,
+      "end_index": 4497,
+      "word_count": 377,
+      "token_length": 490
+    },
+    {
+      "text": "2) Hospital care; medical services The terms hospital care and medical services have the meanings given those terms in section 1701 of title 38, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005586215760558844,
+      "confidence": "High",
+      "start_index": 4497,
+      "end_index": 4661,
+      "word_count": 27,
+      "token_length": 37
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec7_jurisdiction_of_state_of_north_carolina.txt",
+    "sec8804_drinking_water_well_replacement_for_chincoteague_virginia.txt",
+    "sec8805_briefing_on_implementation_of_compact_of_free_association_amendments_act_of_2024.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec7_jurisdiction_of_state_of_north_carolina.txt",
+      "start_index": 0,
+      "end_index": 1358,
+      "word_count": 235
+    },
+    {
+      "filename": "sec8804_drinking_water_well_replacement_for_chincoteague_virginia.txt",
+      "start_index": 1360,
+      "end_index": 3229,
+      "word_count": 277
+    },
+    {
+      "filename": "sec8805_briefing_on_implementation_of_compact_of_free_association_amendments_act_of_2024.txt",
+      "start_index": 3231,
+      "end_index": 4661,
+      "word_count": 237
+    }
+  ]
+}

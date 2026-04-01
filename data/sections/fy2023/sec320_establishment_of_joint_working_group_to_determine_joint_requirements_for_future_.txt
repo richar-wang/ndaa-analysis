@@ -1,0 +1,30 @@
+SEC. 320.  ESTABLISHMENT OF JOINT WORKING GROUP TO DETERMINE JOINT REQUIREMENTS FOR FUTURE OPERATIONAL ENERGY NEEDS OF DEPARTMENT OF DEFENSE.   Section 352 of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ;  135 Stat. 1653 )  is amended  by  adding  at the end the following new subsection: 136 STAT. 2509 “(e)  Establishment of Joint Working Group to Determine Joint Requirements for Future Operational Energy Needs of Department of Defense .— “(1)  Establishment .— The Secretary of Defense shall establish a joint working group (in this subsection referred to as the ‘working group’) to determine joint requirements for future operational energy needs of the Department of Defense. 
+ “(2)  Executive agent .— The Secretary of the Air Force shall serve as the executive agent of the working group. 
+ “(3)  Requirements specified .— “(A)  In general .— In determining joint requirements under paragraph (1), the working group shall address the operational energy needs of each military department and combatant command to meet energy needs in all domains of warfare, including land, air, sea, space, cyberspace, subsea, and subterranean environments. 
+ “(B)  Priority for certain systems .— Priority for joint requirements under paragraph (1) shall be given to independent operational energy systems that— “(i)  are capable of operating in austere and isolated environments with quick deployment capabilities; and 
+ “(ii)  may reduce conventional air pollution and greenhouse gas emissions comparable to systems already in use. 
+ 
+ 
+ “(4)  Existing or new programs .— The working group shall address the feasibility of meeting joint requirements determined under paragraph (1) through the existing energy programs of the Department and make recommendations for new programs to meet such requirements. 
+ “(5)  Focus areas .— In carrying out the requirements under this subsection, the working group shall focus the efforts of the working group on operational energy, including— “(A)  micro-reactors and small modular reactors; 
+ “(B)  hydrogen-based fuel systems, including hydrogen fuel cells and hydrogen-based combustion engines; 
+ “(C)  battery storage; 
+ “(D)  renewable energy sources; 
+ “(E)  retrofits to existing platforms that shall increase efficiencies; and 
+ “(F)  other technologies and resources that meet joint requirements determined under paragraph (1). 
+ 
+ “(6)  Recommended plan of action .— “(A)  Reports. Classified information. Briefing. In general .— Not later than 180 days after the date of the enactment of this subsection, the Secretary shall submit to the congressional defense committees a report, and provide to the congressional defense committees a classified briefing, outlining recommendations for programs to meet joint requirements for future operational energy needs of the Department of Defense by 2025, 2030, and 2040. 
+ “(B)  Focus on readiness and flexibility .— In submitting the report and providing the briefing under subparagraph (A), the Secretary shall— “(i)  address each element of the report or briefing, as the case may be, in the context of maintaining or increasing the readiness levels of the Armed Forces  136 STAT. 2510 
+and the flexibility of operational elements within the Department; and 
+ “(ii)  disregard energy sources that do not increase such readiness and flexibility, with an explanation for the reason such sources were disregarded. 
+ 
+ “(C)  Form .— The report under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex. 
+ 
+ “(7)  Definitions .— In this subsection: “(A)  The term ‘ advanced nuclear reactor ’ has the meaning given that term in section 951(b) of the Energy Policy Act of 2005 ( 42 U.S.C. 16271(b) ). 
+ “(B)  The term ‘ micro-reactor ’ means an advanced nuclear reactor that has an electric power production capacity that is not greater than 50 megawatts that can be transported via land, air, or sea transport and can be redeployed. 
+ “(C)  The term ‘ small modular reactor ’ means an advanced nuclear reactor— “(i)  with a rated capacity of less than 300 electrical megawatts; or 
+ “(ii)  that can be constructed and operated in combination with similar reactors at a single site.” 
+ 
+ 
+ 
+ .

@@ -1,0 +1,10 @@
+SEC. 2809.  INCORPORATION OF CYBERSECURITY SUPPLY CHAIN RISK MANAGEMENT TOOLS AND METHODS.    Section 2914 of title 10, United States Code ,  is amended — (1)  by  redesignating  subsection (e) as subsection (f); and 
+ (2)  by  inserting  after subsection (d) the following new subsection: “(e)  Incorporation of Cybersecurity Supply Chain Risk Management Tools and Methods . Requirements. — (1)  The Secretary of Defense shall incorporate into covered projects cybersecurity supply chain risk management tools and solutions to provide continuous analysis, monitoring, and mitigation of cyber vulnerabilities. 
+ “(2)  In carrying out the requirements of paragraph (1), the Secretary of Defense shall consider, to the maximum extent practicable, the following: “(A)  The adoption of commercially available cybersecurity supply chain risk management tools and solutions. 
+ “(B)  The inclusion of existing databases on cyber vulnerabilities when selecting such tools and solutions. 
+ “(C)  The need for such tools and methods to provide continuous analysis, monitoring, and mitigation of cyber vulnerabilities in covered projects. 
+ “(D)  Effective date. Beginning with fiscal year 2026, documentation for any new requirements for cybersecurity supply chain risk management in annual guidance for covered projects that is submitted along with the annual budget request of the President submitted pursuant to section 1105 of title 31. 
+ 
+ “(3)  Definition. In this subsection, the term ‘ covered project ’ means a project connected to a Department of Defense Information Network for which funds are made available under this section.” 
+ 
+ . 137 STAT. 747

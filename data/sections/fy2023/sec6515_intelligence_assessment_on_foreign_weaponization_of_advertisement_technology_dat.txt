@@ -1,0 +1,10 @@
+SEC. 6515.  INTELLIGENCE ASSESSMENT ON FOREIGN WEAPONIZATION OF ADVERTISEMENT TECHNOLOGY DATA. (a)  Definitions .— In this section: (1)  Advertisement technology data .— The term “ advertisement technology data ” means commercially available data derived from advertisement technology that is used, or can be used, to geolocate individuals or gain other targeting information on individuals. 
+ (2)  Appropriate committees of congress .— The term “ appropriate committees of Congress ” means— (A)  the congressional intelligence committees; 
+ (B)  the Committee on Armed Services of the Senate; 
+ (C)  the Subcommittee on Defense of the Committee on Appropriations of the Senate; 
+ (D)  the Committee on Armed Services of the House of Representatives; and 
+ (E)  the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives. 
+ 
+ 
+ (b)  Assessment .— The Director of National Intelligence shall conduct an intelligence assessment of the counterintelligence risks of, and the exposure of intelligence community and Department of Defense personnel and activities to, tracking by foreign adversaries through advertisement technology data. 
+ (c)  Report .— Not later than 60 days after the date of the enactment of this Act, the Director shall submit to the appropriate committees of Congress a report on the intelligence assessment under subsection (b).

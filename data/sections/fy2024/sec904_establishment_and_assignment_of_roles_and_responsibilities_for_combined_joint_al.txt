@@ -1,0 +1,16 @@
+SEC. 904.  10 USC 131 note . ESTABLISHMENT AND ASSIGNMENT OF ROLES AND RESPONSIBILITIES FOR COMBINED JOINT ALL-DOMAIN COMMAND AND CONTROL IN SUPPORT OF INTEGRATED JOINT WARFIGHTING. (a)  In General .— The Secretary of Defense shall establish, and assign to appropriate components of the Office of the Secretary, roles and responsibilities relating to— (1)  the development of combined joint all-domain command and control (commonly known as “CJADC2”) capabilities in support of integrated joint warfighting; and 
+ (2)  the delivery of such capabilities to the combatant commands. 
+ 
+ (b)  Roles and Responsibilities .— The roles and responsibilities established and assigned under subsection (a) shall include, at a minimum, the following: (1)  Identifying new technology and operational concepts for experimentation and prototyping for delivery to the Joint Force to address key operational challenges. 
+ (2)  Providing technical support for the Joint Force in exploring and analyzing new combined joint all-domain command and control capabilities and operational concepts, including through advanced modeling and simulation. 
+ (3)  Executing experimentation associated with such capabilities through the Rapid Defense Experimentation Reserve or another mechanism. 137 STAT. 364 
+ (4)  Enabling the acquisition of cross-domain, joint, and cross-system mission capabilities, including resourcing of modifications necessary for integration and interoperability among mission components. 
+ (5)  Ensuring the effectiveness of cross-domain, joint, and cross-system mission capabilities through analysis and testing. 
+ (6)  Creating and operating a complete capability for software development that allows for iterative, secure, and continuous deployment of developmental, prototype, and operational tools and capabilities from multiple vendors to test networks and operational networks for combatant commanders to— (A)  gain operational awareness, make decisions, and take actions; 
+ (B)  Data. integrate relevant data sources to support target selection, target prioritization, and weapon-target pairing; and 
+ (C)  assign targets through networks, tools, and systems of the Armed Forces and combat support agencies. 
+ 
+ 
+ (c)  Initial Prioritization .— In establishing an initial set of roles and responsibilities under subsection (a), the Secretary of Defense shall prioritize the development and delivery of capabilities that meet the requirements of the United States Indo-Pacific Command. 
+ (d)  Deadline. Time period. Briefings Required .— Not later than 90 days after the date of the enactment of this Act, and not less frequently than once every 180 days thereafter through December 31, 2026, the Secretary of Defense shall provide to the congressional defense committees a briefing on— (1)  any activities carried out in accordance with the roles and responsibilities under subsection (a); and 
+ (2)  any plans associated with such roles and responsibilities.

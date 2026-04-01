@@ -1,0 +1,4 @@
+SEC. 1689.  10 USC 139 note . ANNUAL ASSESSMENT OF BALLISTIC MISSILE DEFENSE SYSTEM. (a)  Annual Assessment .— As part of the annual report of the Director of Operational Test and Evaluation submitted to Congress under  section 139 of title 10, United States Code , the Director shall include an assessment of the ballistic missile defense system and all of the elements of the system that have been fielded or are planned, as of the date of the assessment, including— (1)  the operational effectiveness, suitability, and survivability of the ballistic missile defense system and the elements of the system that have been fielded or tested; and 
+ (2)  the adequacy and sufficiency of the test program of such system as of the date of the assessment, including with respect to the operational realism of the tests. 
+ 
+ (b)  Form .— Each assessment under subsection (a) may be submitted in unclassified form, and may include a classified annex.

@@ -1,0 +1,36 @@
+{
+  "text": "Annual report on cost premium for construction of certain facilities (a) Report required Not later than March 1, 2026, and annually thereafter for five years, the Secretary of Defense shall submit to the congressional defense committees a report that includes a detailed quantitative and qualitative assessment of the cost premium for construction of facilities selected under subsection (b). (b) Selection of facilities The Secretary shall select not more than five facilities to include in the report required under subsection (a), which may include the following: (1) A unit of covered military unaccompanied housing (as defined in section 2856 of title 10, United States Code). (2) A military child development center (as defined in section 1800 of such title). (3) An administrative facility located on a military installation. (4) Military family housing. (5) Military aircraft hangars and runways. (6) Physical fitness centers located on military installations. (c) Contents Each report required under subsection (a) shall include the following: (1) The cost premium, expressed as a percentage, for the facilities selected under subsection (b). (2) A detailed assessment of the factors contributing to cost premium, including - (A) compliance with the Unified Facilities Criteria/DoD Building Code (UFC 1\u2013200\u201301) and any other design requirements specific to military construction projects; (B) prevailing wage and labor requirements; (C) Federal procurement requirements contained in the Federal Acquisition Regulation and the Department of Defense Supplement to the Federal Acquisition Regulation; (D) security requirements relating to access to military installations; and (E) requirements relating to sustainability and energy efficiency. (3) An examination of how the removal of Antiterrorism/Force Protection (ATFP) standards and requirements has affected the cost premium for military construction projects, including any quantifiable reductions in cost or design complexity resulting from such removal. (d) Recommendations Each report required under subsection (a) shall include recommendations for the following: (1) Proposed statutory, regulatory, or policy reforms to reduce the cost premium for military construction without compromising mission needs. (2) Best practices from the private sector and State or local government construction projects that could improve cost efficiency for military construction projects. (3) Alternative construction methodologies and procurement strategies that could mitigate the cost premium for military construction. (e) Cost premium for military construction defined In this section, the term cost premium , with respect to a facility, means the difference between - (1) the cost to construct a new facility carried out by the Secretary of Defense; and (2) the estimated cost to construct a similar facility carried out by a private entity, as adjusted for size, geographic location, and function of such facility.",
+  "version": "3.2",
+  "headline": "Fully AI Generated",
+  "prediction": "We are confident that this document is fully AI-generated",
+  "prediction_short": "AI",
+  "fraction_ai": 1.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.0,
+  "num_ai_segments": 2,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 0,
+  "windows": [
+    {
+      "text": "Annual report on cost premium for construction of certain facilities (a) Report required Not later than March 1, 2026, and annually thereafter for five years, the Secretary of Defense shall submit to the congressional defense committees a report that includes a detailed quantitative and qualitative assessment of the cost premium for construction of facilities selected under subsection (b). (b) Selection of facilities The Secretary shall select not more than five facilities to include in the report required under subsection (a), which may include the following: (1) A unit of covered military unaccompanied housing (as defined in section 2856 of title 10, United States Code). (2) A military child development center (as defined in section 1800 of such title). (3) An administrative facility located on a military installation. (4) Military family housing. (5) Military aircraft hangars and runways. (6) Physical fitness centers located on military installations. (c) Contents Each report required under subsection (a) shall include the following: (1) The cost premium, expressed as a percentage, for the facilities selected under subsection (b). (2) A detailed assessment of the factors contributing to cost premium, including - (A) compliance with the Unified Facilities Criteria/DoD Building Code (UFC 1\u2013200\u201301) and any other design requirements specific to military construction projects; (B) prevailing wage and labor requirements; (C) Federal procurement requirements contained in the Federal Acquisition Regulation and the Department of Defense Supplement to the Federal Acquisition Regulation; (D) security requirements relating to access to military installations; and (E) requirements relating to sustainability and energy efficiency. (3) An examination of how the removal of Antiterrorism/Force Protection (ATFP) standards and requirements has affected the cost premium for military construction projects, including any quantifiable reductions in cost or design complexity resulting from such removal. (d) Recommendations Each report required under subsection (a) shall include recommendations for the following: (1) Proposed statutory, regulatory, or policy reforms to reduce the cost premium for military construction without compromising mission needs. (2) Best practices from the private sector and State or local government construction projects that could improve cost efficiency for military construction projects. (3) Alternative construction methodologies and procurement strategies that could mitigate the cost premium for military construction. (",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.9493020276228586,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2573,
+      "word_count": 360,
+      "token_length": 491
+    },
+    {
+      "text": "e) Cost premium for military construction defined In this section, the term cost premium , with respect to a facility, means the difference between - (1) the cost to construct a new facility carried out by the Secretary of Defense; and (2) the estimated cost to construct a similar facility carried out by a private entity, as adjusted for size, geographic location, and function of such facility.",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.8996462821960449,
+      "confidence": "High",
+      "start_index": 2573,
+      "end_index": 2970,
+      "word_count": 67,
+      "token_length": 79
+    }
+  ],
+  "_submission_type": "solo"
+}

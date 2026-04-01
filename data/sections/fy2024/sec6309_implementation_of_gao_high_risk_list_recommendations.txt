@@ -1,0 +1,8 @@
+SEC. 6309.  22 USC 2651a note . IMPLEMENTATION OF GAO HIGH RISK LIST RECOMMENDATIONS. (a)  In General .— The Secretary shall implement the Government Accountability Office’s High Risk List recommendations as applicable to the Department for the following activities: (1)  Improving the management of IT acquisitions and operations. 
+ (2)  Improving strategic human capital management. 
+ (3)  Managing Federal real property. 
+ (4)  Ensuring the cybersecurity of the nation. 
+ (5)  Managing government-wide personnel security clearance process. 
+ 
+ (b)  Report .— Not later than 90 days after the date of the enactment of this division, the Secretary shall submit to the appropriate congressional committees a report on the Department’s progress in implementing all of the Government Accountability Office’s High Risk List recommendations as applicable to the Department described in subsection (a). 
+ (c)  High Risk List Defined .— In this section, the term “ High Risk List ” refers to GAO–23–106203, the April 20, 2023, report by the Government Accountability Office titled, “High-Risk Series: Efforts Made to Achieve Progress Need to Be Maintained and Expanded to Fully Address All Areas”.

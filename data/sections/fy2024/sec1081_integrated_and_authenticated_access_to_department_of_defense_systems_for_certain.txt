@@ -1,0 +1,4 @@
+SEC. 1081.  INTEGRATED AND AUTHENTICATED ACCESS TO DEPARTMENT OF DEFENSE SYSTEMS FOR CERTAIN CONGRESSIONAL STAFF FOR OVERSIGHT PURPOSES.   Section 1046(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ;  10 U.S.C. 111 note )  is amended — 137 STAT. 417 (1)  in paragraph (1)(B), by  striking  “ ; and ” and  inserting  a semicolon; 
+ (2)  in paragraph (2), by  striking  the period at the end and  inserting  “ ; and ”; and 
+ (3)  by  adding  at the end the following new paragraph: “(3)  to the extent feasible, be integrated with software used by the Department of Defense Parking Management Office to validate parking requests.” 
+ .

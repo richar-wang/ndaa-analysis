@@ -1,0 +1,6 @@
+SEC. 1506.  10 USC 167b note . DEVELOPMENT OF CYBER SUPPORT MECHANISMS FOR GEOGRAPHIC COMBATANT COMMANDS. (a)  Deadline. Development of Mechanisms Required .— Not later than 270 days after the date of the enactment of this Act, each commander of a geographic combatant command, in coordination with the Commander of the United States Cyber Command, shall develop a cyber support mechanism to support the operations of that geographic combatant command. 
+ (b)  Elements .— Each cyber support mechanism developed with respect to a geographic combatant command under subsection (a) shall include the following: (1)  Processes. Processes to enhance the cyber capabilities of such combatant command. 
+ (2)  Plans. Plans to develop and maintain a sufficient cyber planning capacity in such combatant command. 
+ (3)  Processes. Processes to integrate cyber capabilities into operational support for such combatant command. 
+ (4)  A prioritization of cyber risks and vulnerabilities within the geographic area of responsibility of such combatant command. 
+ (5)  Plans. Specific plans to assist in the defense of friendly foreign countries.

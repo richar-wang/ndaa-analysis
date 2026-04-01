@@ -1,0 +1,18 @@
+SEC. 1527.  10 USC 2223 note . REQUIRED POLICIES TO ESTABLISH DATALINK STRATEGY OF DEPARTMENT OF DEFENSE. (a)  Policies Required .— (1)  In general .— The Secretary of Defense shall develop and implement policies to establish a unified datalink strategy of the Department of Defense (in this section referred to as the “strategy”). 
+ (2)  Elements .— The policies under paragraph (1) shall provide for, at a minimum, the following: (A)  Designation. The designation of an organization to serve as the lead coordinator of datalink activities throughout the Department of Defense. 
+ (B)  The prioritization and coordination across the military departments with respect to the strategy within the requirements generation process of the Department. 
+ (C)  The use throughout the Department of a common standardized datalink network or transport protocol that ensures interoperability between independently developed datalinks, regardless of physical medium used, and ensures mesh routing. In developing such policy, the Secretary of Defense shall consider the use of a subset of Internet Protocol. 
+ (D)  A programmatic decoupling of the physical method used to transmit data, the network or transport protocols used in the transmission and reception of data, and the applications used to process and use data. 
+ (E)  Coordination of the strategy with respect to weapon systems executing the same mission types across the military departments, including through the use of a common set of datalink waveforms. In Evaluation.  developing such policy, the Secretary shall evaluate the use of redundant datalinks for line-of-sight and beyond-line-of-sight information exchange for each weapon systems platform. 
+ (F)  Coordination between the Department and the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )) to leverage any efficiencies and overlap with existing datalink waveforms of the intelligence community. 
+ (G)  Methods to support the rapid integration of common datalinks across the military departments. 
+ (H)  Support for modularity of specific datalink waveforms to enable rapid integration of future datalinks, including the use of software defined radios compliant with modular open system architecture and sensor open system architecture. 
+ 
+ 
+ (b)  Deadline. Information to Congress .— Not later than June 1, 2024, the Secretary of Defense shall— (1)  Briefing. provide to the appropriate congressional committees a briefing on the proposed policies under subsection (a)(1), including timelines for the implementation of such policies; and 137 STAT. 560 
+ (2)  submit to the appropriate congressional committees— (A)  Timeline. an estimated timeline for the implementations of datalinks; 
+ (B)  List. a list of any additional resources and authorities necessary to implement the strategy; and 
+ (C)  Determination. a determination of whether a common set of datalinks can and should be implemented across all major weapon systems (as such term is defined in  section 3455 of title 10, United States Code ) of the Department of Defense. 
+ 
+ 
+ (c)  Appropriate Congressional Committees Defined .— In this section, the term “ appropriate congressional committees ” means the congressional defense committees and the congressional intelligence committees, as such term is defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).

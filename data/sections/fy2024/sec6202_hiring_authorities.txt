@@ -1,0 +1,8 @@
+SEC. 6202.  HIRING AUTHORITIES. (a)  Sense of Congress .— It is the sense of Congress that— (1)  the Department should possess hiring authorities to enable recruitment of individuals representative of the nation with special skills needed to address 21st century diplomacy challenges; and 137 STAT. 972 
+ (2)  the Secretary shall conduct a survey of hiring authorities held by the Department to identify— (A)  hiring authorities already authorized by Congress; 
+ (B)  other authorities granted through Presidential decree or executive order; and 
+ (C)  any authorities needed to enable recruitment of individuals with the special skills described in paragraph (1). 
+ 
+ 
+ (b)  Legislative proposals. Report .— Not later than 180 days after the date of the enactment of this division, the Secretary shall submit to the appropriate congressional committees, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives a report that includes a description of all existing hiring authorities and legislative proposals on any new needed authorities. 
+ (c)  Time period. Appointments. 22 USC 2651a note . Special Hiring Authority .— For an initial period of not more than 3 years after the date of the enactment of this division, the Secretary may appoint, without regard to the provisions of sections 3309 through 3318 of  title 5, United States Code , up to 80 candidates directly to positions in the competitive service at the Department, as defined in section 2102 of that title, in the following occupational series: 25 candidates under 1560 Data Science, 25 candidates under 2210 Information Technology Management, and 30 candidates under 0201 Human Resources Management.

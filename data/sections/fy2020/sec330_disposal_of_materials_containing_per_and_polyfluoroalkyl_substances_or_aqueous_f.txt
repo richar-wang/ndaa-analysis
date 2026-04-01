@@ -1,0 +1,9 @@
+SEC. 330.  10 USC 2701 note . DISPOSAL OF MATERIALS CONTAINING PER- AND POLYFLUOROALKYL SUBSTANCES OR AQUEOUS FILM-FORMING FOAM. (a)  In General .— The Secretary of Defense shall ensure that when materials containing per- and polyfluoroalkyl substances (referred to in this section as “PFAS”) or aqueous film forming foam (referred to in this section as “AFFF”) are disposed— (1)  all incineration is conducted at a temperature range adequate to break down PFAS chemicals while also ensuring the maximum degree of reduction in emission of PFAS, including elimination of such emissions where achievable; 
+ (2)  all incineration is conducted in accordance with the requirements of the Clean Air Act ( 42 USC 7401 et seq. ), including controlling hydrogen fluoride; 
+ (3)  any materials containing PFAS that are designated for disposal are stored in accordance with the requirement under  part 264 of title 40, Code of Federal Regulations ; and 
+ (4)  all incineration is conducted at a facility that has been permitted to receive waste regulated under subtitle C of the Solid Waste Disposal Act ( 42 USC 6921 et seq. ). 
+ 
+ (b)  Scope of Application .— The requirements in subsection (a) only apply to all legacy AFFF formulations containing PFAS,  133 STAT. 1313 
+materials contaminated by AFFF release, and spent filters or other PFAS contaminated materials resulting from site remediation or water filtration that— (1)  have been used by the Department of Defense or a military department; or 
+ (2)  are being discarded for disposal by means of incineration by the Department of Defense or a military department; or 
+ (3)  are being removed from sites or facilities owned or operated by the Department of Defense.

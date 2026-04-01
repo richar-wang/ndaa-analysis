@@ -1,0 +1,54 @@
+{
+  "text": "Support for congressional delegations (a) Sense of Congress It is the sense of Congress that - (1) congressional travel is essential to fostering international relations, understanding global issues first-hand, and jointly advancing United States interests abroad; and (2) only in close coordination and thanks to the dedication of personnel at United States embassies, consulates, and other missions abroad can the success of these vital trips be possible. (b) In general Consistent with applicable laws and the Secretary\u2019s security responsibilities, the Secretary shall reaffirm to all diplomatic posts the importance of congressional travel and shall direct all such posts to support congressional travel by members and staff of the appropriate congressional committees, when authorized by applicable congressional travel procedures to include the congressional authorization letter and congressional travel legislation and policies. The Secretary shall reaffirm the Department\u2019s policies to support such travel by members and staff of the appropriate congressional committees, by making such support available on any day of the week, including Federal and local holidays when required to complete congressional responsibilities and, to the extent practical, requiring the direct involvement of mid-level or senior officers. (c) Exception for simultaneous high-level visits The requirement under subsection (b) does not apply in the case of a simultaneous visit from the President, the First Lady or First Gentleman, the Vice President, the Secretary, or the Secretary of Defense. (d) Training The Secretary shall require all designated control officers to have been trained on supporting congressional travel at posts abroad prior to the assigned congressional visit.\n\nNotification requirements for authorized and ordered departures (a) Departures report (1) In general Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate congressional committees listing every instance that an authorized or ordered departure was issued for the five-year period preceding the date of the enactment of this Act. (2) Contents The Secretary shall include in the report required under paragraph (1) - (A) the name of the post and the date of the approval of the authorized or ordered departure; (B) the basis for the authorized or ordered departure; and (C) the number of chief of mission personnel that departed, categorized by agency, as well as their eligible family members, if available. (b) Congressional notification requirement Any instance of an authorized or ordered departure shall be notified to appropriate congressional committees not later than three days after the Secretary authorized an authorized or ordered departure. The details in the notification shall include - (1) the information described in subsection (a)(2); (2) the mode of travel for chief of mission personnel who departed; (3) the estimated cost of the authorized or ordered departure, including travel and per diem costs; and (4) the destination of all departed personnel and changes to their work activities due to the departure. (c) Establishment of a database Not later than two years after the date of the enactment of this Act, the Secretary shall establish a database with the information required by subsections (a)(2) and (b) and shall make such database available on a regular basis to the appropriate congressional committees. (d) Termination The congressional notification requirement under this section shall terminate following the establishment of the database required by subsection (c). (e) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and (2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Support for congressional delegations (a) Sense of Congress It is the sense of Congress that - (1) congressional travel is essential to fostering international relations, understanding global issues first-hand, and jointly advancing United States interests abroad; and (2) only in close coordination and thanks to the dedication of personnel at United States embassies, consulates, and other missions abroad can the success of these vital trips be possible. (b) In general Consistent with applicable laws and the Secretary\u2019s security responsibilities, the Secretary shall reaffirm to all diplomatic posts the importance of congressional travel and shall direct all such posts to support congressional travel by members and staff of the appropriate congressional committees, when authorized by applicable congressional travel procedures to include the congressional authorization letter and congressional travel legislation and policies. The Secretary shall reaffirm the Department\u2019s policies to support such travel by members and staff of the appropriate congressional committees, by making such support available on any day of the week, including Federal and local holidays when required to complete congressional responsibilities and, to the extent practical, requiring the direct involvement of mid-level or senior officers. (c) Exception for simultaneous high-level visits The requirement under subsection (b) does not apply in the case of a simultaneous visit from the President, the First Lady or First Gentleman, the Vice President, the Secretary, or the Secretary of Defense. (d) Training The Secretary shall require all designated control officers to have been trained on supporting congressional travel at posts abroad prior to the assigned congressional visit.\n\nNotification requirements for authorized and ordered departures (a) Departures report (1) In general Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate congressional committees listing every instance that an authorized or ordered departure was issued for the five-year period preceding the date of the enactment of this Act. (2) Contents The Secretary shall include in the report required under paragraph (1) - (A) the name of the post and the date of the approval of the authorized or ordered departure; (B) the basis for the authorized or ordered departure; and (C) the number of chief of mission personnel that departed, categorized by agency, as well as their eligible family members, if available. (b) Congressional notification requirement Any instance of an authorized or ordered departure shall be notified to appropriate congressional committees not later than three days after the Secretary authorized an authorized or ordered departure.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.037462673150002956,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 2793,
+      "word_count": 412,
+      "token_length": 494
+    },
+    {
+      "text": " The details in the notification shall include - (1) the information described in subsection (a)(2); (2) the mode of travel for chief of mission personnel who departed; (3) the estimated cost of the authorized or ordered departure, including travel and per diem costs; and (4) the destination of all departed personnel and changes to their work activities due to the departure. (c) Establishment of a database Not later than two years after the date of the enactment of this Act, the Secretary shall establish a database with the information required by subsections (a)(2) and (b) and shall make such database available on a regular basis to the appropriate congressional committees. (d) Termination The congressional notification requirement under this section shall terminate following the establishment of the database required by subsection (c). (e) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and (2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02772105811163783,
+      "confidence": "High",
+      "start_index": 2793,
+      "end_index": 3962,
+      "word_count": 177,
+      "token_length": 226
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec5172_support_for_congressional_delegations.txt",
+    "sec5173_notification_requirements_for_authorized_and_ordered_departures.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec5172_support_for_congressional_delegations.txt",
+      "start_index": 0,
+      "end_index": 1771,
+      "word_count": 253
+    },
+    {
+      "filename": "sec5173_notification_requirements_for_authorized_and_ordered_departures.txt",
+      "start_index": 1773,
+      "end_index": 3962,
+      "word_count": 336
+    }
+  ]
+}

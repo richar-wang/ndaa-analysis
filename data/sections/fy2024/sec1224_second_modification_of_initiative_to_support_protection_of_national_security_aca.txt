@@ -1,0 +1,18 @@
+SEC. 1224.  SECOND MODIFICATION OF INITIATIVE TO SUPPORT PROTECTION OF NATIONAL SECURITY ACADEMIC RESEARCHERS FROM UNDUE INFLUENCE AND OTHER SECURITY THREATS. (a)  In General .— Section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( 10 U.S.C. 4001 note )  is amended — (1)  in subsection (c)— (A)  by  redesignating  paragraphs (7) through (9) as paragraphs (8) through (10), respectively; 
+ (B)  by  inserting  after paragraph (6) the following new paragraph (7): “(7)  Requirements. Policies to limit or prohibit funding provided by the Department of Defense for institutions or individual researchers who knowingly contract or make other financial arrangements with entities identified in the list described in paragraph (9), which policies shall include— “(A)  use of such list as part of a risk assessment decision matrix during proposal evaluations, including the development of a question for proposers or broad area announcements that require proposers to disclose any contractual or financial connections with such entities; 
+ “(B)  Notification. Deadline. a requirement that the Department shall notify a proposer of suspected noncompliance with a policy issued under this paragraph and provide not less than 30 days to take actions to remedy such noncompliance; 
+ “(C)  Procedures. the establishment of an appeals procedure under which a proposer may appeal a negative decision on a proposal if the decision is based on a determination informed by such list; 
+ “(D)  Disclosure. a requirement that each awardee of funding provided by the Department shall disclose to the Department any contract or financial arrangement made with such an entity during the period of the award; and 
+ “(E)  Certification. a requirement that each awardee of funding provided by the Department shall provide to the Department an annual certification of compliance with policies promulgated pursuant to this paragraph;” 
+ 
+ ; and 
+ (C)  by  adding  at the end the following new paragraph: “(11)  Assessments. Data. Development of measures of effectiveness and performance to assess and track progress of the Department of Defense across the initiative, which measures shall include— “(A)  Evaluation. the evaluation of currently available data to support the assessment of such measures, including the identification of areas in which gaps exist that may require collection of completely new data, or modifications to existing data sets; 
+ “(B)  current means and methods for the collection of data in an automated manner, including the identification of areas in which gaps exist that may require new means for data collection or visualization of such data; and 137 STAT. 455 
+ “(C)  Analysis. the development of an analysis and assessment methodology framework to make tradeoffs between the measures developed under this paragraph and other metrics related to assessing undue foreign influence on the Department of Defense research enterprise, such as commercial due diligence, beneficial ownership, and foreign ownership, control, and influence.” 
+ 
+ ; and 
+ 
+ (2)  in subsection (e)(2), by  adding  at the end the following new subparagraph: “(G)  A description of the status of the measures of effectiveness and performance described in subsection (c)(11) for the period covered by such report, including an analytical assessment of the impact of such measures on the goals of the initiative.” 
+ . 
+ 
+ (b)  10 USC 4001 note . Deadline .— The Secretary of Defense shall develop the policies required by paragraph (7) of section 1286(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( 10 U.S.C. 4001 note ), as added by subsection (a)(1)(B), by not later than June 1, 2024.

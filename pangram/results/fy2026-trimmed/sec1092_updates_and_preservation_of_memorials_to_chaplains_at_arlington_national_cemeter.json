@@ -1,0 +1,36 @@
+{
+  "text": "Updates and preservation of memorials to chaplains at Arlington National Cemetery (a) Updates and preservation of memorials (1) Protestant chaplains memorial The Secretary of the Army shall permit NCMAF - (A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; (B) to provide an updated bronze plaque that includes the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed and before the date of the enactment of this Act; and (C) to make such other updates and corrections to the memorial that the Secretary determines necessary. (2) Catholic chaplain memorials The Secretary of the Army shall permit NCMAF - (A) to update the Catholic chaplains memorial to include the name of each chaplain, verified under subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed and before the date of the enactment of this Act; and (B) to make such other updates and corrections to the memorial that the Secretary determines necessary. (3) Jewish chaplain memorials The Secretary of the Army shall permit NCMAF to update and make corrections to the Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. (4) No cost to Federal Government The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. (b) Verification of names NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force, or the Chaplain of the United States Marine Corps, depending on the Armed Force in which the chaplain served. (c) Prohibition on expansion of memorials Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill on the date of the enactment of this Act. (d) Definitions In this section: (1) The term Chaplains Hill means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. (2) The term NCMAF means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Updates and preservation of memorials to chaplains at Arlington National Cemetery (a) Updates and preservation of memorials (1) Protestant chaplains memorial The Secretary of the Army shall permit NCMAF - (A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; (B) to provide an updated bronze plaque that includes the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed and before the date of the enactment of this Act; and (C) to make such other updates and corrections to the memorial that the Secretary determines necessary. (2) Catholic chaplain memorials The Secretary of the Army shall permit NCMAF - (A) to update the Catholic chaplains memorial to include the name of each chaplain, verified under subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed and before the date of the enactment of this Act; and (B) to make such other updates and corrections to the memorial that the Secretary determines necessary. (3) Jewish chaplain memorials The Secretary of the Army shall permit NCMAF to update and make corrections to the Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. (4) No cost to Federal Government The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. (b) Verification of names NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force, or the Chaplain of the United States Marine Corps, depending on the Armed Force in which the chaplain served. (c) Prohibition on expansion of memorials Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill on the date of the enactment of this Act. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01200209597923926,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2156,
+      "word_count": 361,
+      "token_length": 462
+    },
+    {
+      "text": "d) Definitions In this section: (1) The term Chaplains Hill means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. (2) The term NCMAF means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011591342277824879,
+      "confidence": "High",
+      "start_index": 2156,
+      "end_index": 2546,
+      "word_count": 65,
+      "token_length": 83
+    }
+  ],
+  "_submission_type": "solo"
+}

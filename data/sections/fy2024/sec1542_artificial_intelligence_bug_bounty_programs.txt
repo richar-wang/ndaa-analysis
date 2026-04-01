@@ -1,0 +1,12 @@
+SEC. 1542.  Deadlines. 10 USC 4001 note . ARTIFICIAL INTELLIGENCE BUG BOUNTY PROGRAMS. (a)  Program for Foundational Artificial Intelligence Products Being Integrated Within Department of Defense .— (1)  Development required .— Not later than 180 days after the date of the enactment of this Act and subject to the availability of appropriations, the Chief Digital and Artificial Intelligence Officer of the Department of Defense shall develop a bug bounty program for foundational artificial intelligence models being integrated into the missions and operations of the Department of Defense. 
+ (2)  Collaboration .— In developing the program under paragraph (1), the Chief Digital and Artificial Intelligence Officer may collaborate with the heads of other Federal departments and agencies with expertise in cybersecurity and artificial intelligence. 
+ (3)  Implementation authorized .— The Chief Digital and Artificial Intelligence Officer may carry out the program developed under subsection (a). 
+ (4)  Contracts .— The Secretary of Defense shall ensure, as may be appropriate, that whenever the Secretary enters into any contract, such contract allows for participation in the bug bounty program developed under paragraph (1). 
+ (5)  Rule of construction .— Nothing in this subsection shall be construed to require— (A)  the use of any foundational artificial intelligence model; or 
+ (B)  the implementation of the program developed under paragraph (1) for the purpose of the integration of a foundational artificial intelligence model into the missions or operations of the Department of Defense. 
+ 
+ 
+ (b)  Briefing .— Not later than one year after the date of the enactment of this Act, the Chief Digital and Artificial Intelligence Officer shall provide to the congressional defense committees a briefing on— (1)  the development and implementation of bug bounty programs the Chief Digital and Artificial Intelligence Officer considers relevant to the matters covered by this section; and 
+ (2)  Plans. long-term plans of the Chief Digital and Artificial Intelligence Officer with respect to such bug bounty programs. 
+ 
+ (c)  Foundational Artificial Intelligence Model Defined .— In this section, the term “ foundational artificial intelligence model ” means an adaptive generative model that is trained on a broad set of unlabeled data sets that may be used for different tasks with minimal fine-tuning.

@@ -1,0 +1,71 @@
+{
+  "text": "Comptroller General study on Coast Guard efforts to reduce prevalence of missing or incomplete medical records and sharing of medical data with Department of Veterans Affairs and other entities (a) Study Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall commence a study assessing the efforts of the Commandant - (1) to reduce the prevalence of missing or incomplete medical records; (2) to share medical data of members of the Coast Guard with the Department of Veterans Affairs; and (3) to ensure that electronic health records are provided in a format that is user friendly and easy to access. (b) Elements In conducting the study under subsection (a), the Comptroller General shall review the following: (1) The steps the Commandant has taken to reduce the prevalence of missing or incomplete medical records of members of the Coast Guard. (2) How implementation of an electronic health record system has affected the ability of the Commandant to manage health records of members of the Coast Guard, including - (A) how the Commandant adds records from private medical providers to the electronic health record system; (B) the progress of the Commandant toward implementing the electronic health record system in shipboard sick bays of the Coast Guard; (C) how the Coast Guard shares medical records with the Department of Veterans Affairs; and (D) any other matter the Comptroller General considers appropriate with respect to medical record storage, use, and sharing and the associated consequences for member health and well-being. (3) The ability of members of the Coast Guard, medical professionals of the Coast Guard and of the Department of Defense, personnel of the Department of Veterans Affairs, and other personnel to access and search, as appropriate, the electronic health records of individuals, including the ability to search or quickly find information within electronic health records. (c) Report Upon completion of the study under subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of the study under subsection (a).\n\nComptroller General study on athletic coaching at Coast Guard Academy (a) In general Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States, in consultation with the Superintendent of the Coast Guard Academy, shall commence a study on the number of administratively determined billets for teaching and coaching necessary to support Coast Guard Academy recruitment, intercollegiate athletics, health and physical education, and leadership development programs. (b) Elements The study required under subsection (a) shall include the following: (1) An identification of the number of full-time and part-time employees performing coaching functions at the Coast Guard Academy whose positions are funded by a nonappropriated fund instrumentality of the Coast Guard. (2) An identification of the number of full-time and part-time employees whose positions are funded by a nonappropriated fund instrumentality performing coaching functions at the following: (A) The United States Military Academy. (B) The United States Naval Academy. (C) The United States Air Force Academy. (D) The United States Merchant Marine Academy. (3) An analysis of the roles performed by athletic coaches with respect to officer development at the Coast Guard Academy, including the specific functions of athletic coaches within the health and physical education and leadership development program curriculums. (4) An identification of any adverse impacts on or deficiencies in cadet training and officer development resulting from an inadequate number of administratively determined billets for teaching and coaching at the Coast Guard Academy. (c) Consultation In conducting the study under subsection (a), the Comptroller General may consult a federally funded research and development center. (d) Report The Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee of Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this section.\n\nComptroller General study and report on permanent change of station process (a) Study Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall commence a study to evaluate the effectiveness of the permanent change of station process of the Coast Guard. (b) Report (1) In general Not later than 1 year after commencing the study required by subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study. (2) Elements The report required by paragraph (1) shall include the following: (A) A description of the permanent change of station policies of the Coast Guard. (B) A description of Coast Guard spending on permanent change of station moves and associated support costs. (C) An evaluation of the effectiveness of using contracted movers for permanent change of station moves, including the estimated costs associated with - (i) lost or damaged personal property of members of the Coast Guard; (ii) delays in scheduling such a move through a contracted mover; (iii) delayed delivery of household goods; and (iv) other related challenges. (D) A review of changes to permanent change of station policies implemented during the 10-year period ending on the date of enactment of this Act, and the costs or savings to the Coast Guard directly associated with such changes. (E) Recommendations to improve the permanent change of station process of the Coast Guard. (F) Any additional information or related matter arising from the study, as the Comptroller General considers appropriate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Comptroller General study on Coast Guard efforts to reduce prevalence of missing or incomplete medical records and sharing of medical data with Department of Veterans Affairs and other entities (a) Study Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall commence a study assessing the efforts of the Commandant - (1) to reduce the prevalence of missing or incomplete medical records; (2) to share medical data of members of the Coast Guard with the Department of Veterans Affairs; and (3) to ensure that electronic health records are provided in a format that is user friendly and easy to access. (b) Elements In conducting the study under subsection (a), the Comptroller General shall review the following: (1) The steps the Commandant has taken to reduce the prevalence of missing or incomplete medical records of members of the Coast Guard. (2) How implementation of an electronic health record system has affected the ability of the Commandant to manage health records of members of the Coast Guard, including - (A) how the Commandant adds records from private medical providers to the electronic health record system; (B) the progress of the Commandant toward implementing the electronic health record system in shipboard sick bays of the Coast Guard; (C) how the Coast Guard shares medical records with the Department of Veterans Affairs; and (D) any other matter the Comptroller General considers appropriate with respect to medical record storage, use, and sharing and the associated consequences for member health and well-being. (3) The ability of members of the Coast Guard, medical professionals of the Coast Guard and of the Department of Defense, personnel of the Department of Veterans Affairs, and other personnel to access and search, as appropriate, the electronic health records of individuals, including the ability to search or quickly find information within electronic health records. (c) Report Upon completion of the study under subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing the results of the study under subsection (a).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006455861187229554,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2296,
+      "word_count": 362,
+      "token_length": 436
+    },
+    {
+      "text": "\n\nComptroller General study on athletic coaching at Coast Guard Academy (a) In general Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States, in consultation with the Superintendent of the Coast Guard Academy, shall commence a study on the number of administratively determined billets for teaching and coaching necessary to support Coast Guard Academy recruitment, intercollegiate athletics, health and physical education, and leadership development programs. (b) Elements The study required under subsection (a) shall include the following: (1) An identification of the number of full-time and part-time employees performing coaching functions at the Coast Guard Academy whose positions are funded by a nonappropriated fund instrumentality of the Coast Guard. (2) An identification of the number of full-time and part-time employees whose positions are funded by a nonappropriated fund instrumentality performing coaching functions at the following: (A) The United States Military Academy. (B) The United States Naval Academy. (C) The United States Air Force Academy. (D) The United States Merchant Marine Academy. (3) An analysis of the roles performed by athletic coaches with respect to officer development at the Coast Guard Academy, including the specific functions of athletic coaches within the health and physical education and leadership development program curriculums. (4) An identification of any adverse impacts on or deficiencies in cadet training and officer development resulting from an inadequate number of administratively determined billets for teaching and coaching at the Coast Guard Academy. (c) Consultation In conducting the study under subsection (a), the Comptroller General may consult a federally funded research and development center. (d) Report The Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee of Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this section.\n\nComptroller General study and report on permanent change of station process (a) Study Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall commence a study to evaluate the effectiveness of the permanent change of station process of the Coast Guard. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011193296623726687,
+      "confidence": "High",
+      "start_index": 2296,
+      "end_index": 4704,
+      "word_count": 359,
+      "token_length": 449
+    },
+    {
+      "text": "b) Report (1) In general Not later than 1 year after commencing the study required by subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study. (2) Elements The report required by paragraph (1) shall include the following: (A) A description of the permanent change of station policies of the Coast Guard. (B) A description of Coast Guard spending on permanent change of station moves and associated support costs. (C) An evaluation of the effectiveness of using contracted movers for permanent change of station moves, including the estimated costs associated with - (i) lost or damaged personal property of members of the Coast Guard; (ii) delays in scheduling such a move through a contracted mover; (iii) delayed delivery of household goods; and (iv) other related challenges. (D) A review of changes to permanent change of station policies implemented during the 10-year period ending on the date of enactment of this Act, and the costs or savings to the Coast Guard directly associated with such changes. (E) Recommendations to improve the permanent change of station process of the Coast Guard. (F) Any additional information or related matter arising from the study, as the Comptroller General considers appropriate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.019628033906753575,
+      "confidence": "High",
+      "start_index": 4704,
+      "end_index": 6120,
+      "word_count": 224,
+      "token_length": 281
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec7604_comptroller_general_study_on_coast_guard_efforts_to_reduce_prevalence_of_missing.txt",
+    "sec7609_comptroller_general_study_on_athletic_coaching_at_coast_guard_academy.txt",
+    "sec7610_comptroller_general_study_and_report_on_permanent_change_of_station_process.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec7604_comptroller_general_study_on_coast_guard_efforts_to_reduce_prevalence_of_missing.txt",
+      "start_index": 0,
+      "end_index": 2296,
+      "word_count": 362
+    },
+    {
+      "filename": "sec7609_comptroller_general_study_on_athletic_coaching_at_coast_guard_academy.txt",
+      "start_index": 2298,
+      "end_index": 4391,
+      "word_count": 306
+    },
+    {
+      "filename": "sec7610_comptroller_general_study_and_report_on_permanent_change_of_station_process.txt",
+      "start_index": 4393,
+      "end_index": 6120,
+      "word_count": 276
+    }
+  ]
+}

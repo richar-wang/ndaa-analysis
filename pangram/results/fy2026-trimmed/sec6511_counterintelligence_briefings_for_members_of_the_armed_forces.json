@@ -1,0 +1,26 @@
+{
+  "text": "Counterintelligence briefings for members of the Armed Forces (a) Definitions In this section: (1) Covered individual The term covered individual has the meaning given such term in section 989(h) of title 10, United States Code. (2) Government of concern; company of concern The terms government of concern and company of concern mean, respectively, a government described in subparagraph (A) of section 989(h)(2) of title 10, United States Code, and a company, entity, or other person described in subparagraph (B) of such section. (b) In general The Under Secretary of Defense for Intelligence and Security shall issue appropriate policy to require the military departments to conduct counterintelligence briefings for members of the Armed Forces as part of the process required by section 989(c) of title 10, United States Code. (c) Elements Each briefing provided under subsection (b) shall provide members of the Armed Forces with - (1) awareness of methods commonly used by governments and companies of concern to solicit and learn from covered individuals sensitive military techniques, tactics, and procedures of the Armed Forces; (2) recommended practices for covered individuals to avoid an activity that could subject such individuals to civil or criminal penalties; (3) the contact information for the counterintelligence authorities to whom covered individuals should report attempted recruitment or a related suspicious contact; and (4) an overview of the prohibition and penalties under subsections (a) and (c) of section 989 of title 10, United States Code. (d) Provision of briefings at certain trainings The Under Secretary may mandate the briefings required by subsection (b) during the trainings required by Department of Defense Directive 5240.06 (relating to counterintelligence awareness and reporting), or successor document.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Counterintelligence briefings for members of the Armed Forces (a) Definitions In this section: (1) Covered individual The term covered individual has the meaning given such term in section 989(h) of title 10, United States Code. (2) Government of concern; company of concern The terms government of concern and company of concern mean, respectively, a government described in subparagraph (A) of section 989(h)(2) of title 10, United States Code, and a company, entity, or other person described in subparagraph (B) of such section. (b) In general The Under Secretary of Defense for Intelligence and Security shall issue appropriate policy to require the military departments to conduct counterintelligence briefings for members of the Armed Forces as part of the process required by section 989(c) of title 10, United States Code. (c) Elements Each briefing provided under subsection (b) shall provide members of the Armed Forces with - (1) awareness of methods commonly used by governments and companies of concern to solicit and learn from covered individuals sensitive military techniques, tactics, and procedures of the Armed Forces; (2) recommended practices for covered individuals to avoid an activity that could subject such individuals to civil or criminal penalties; (3) the contact information for the counterintelligence authorities to whom covered individuals should report attempted recruitment or a related suspicious contact; and (4) an overview of the prohibition and penalties under subsections (a) and (c) of section 989 of title 10, United States Code. (d) Provision of briefings at certain trainings The Under Secretary may mandate the briefings required by subsection (b) during the trainings required by Department of Defense Directive 5240.06 (relating to counterintelligence awareness and reporting), or successor document.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006977332755923271,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1849,
+      "word_count": 275,
+      "token_length": 387
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,7 @@
+SEC. 169.  REPEAL OF TACTICAL UNMANNED VEHICLE COMMON DATA LINK REQUIREMENT. (a)  Report Required .— (1)  In general .— Not later than February 1, 2020, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on the status of the Common Data Link program and plans to meet new and emerging manned and unmanned intelligence, surveillance, and reconnaissance (ISR) vehicle secure and interoperable communication requirements. 
+ (2)  Elements .— The report required under paragraph (1) shall include the following elements: (A)  A description of each Common Data Link (CDL) waveform in use and which platforms or systems utilize each CDL waveform. 
+ (B)  List. Assessment. A list of manned and unmanned ISR platforms or systems in development requiring networked, secure, low latency communications, and an assessment of the suitability of CDL to meet the requirements of each planned program. 
+ (C)  A description of in-progress or planned technology development efforts to address networking requirements for manned and unmanned ISR systems operating in contested and denied environments. 
+ 
+ 
+ (b)  Repeal .— Section 157 of the National Defense Authorization Act for Fiscal Year 2013 ( Public Law 112–239 ;  126 Stat. 1667 ) is hereby  repealed .

@@ -1,0 +1,36 @@
+{
+  "text": "Pilot program on Army depot and arsenal workload sustainment (a) Establishment of pilot program Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall establish a pilot program, to be known as the Army Depot and Arsenal Workload Sustainment Pilot Program (in this section referred to as the pilot program ), under which the Secretary shall provide a preference to certain procurement actions and solicitations for the performance of work by non-government entities at covered depots. (b) Preferences for procurement actions or solicitations (1) In general Under the pilot program established under subsection (a), the Secretary of Defense shall provide a preference to any procurement action or solicitation for the performance of work submitted by a non-government entity that includes, as part of such procurement action or solicitation, a proposal to enter into a public-private partnership with the Secretary under which the non-government entity will perform the work at covered depots. (2) Further preference In evaluating procurement actions and solicitations under paragraph (1), the Secretary shall give an additional preference to any such action or solicitation submitted by a non-government entity that proposes to use Department of Defense employees to perform the work at a covered depot under such action or solicitation. (3) Regulations Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall prescribe regulations for the provision of preferences under this subsection. (c) Report required (1) In general Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the activities carried out under the pilot program during that year, including a description of any operational challenges identified. (2) Elements The report required under paragraph (1) shall include the following: (A) A breakout, by relevant budget accounts, of work performed at each covered depot during the year preceding the year during which the report is submitted, including work that was carried out directly and work that was carried out through public-private partnerships under the pilot program. (B) An identification of the projected workload at each covered depot during the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code. (C) The capital investments projected in such future-years defense program to be made at each such covered depot to meet organic industrial base core logistics capabilities in accordance with section 2464 of title 10, United States Code. (d) Duration The authority to carry out a pilot program under this section shall terminate on the date that is five years after the date of the enactment of this Act. (e) Definitions In this section, the term covered depot has the meaning given such term in section 2476(f) of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Pilot program on Army depot and arsenal workload sustainment (a) Establishment of pilot program Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall establish a pilot program, to be known as the Army Depot and Arsenal Workload Sustainment Pilot Program (in this section referred to as the pilot program ), under which the Secretary shall provide a preference to certain procurement actions and solicitations for the performance of work by non-government entities at covered depots. (b) Preferences for procurement actions or solicitations (1) In general Under the pilot program established under subsection (a), the Secretary of Defense shall provide a preference to any procurement action or solicitation for the performance of work submitted by a non-government entity that includes, as part of such procurement action or solicitation, a proposal to enter into a public-private partnership with the Secretary under which the non-government entity will perform the work at covered depots. (2) Further preference In evaluating procurement actions and solicitations under paragraph (1), the Secretary shall give an additional preference to any such action or solicitation submitted by a non-government entity that proposes to use Department of Defense employees to perform the work at a covered depot under such action or solicitation. (3) Regulations Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall prescribe regulations for the provision of preferences under this subsection. (c) Report required (1) In general Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the activities carried out under the pilot program during that year, including a description of any operational challenges identified. (2) Elements The report required under paragraph (1) shall include the following: (A) A breakout, by relevant budget accounts, of work performed at each covered depot during the year preceding the year during which the report is submitted, including work that was carried out directly and work that was carried out through public-private partnerships under the pilot program. (B) An identification of the projected workload at each covered depot during the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014871509479624885,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2486,
+      "word_count": 386,
+      "token_length": 470
+    },
+    {
+      "text": "C) The capital investments projected in such future-years defense program to be made at each such covered depot to meet organic industrial base core logistics capabilities in accordance with section 2464 of title 10, United States Code. (d) Duration The authority to carry out a pilot program under this section shall terminate on the date that is five years after the date of the enactment of this Act. (e) Definitions In this section, the term covered depot has the meaning given such term in section 2476(f) of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01345285183439652,
+      "confidence": "High",
+      "start_index": 2486,
+      "end_index": 3029,
+      "word_count": 92,
+      "token_length": 120
+    }
+  ],
+  "_submission_type": "solo"
+}

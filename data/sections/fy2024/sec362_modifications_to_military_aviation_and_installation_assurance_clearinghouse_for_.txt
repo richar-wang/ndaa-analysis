@@ -1,0 +1,27 @@
+SEC. 362.  MODIFICATIONS TO MILITARY AVIATION AND INSTALLATION ASSURANCE CLEARINGHOUSE FOR REVIEW OF MISSION OBSTRUCTIONS. (a)  Projects Proposed Within Two Nautical Miles of Any Active Intercontinental Ballistic Missile Launch Facility or Control Center .— Section 183a of title 10, United States Code ,  is amended — (1)  in subsection (d)(2)— (A)  in subparagraph (B), by  inserting  “ or any active intercontinental ballistic missile launch facility or control center ” after “ military training routes ”; and 
+ (B)  in subparagraph (E), by  striking  “ or a Deputy Under Secretary of Defense ” and  inserting  “ a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment ”; and 
+ 
+ (2)  in subsection (e)(1)— (A)  in the first sentence— (i)  by  striking  “ The Secretary ” and  inserting  “ (A) The Secretary ”; and 
+ (ii)  by  inserting  “ or antenna structure project ” after “ energy project ”; 
+ 
+ (B)  in the second sentence, by  striking  “ The Secretary of Defense’s finding of unacceptable risk to national security ” and  inserting  the following new subparagraph: “(C)  Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph” 
+ ; and 
+ (C)  by  inserting  after subparagraph (A), as designated by subparagraph (A)(i) of this paragraph, the following new subparagraph: “(B) (i)  In the case of any energy project or antenna structure project with proposed structures more than 200 feet above ground level located within two nautical miles of the geographic center of an active intercontinental ballistic missile launch facility or control center, the Secretary of Defense shall issue a finding of unacceptable risk to national security for such project if the mitigation actions identified pursuant to this section do not include removal of all such proposed structures from such project after receiving notice of presumed risk from the Clearinghouse under subsection (c)(2). 137 STAT. 232 
+ “(ii)  Clause (i) does not apply to structures approved before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 or to structures that are re-powered with updated technology in the same location as previously approved structures.” 
+ 
+ . 
+ 
+ 
+ (b)  Inclusion of Antenna Structure Projects .— (1)  In general .— Such section is further amended— (A)  by  inserting  “ or antenna structure projects ” after “ energy projects ” each place it appears; and 
+ (B)  by  inserting  “ or antenna structure project ” after “ energy project ” each place it appears (except for subsections (e)(1) and (h)(2)). 
+ 
+ (2)  Antenna structure project and intercontinental ballistic missile launch facility or control center defined .— Section 183a(h) of such title  is amended — (A)  by  redesignating  paragraphs (2) through (9) as paragraphs (4) through (11), respectively; and 
+ (B)  by  inserting  after paragraph (1) the following new paragraphs: “(2)  The term ‘ antenna structure project ’— “(A)  means a project to construct a structure located within two nautical miles of the geographic center of any intercontinental ballistic missile launch facility or control center that— “(i)  is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and 
+ “(ii)  for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and 
+ 
+ “(B)  does not include— “(i)  any structure constructed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, including any such structure which is upgraded, repaired, or otherwise modified after such date of enactment as long as such upgrade, repair, or modification has not increased the height of such structure; or 
+ “(ii)  any project in support of or required by an intercontinental ballistic missile launch facility or control center, or any other such project that has been approved by the Secretary of Defense or the Secretary of Defense’s designee for use on the same military installation at which such facility or control center is located. 
+ 
+ 
+ “(3)  The term ‘ intercontinental ballistic missile launch facility or control center ’ means such facilities or control centers located at the Francis E. Warren Air Force Base; the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.” 
+ . 137 STAT. 233

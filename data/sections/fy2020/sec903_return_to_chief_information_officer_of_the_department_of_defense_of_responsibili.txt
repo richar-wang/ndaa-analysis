@@ -1,0 +1,11 @@
+SEC. 903.  RETURN TO CHIEF INFORMATION OFFICER OF THE DEPARTMENT OF DEFENSE OF RESPONSIBILITY FOR BUSINESS SYSTEMS AND RELATED MATTERS. (a)  Return of Responsibility .— (1)  In general .— Section 142(b)(1) of title 10, United States Code ,  is amended  by  striking  “ systems and ” each place it appears in subparagraphs (A), (B), and (C). 
+ (2)  Conforming amendments to cmo authorities .— Section 132a(b) of such title  is amended — (A)  in paragraph (2), by  striking  “ performance measurement and management, and business information technology management and improvement activities and programs ” and  inserting  “ and performance measurement and management activities and programs ”; 
+ (B)  by  striking  paragraphs (4) and (5); and 
+ (C)  by  redesignating  paragraphs (6) and (7) as paragraphs (4) and (5), respectively. 
+ 
+ 
+ (b)  10 USC 2223 note . Chief Data Officer Responsibility for DoD Data Sets .— (1)  In general .— In addition to any other functions and responsibilities specified in section 3520(c) of title 44, United States, Code, the Chief Data Officer of the Department of Defense shall also be the official in the Department of Defense  133 STAT. 1556 
+with principal responsibility for providing for the availability of common, usable, Defense-wide data sets. 
+ (2)  Access to all dod data .— In order to carry out the responsibility specified in paragraph (1), the Chief Data Officer shall have access to all Department of Defense data, including data in connection with warfighting missions and back-office data. 
+ (3)  Responsible to cio .— The Chief Data Officer shall report directly to the Chief Information Officer of the Department of Defense in the performance of the responsibility specified in paragraph (1). 
+ (4)  Recommenda- tions. Report .— Not later than December 1, 2019, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such recommendations for legislative or administrative action as the Secretary considers appropriate to carry out this subsection.

@@ -1,0 +1,36 @@
+{
+  "text": "Limitation on authority to reorganize the Senior Reserve Officers' Training Corps of the Army (a) Briefing on reorganization plans Not later than March 1, 2026, the Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the plans of the Secretary of the Army with respect to reorganization of the program or individual units of the program. Such briefing shall include the following: (1) The number of members of the program anticipated to be affected by such a reorganization at each educational institution. (2) An identification of the requirements for members of the program who are members of a unit that will close or whose position within a unit will be eliminated to transfer to another unit of the program. (3) An identification of alternative pathways for members of the program affected by a reorganization to be appointed as a commissioned officer in the Armed Forces. (b) Limitations (1) Briefing prior to reorganization The Secretary of the Army may not reorganize a unit of the program of the Army until the date that is 90 days after the date on which the Secretary, acting through the Army Cadet Command, provides to the Committees on Armed Services of the Senate and House of Representatives a briefing with respect to the reorganization of such unit that includes the following: (A) Each position of such unit to be eliminated. (B) A risk analysis regarding the impact of the reorganization on Army officer accessions that justifies such reorganization. (C) Anticipated cost savings or expenses to the United States. (D) The number of members of the program affected by the reorganization, including the number of members who will have to travel to another educational institution to participate in the program after the reorganization. (E) Any change to a scholarship awarded under section 2107 or 2107a of title 10, United States Code, due to the reorganization. (2) Completion of commissioning requirements by current students The Secretary of the Army shall ensure that any reorganization of a unit of the program of the Army allows a member of the program receiving financial assistance under section 2107 or 2107a of title 10, United States Code, who is affected by such reorganization to complete any requirements for receiving a commission as an officer in the Army without the member being required to transfer to another educational institution. (c) Definitions In this section: (1) The terms program and member of the program have the meanings given such terms in section 2101 of title 10, United States Code. (2) The term reorganize , with respect to a unit of the program, includes closing, restructuring, reclassifying, merging, or realigning.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Limitation on authority to reorganize the Senior Reserve Officers' Training Corps of the Army (a) Briefing on reorganization plans Not later than March 1, 2026, the Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the plans of the Secretary of the Army with respect to reorganization of the program or individual units of the program. Such briefing shall include the following: (1) The number of members of the program anticipated to be affected by such a reorganization at each educational institution. (2) An identification of the requirements for members of the program who are members of a unit that will close or whose position within a unit will be eliminated to transfer to another unit of the program. (3) An identification of alternative pathways for members of the program affected by a reorganization to be appointed as a commissioned officer in the Armed Forces. (b) Limitations (1) Briefing prior to reorganization The Secretary of the Army may not reorganize a unit of the program of the Army until the date that is 90 days after the date on which the Secretary, acting through the Army Cadet Command, provides to the Committees on Armed Services of the Senate and House of Representatives a briefing with respect to the reorganization of such unit that includes the following: (A) Each position of such unit to be eliminated. (B) A risk analysis regarding the impact of the reorganization on Army officer accessions that justifies such reorganization. (C) Anticipated cost savings or expenses to the United States. (D) The number of members of the program affected by the reorganization, including the number of members who will have to travel to another educational institution to participate in the program after the reorganization. (E) Any change to a scholarship awarded under section 2107 or 2107a of title 10, United States Code, due to the reorganization. (2) Completion of commissioning requirements by current students The Secretary of the Army shall ensure that any reorganization of a unit of the program of the Army allows a member of the program receiving financial assistance under section 2107 or 2107a of title 10, United States Code, who is affected by such reorganization to complete any requirements for receiving a commission as an officer in the Army without the member being required to transfer to another educational institution. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.02847500564530492,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2454,
+      "word_count": 402,
+      "token_length": 494
+    },
+    {
+      "text": "c) Definitions In this section: (1) The terms program and member of the program have the meanings given such terms in section 2101 of title 10, United States Code. (2) The term reorganize , with respect to a unit of the program, includes closing, restructuring, reclassifying, merging, or realigning.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.036995620001107454,
+      "confidence": "High",
+      "start_index": 2454,
+      "end_index": 2754,
+      "word_count": 49,
+      "token_length": 75
+    }
+  ],
+  "_submission_type": "solo"
+}

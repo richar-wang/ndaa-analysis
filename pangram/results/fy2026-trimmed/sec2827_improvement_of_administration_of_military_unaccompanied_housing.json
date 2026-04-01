@@ -1,0 +1,36 @@
+{
+  "text": "Improvement of administration of military unaccompanied housing (a) Updated guidance on surveys The Secretary of Defense, in carrying out the satisfaction survey requirement under section 3058 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116\u201392 ; 10 U.S.C. 2821 note), shall update guidance to the Secretaries of the military departments to ensure that members of the Armed Forces living in military unaccompanied housing are surveyed in a consistent and comparable manner. (b) Review on processes and methodologies for condition scores (1) In general The Secretary of Defense shall conduct a review of the processes and methodologies by which the Secretaries of the military departments calculate condition scores for military unaccompanied housing facilities under the jurisdiction of the Secretary concerned. (2) Elements The review required under paragraph (1) shall, among other factors - (A) consider how best to ensure a condition score of a facility reflects - (i) the physical condition of the facility; and (ii) the effect of that condition on the quality of life of members of the Armed Forces; and (B) aim to increase methodological consistency among the military departments. (3) Report Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review conducted under paragraph (1). (c) Accounting of members residing in military unaccompanied housing (1) In general The Secretary of Defense shall include with the submission to Congress by the President of the annual budget of the Department of Defense under section 1105(a) of title 31, United States Code, an accounting of unaccompanied members of the Armed Forces whose rank would require that they live in military unaccompanied housing, but that also receive a basic allowance for housing under section 403 of title 37, United States Code. (2) Elements The accounting required under paragraph (1) shall include - (A) the number of members of the Armed Forces described in such paragraph; (B) the total value of basic allowance for housing payments provided to those members; and (C) such other information as the Secretary considers appropriate. (d) Centralized tracking Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall develop a means for centralized tracking, at the service level, of all military construction requirements related to military unaccompanied housing that have been identified at the installation level, regardless of whether or not such requirements are submitted for funding. (e) Military unaccompanied housing defined In this section, the term military unaccompanied housing has the meaning given that term in section 2871 of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Improvement of administration of military unaccompanied housing (a) Updated guidance on surveys The Secretary of Defense, in carrying out the satisfaction survey requirement under section 3058 of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116\u201392 ; 10 U.S.C. 2821 note), shall update guidance to the Secretaries of the military departments to ensure that members of the Armed Forces living in military unaccompanied housing are surveyed in a consistent and comparable manner. (b) Review on processes and methodologies for condition scores (1) In general The Secretary of Defense shall conduct a review of the processes and methodologies by which the Secretaries of the military departments calculate condition scores for military unaccompanied housing facilities under the jurisdiction of the Secretary concerned. (2) Elements The review required under paragraph (1) shall, among other factors - (A) consider how best to ensure a condition score of a facility reflects - (i) the physical condition of the facility; and (ii) the effect of that condition on the quality of life of members of the Armed Forces; and (B) aim to increase methodological consistency among the military departments. (3) Report Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review conducted under paragraph (1). (c) Accounting of members residing in military unaccompanied housing (1) In general The Secretary of Defense shall include with the submission to Congress by the President of the annual budget of the Department of Defense under section 1105(a) of title 31, United States Code, an accounting of unaccompanied members of the Armed Forces whose rank would require that they live in military unaccompanied housing, but that also receive a basic allowance for housing under section 403 of title 37, United States Code. (2) Elements The accounting required under paragraph (1) shall include - (A) the number of members of the Armed Forces described in such paragraph; (B) the total value of basic allowance for housing payments provided to those members; and (C) such other information as the Secretary considers appropriate. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01064496929757297,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2329,
+      "word_count": 368,
+      "token_length": 488
+    },
+    {
+      "text": "d) Centralized tracking Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall develop a means for centralized tracking, at the service level, of all military construction requirements related to military unaccompanied housing that have been identified at the installation level, regardless of whether or not such requirements are submitted for funding. (e) Military unaccompanied housing defined In this section, the term military unaccompanied housing has the meaning given that term in section 2871 of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01087314821779728,
+      "confidence": "High",
+      "start_index": 2329,
+      "end_index": 2923,
+      "word_count": 91,
+      "token_length": 122
+    }
+  ],
+  "_submission_type": "solo"
+}

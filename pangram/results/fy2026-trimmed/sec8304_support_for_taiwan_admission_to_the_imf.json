@@ -1,0 +1,26 @@
+{
+  "text": "Support for Taiwan admission to the IMF (a) In general The United States Governor of the International Monetary Fund (in this section referred to as the Fund ) shall use the voice and vote of the United States to vigorously support - (1) the admission of Taiwan as a member of the Fund, to the extent that admission is sought by Taiwan; (2) participation by Taiwan in regular surveillance activities of the Fund with respect to the economic and financial policies of Taiwan, consistent with Article IV consultation procedures of the Fund; (3) employment opportunities for Taiwan nationals, without regard to any consideration that, in the determination of the United States Governor, does not generally restrict the employment of nationals of member countries of the Fund; and (4) the ability of Taiwan to receive appropriate technical assistance and training by the Fund. (b) United States policy It is the policy of the United States not to discourage or otherwise deter Taiwan from seeking admission as a member of the Fund. (c) Waiver The Secretary of the Treasury may waive any requirement of subsection (a) for up to 1 year at a time on reporting to Congress that providing the waiver will substantially promote the objective of securing the meaningful participation of Taiwan at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act). (d) Sunset This section shall have no force or effect on the earlier of - (1) the date of approval by the Board of Governors of the Fund for the admission of Taiwan as a member of the Fund; or (2) the date that is 10 years after the date of the enactment of this Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Support for Taiwan admission to the IMF (a) In general The United States Governor of the International Monetary Fund (in this section referred to as the Fund ) shall use the voice and vote of the United States to vigorously support - (1) the admission of Taiwan as a member of the Fund, to the extent that admission is sought by Taiwan; (2) participation by Taiwan in regular surveillance activities of the Fund with respect to the economic and financial policies of Taiwan, consistent with Article IV consultation procedures of the Fund; (3) employment opportunities for Taiwan nationals, without regard to any consideration that, in the determination of the United States Governor, does not generally restrict the employment of nationals of member countries of the Fund; and (4) the ability of Taiwan to receive appropriate technical assistance and training by the Fund. (b) United States policy It is the policy of the United States not to discourage or otherwise deter Taiwan from seeking admission as a member of the Fund. (c) Waiver The Secretary of the Treasury may waive any requirement of subsection (a) for up to 1 year at a time on reporting to Congress that providing the waiver will substantially promote the objective of securing the meaningful participation of Taiwan at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act). (d) Sunset This section shall have no force or effect on the earlier of - (1) the date of approval by the Board of Governors of the Fund for the admission of Taiwan as a member of the Fund; or (2) the date that is 10 years after the date of the enactment of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0049083661288022995,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1678,
+      "word_count": 284,
+      "token_length": 340
+    }
+  ],
+  "_submission_type": "solo"
+}

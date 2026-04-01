@@ -1,0 +1,8 @@
+SEC. 236.  DOCUMENTATION RELATING TO THE ADVANCED BATTLE MANAGEMENT SYSTEM. (a)  Deadline. Documentation Required .— Not later than the date specified in subsection (b), the Secretary of the Air Force shall submit to the congressional defense committees the following documentation relating to the Advanced Battle Management System: (1)  List. A list that identifies each program, project, and activity that contributes to the architecture of the Advanced Battle Management System. 
+ (2)  Analysis. The final analysis of alternatives for the Advanced Battle Management System. 
+ (3)  Requirements. The requirements for the networked data architecture necessary for the Advanced Battle Management System to provide multidomain command and control and battle management capabilities and a development schedule for such architecture. 
+ 
+ (b)  Date Specified .— The date specified in this subsection is the earlier of— (1)  the date that is 180 days after the date on which the final analysis of alternatives for the Advanced Battle Management System is completed; or 
+ (2)  June 1, 2020. 
+ 
+ (c)  Advanced Battle Management System Defined .— In this section, the term “ Advanced Battle Management System ” means the Advanced Battle Management System of Systems capability of the Air Force, including each program, project, and activity that contributes to such capability.

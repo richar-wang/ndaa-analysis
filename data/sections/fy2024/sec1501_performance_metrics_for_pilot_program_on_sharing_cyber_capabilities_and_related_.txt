@@ -1,0 +1,9 @@
+SEC. 1501.  PERFORMANCE METRICS FOR PILOT PROGRAM ON SHARING CYBER CAPABILITIES AND RELATED INFORMATION WITH FOREIGN OPERATIONAL PARTNERS.    Chapter 19 of title 10, United States Code ,  is amended — (1)  10 USC prec. 391. by  redesignating  the second section 398 (relating to pilot program for sharing cyber capabilities and related information with foreign operational partners) as section 398a; and 
+ (2)  in section 398a, as so redesignated— (A)  by  redesignating  subsections (f) and (g) as subsections (g) and (h), respectively; and 
+ (B)  by  inserting  after subsection (e) the following new subsection: “(f)  Performance Metrics .— (1)  The Secretary of Defense shall maintain performance metrics to track the results of sharing cyber capabilities and related information with foreign operational partners under a pilot program authorized by subsection (a). 
+ “(2)  The performance metrics under paragraph (1) shall include the following: “(A)  Whom the cyber capability was used against. 
+ “(B)  The effect of the cyber capability, including whether and how the transfer of the cyber capability improved the operational cyber posture of the United States and achieved operational objectives of the United States, or had no effect. 
+ “(C)  Such other outcome-based or appropriate performance metrics as the Secretary considers appropriate for evaluating the effectiveness of a pilot program carried out under subsection (a).” 
+ 
+ 
+ .

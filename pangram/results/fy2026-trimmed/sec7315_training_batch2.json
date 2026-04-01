@@ -1,0 +1,54 @@
+{
+  "text": "Training (a) Nautical school program Graduation from a nautical school program may be substituted for the sea service requirements under sections 7307 through 7311a and 7313 of this title. (b) Other approved training programs The satisfactory completion of a training program approved by the Secretary may be substituted for not more than one-half of the sea service requirements under sections 7307 through 7311a and 7313 of this title in accordance with subsection (c). (c) Training days For purposes of subsection (b), training days undertaken in connection with training programs approved by the Secretary may be substituted for days of required sea service under sections 7307 through 7311a and 7313 of this title as follows: (1) Each shore-based training day in the form of classroom lectures may be substituted for 2 days of sea service requirements. (2) Each training day of laboratory training, practical demonstrations, and other similar training, may be substituted for 4 days of sea service requirements. (3) Each training day of full mission simulator training may be substituted for 6 days of sea service requirements. (4) Each training day underway on a vessel while enrolled in an approved training program may be substituted for 1\u00bd days of sea service requirements, as long as - (A) the structured training provided while underway on a vessel is - (i) acceptable to the Secretary as part of the approved training program; and (ii) fully completed by the individual; and (B) the tonnage of such vessel is appropriate to the endorsement being sought. (d) Definition In this section, the term training day means a day that consists of not less than 7 hours of training.\n\nRequirements of electronic merchant mariner credentialing system (a) Definition of merchant mariner credential In this section, the term merchant mariner credential means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title. (b) Necessary considerations In implementing any electronic merchant mariner credentialing system for purposes of this chapter, the Secretary shall consider how to allow, to the maximum extent practicable - (1) the electronic submission of the components of merchant mariner credential applications (such as sea service documentation, professional qualifications, course completion certificates, safety and suitability documents, and medical records) and course approval requests; (2) the direct electronic and secure submission of - (A) sea service verification documentation from employers; (B) course completion certificates from training providers; and (C) necessary documentation from other stakeholders; and (3) the electronic processing and evaluation of information for the issuance of merchant mariner credentials and course approvals, including the capability for the Secretary to complete remote evaluation of information submitted through the system. (c) Access to data The Secretary shall ensure that the Maritime Administration and other Federal agencies, as authorized by the Secretary, have access to anonymized and aggregated data from the electronic system described in subsection (b) and that such data include, at a minimum - (1) the total amount of sea service for individuals with a valid merchant mariner credential; (2) the number of mariners with valid merchant mariner credentials for each rating, including the capability to filter data based on credential endorsements; (3) demographic information including age, gender, and region or address; (4) the estimated times for the Coast Guard to process merchant mariner credential applications, mariner medical certificates, and course approvals; (5) the number of providers approved to provide training for purposes of this part and, for each such training provider, the number of classes taken by individuals with, or applying for, a merchant mariner credential; and (6) if applicable, the branch of the uniformed services (as defined in section 101(a) of title 10) and duty status of applicants for a merchant mariner credential. (d) Privacy requirements The Secretary shall collect the information required under subsection (b) in a manner that protects the privacy rights of individuals who are the subjects of such information.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Training (a) Nautical school program Graduation from a nautical school program may be substituted for the sea service requirements under sections 7307 through 7311a and 7313 of this title. (b) Other approved training programs The satisfactory completion of a training program approved by the Secretary may be substituted for not more than one-half of the sea service requirements under sections 7307 through 7311a and 7313 of this title in accordance with subsection (c). (c) Training days For purposes of subsection (b), training days undertaken in connection with training programs approved by the Secretary may be substituted for days of required sea service under sections 7307 through 7311a and 7313 of this title as follows: (1) Each shore-based training day in the form of classroom lectures may be substituted for 2 days of sea service requirements. (2) Each training day of laboratory training, practical demonstrations, and other similar training, may be substituted for 4 days of sea service requirements. (3) Each training day of full mission simulator training may be substituted for 6 days of sea service requirements. (4) Each training day underway on a vessel while enrolled in an approved training program may be substituted for 1\u00bd days of sea service requirements, as long as - (A) the structured training provided while underway on a vessel is - (i) acceptable to the Secretary as part of the approved training program; and (ii) fully completed by the individual; and (B) the tonnage of such vessel is appropriate to the endorsement being sought. (d) Definition In this section, the term training day means a day that consists of not less than 7 hours of training.\n\nRequirements of electronic merchant mariner credentialing system (a) Definition of merchant mariner credential In this section, the term merchant mariner credential means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title. (b) Necessary considerations In implementing any electronic merchant mariner credentialing system for purposes of this chapter, the Secretary shall consider how to allow, to the maximum extent practicable - (1) the electronic submission of the components of merchant mariner credential applications (such as sea service documentation, professional qualifications, course completion certificates, safety and suitability documents, and medical records) and course approval requests;",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0338587133705409,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2455,
+      "word_count": 375,
+      "token_length": 500
+    },
+    {
+      "text": " (2) the direct electronic and secure submission of - (A) sea service verification documentation from employers; (B) course completion certificates from training providers; and (C) necessary documentation from other stakeholders; and (3) the electronic processing and evaluation of information for the issuance of merchant mariner credentials and course approvals, including the capability for the Secretary to complete remote evaluation of information submitted through the system. (c) Access to data The Secretary shall ensure that the Maritime Administration and other Federal agencies, as authorized by the Secretary, have access to anonymized and aggregated data from the electronic system described in subsection (b) and that such data include, at a minimum - (1) the total amount of sea service for individuals with a valid merchant mariner credential; (2) the number of mariners with valid merchant mariner credentials for each rating, including the capability to filter data based on credential endorsements; (3) demographic information including age, gender, and region or address; (4) the estimated times for the Coast Guard to process merchant mariner credential applications, mariner medical certificates, and course approvals; (5) the number of providers approved to provide training for purposes of this part and, for each such training provider, the number of classes taken by individuals with, or applying for, a merchant mariner credential; and (6) if applicable, the branch of the uniformed services (as defined in section 101(a) of title 10) and duty status of applicants for a merchant mariner credential. (d) Privacy requirements The Secretary shall collect the information required under subsection (b) in a manner that protects the privacy rights of individuals who are the subjects of such information.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.06466530946393809,
+      "confidence": "Medium",
+      "start_index": 2455,
+      "end_index": 4282,
+      "word_count": 271,
+      "token_length": 349
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec7315_training.txt",
+    "sec7512_requirements_of_electronic_merchant_mariner_credentialing_system.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec7315_training.txt",
+      "start_index": 0,
+      "end_index": 1683,
+      "word_count": 273
+    },
+    {
+      "filename": "sec7512_requirements_of_electronic_merchant_mariner_credentialing_system.txt",
+      "start_index": 1685,
+      "end_index": 4282,
+      "word_count": 373
+    }
+  ]
+}

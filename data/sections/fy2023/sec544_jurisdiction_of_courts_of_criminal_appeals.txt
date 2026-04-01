@@ -1,0 +1,33 @@
+SEC. 544.  JURISDICTION OF COURTS OF CRIMINAL APPEALS. (a)  Waiver of Right to Appeal; Withdrawal of Appeal .— Section 861(d) of title 10, United States Code  (article 61(d) of the Uniform Code of Military Justice),  is amended  by  striking  “ A waiver ” and  inserting  “ Except as provided by section 869(c)(2) of this title (article 69(c)(2)), a waiver ”. 
+ (b)  Jurisdiction .— Section 866 of title 10, United States Code  (article 66 of the Uniform Code of Military Justice),  is amended — (1)  in subsection (b)(1), by  striking  “ shall have jurisdiction over ” and all that follows through the period at the end of subparagraph (D) and  inserting  the following:  “shall have jurisdiction over— “(A)  a timely appeal from the judgment of a court-martial, entered into the record under section 860c(a) of this title (article 60c(a)), that includes a finding of guilty; and 
+ “(B)  a summary court-martial case in which the accused filed an application for review with the Court under section 869(d)(1) of this title (article 69(d)(1)) and for which the application has been granted by the Court.” 
+ ; and 
+ (2)  in subsection (c), by  striking  “ is timely if ” and all that follows through the period at the end of paragraph (2) and  inserting  the following:  “is timely if— “(1)  in the case of an appeal under subparagraph (A) of such subsection, it is filed before the later of— “(A)  Time period. the end of the 90-day period beginning on the date the accused is provided notice of appellate rights under section 865(c) of this title (article 65(c)); or 
+ “(B)  the date set by the Court of Criminal Appeals by rule or order; and 
+ 
+ “(2)  in the case of an appeal under subparagraph (B) of such subsection, an application for review with the Court is filed not later than the earlier of the dates established under section 869(d)(2)(B) of this title (article 69(d)(2)(B)).” 
+ . 
+ 
+ (c)  Review by Judge Advocate General .— Section 869 of title 10, United States Code  (article 69 of the Uniform Code of Military Justice),  is amended — (1)  by  amending  subsection (a) to read as follows: 136 STAT. 2583 
+ “(a)  In General .— Upon application by the accused or receipt of the record pursuant to section 864(c)(3) of this title (article 64(c)(3)) and subject to subsections (b), (c), and (d), the Judge Advocate General may— “(1)  with respect to a summary court-martial, modify or set aside, in whole or in part, the findings and sentence; or 
+ “(2)  with respect to a general or special court-martial, order such court-martial to be reviewed under section 866 of this title (article 66).” 
+ 
+ ; and 
+ (2)  in subsection (b)— (A)  by  inserting  “ (1) ” before “ To qualify ”; and 
+ (B)  by  striking  “ not later than one year after ” and all that follows through the period at the end and  inserting  the following:  “not later than— “(A)  for a summary court-martial, one year after the date of completion of review under section 864 of this title (article 64); or 
+ “(B)  Deadlines. Notice. for a general or special court-martial, one year after the end of the 90-day period beginning on the date the accused is provided notice of appellate rights under section 865(c) of this title (article 65(c)), unless the accused submitted a waiver or withdrawal of appellate review under section 861 of this title (article 61) before being provided notice of appellate rights, in which case the application must be submitted to the Judge Advocate General not later than one year after the entry of judgment under section 860c of this title (article 60c). “(2)  Extension. The Judge Advocate General may, for good cause shown, extend the period for submission of an application, except that— “(A)  in the case of an application for review of a summary court martial, the Judge Advocate may not consider an application submitted more than three years after the completion date referred to in paragraph (1)(A); and 
+ “(B)  in case of an application for review of a general or special court-martial, the Judge Advocate may not consider an application submitted more than three years after the end of the applicable period under paragraph (1)(B).” 
+ 
+ 
+ ; 
+ 
+ (3)  in subsection (c)— (A)  in paragraph (1)(A), by  striking  “ section 864 or 865(b) of this title (article 64 or 65(b)) ” and  inserting  “ section 864 of this title (article 64) ”; and 
+ (B)  in paragraph (2), by  striking  “ the Judge Advocate General shall order appropriate corrective action under rules prescribed by the President ” and  inserting  “ the Judge Advocate General shall send the case to the Court of Criminal Appeals ”; and 
+ 
+ (4)  in subsection (d)— (A)  in paragraph (1), by  striking  “ under subsection (c)— ” and all that follows through “ (B) in a case submitted ” and  inserting  “ under subsection (c)(1) in a case submitted ”; and 
+ (B)  in paragraph (2), in the matter preceding subparagraph (A), by  striking  “ paragraph (1)(B) ” and  inserting  “ paragraph (1) ”. 
+ 
+ 
+ (d)  10 USC 861 note . Applicability .— The amendments made by this section shall not apply to— 136 STAT. 2584 
+ (1)  any matter that was submitted before the date of the enactment of this Act to a Court of Criminal Appeals established under  section 866 of title 10, United States Code  (article 66 of the Uniform Code of Military Justice); or 
+ (2)  any matter that was submitted before the date of the enactment of this Act to a Judge Advocate General under section 869 of such title (article 69 of the Uniform Code of Military Justice).

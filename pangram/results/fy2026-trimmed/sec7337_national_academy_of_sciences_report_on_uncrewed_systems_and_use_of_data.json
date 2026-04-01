@@ -1,0 +1,36 @@
+{
+  "text": "National Academy of Sciences report on uncrewed systems and use of data (a) In general Not later than 60 days after the date of enactment of this Act, the Commandant shall seek to enter into an arrangement with the National Academy of Sciences under which the Academy shall prepare an assessment of available uncrewed, autonomous, or remotely-controlled maritime domain awareness technologies for use by the Coast Guard. (b) Assessment In carrying out the assessment under subsection (a), the National Academy of Sciences shall - (1) describe the potential benefits and limitations of current and emerging uncrewed autonomous, or remotely controlled systems used in the maritime domain for - (A) ocean observation; (B) vessel monitoring and identification; (C) weather observation; (D) search and rescue operations; (E) to the extent practicable for consideration by the Academy, intelligence gathering, surveillance, and reconnaissance; and (F) communications; (2) assess how technologies described in paragraph (1) can help prioritize Federal investment by examining - (A) affordability, including acquisition, operations, maintenance, and lifecycle costs; (B) reliability; (C) versatility; (D) efficiency; and (E) estimated service life and persistence of effort; (3) analyze whether the use of new and emerging maritime domain awareness technologies can be used to - (A) effectively carry out Coast Guard missions at lower costs and reduced manpower needs; (B) expand the scope and range of Coast Guard maritime domain awareness; and (C) allow the Coast Guard to more efficiently and effectively allocate Coast Guard vessels, aircraft, and personnel; (4) evaluate the extent to which such systems have moved from the research and development phase to effective operations since the National Academy of Sciences published the study titled Leveraging Unmanned Systems for Coast Guard Missions and issued in 2020; and (5) identify adjustments that would be necessary in Coast Guard authorities, policies, procedures, and protocols to incorporate uncrewed technologies to enhance efficiency. (c) Report to Congress Not later than 1 year after entering into an arrangement under subsection (a), the National Academy of Sciences shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the assessment prepared under this section. (d) Use of information In formulating costs pursuant to subsection (b), the National Academy of Sciences may utilize information from other Coast Guard reports, assessments, or analyses regarding existing Coast Guard manpower requirements or other reports, assessments, or analyses for the acquisition of unmanned, autonomous, or remotely-controlled technologies by the Federal Government.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "National Academy of Sciences report on uncrewed systems and use of data (a) In general Not later than 60 days after the date of enactment of this Act, the Commandant shall seek to enter into an arrangement with the National Academy of Sciences under which the Academy shall prepare an assessment of available uncrewed, autonomous, or remotely-controlled maritime domain awareness technologies for use by the Coast Guard. (b) Assessment In carrying out the assessment under subsection (a), the National Academy of Sciences shall - (1) describe the potential benefits and limitations of current and emerging uncrewed autonomous, or remotely controlled systems used in the maritime domain for - (A) ocean observation; (B) vessel monitoring and identification; (C) weather observation; (D) search and rescue operations; (E) to the extent practicable for consideration by the Academy, intelligence gathering, surveillance, and reconnaissance; and (F) communications; (2) assess how technologies described in paragraph (1) can help prioritize Federal investment by examining - (A) affordability, including acquisition, operations, maintenance, and lifecycle costs; (B) reliability; (C) versatility; (D) efficiency; and (E) estimated service life and persistence of effort; (3) analyze whether the use of new and emerging maritime domain awareness technologies can be used to - (A) effectively carry out Coast Guard missions at lower costs and reduced manpower needs; (B) expand the scope and range of Coast Guard maritime domain awareness; and (C) allow the Coast Guard to more efficiently and effectively allocate Coast Guard vessels, aircraft, and personnel; (4) evaluate the extent to which such systems have moved from the research and development phase to effective operations since the National Academy of Sciences published the study titled Leveraging Unmanned Systems for Coast Guard Missions and issued in 2020; and (5) identify adjustments that would be necessary in Coast Guard authorities, policies, procedures, and protocols to incorporate uncrewed technologies to enhance efficiency. (c) Report to Congress Not later than 1 year after entering into an arrangement under subsection (a), the National Academy of Sciences shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the assessment prepared under this section. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.047651331250866256,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 2444,
+      "word_count": 361,
+      "token_length": 474
+    },
+    {
+      "text": "d) Use of information In formulating costs pursuant to subsection (b), the National Academy of Sciences may utilize information from other Coast Guard reports, assessments, or analyses regarding existing Coast Guard manpower requirements or other reports, assessments, or analyses for the acquisition of unmanned, autonomous, or remotely-controlled technologies by the Federal Government.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.052306171506643295,
+      "confidence": "Medium",
+      "start_index": 2444,
+      "end_index": 2832,
+      "word_count": 52,
+      "token_length": 68
+    }
+  ],
+  "_submission_type": "solo"
+}

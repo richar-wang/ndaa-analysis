@@ -1,0 +1,21 @@
+SEC. 5851.  DATA STANDARDS AND OPEN DATA PUBLICATION REQUIREMENTS FOR THE BUREAU OF CONSUMER FINANCIAL PROTECTION. (a)  In General .— Subtitle A of the Consumer Financial Protection Act of 2010 ( 12 U.S.C. 5491 et seq. )  is amended  by— 136 STAT. 3433 (1)  redesignating  section 1018 ( 12 U.S.C. 5491 note ) as section 1020; and 
+ (2)  by  inserting  after section 1017 ( 12 U.S.C. 5497 ) the following: “SEC. 1018.  12 USC 5498 . DATA STANDARDS. “(a)  Requirement .— The Bureau shall, by rule, adopt data standards for all collections of information that are regularly filed with or submitted to the Bureau. 
+ “(b)  Consistency .— The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 124 of the Financial Stability Act of 2010, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 124. 
+ 
+ “SEC. 1019.  12 USC 5499 . OPEN DATA PUBLICATION.   “All public data assets published by the Bureau shall be— “(1)  made available as an open Government data asset (as defined in  section 3502 of title 44, United States Code ); 
+ “(2)  freely available for download; 
+ “(3)  rendered in a human-readable format; and 
+ “(4)  accessible via application programming interface where appropriate.” 
+ 
+ . 
+ 
+ (b)  Clerical Amendment .— The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act  is amended  by  striking  the item relating to section 1018 and  inserting  the following: 
+ 
+ “Sec. 1018.  
+ Data standards. 
+ 
+ “Sec. 1019.  
+ Open data publication. 
+ 
+ “Sec. 1020.  
+ Effective date.”.

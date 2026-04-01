@@ -1,0 +1,26 @@
+{
+  "text": "Limitation on the divestment, consolidation, and curtailment of certain electronic warfare test and evaluation activities (a) Prohibition The Secretary of the Army shall not take any action to divest, consolidate, or curtail any electronic warfare test and evaluation activities that were part of an Army element of the Major Range and Test Facility Base on or before the date of the enactment of this Act until the Secretary submits to the congressional defense committees the report described in subsection (b). (b) Report The report described in this subsection is a report on a decision of the Secretary to divest, consolidate, or curtail an electronic warfare test or evaluation activity described in subsection (a) that contains the following: (1) A description of the analytic basis used by the Secretary for making the decision, including matters relating to any cost, workload, and workforce requirements, as well as any analysis relating to operational impact on users of the activities. (2) The findings from an independent review by the Director of the Office of Cost Assessment and Program Evaluation of all analyses described in paragraph (1). (3) A certification by the Director of the Test Resource Management Center that the analyses described in paragraph (1) and the decision of the Secretary meet the requirement of the Department of Defense, as required by section 4173(c)(1)(B) of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Limitation on the divestment, consolidation, and curtailment of certain electronic warfare test and evaluation activities (a) Prohibition The Secretary of the Army shall not take any action to divest, consolidate, or curtail any electronic warfare test and evaluation activities that were part of an Army element of the Major Range and Test Facility Base on or before the date of the enactment of this Act until the Secretary submits to the congressional defense committees the report described in subsection (b). (b) Report The report described in this subsection is a report on a decision of the Secretary to divest, consolidate, or curtail an electronic warfare test or evaluation activity described in subsection (a) that contains the following: (1) A description of the analytic basis used by the Secretary for making the decision, including matters relating to any cost, workload, and workforce requirements, as well as any analysis relating to operational impact on users of the activities. (2) The findings from an independent review by the Director of the Office of Cost Assessment and Program Evaluation of all analyses described in paragraph (1). (3) A certification by the Director of the Test Resource Management Center that the analyses described in paragraph (1) and the decision of the Secretary meet the requirement of the Department of Defense, as required by section 4173(c)(1)(B) of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009027651511132717,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1432,
+      "word_count": 226,
+      "token_length": 283
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Comptroller General study on Coast Guard basic allowance for housing (a) In general Not later than 90 days after the date on which the Department of Defense issues the report on the Fourteenth Quadrennial Review of Military Compensation, the Comptroller General of the United States shall commence a study of Coast Guard involvement in, and efforts to support, the determination of the cost of adequate housing and the calculation of the basic allowance for housing under section 403 of title 37, United States Code. (b) Elements The study required under subsection (a) shall include, to the extent practicable, the following: (1) An identification of Coast Guard duty locations in which there is a misalignment between the basic allowance for housing rate and the prevailing housing cost for members of the Coast Guard such that the basic allowance for housing is less than 95 percent of the monthly cost of adequate housing for such members in the corresponding military housing area. (2) An analysis of each of the following: (A) Anchor points, including - (i) the methodology for the establishment of anchor points; and (ii) with respect to housing provided as part of a public-private venture and Government-owned and Government-leased housing, the disparities between established anchor points and housing standards across the armed forces (as such term is defined in section 101 of title 10, United States Code). (B) Existing military housing boundary areas that affect the Coast Guard. (C) Actions taken by the Commandant to comprehensively monitor basic allowance for housing rates for Coast Guard duty locations. (D) The frequency of reviews conducted by the Commandant of the site visits used by the Department of Defense to inform military housing area boundaries. (c) Report Not later than 1 year after the date on which the study required under subsection (a) commences, the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Commandant a report on the findings of the study, including any recommendation the Comptroller General considers appropriate. (d) Plan Not later than 1 year after the date on which the report required by subsection (c) is submitted to the Commandant, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives - (1) an implementation plan, including timeframes and milestones, addressing any recommendation made by the Comptroller General in such report, as the Commandant considers appropriate; and (2) with respect to any recommendation set forth in such report that the Commandant declines to implement, a written justification for the decision. (e) Anchor point defined In this section, the term anchor point - (1) means the minimum housing standard reference benchmark used to establish the basic allowance for housing under section 403 of title 37, United States Code; and (2) includes housing type and size based on pay grade and dependent status.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Comptroller General study on Coast Guard basic allowance for housing (a) In general Not later than 90 days after the date on which the Department of Defense issues the report on the Fourteenth Quadrennial Review of Military Compensation, the Comptroller General of the United States shall commence a study of Coast Guard involvement in, and efforts to support, the determination of the cost of adequate housing and the calculation of the basic allowance for housing under section 403 of title 37, United States Code. (b) Elements The study required under subsection (a) shall include, to the extent practicable, the following: (1) An identification of Coast Guard duty locations in which there is a misalignment between the basic allowance for housing rate and the prevailing housing cost for members of the Coast Guard such that the basic allowance for housing is less than 95 percent of the monthly cost of adequate housing for such members in the corresponding military housing area. (2) An analysis of each of the following: (A) Anchor points, including - (i) the methodology for the establishment of anchor points; and (ii) with respect to housing provided as part of a public-private venture and Government-owned and Government-leased housing, the disparities between established anchor points and housing standards across the armed forces (as such term is defined in section 101 of title 10, United States Code). (B) Existing military housing boundary areas that affect the Coast Guard. (C) Actions taken by the Commandant to comprehensively monitor basic allowance for housing rates for Coast Guard duty locations. (D) The frequency of reviews conducted by the Commandant of the site visits used by the Department of Defense to inform military housing area boundaries. (c) Report Not later than 1 year after the date on which the study required under subsection (a) commences, the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Commandant a report on the findings of the study, including any recommendation the Comptroller General considers appropriate. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.037403223770005364,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2214,
+      "word_count": 348,
+      "token_length": 439
+    },
+    {
+      "text": "d) Plan Not later than 1 year after the date on which the report required by subsection (c) is submitted to the Commandant, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives - (1) an implementation plan, including timeframes and milestones, addressing any recommendation made by the Comptroller General in such report, as the Commandant considers appropriate; and (2) with respect to any recommendation set forth in such report that the Commandant declines to implement, a written justification for the decision. (e) Anchor point defined In this section, the term anchor point - (1) means the minimum housing standard reference benchmark used to establish the basic allowance for housing under section 403 of title 37, United States Code; and (2) includes housing type and size based on pay grade and dependent status.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.057236874010413885,
+      "confidence": "High",
+      "start_index": 2214,
+      "end_index": 3169,
+      "word_count": 150,
+      "token_length": 190
+    }
+  ],
+  "_submission_type": "solo"
+}

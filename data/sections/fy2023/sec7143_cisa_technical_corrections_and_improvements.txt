@@ -1,0 +1,199 @@
+SEC. 7143.  CISA TECHNICAL CORRECTIONS AND IMPROVEMENTS. (a)  Technical Amendment Relating to DOTGOV Act of 2020 .— (1)  Amendment .— Section 904(b)(1) of the DOTGOV Act of 2020 (title IX of division U of Public Law 6 USC 652 , 665.  116–260)  is amended , in the matter preceding subparagraph (A), by  striking  “ Homeland Security Act ” and  inserting  “ Homeland Security Act of 2002 ”. 
+ (2)  6 USC 652 note . Effective date .— The amendment made by paragraph (1) shall take effect as if enacted as part of the DOTGOV Act of 2020 ( title IX of division U of Public Law 116–260 ). 
+ 
+ (b)  Consolidation of Definitions .— (1)  In general .— Title XXII of the Homeland Security Act of 2002 ( 6 U.S.C. 651 et seq. )  is amended  by  inserting  before the subtitle A heading the following: “SEC. 2200.  6 USC 650 . DEFINITIONS.   “Except as otherwise specifically provided, in this title: “(1)  Agency .— The term ‘ Agency ’ means the Cybersecurity and Infrastructure Security Agency. 
+ “(2)  Appropriate congressional committees .— The term ‘ appropriate congressional committees ’ means— “(A)  the Committee on Homeland Security and Governmental Affairs of the Senate; and 
+ “(B)  the Committee on Homeland Security of the House of Representatives. 
+ 
+ “(3)  Cloud service provider .— The term ‘ cloud service provider ’ means an entity offering products or services related to cloud computing, as defined by the National Institute of Standards and Technology in NIST Special Publication 800– 136 STAT. 3655 
+145 and any amendatory or superseding document relating thereto. 
+ “(4)  Critical infrastructure information .— The term ‘ critical infrastructure information ’ means information not customarily in the public domain and related to the security of critical infrastructure or protected systems— “(A)  actual, potential, or threatened interference with, attack on, compromise of, or incapacitation of critical infrastructure or protected systems by either physical or computer-based attack or other similar conduct (including the misuse of or unauthorized access to all types of communications and data transmission systems) that violates Federal, State, or local law, harms interstate commerce of the United States, or threatens public health or safety; 
+ “(B)  the ability of any critical infrastructure or protected system to resist such interference, compromise, or incapacitation, including any planned or past assessment, projection, or estimate of the vulnerability of critical infrastructure or a protected system, including security testing, risk evaluation thereto, risk management planning, or risk audit; or 
+ “(C)  any planned or past operational problem or solution regarding critical infrastructure or protected systems, including repair, recovery, reconstruction, insurance, or continuity, to the extent it is related to such interference, compromise, or incapacitation. 
+ 
+ “(5)  Cyber threat indicator .— The term ‘ cyber threat indicator ’ means information that is necessary to describe or identify— “(A)  malicious reconnaissance, including anomalous patterns of communications that appear to be transmitted for the purpose of gathering technical information related to a cybersecurity threat or security vulnerability; 
+ “(B)  a method of defeating a security control or exploitation of a security vulnerability; 
+ “(C)  a security vulnerability, including anomalous activity that appears to indicate the existence of a security vulnerability; 
+ “(D)  a method of causing a user with legitimate access to an information system or information that is stored on, processed by, or transiting an information system to unwittingly enable the defeat of a security control or exploitation of a security vulnerability; 
+ “(E)  malicious cyber command and control; 
+ “(F)  the actual or potential harm caused by an incident, including a description of the information exfiltrated as a result of a particular cybersecurity threat; 
+ “(G)  any other attribute of a cybersecurity threat, if disclosure of such attribute is not otherwise prohibited by law; or 
+ “(H)  any combination thereof. 
+ 
+ “(6)  Cybersecurity purpose .— The term ‘ cybersecurity purpose ’ means the purpose of protecting an information system or information that is stored on, processed by, or transiting an information system from a cybersecurity threat or security vulnerability. 
+ “(7)  Cybersecurity risk .— The term ‘ cybersecurity risk ’— 136 STAT. 3656 “(A)  means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and 
+ “(B)  does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement. 
+ 
+ “(8)  Cybersecurity threat .— “(A)  In general .— Except as provided in subparagraph (B), the term ‘ cybersecurity threat ’ means an action, not protected by the  First Amendment to the Constitution of the United States , on or through an information system that may result in an unauthorized effort to adversely impact the security, availability, confidentiality, or integrity of an information system or information that is stored on, processed by, or transiting an information system. 
+ “(B)  Exclusion .— The term ‘ cybersecurity threat ’ does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement. 
+ 
+ “(9)  Defensive measure .— “(A)  In general .— Except as provided in subparagraph (B), the term ‘ defensive measure ’ means an action, device, procedure, signature, technique, or other measure applied to an information system or information that is stored on, processed by, or transiting an information system that detects, prevents, or mitigates a known or suspected cybersecurity threat or security vulnerability. 
+ “(B)  Exclusion .— The term ‘ defensive measure ’ does not include a measure that destroys, renders unusable, provides unauthorized access to, or substantially harms an information system or information stored on, processed by, or transiting such information system not owned by— “(i)  the private entity, as defined in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 ), operating the measure; or 
+ “(ii)  another entity or Federal entity that is authorized to provide consent and has provided consent to that private entity for operation of such measure. 
+ 
+ 
+ “(10)  Director .— The term ‘ Director ’ means the Director of the Cybersecurity and Infrastructure Security Agency. 
+ “(11)  Homeland security enterprise .— The term ‘ Homeland Security Enterprise ’ means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and Tribal government officials, private sector representatives, academics, and other policy experts. 
+ “(12)  Incident .— The term ‘ incident ’ means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system. 136 STAT. 3657 
+ “(13)  Information sharing and analysis organization .— The term ‘ Information Sharing and Analysis Organization ’ means any formal or informal entity or collaboration created or employed by public or private sector organizations, for purposes of— “(A)  gathering and analyzing critical infrastructure information, including information related to cybersecurity risks and incidents, in order to better understand security problems and interdependencies related to critical infrastructure, including cybersecurity risks and incidents, and protected systems, so as to ensure the availability, integrity, and reliability thereof; 
+ “(B)  communicating or disclosing critical infrastructure information, including cybersecurity risks and incidents, to help prevent, detect, mitigate, or recover from the effects of an interference, a compromise, or an incapacitation problem related to critical infrastructure, including cybersecurity risks and incidents, or protected systems; and 
+ “(C)  voluntarily disseminating critical infrastructure information, including cybersecurity risks and incidents, to its members, State, local, and Federal Governments, or any other entities that may be of assistance in carrying out the purposes specified in subparagraphs (A) and (B). 
+ 
+ “(14)  Information system .— The term ‘ information system ’— “(A)  has the meaning given the term in  section 3502 of title 44, United States Code ; and 
+ “(B)  includes industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers. 
+ 
+ “(15)  Intelligence community .— The term ‘ intelligence community ’ has the meaning given the term in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ). 
+ “(16)  Malicious cyber command and control .— The term ‘ malicious cyber command and control ’ means a method for unauthorized remote identification of, access to, or use of, an information system or information that is stored on, processed by, or transiting an information system. 
+ “(17)  Malicious reconnaissance .— The term ‘ malicious reconnaissance ’ a method for actively probing or passively monitoring an information system for the purpose of discerning security vulnerabilities of the information system, if such method is associated with a known or suspected cybersecurity threat. 
+ “(18)  Managed service provider .— The term ‘ managed service provider ’ means an entity that delivers services, such as network, application, infrastructure, or security services, via ongoing and regular support and active administration on the premises of a customer, in the data center of the entity (such as hosting), or in a third party data center. 
+ “(19)  Monitor .— The term ‘ monitor ’ means to acquire, identify, or scan, or to possess, information that is stored on, processed by, or transiting an information system. 
+ “(20)  National cybersecurity asset response activities .— The term ‘ national cybersecurity asset response activities ’ means— 136 STAT. 3658 “(A)  furnishing cybersecurity technical assistance to entities affected by cybersecurity risks to protect assets, mitigate vulnerabilities, and reduce impacts of cyber incidents; 
+ “(B)  identifying other entities that may be at risk of an incident and assessing risk to the same or similar vulnerabilities; 
+ “(C)  assessing potential cybersecurity risks to a sector or region, including potential cascading effects, and developing courses of action to mitigate such risks; 
+ “(D)  facilitating information sharing and operational coordination with threat response; and 
+ “(E)  providing guidance on how best to utilize Federal resources and capabilities in a timely, effective manner to speed recovery from cybersecurity risks. 
+ 
+ “(21)  National security system .— The term ‘ national security system ’ has the meaning given the term in  section 11103 of title 40, United States Code . 
+ “(22)  Ransomware attack .— The term ‘ ransomware attack ’— “(A)  means an incident that includes the use or threat of use of unauthorized or malicious code on an information system, or the use or threat of use of another digital mechanism such as a denial of service attack, to interrupt or disrupt the operations of an information system or compromise the confidentiality, availability, or integrity of electronic data stored on, processed by, or transiting an information system to extort a demand for a ransom payment; and 
+ “(B)  does not include any such event in which the demand for payment is— “(i)  not genuine; or 
+ “(ii)  made in good faith by an entity in response to a specific request by the owner or operator of the information system. 
+ 
+ 
+ “(23)  Sector risk management agency .— The term ‘ Sector Risk Management Agency ’ means a Federal department or agency, designated by law or Presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department. 
+ “(24)  Security control .— The term ‘ security control ’ means the management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information. 
+ “(25)  Security vulnerability .— The term ‘ security vulnerability ’ means any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of a security control. 
+ “(26)  Sharing .— The term ‘ sharing ’ (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each such terms). 
+ “(27)  SLTT entity .— The term ‘ SLTT entity ’ means a domestic government entity that is a State government, local  136 STAT. 3659 
+government, Tribal government, territorial government, or any subdivision thereof. 
+ “(28)  Supply chain compromise .— The term ‘ supply chain compromise ’ means an incident within the supply chain of an information system that an adversary can leverage, or does leverage, to jeopardize the confidentiality, integrity, or availability of the information system or the information the system processes, stores, or transmits, and can occur at any point during the life cycle.” 
+ 
+ . 
+ (2)  Technical and conforming amendments .— The Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq. )  is amended — (A)  in section 320(d)(3)(C) ( 6 U.S.C. 195f(d)(3)(C) ), by  striking  “ section 2201 ” and  inserting  “ section 2200 ”; 
+ (B)  by  amending  section 2201 ( 6 U.S.C. 651 ) to read as follows: “SEC. 2201.  DEFINITION.   “In this subtitle, the term ‘ Cybersecurity Advisory Committee ’ means the advisory committee established under section 2219(a).” 
+ ; 
+ (C)  in section 2202 ( 6 U.S.C. 652 )— (i)  in subsection (a)(1), by  striking  “ (in this subtitle referred to as the Agency) ”; 
+ (ii)  in subsection (b)(1), by  striking  “ a Director of Cybersecurity and Infrastructure Security (in this subtitle referred to as the ‘Director’) ” and  inserting  “ the Director ”; and 
+ (iii)  in subsection (f)— (I)  in paragraph (1), by  inserting  “ Executive ” before “ Assistant Director ”; 
+ (II)  in paragraph (2), by  inserting  “ Executive ” before “ Assistant Director ”; and 
+ (III)  in paragraph (3), by  inserting  “ Executive ” before “ Assistant Director ”; 
+ 
+ 
+ (D)  in section 2209 ( 6 U.S.C. 659 )— (i)  by  striking  subsection (a) and  inserting  the following: “(a)  Definition .— The term ‘ cybersecurity vulnerability ’ has the meaning given the term ‘ security vulnerability ’ in section 2200.” 
+ ; 
+ (ii)  in subsection (b), by  inserting  “ Executive ” before “ Assistant Director for Cybersecurity ”; 
+ (iii)  in subsection (d)(1)— (I)  in subparagraph (A)(iii), by  striking  “ , as that term is defined under section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) ) ”; and 
+ (II)  in subparagraph (B)(ii), by  striking  “ information sharing and analysis organizations ” and  inserting  “ Information Sharing and Analysis Organizations ”; 
+ 
+ (iv)  in subsection (e)(1)(E)(ii)(II), by  striking  “ information sharing and analysis organizations ” and  inserting  “ Information Sharing and Analysis Organizations ”; 136 STAT. 3660 
+ (v)  in the second subsection (p), by  striking  “ (p)  Coordination on Cybersecurity for SLTT Entities .— ” and  inserting  “ (r)  Coordination on Cybersecurity for SLTT Entities .— ”; and 
+ (vi)  in the second subsection (q), by  striking  “ (q)  Report .— ” and  inserting  “ (s)  Report .— ”; 
+ 
+ (E)  in section 2210 ( 6 U.S.C. 660 )— (i)  in subsection (a), by  striking  “ section— ” and all that follows and  inserting  “ section, the term ‘ agency information system ’ means an information system used or operated by an agency or by another entity on behalf of an agency. ”; 
+ (ii)  in subsection (c)— (I)  by  striking  “ information sharing and analysis organizations (as defined in section 2222(5)) ” and  inserting  “ Information Sharing and Analysis Organizations ”; and 
+ (II)  by  striking  “ (as defined in section 2209) ”; and 
+ 
+ (iii)  in subsection (e)— (I)  in paragraph (1)(B), by  striking  “ (as such term is defined in section 2209) ”; and 
+ (II)  in paragraph (3)(C), by  striking  “ (as such term is defined in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 )) ”; 
+ 
+ 
+ (F)  in section 2211 ( 6 U.S.C. 661 ), by  striking  subsection (h); 
+ (G)  in section 2212 ( 6 U.S.C. 662 ), by  striking  “ information sharing and analysis organizations (as defined in section 2222(5)) ” and  inserting  “ Information Sharing and Analysis Organizations ”; 
+ (H)  in section 2213(a) ( 6 U.S.C. 663(a) ), by  striking  paragraph (4); and 
+ (I)  in section 2216 ( 6 U.S.C. 665b )— (i)  in subsection (d)(2), by  striking  “ information sharing and analysis organizations ” and  inserting  “ Information Sharing and Analysis Organizations ”; and 
+ (ii)  in subsection (f), by  striking  “ section: ” and all that follows and  inserting  “ section, the term ‘ cyber defense operation ’ means the defensive activities performed for a cybersecurity purpose. ”; 
+ 
+ (J)  in section 2218(c)(4)(A) ( 6 U.S.C. 665d(4)(A) ), by  striking  “ information sharing and analysis organizations ” and  inserting  “ Information Sharing and Analysis Organizations ”; 
+ (K)  in section 2220A ( 6 U.S.C. 665g )— (i)  in subsection (a)— (I)  by  striking  paragraphs (1), (2), (5), (6), and (7); and 
+ (II)  by  redesignating  paragraphs (3), (4), (8), (9), (10), (11), and (12) as paragraphs (1) through (7), respectively; 
+ 
+ (ii)  in subsection (e)(2)(B)(xiv)(II)(aa), by  striking  “ information sharing and analysis organization ” and  inserting  “ Information Sharing and Analysis Organization ”; 136 STAT. 3661 
+ (iii)  in subsection (p), by  striking  “ appropriate committees of Congress ” and  inserting  “ appropriate congressional committees ”; and 
+ (iv)  in subsection (q)(4), in the matter preceding clause (i), by  striking  “ appropriate committees of Congress ” and  inserting  “ appropriate congressional committees ”; 
+ 
+ (L)  in section 2220C ( 6 U.S.C. 665i ), by  striking  subsection (f) and  inserting  the following: “(f)  Definition .— In this section, the term ‘ industrial control system ’ means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.” 
+ ; 
+ (M)  in section 2222 ( 6 U.S.C. 671 )— (i)  by  striking  paragraph (3) and  inserting  the following: “(3)  Critical infrastructure information .— The term ‘ critical infrastructure information ’ has the meaning given the term in section 2200.” 
+ ; 
+ (ii)  by  striking  paragraphs (5) and (8); and 
+ (iii)  by  redesignating  paragraphs (6) and (7) as paragraphs (5) and (6), respectively; and 
+ 
+ (N)  in section 2240 ( 6 U.S.C. 681 )— (i)  by  striking  paragraph (2); 
+ (ii)  by  redesignating  paragraphs (3) through (7) as paragraphs (2) through (6); 
+ (iii)  in paragraph (6), as so redesignated, by  striking  “ section 2201 ” and  inserting  “ section 2200 ”; 
+ (iv)  by  striking  paragraph (8), and  inserting  the following: “(7)  Federal entity .— The term ‘ Federal entity ’ has the meaning given the term in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 ).” 
+ ; 
+ (v)  by  striking  paragraphs (9) through (12), (14), (15), and (17); and 
+ (vi)  by  redesignating  paragraphs (13), (16), (18), and (19) as paragraphs (8), (9), (10), and (11), respectively. 
+ 
+ 
+ (3)  Table of contents amendments .— The table of contents in section 1(b) of the Homeland Security Act of 2002 ( Public Law 107–296 ;  116 Stat. 2135 )  is amended — (A)  by  inserting  before the item relating to subtitle A of title XXII the following: 
+ 
+ “Sec. 2200.  
+ Definitions.”; 
+ 
+ 
+ (B)  by  striking  the item relating to section 2201 and insert the following: 
+ 
+ “Sec. 2201.  
+ Definition.”; and 
+ 
+ 
+ (C)  by moving the item relating to section 2220D to appear after the item relating to section 2220C. 
+ 
+ (4)  Cybersecurity information sharing act of 2015 definitions .— Section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 )  is amended — 136 STAT. 3662 (A)  by  striking  paragraphs (4) through (7) and  inserting  the following: “(4)  Cybersecurity purpose .— The term ‘ cybersecurity purpose ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002. 
+ “(5)  Cybersecurity threat .— The term ‘ cybersecurity threat ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002. 
+ “(6)  Cyber threat indicator .— The term ‘ cyber threat indicator ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002. 
+ “(7)  Defensive measure .— The term ‘ defensive measure ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002.” 
+ ; 
+ (B)  by  striking  paragraph (9) and  inserting  the following: “(9)  Information system .— The term ‘ information system ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002.” 
+ . 
+ (C)  by  striking  paragraphs (11), (12), and (13) and  inserting  the following: “(11)  Malicious cyber command and control .— The term ‘ malicious cyber command and control ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002. 
+ “(12)  Malicious reconnaissance .— The term ‘ malicious reconnaissance ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002. 
+ “(13)  Monitor .—  The term ‘ monitor ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002.” 
+ ; and 
+ (D)  by  striking  paragraphs (16) and (17) and  inserting  the following: “(16)  Security control .— The term ‘ security control ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002. 
+ “(17)  Security vulnerability .— The term ‘ security vulnerability ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002.” 
+ . 
+ 
+ 
+ (c)  Correction to the Title of the Director of the Cybersecurity and Infrastructure Security Agency .— The Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq. )  is amended — (1)  in section 523 ( 6 U.S.C. 3211 )— (A)  in subsection (a), in the matter preceding paragraph (1), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; and 
+ (B)  in subsection (c), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; 
+ 
+ (2)  in section 884(d)(4)(A)(ii) ( 6 U.S.C. 464(d)(4)(A)(ii) ), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; 
+ (3)  in section 1801(b) ( 6 U.S.C. 571(b) ), in the second and third sentences, by  striking  “ Director of Cybersecurity and  136 STAT. 3663 
+Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; 
+ (4)  in section 2104(c)(2) ( 6 U.S.C. 624(c)(2) ), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; 
+ (5)  in section 2202 ( 6 U.S.C. 652 )— (A)  in subsection (b)(3), by  striking  “ Director of Cybersecurity and Infrastructure Security of the Department ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; and 
+ (B)  in subsection (d), in the matter preceding paragraph (1), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; 
+ 
+ (6)  6 USC 655 . in section 2205, in the matter preceding paragraph (1), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; 
+ (7)  6 USC 656 . in section 2206, by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”; and 
+ (8)  6 USC 660 . in section 2210(c), by  striking  “ Director of Cybersecurity and Infrastructure Security ” and  inserting  “ Director of the Cybersecurity and Infrastructure Security Agency ”. 
+ 
+ (d)  Additional Technical and Conforming Amendments .— (1)  Federal cybersecurity enhancement act of 2015 .— The Federal Cybersecurity Enhancement Act of 2015 ( 6 U.S.C. 1521 et seq. )  is amended — (A)  in section 222(4) ( 6 U.S.C. 1521(4) ), by  striking  “ section 2209 ” and  inserting  “ section 2200 ”; and 
+ (B)  in section 226(a)(2) ( 6 U.S.C. 1524(a)(2) ), by  striking  “ section 102 ” and  inserting  “ section 2200 of the Homeland Security Act of 2002 ”. 
+ 
+ (2)  Federal power act .— Section 219A(a)(1) of the Federal Power Act ( 16 U.S.C. 824s–1(a)(1) )  is amended  by  striking  “ section 102 of the Cybersecurity Act of 2015 ( 6 U.S.C. 1501 ) ” and  inserting  “ section 2200 of the Homeland Security Act of 2002 ”. 
+ (3)  Infrastructure investment and jobs act .— Section 40124(a)(1) of the Infrastructure Investment and Jobs Act ( 42 U.S.C. 18723(a)(1) )  is amended  by  striking  “ section 102 of the Cybersecurity Act of 2015 ( 6 U.S.C. 1051 ) ” and  inserting  “ section 2200 of the Homeland Security Act of 2002) ”. 
+ (4)  Public health service act .— Section 2811(b)(4)(D) of the Public Health Service Act ( 42 U.S.C. 300hh–10(b)(4)(D) )  is amended  by  striking  “ section 228(c) of the Homeland Security Act of 2002 ( 6 U.S.C. 149(c) ) ” and  inserting  “ section 2210(b) of the Homeland Security Act of 2002 ( 6 U.S.C. 660(b) ) ”. 
+ (5)  William m. (mac) thornberry national defense authorization act of fiscal year 2021 .— Section 9002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( 6 U.S.C. 652a )  is amended — (A)  in subsection (a)— (i)  by  striking  paragraph (5); 
+ (ii)  by  redesignating  paragraphs (6) and (7) as paragraphs (5) and (6), respectively; and 136 STAT. 3664 
+ (iii)  by  amending  paragraph (7) to read as follows: “(7)  Sector risk management agency .— The term ‘ Sector Risk Management Agency ’ has the meaning given the term in section 2200 of the Homeland Security Act of 2002.” 
+ ; 
+ 
+ (B)  in subsection (c)(3)(B), by  striking  “ given such term in section 2201(5) ( 6 U.S.C. 651(5) ) ” and  inserting  “ given such term in section 2200 ”; and 
+ (C)  in subsection (d), by  striking  “ section 2215 of the Homeland Security Act of 2002, as added by this section ” and  inserting  “ section 2218 of the Homeland Security Act of 2002 ( 6 U.S.C. 665d ) ”. 
+ 
+ (6)  National security act of 1947 .— Section 113B(b)(4) of the National Security Act of 1947 ( 50 U.S.C. 3049a(b)(4) )  is amended  by  striking  section “ 226 of the Homeland Security Act of 2002 ( 6 U.S.C. 147 ) ” and  inserting  “ section 2208 of the Homeland Security Act of 2002 ( 6 U.S.C. 658 ) ”. 
+ (7)  National defense authorization act for fiscal year 2020 .— Section 6503(a)(3) of the National Defense Authorization Act for Fiscal Year 2020 ( 50 U.S.C. 3371a(a)(3) )  is amended  by  striking  “ section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 ) ” and  inserting  “ section 2200 of the Homeland Security Act of 2002 ”. 
+ (8)  IoT cybersecurity improvement act of 2020 .— Section 3(8) of the IoT Cybersecurity Improvement Act of 2020 ( 15 U.S.C. 278g-3a(8) )  is amended  by  striking  “ section 102(17) of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501(17) ) ” and  inserting  “ section 2200 of the Homeland Security Act of 2002 ”. 
+ (9)  Small business act .— Section 21(a)(8)(B) of the Small Business Act ( 15 U.S.C. 648(a)(8)(B) )  is amended  by  striking  “ section 2209(a) ” and  inserting  “ section 2200 ”. 
+ (10)  Title 46 .— Section 70101(2) of title 46, United States Code ,  is amended  by  striking  “ section 227 of the Homeland Security Act of 2002 ( 6 U.S.C. 148 ) ” and  inserting  “ section 2200 of the Homeland Security Act of 2002 ”. 
+ 
+ (e)  Clarifying and Technical Amendments to the Cyber Incident Reporting for Critical Infrastructure Act of 2022 .— The Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq. )  is amended — (1)  in section 2243( 6 U.S.C. 681c ), by  striking  subsection (c) and  inserting  the following: “(c)  Application of Section 2245 .— Section 2245 shall apply in the same manner and to the same extent to reports and information submitted under subsections (a) and (b) as it applies to reports and information submitted under section 2242.” 
+ ; and 
+ (2)  in section 2244(b)(2) ( 6 U.S.C. 681d(b)(2) ), by  inserting  “ including that section 2245 shall apply to such information in the same manner and to the same extent to information submitted in response to requests under paragraph (1) as it applies to information submitted under section 2242 ”after “ section 2242 ”. 
+ 
+ (f)  6 USC 650 note . Rule of Construction .— (1)  Interpretation of technical corrections .— Nothing in the amendments made by subsections (a) through (d) shall be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in  section 3502 of title 44, United States Code ) or officer or employee  136 STAT. 3665 
+of the United States on or before the date of enactment of this Act. 
+ (2)  Interpretation of references to definitions .— Any reference to a term defined in the Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq. ) on the day before the date of enactment of this Act that is defined in section 2200 of that Act pursuant to the amendments made under this Act shall be deemed to be a reference to that term as defined in section 2200 of the Homeland Security Act of 2002, as added by this Act.

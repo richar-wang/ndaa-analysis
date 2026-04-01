@@ -1,0 +1,26 @@
+{
+  "text": "Land conveyance, Sigsbee Park Annex, Naval Air Station, Key West, Florida (a) Conveyance authorized The Secretary of the Navy (in this section referred to as the Secretary ) may convey some or all right, title and interest of the United States in and to the parcels of real property via sale or lease, consisting of approximately 19 acres and improvements thereon, located at Naval Air Station Key West Sigsbee Park area, that are former sites of military family housing supporting military personnel assigned to the Naval Air Station Key West. (b) Competitive requirement The Secretary shall use competitive procedures for any land conveyance authorized by subsection (a). (c) Consideration The Secretary shall require as consideration for any conveyance under subsection (a), tendered by cash payment or in-kind consideration, an amount equal to no less than the fair market value, as determined by the Secretary, of the real property and any improvements thereon. (d) Description of parcels The exact acreage and legal description of the parcel(s) to be conveyed under subsection (a) shall be determined by a survey that is satisfactory to the Secretary. The cost of the survey shall be borne by the recipient of the parcels. (e) Additional terms and conditions The Secretary may require such additional terms and conditions in connection with the conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States. (f) Inapplicability of certain provisions of law Any conveyance of property under this section shall not be subject to sections 2696 of title 10 and 11411 of title 42, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Land conveyance, Sigsbee Park Annex, Naval Air Station, Key West, Florida (a) Conveyance authorized The Secretary of the Navy (in this section referred to as the Secretary ) may convey some or all right, title and interest of the United States in and to the parcels of real property via sale or lease, consisting of approximately 19 acres and improvements thereon, located at Naval Air Station Key West Sigsbee Park area, that are former sites of military family housing supporting military personnel assigned to the Naval Air Station Key West. (b) Competitive requirement The Secretary shall use competitive procedures for any land conveyance authorized by subsection (a). (c) Consideration The Secretary shall require as consideration for any conveyance under subsection (a), tendered by cash payment or in-kind consideration, an amount equal to no less than the fair market value, as determined by the Secretary, of the real property and any improvements thereon. (d) Description of parcels The exact acreage and legal description of the parcel(s) to be conveyed under subsection (a) shall be determined by a survey that is satisfactory to the Secretary. The cost of the survey shall be borne by the recipient of the parcels. (e) Additional terms and conditions The Secretary may require such additional terms and conditions in connection with the conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States. (f) Inapplicability of certain provisions of law Any conveyance of property under this section shall not be subject to sections 2696 of title 10 and 11411 of title 42, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008190236054360867,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1656,
+      "word_count": 264,
+      "token_length": 344
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,54 @@
+{
+  "text": "National Intelligence Estimate on the Western Hemisphere (a) In general Not later than one year after the date of the enactment of this Act, the Director of National Intelligence, acting through the National Intelligence Council, shall produce a National Intelligence Estimate on the Western Hemisphere. (b) Elements The National Intelligence Estimate required by subsection (a) shall cover the 10-year period beginning on the date on which the Estimate is produced and include an assessment of - (1) the major threats to United States national security interests in the Western Hemisphere; (2) the attitudes of other nations in the Western Hemisphere toward partnership with the United States, China, and Russia, including the willingness of Western Hemisphere nations to support United States national security priorities and the likely trajectory of Western Hemisphere nations\u2019 relationships with the United States; (3) the extent to which expanded economic, energy, law enforcement, intelligence, counternarcotics, or security cooperation between nations in the Western Hemisphere and the United States could help mitigate the threats identified in paragraph (1); and (4) the extent to which expanded economic, energy, law enforcement, intelligence, counternarcotics, and security cooperation between and among other nations in the Western Hemisphere (excluding the United States) could help mitigate the threats identified in paragraph (1). (c) Availability to public At the same time the Director produces the Estimate under subsection (a), the Director shall make available to the public, on the publicly accessible website of the Office of the Director of National Intelligence, an unclassified summary of the key findings of the Estimate.\n\nRequirements with respect to duty to warn former senior officials and other United States persons (a) Sense of Congress It is the sense of Congress that Congress is gravely concerned about the ongoing threat of lethal plotting against United States persons from adversary nations, including those against numerous former senior United States officials, principally from the Government of the Islamic Republic of Iran. Information collected regarding plots against United States persons requires expeditious fulfilment of the duty to warn process of the intelligence community, including close consultation with the Federal Bureau of Investigation. (b) Notice of warning (1) Notice required If an element of the intelligence community determines pursuant to procedures established in accordance with Intelligence Community Directive 191 (or any successor directive) that such element has a duty to warn a United States person inside the United States of an impending threat and, after consultation with the Federal Bureau of Investigation when required, notifies such person or facilitates notification of such person by another party, the head of such element shall also immediately provide notice of the warning to the Director of the Federal Bureau of Investigation and, if such person is under the protection of an element of the Federal Government, a person responsible for the protection of such United States person. (2) Process for notification If notice is required under paragraph (1) to a person responsible for the protection of a United States person, such notice may be made in any appropriate and expeditious manner, including through the Director of the Federal Bureau of Investigation. (c) Federal Bureau of Investigation records of warnings The Director of the Federal Bureau of Investigation shall establish a process for documenting and maintaining records of each notice of a warning provided to the Director in accordance with subsection (b). (d) Rule of construction Nothing in this section shall be construed to limit any duty to warn already in effect, including under Intelligence Community Directive 191 (relating to duty to warn) and any policies or procedures issued in accordance with such directive. (e) United States person defined In this section, the term United States person has the meaning given the term in section 105A of the National Security Act of 1947 ( 50 U.S.C. 3039 ).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "National Intelligence Estimate on the Western Hemisphere (a) In general Not later than one year after the date of the enactment of this Act, the Director of National Intelligence, acting through the National Intelligence Council, shall produce a National Intelligence Estimate on the Western Hemisphere. (b) Elements The National Intelligence Estimate required by subsection (a) shall cover the 10-year period beginning on the date on which the Estimate is produced and include an assessment of - (1) the major threats to United States national security interests in the Western Hemisphere; (2) the attitudes of other nations in the Western Hemisphere toward partnership with the United States, China, and Russia, including the willingness of Western Hemisphere nations to support United States national security priorities and the likely trajectory of Western Hemisphere nations\u2019 relationships with the United States; (3) the extent to which expanded economic, energy, law enforcement, intelligence, counternarcotics, or security cooperation between nations in the Western Hemisphere and the United States could help mitigate the threats identified in paragraph (1); and (4) the extent to which expanded economic, energy, law enforcement, intelligence, counternarcotics, and security cooperation between and among other nations in the Western Hemisphere (excluding the United States) could help mitigate the threats identified in paragraph (1). (c) Availability to public At the same time the Director produces the Estimate under subsection (a), the Director shall make available to the public, on the publicly accessible website of the Office of the Director of National Intelligence, an unclassified summary of the key findings of the Estimate.\n\nRequirements with respect to duty to warn former senior officials and other United States persons (a) Sense of Congress It is the sense of Congress that Congress is gravely concerned about the ongoing threat of lethal plotting against United States persons from adversary nations, including those against numerous former senior United States officials, principally from the Government of the Islamic Republic of Iran. Information collected regarding plots against United States persons requires expeditious fulfilment of the duty to warn process of the intelligence community, including close consultation with the Federal Bureau of Investigation. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.015308054629713299,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2398,
+      "word_count": 350,
+      "token_length": 435
+    },
+    {
+      "text": "b) Notice of warning (1) Notice required If an element of the intelligence community determines pursuant to procedures established in accordance with Intelligence Community Directive 191 (or any successor directive) that such element has a duty to warn a United States person inside the United States of an impending threat and, after consultation with the Federal Bureau of Investigation when required, notifies such person or facilitates notification of such person by another party, the head of such element shall also immediately provide notice of the warning to the Director of the Federal Bureau of Investigation and, if such person is under the protection of an element of the Federal Government, a person responsible for the protection of such United States person. (2) Process for notification If notice is required under paragraph (1) to a person responsible for the protection of a United States person, such notice may be made in any appropriate and expeditious manner, including through the Director of the Federal Bureau of Investigation. (c) Federal Bureau of Investigation records of warnings The Director of the Federal Bureau of Investigation shall establish a process for documenting and maintaining records of each notice of a warning provided to the Director in accordance with subsection (b). (d) Rule of construction Nothing in this section shall be construed to limit any duty to warn already in effect, including under Intelligence Community Directive 191 (relating to duty to warn) and any policies or procedures issued in accordance with such directive. (e) United States person defined In this section, the term United States person has the meaning given the term in section 105A of the National Security Act of 1947 ( 50 U.S.C. 3039 ).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011521503267188867,
+      "confidence": "High",
+      "start_index": 2398,
+      "end_index": 4162,
+      "word_count": 281,
+      "token_length": 340
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec6716_national_intelligence_estimate_on_the_western_hemisphere.txt",
+    "sec6718_requirements_with_respect_to_duty_to_warn_former_senior_officials_and_other_unit.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec6716_national_intelligence_estimate_on_the_western_hemisphere.txt",
+      "start_index": 0,
+      "end_index": 1747,
+      "word_count": 256
+    },
+    {
+      "filename": "sec6718_requirements_with_respect_to_duty_to_warn_former_senior_officials_and_other_unit.txt",
+      "start_index": 1749,
+      "end_index": 4162,
+      "word_count": 374
+    }
+  ]
+}

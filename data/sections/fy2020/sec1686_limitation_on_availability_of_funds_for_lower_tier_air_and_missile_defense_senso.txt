@@ -1,0 +1,10 @@
+SEC. 1686.  LIMITATION ON AVAILABILITY OF FUNDS FOR LOWER TIER AIR AND MISSILE DEFENSE SENSOR. (a)  Limitation .— Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Army for the lower tier air and missile defense sensor, not more than 75 percent may be obligated or expended until the Secretary of the Army submits the report under subsection (b). 
+ (b)  Time period. Report .— The Secretary of the Army shall submit to the congressional defense committees a report on the test and demonstration of lower tier air and missile defense sensors that occurred during the third quarter of fiscal year 2019. Such report shall include the following: 133 STAT. 1786 
+ (1)  An explanation of how the test and demonstration was conducted and what the test and demonstration set out to achieve, including— (A)  an explanation of the performance specifications used; and 
+ (B)  a description of the emulated threats used in the test and demonstration and how such threats compare to emerging regional air and missile threats. 
+ 
+ (2)  An explanation of the capability of the sensor system that the Secretary determined to be the winner of the test and demonstration, including with respect to— (A)  the capability of such sensor system against key threats and requirements, including whether such sensor system will be delivered with full 360-degree coverage and the ability of such sensor system to detect, track, and surveil targets; 
+ (B)  the estimated procurement and life-cycle costs of operating such sensor system; and 
+ (C)  the cost, timeline, and approach that will be used to integrate the lower tier air and missile defense sensor with other sensors using the Integrated Air and Missile Defense Battle Command System. 
+ 
+ (3)  An explanation of whether future performance improvements to the lower tier air and missile defense sensor are conditional on intellectual property and how such improvements will be made if the United States does not own such intellectual property.

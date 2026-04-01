@@ -1,0 +1,5 @@
+SEC. 1089.  50 USC 1527 note . NOTIFICATION OF SAFETY AND SECURITY CONCERNS AT CERTAIN DEPARTMENT OF DEFENSE LABORATORIES. (a)  Deadline. In General .— The Secretary of Defense shall notify the congressional defense committees within 7 days after ceasing operations at any Department of Defense laboratory or facility rated at biosafety level–3 or higher for safety or security reasons. 
+ (b)  Content .— The notification required under subsection (a) shall include— (1)  the reason why operations have ceased at the laboratory or facility; 
+ (2)  whether appropriate notification to other Federal agencies has occurred; 
+ (3)  a description of the actions taken to determine the root cause of the cessation; and 
+ (4)  a description of the actions taken to restore operations at the laboratory or facility.

@@ -1,0 +1,81 @@
+SEC. 857.  PROCUREMENT REQUIREMENTS RELATING TO RARE EARTH ELEMENTS AND STRATEGIC AND CRITICAL MATERIALS. (a)  10 USC 4811 note . Disclosures Concerning Rare Earth Elements and Strategic and Critical Materials by Contractors of Department of Defense .— (1)  Effective date. Requirement .— Beginning on the effective date of this subsection, the Secretary of Defense shall— (A)  require that any contractor that provides to the Department of Defense a system with a permanent magnet that contains rare earth elements or strategic and critical materials disclose, after undertaking a commercially reasonable inquiry and along with delivery of the system, the provenance of the magnet; and 
+ (B)  safeguard such disclosures in accordance with applicable classification level required by the associated programs. 
+ 
+ (2)  Elements .— A disclosure under paragraph (1) shall include an identification of the country or countries in which— (A)  any rare earth elements and strategic and critical materials used in the magnet were mined; 
+ (B)  such elements and minerals were refined into oxides; 
+ (C)  such elements and minerals were made into metals and alloys; and 
+ (D)  the magnet was sintered or bonded and magnetized. 
+ 
+ (3)  Implementation of supply chain tracking system .— If Deadline.  a contractor cannot make the disclosure required by paragraph (1) with respect to a system described in that paragraph, the Secretary shall require the contractor to establish and implement a supply chain tracking system in order to make the disclosure to the fullest extent possible not later than 180 days after the contractor provides the system to the Department of Defense. The tracking system shall— (A)  include a description of the efforts taken by the contractor to date to make the disclosure required by paragraph (1); 
+ (B)  take into account the possible refusal of certain foreign entities to provide the contractor the information  136 STAT. 2728 
+necessary to make the disclosure required by paragraph (1); and 
+ (C)  require the contractor to report to the Secretary the name, location, and other identifying information of any entities which refuse to provide the contractor with the information necessary to make the disclosure required by paragraph (1). 
+ 
+ (4)  Waivers .— (A)  Time period. Certification. In general .— The Secretary may waive a requirement under paragraph (1) or (3) with respect to a system described in paragraph (1) for a period of not more than 180 days if the Secretary certifies to the Committees on Armed Services of the Senate and the House of Representatives that— (i)  the continued procurement of the system is necessary to meet the demands of a national emergency declared under section 201 of the National Emergencies Act ( 50 U.S.C. 1621 ); or 
+ (ii)  a contractor that cannot currently make the disclosure required by paragraph (1) is making significant efforts to comply with the requirements of that paragraph. 
+ 
+ (B)  Certification. Waiver renewals .— The Secretary may renew a waiver as many times as the Secretary considers appropriate, provided that the Secretary submits an updated certification to the committees. 
+ (C)  Limitation .— The Secretary may not delegate this waiver authority below the level of Assistant Secretary of Defense, a senior acquisition executive (as defined in  section 101(a) of title 10, United States Code ), or a command acquisition executive (as described in  section 167(e)(4)(C) of title 10, United States Code ) or equivalent. 
+ 
+ (5)  Briefing required .— (A)  Deadline. In general .— Not later than 30 days after the submission of each report required by subsection (c)(3), the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that includes— (i)  Summary. a summary of the disclosures made under this subsection; 
+ (ii)  Assessment. an assessment of the extent of reliance by the United States on foreign countries, and especially countries that are not allies of the United States, for rare earth elements and strategic and critical materials; 
+ (iii)  Determination. a determination with respect to which systems described in paragraph (1) are of the greatest concern for interruptions of supply chains with respect to rare earth elements and strategic and critical materials; and 
+ (iv)  any suggestions for legislation or funding that would mitigate security gaps in such supply chains. 
+ 
+ (B)  Form .— To the extent practicable, each briefing required under subparagraph (A) shall be in an unclassified form, but may contain a classified annex. 
+ 
+ (6)  Effective date .— The requirements described in this subsection shall take effect— 136 STAT. 2729 
+ (A)  not earlier than 30 months after the date of enactment of this Act; and 
+ (B)  Certification. after the Secretary of Defense certifies to the Committees on Armed Services of the Senate and the House of Representatives that the Department has established a process to ensure that the information collection requirements of this subsection present no national security risks, or that any such risks have been fully mitigated. 
+ 
+ 
+ (b)  Expansion of Restrictions on Procurement of Military and Dual-use Technologies by Chinese Military Companies .— Section 1211 of the National Defense Authorization Act for Fiscal Year 2006 ( Public Law 109–163 ;  10 U.S.C. 4651 note  prec.)  is amended — (1)  in the section heading, by  striking  “ communist chinese military companies ” and  inserting  “ chinese military companies ”; 
+ (2)  in subsection (a), by  inserting  after “ military company ” the following: “ , any Chinese military company, any Non-SDN Chinese military-industrial complex company, or any other covered company ”; 
+ (3)  by  amending  subsection (b) to read as follows: “(b)  Goods and Services Covered .— “(1)  In general .— For purposes of subsection (a), and except as provided in paragraph (2), the goods and services described in this subsection are goods and services— “(A)  on the munitions list of the International Traffic in Arms Regulations; or 
+ “(B)  on the Commerce Control List that— “(i)  are classified in the 600 series; or 
+ “(ii)  contain strategic and critical materials, rare earth elements, or energetic materials used to manufacture missiles or munitions. 
+ 
+ 
+ “(2)  Exceptions .— Goods and services described in this subsection do not include goods or services procured— “(A)  in connection with a visit by a vessel or an aircraft of the United States Armed Forces to the People’s Republic of China; 
+ “(B)  for testing purposes; or 
+ “(C)  for purposes of gathering intelligence.” 
+ 
+ 
+ ; and 
+ (4)  Definitions. in subsection (e)— (A)  by  striking  paragraph (3); 
+ (B)  by  redesignating  paragraphs (1) and (2) as paragraphs (3) and (5), respectively; 
+ (C)  by  inserting  before paragraph (3), as redesignated by subparagraph (B), the following: “(1)  The term ‘ Chinese military company ’ has the meaning given that term by section 1260H(d)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  10 U.S.C. 113 note ). 
+ “(2)  The term ‘ Commerce Control List ’ means the list maintained by the Bureau of Industry and Security and set forth in Supplement No. 1 to part 774 of the Export Administration Regulations.” 
+ ; 
+ (D)  by  inserting  after paragraph (3), as so redesignated, the following: 136 STAT. 2730 
+ “(4)  The term ‘ Export Administration Regulations ’ has the meaning given that term in section 1742 of the Export Control Reform Act of 2018 ( 50 U.S.C. 4801 ).” 
+ ; and 
+ (E)  by  adding  at the end the following: “(6)  The term ‘ Non-SDN Chinese military-industrial complex company ’ means any entity on the Non-SDN Chinese Military-Industrial Complex Companies List— “(A)  established pursuant to Executive Order 13959 ( 50 U.S.C. 1701 note ; relating to addressing the threat from securities investments that finance Communist Chinese military companies), as amended before, on, or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023; and 
+ “(B)  maintained by the Office of Foreign Assets Control of the Department of the Treasury. 
+ 
+ “(7)  The term ‘ other covered company ’ means a company that— “(A)  is owned or controlled by the government of the People’s Republic of China; and 
+ “(B)  Certification. is certified by the Secretary of Defense to the congressional defense committees to be a company that must be covered by this section for national security reasons. 
+ 
+ “(8)  The term ‘ strategic and critical materials ’ means materials designated as strategic and critical under section 3(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98b(a) ).” 
+ ; and 
+ 
+ (5)  by  adding  at the end the following new subsection: “(f)  Certification. Effective Date .— With respect to goods and services described in clause (ii) of subparagraph (b)(1)(B), the prohibition shall take effect 180 days after the date on which the Secretary of Defense certifies to the congressional defense committees that a sufficient number of commercially viable providers exist outside of the People’s Republic of China that collectively can provide the Department of Defense with satisfactory quality and sufficient quantity of such goods or services as and when needed at United States market prices.” 
+ . 
+ 
+ (c)  Review of Compliance With Contracting Requirements .— (1)  Deadline. Assessments. In general .— Not later than one year after the date of the enactment of this Act, and periodically thereafter until the termination date specified in paragraph (5), the Comptroller General of the United States shall assess the extent of the efforts of the Secretary of Defense to comply with the requirements of— (A)  subsection (a); 
+ (B)  section 1211 of the National Defense Authorization Act for Fiscal Year 2006, as amended by subsection (b); and 
+ (C)  section 4872 of title 10, United States Code . 
+ 
+ (2)  Briefing required .— (A)  Assessments. In general .— The Comptroller General shall periodically, until the termination date specified in paragraph (5), provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the results of the assessments conducted under paragraph (1) that includes an assessment of— 136 STAT. 2731 
+ (i)  the inclusion by the Department of Defense of necessary contracting clauses in relevant contracts to meet the requirements described in subparagraphs (A), (B), and (C) of paragraph (1); and 
+ (ii)  the efforts of the Department of Defense to assess the compliance of contractors with such clauses. 
+ 
+ (B)  Form .— To the extent practicable, each briefing required under subparagraph (A) shall be in an unclassified form, but may contain a classified annex. 
+ 
+ (3)  Report required .— (A)  Time period. In general .— The Comptroller General shall, not less frequently than every 2 years until the termination date specified in paragraph (5), submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the assessments conducted under paragraph (1). 
+ (B)  Form .— To the extent practicable, each report required under subparagraph (A) shall be in an unclassified form, but may contain a classified annex. 
+ 
+ (4)  Determination. Examination. Referral .— If, in conducting an assessment under paragraph (1), the Comptroller General determines that a contractor has willfully or recklessly failed to comply with any of the requirements described in subparagraphs (A), (B), and (C) of paragraph (1), the Comptroller General may refer the matter, as appropriate, for further examination and possible enforcement actions. 
+ (5)  Termination .— The requirements of this subsection shall terminate on the date that is 5 years after the date of the enactment of this Act. 
+ 
+ (d)  10 USC 4811 note . Strategic and Critical Materials Defined .— In this section, the term “ strategic and critical materials ” means materials designated as strategic and critical under section 3(a) of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98b(a) ).

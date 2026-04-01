@@ -1,0 +1,813 @@
+SEC. 4601.  MILITARY CONSTRUCTION. 
+ 
+ 
+ 
+ 
+ 
+ SEC. 4601. MILITARY CONSTRUCTION (In Thousands of Dollars) 
+ 
+ Account State/Country and Installation Project Title FY 2024  Request Conference Authorized 
+ MILITARY CONSTRUCTION 
+ ARMY 
+ Alabama 
+ Army Anniston Army Depot ACCESS CONTROL POINT (P&D) 0 5,500 
+ Army Anniston Army Depot COMPONENT REBUILD SHOP (P&D) 0 8,100 
+ Army Anniston Army Depot OPEN STORAGE (P&D) 0 270 
+ Army Anniston Army Depot VEHICLE PAINT SHOP (P&D) 0 2,900 
+ Army Fort Novosel COST TO COMPLETE: ADV INDIVIDUAL TRAINING BARRACKS COMPLEX 0 41,200 
+ Army Redstone Arsenal SUBSTATION 50,000 50,000 
+ Alaska 
+ Army Fort Wainwright COST TO COMPLETE: ENLISTED UNACCOMPANIED PERS HSG 34,000 34,000 
+ Army Fort Wainwright SOLDIER PERFORMANCE READINESS CENTER (P&D) 0 7,900 
+ Florida 
+ Army Camp Bull Simons CHILD DEVELOPMENT CENTER 0 0 
+ Georgia 
+ Army Fort Eisenhower CYBER INSTRUCTIONAL FACILITY (CLASSROOMS) 163,000 73,000 
+ Army Fort Moore CAMP MERRILL AST BARRACKS (P&D) 0 1,320 
+ Army Fort Stewart/Hunter Army Airfield COMBAT AVIATION BRIGADE GSAB HANGAR (P&D) 0 6,400 
+ Army Fort Stewart/Hunter Army Airfield MILITARY INTELLIGENCE BATTALION HANGAR (P&D) 0 2,220 
+ Germany 
+ Army Grafenwoehr AUTOMATED MULTIPURPOSE MACHINE GUN RANGE 10,400 10,400 
+ Army Hohenfels SIMULATIONS CENTER 56,000 56,000 
+ Hawaii 
+ Army Aliamanu Military Reservation WATER STORAGE TANK 20,000 20,000 
+ Army Fort Shafter CLEARWELL AND BOOSTER PUMP 0 23,000 
+ Army Helemano Military Reservation WELLS AND STORAGE TANKS 0 33,000 
+ Army Schofield Barracks ELEVATED TANK AND DISTRIBUTION LINES 0 16,000 
+ Army Schofield Barracks WATER STORAGE TANK 0 21,000 
+ Army Wheeler Army Airfield AIR TRAFFIC CONTROL TOWER (P&D) 0 5,400 
+ Indiana 
+ Army Crane Army Ammunition Plant EARTH COVERED MAGAZINES (P&D) 0 1,195 
+ Kansas 
+ Army Fort Riley AIR TRAFFIC CONTROL TOWER (P&D) 0 1,600 
+ Army Fort Riley AIRCRAFT MAINTENANCE HANGER 105,000 105,000 
+ Army Fort Riley BOB DOLE INTERMODAL RAILYARD IMPROVEMENTS (P&D) 0 1,110 
+ Kentucky 137 STAT. 902 
+ Army Blue Grass Army Depot SMALL ARMS MODERNIZATION (P&D) 0 3,300 
+ Army Fort Campbell AIR TRAFFIC CONTROL TOWER (P&D) 0 2,500 
+ Army Fort Campbell MULTIPURPOSE TRAINING RANGE 38,000 39,000 
+ Kwajalein 
+ Army Kwajalein Atoll COST TO COMPLETE: PIER 0 0 
+ Louisiana 
+ Army Fort Johnson MULTIPURPOSE ATHLETIC FIELD 0 13,400 
+ Massachusetts 
+ Army Soldier Systems Center Natick BARRACKS ADDITION 18,500 18,500 
+ Michigan 
+ Army Detroit Arsenal GROUND TRANSPORT EQUIPMENT BUILDING 72,000 72,000 
+ Army Detroit Arsenal MANNED/UNMANNED TACTICAL VEHICLE LAB (P&D) 0 2,400 
+ New Mexico 
+ Army White Sands Missile Range J-DETC DIRECTED ENERGY FACILITY (P&D) 0 5,500 
+ New York 
+ Army Watervliet Arsenal TANK FARM (P&D) 0 160 
+ North Carolina 
+ Army Fort Liberty AIRCRAFT MAINTENANCE HANGAR 0 61,000 
+ Army Fort Liberty AUTOMATED RECORD FIRE RANGE 19,500 21,000 
+ Army Fort Liberty BARRACKS 50,000 50,000 
+ Army Fort Liberty BARRACKS (FACILITY PROTOTYPING) 85,000 85,000 
+ Army Fort Liberty CHILD DEVELOPMENT CENTER 0 36,000 
+ Oklahoma 
+ Army McAlester Army Ammunition Plant WATER TREATMENT PLANT (P&D) 0 1,194 
+ Pennsylvania 
+ Army Letterkenny Army Depot ANECHOIC CHAMBER (P&D) 0 275 
+ Army Letterkenny Army Depot GUIDED MISSILE MAINTENANCE BUILDING 89,000 89,000 
+ Army Tobyhanna Army Depot HELIPAD (P&D) 0 311 
+ Army Tobyhanna Army Depot RADAR MAINTENANCE SHOP (P&D) 0 259 
+ Poland 
+ Army Various Locations PLANNING & DESIGN 0 25,710 
+ South Carolina 
+ Army Fort Jackson COST TO COMPLETE: RECEPTION BARRACKS COMPLEX, PHASE 2 0 66,000 
+ Texas 
+ Army Fort Bliss COLLECTIVE TRAINING BARRACKS (P&D) 0 8,000 
+ Army Fort Bliss RAIL YARD 74,000 74,000 
+ Army Fort Cavazos BARRACKS (P&D) 0 20,000 
+ Army Fort Cavazos TACTICAL EQUIPMENT MAINTENANCE FACILITIES (P&D) 0 5,800 
+ Army Red River Army Depot COMPONENT REBUILD SHOP 113,000 46,400 
+ Army Red River Army Depot NON-DESTRUCTIVE TESTING FACILITY (P&D) 0 280 
+ Army Red River Army Depot STANDBY GENERATOR (P&D) 0 270 
+ Virginia 
+ Army Fort Belvoir EQUINE TRAINING FACILITY (P&D) 0 4,000 
+ Washington 
+ Army Joint Base Lewis-McChord BARRACKS 100,000 100,000 137 STAT. 903 
+ Army Joint Base Lewis-McChord BARRACKS (P&D) 0 7,900 
+ Army Joint Base Lewis-McChord VEHICLE MAINTENANCE SHOP (P&D) 0 7,500 
+ Army Yakima Training Center AUTOMATED INFANTRY PLATOON BATTLE COURSE (P&D) 0 960 
+ Worldwide Unspecified 
+ Army Unspecified Worldwide Locations BARRACKS REPLACEMENT FUND (P&D) 0 65,000 
+ Army Unspecified Worldwide Locations CHILD DEVELOPMENT CENTER PLANNING & DESIGN 0 20,000 
+ Army Unspecified Worldwide Locations COST TO COMPLETE ARMY 0 0 
+ Army Unspecified Worldwide Locations HOST NATION SUPPORT 26,000 26,000 
+ Army Unspecified Worldwide Locations LAB INFRASTRUCTURE PLANNING & DESIGN 0 30,000 
+ Army Unspecified Worldwide Locations ORGANIC INDUSTRIAL BASE PLANNING & DESIGN 0 5,000 
+ Army Unspecified Worldwide Locations PLANNING & DESIGN 270,875 270,875 
+ Army Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 76,280 86,280 
+ Army Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 15,000 
+ 
+ Subtotal Military Construction, Army 1,470,555 1,912,289 
+ 
+ NAVY 
+ Arizona 
+ Navy Marine Corps Air Station Yuma WATER TREATMENT PLANT (P&D) 0 8,900 
+ Australia 
+ Navy Royal Australian Air Force Base Darwin PDI: AIRCRAFT PARKING APRON (INC) 134,624 134,624 
+ California 
+ Navy Marine Corps Air Ground Combat Center Twentynine Palms COMMUNICATIONS TOWERS 42,100 42,100 
+ Navy Marine Corps Base Camp Pendleton FIRE/EMERGENCY RESPONSE STATION (53 AREA) REPLACEMENT (P&D) 0 2,683 
+ Navy Naval Base Coronado CHILD DEVELOPMENT CENTER (P&D) 0 6,200 
+ Navy Naval Base San Diego CHILD DEVELOPMENT CENTER (P&D) 0 5,600 
+ Navy Port Hueneme LABORATORY COMPOUND FACILITIES IMPROVEMENTS 110,000 70,000 
+ Connecticut 
+ Navy Naval Submarine Base New London SUBMARINE PIER 31 EXTENSION 112,518 36,718 137 STAT. 904 
+ Navy Naval Submarine Base New London WEAPONS MAGAZINE & ORDNANCE OPERATIONS FAC. 219,200 19,200 
+ District of Columbia 
+ Navy Marine Barracks Washington (8th Street and I) BACHELOR ENLISTED QUARTERS & SUPPORT FACILITY 131,800 16,800 
+ Navy Naval Support Activity ELECTROMAGNETIC & CYBER COUNTERMEASURES LAB (P&D) 0 40,000 
+ Djibouti 
+ Navy Camp Lemonnier ELECTRICAL POWER PLANT 0 25,000 
+ Florida 
+ Navy Naval Air Station Whiting Field ADVANCED HELICOPTER TRAINING SYSTEM HANGAR 0 50,000 
+ Georgia 
+ Navy Marine Corps Logistics Base Albany CONSOLIDATED COMMUNICATION FACILITY 0 64,000 
+ Guam 
+ Navy Andersen Air Force Base PDI: CHILD DEVELOPMENT CENTER 105,220 55,220 
+ Navy Andersen Air Force Base PDI: JOINT CONSOL. COMM. CENTER (INC) 107,000 107,000 
+ Navy Joint Region Marianas PDI: JOINT COMMUNICATION UPGRADE (INC) 292,830 31,330 
+ Navy Joint Region Marianas PDI: MISSILE INTEGRATION TEST FACILITY 174,540 56,140 
+ Navy Naval Base Guam PDI: 9TH ESB TRAINING COMPLEX 23,380 27,536 
+ Navy Naval Base Guam PDI: ARTILLERY BATTERY FACILITIES 137,550 137,550 
+ Navy Naval Base Guam PDI: CONSOLIDATED MEB HQ/NCIS PHII 19,740 19,740 
+ Navy Naval Base Guam PDI: RECREATION CENTER 34,740 34,740 
+ Navy Naval Base Guam PDI: RELIGIOUS MINISTRY SERVICES FACILITY 46,350 46,350 
+ Navy Naval Base Guam PDI: SATELLITE COMMUNICATIONS FACILITY (INC) 166,159 56,159 
+ Navy Naval Base Guam PDI: TRAINING CENTER 89,640 89,640 
+ Hawaii 
+ Navy Joint Base Pearl Harbor-Hickam DRY DOCK 3 REPLACEMENT (INC) 1,318,711 1,318,711 
+ Navy Joint Base Pearl Harbor-Hickam WASTEWATER TREATMENT PLANT 0 15,000 
+ Navy Joint Base Pearl Harbor-Hickam WATERFRONT PRODUCTION FACILITY (P&D) 0 60,000 
+ Navy Marine Corps Base Kaneohe Bay WATER RECLAMATION FACILITY COMPLIANCE UPGRADE 0 134,505 
+ Italy 
+ Navy Naval Air Station Sigonella EDI: ORDNANCE MAGAZINES 77,072 77,072 
+ Maine 
+ Navy Portsmouth Naval Shipyard MULTI-MISSION DRYDOCK #1 EXTENSION (INC) 544,808 544,808 
+ Maryland 
+ Navy Fort Meade CYBERSECURITY OPERATIONS FACILITY 186,480 60,580 
+ Navy Naval Air Station Patuxent River AIRCRAFT DEVELOPMENT AND MAINTENANCE FACILITIES 141,700 58,000 
+ Navy Naval Support Activity Bethesda CONSTRUCT JOINT NAVY/DHA FIRE STATION (P&D) 0 3,000 
+ North Carolina 
+ Navy Marine Corps Air Station Cherry Point 2D LAAD MAINTENANCE AND OPERATIONS FACILITIES 0 45,000 137 STAT. 905 
+ Navy Marine Corps Air Station Cherry Point AIRCRAFT MAINTENANCE HANGAR (INC) 19,529 19,529 
+ Navy Marine Corps Air Station Cherry Point MAINTENANCE FACILITY & MARINE AIR GROUP HQS 125,150 35,150 
+ Navy Marine Corps Base Camp Lejeune 10TH MARINES MAINTENANCE & OPERATIONS COMPLEX 0 66,270 
+ Navy Marine Corps Base Camp Lejeune AMPHIBIOUS COMBAT VEHICLE SHELTERS 0 32,890 
+ Navy Marine Corps Base Camp Lejeune CORROSION REPAIR FACILITY REPLACEMENT 0 45,000 
+ Pennsylvania 
+ Navy Naval Surface Warfare Center Philadelphia AI MACHINERY CONTROL DEVELOPMENT CENTER 0 65,200 
+ Virginia 
+ Navy Dam Neck Annex MARITIME SURVEILLANCE SYSTEM FACILITY 109,680 23,680 
+ Navy Joint Expeditionary Base Little Creek—Fort Story CHILD DEVELOPMENT CENTER 35,000 57,000 
+ Navy Marine Corps Base Quantico WATER TREATMENT PLANT 127,120 37,120 
+ Navy Naval Station Norfolk CHILD DEVELOPMENT CENTER 43,600 47,200 
+ Navy Naval Station Norfolk MQ–25 AIRCRAFT LAYDOWN FACILITIES 114,495 11,495 
+ Navy Naval Station Norfolk SUBMARINE PIER 3 (INC) 99,077 99,077 
+ Navy Naval Weapons Station Yorktown WEAPONS MAGAZINES 221,920 46,920 
+ Navy Norfolk Naval Shipyard DRY DOCK SALTWATER SYSTEM FOR CVN–78 (INC) 81,082 81,082 
+ Washington 
+ Navy Naval Air Station Whidbey Island E/A–18G AIRCRAFT REGIONAL SERVICE FACILITY (P&D) 0 11,100 
+ Navy Naval Base Kitsap ALTERNATE POWER TRANSMISSION LINE 0 19,000 
+ Navy Naval Base Kitsap ARMORED FIGHTING VEHICLE SUPPORT FACILITY 0 31,000 
+ Navy Naval Base Kitsap SHIPYARD ELECTRICAL BACKBONE 195,000 15,000 
+ Worldwide Unspecified 
+ Navy Unspecified Worldwide Locations BARRACKS REPLACEMENT FUND (P&D) 0 75,000 
+ Navy Unspecified Worldwide Locations INDOPACOM PLANNING & DESIGN 0 69,000 
+ Navy Unspecified Worldwide Locations SIOP (P&D) 0 50,000 
+ Navy Unspecified Worldwide Locations CHILD DEVELOPMENT CENTER PLANNING & DESIGN 0 20,000 
+ Navy Unspecified Worldwide Locations LAB INFRASTRUCTURE PLANNING & DESIGN 0 30,000 137 STAT. 906 
+ Navy Unspecified Worldwide Locations NAVY SHORE UTILITY INFRASTRUCTURE (P&D) 0 85,000 
+ Navy Unspecified Worldwide Locations PLANNING & DESIGN 599,942 599,942 
+ Navy Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 34,430 44,430 
+ Navy Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 15,000 
+ Navy Unspecified Worldwide Locations USMC MILITARY CONSTRUCTION PLANNING & DESIGN 0 48,749 
+ Navy Unspecified Worldwide Locations USMC UNSPECIFIED MINOR MILITARY CONSTRUCTION 0 30,000 
+ 
+ Subtotal Military Construction, Navy 6,022,187 5,310,740 
+ 
+ AIR FORCE 
+ Alaska 
+ Air Force Eielson Air Force Base COAL THAW SHED ADDITION (P&D) 0 1,500 
+ Air Force Eielson Air Force Base CONSOLIDATED MUNITIONS COMPLEX (P&D) 0 1,200 
+ Air Force Eielson Air Force Base FIRE STATION (P&D) 0 1,700 
+ Air Force Eielson Air Force Base JOINT MOBILITY CENTER EXPANSION (P&D) 0 3,000 
+ Air Force Eielson Air Force Base JOINT PACIFIC ALASKA RANGE COMPLEX (JPARC) OPS FACILITY (P&D) 0 1,400 
+ Air Force Eielson Air Force Base PERMANENT PARTY DORM (P&D) 0 9,500 
+ Air Force Joint Base Elmendorf-Richardson COMBAT ALERT CELL (P&D) 0 18,100 
+ Air Force Joint Base Elmendorf-Richardson EXTEND RUNWAY 16/34 (INC 3) 107,500 107,500 
+ Air Force Joint Base Elmendorf-Richardson PRECISION GUIDED MISSILE COMPLEX (P&D) 0 6,100 
+ Arizona 
+ Air Force Luke Air Force Base CHILD DEVELOPMENT CENTER (P&D) 0 2,700 
+ Air Force Luke Air Force Base GILA BEND (P&D) 0 2,600 
+ Australia 
+ Air Force Royal Australian Air Force Base Darwin PDI: SQUADRON OPERATIONS FACILITY 26,000 26,000 
+ Air Force Royal Australian Air Force Base Tindal PDI: AIRCRAFT MAINTENANCE SUPPORT FACILITY 17,500 17,500 
+ Air Force Royal Australian Air Force Base Tindal PDI: SQUADRON OPERATIONS FACILITY 20,000 20,000 
+ Air Force Royal Australian Air Force Base Tindal PDI: BOMBER APRON 93,000 93,000 
+ Florida 
+ Air Force Eglin Air Force Base LRSO HARDWARE SOFTWARE DEVELOPMENT & TEST FACILITY 0 15,500 
+ Air Force MacDill Air Force Base KC–46A ADAL AIRCRAFT CORROSION CONTROL 25,000 25,000 
+ Air Force MacDill Air Force Base KC–46A ADAL AIRCRAFT MAINTENANCE HANGAR 27,000 27,000 137 STAT. 907 
+ Air Force MacDill Air Force Base KC–46A ADAL APRON & HYDRANT FUELING PITS 61,000 61,000 
+ Air Force MacDill Air Force Base KC–46A ADAL FUEL SYSTEM MAINTENANCE DOCK 18,000 18,000 
+ Air Force Patrick Space Force Base COMMERCIAL VEHICLE INSPECTION 15,000 15,000 
+ Air Force Patrick Space Force Base COST TO COMPLETE: CONSOLIDATED COMMUNICATIONS CENTER 15,000 15,000 
+ Air Force Patrick Space Force Base FINAL DENIAL BARRIERS, SOUTH GATE 12,000 12,000 
+ Air Force Tyndall Air Force Base NATURAL DISASTER RECOVERY 0 252,000 
+ Georgia 
+ Air Force Robins Air Force Base BATTLE MANAGEMENT COMBINED OPERATIONS COMPLEX 115,000 35,000 
+ Guam 
+ Air Force Joint Region Marianas PDI: NORTH AIRCRAFT PARKING RAMP (INC) 109,000 109,000 
+ Japan 
+ Air Force Kadena Air Base PDI: HELO RESCUE OPS MAINTENANCE HANGAR (INC 3) 46,000 46,000 
+ Air Force Kadena Air Base PDI: THEATER A/C CORROSION CONTROL CTR (INC) 42,000 42,000 
+ Louisiana 
+ Air Force Barksdale Air Force Base CHILD DEVELOPMENT CENTER (P&D) 0 2,000 
+ Air Force Barksdale Air Force Base DORMITORY (P&D) 0 7,000 
+ Air Force Barksdale Air Force Base WEAPONS GENERATION FACILITY (INC 3) 112,000 112,000 
+ Mariana Islands 
+ Air Force Tinian PDI: AIRFIELD DEVELOPMENT, PHASE 1 (INC 3) 26,000 26,000 
+ Air Force Tinian PDI: FUEL TANKS W/PIPELINE & HYDRANT (INC 3) 20,000 21,000 
+ Air Force Tinian PDI: PARKING APRON (INC 3) 32,000 32,000 
+ Massachusetts 
+ Air Force Hanscom Air Force Base CHILD DEVELOPMENT CENTER 37,000 37,000 
+ Air Force Hanscom Air Force Base MIT-LINCOLN LAB (WEST LAB CSL/MIF) (INC 4) 70,000 70,000 
+ Mississippi 
+ Air Force Columbus Air Force Base T–7A GROUND BASED TRAINING SYSTEM FACILITY 30,000 30,000 
+ Air Force Columbus Air Force Base T–7A UNIT MAINTENANCE TRAINING FACILITY 9,500 9,500 
+ Air Force Keesler Air Force Base AIR TRAFFIC CONTROL TOWER (P&D) 0 2,000 
+ Montana 
+ Air Force Malmstrom Air Force Base FIRE STATION BAY/STORAGE AREA 0 10,300 
+ Nebraska 
+ Air Force Offutt Air Force Base 55 CES MAINTENANCE/WAREHOUSE (P&D) 0 4,500 
+ Air Force Offutt Air Force Base BASE OPERATIONS/MOBILITY CENTER (P&D) 0 5,000 
+ Air Force Offutt Air Force Base LOGISTICS READINESS SQUADRON TRANSPORTATION FACILITY (P&D) 0 3,500 
+ Nevada 
+ Air Force Nellis Air Force Base DORMITORY (P&D) 0 7,500 
+ Air Force Nellis Air Force Base F–35 COALITION HANGAR (P&D) 0 5,500 
+ Air Force Nellis Air Force Base F–35 DATA LAB SUPPORT FACILITY (P&D) 0 700 137 STAT. 908 
+ New Mexico 
+ Air Force Cannon Air Force Base SATELLITE FIRE STATION (P&D) 0 5,000 
+ Air Force Kirtland Air Force Base COST TO COMPLETE: WYOMING GATE UPGRADE FOR ANTITERRORISM COMPLIANCE 0 0 
+ Norway 
+ Air Force Rygge Air Station EDI: DABS-FEV STORAGE 88,000 96,000 
+ Air Force Rygge Air Station EDI: MUNITIONS STORAGE AREA 31,000 40,000 
+ Ohio 
+ Air Force Wright-Patterson Air Force Base ACQUISITION MANAGEMENT COMPLEX PHASE V (P&D) 0 19,500 
+ Oklahoma 
+ Air Force Tinker Air Force Base F–35 AIRCRAFT OXYGEN SHOP (P&D) 0 5,800 
+ Air Force Tinker Air Force Base KC–46 3–BAY DEPOT MAINTENANCE HANGAR (INC 3) 78,000 58,000 
+ Air Force Vance Air Force Base CONSOLIDATED UNDERGRADUATE PILOT TRAINING CENTER (P&D) 0 8,400 
+ Philippines 
+ Air Force Cesar Basa Air Base PDI: TRANSIENT AIRCRAFT PARKING APRON 35,000 35,000 
+ South Dakota 
+ Air Force Ellsworth Air Force Base B–21 FUEL SYSTEM MAINTENANCE DOCK 75,000 75,000 
+ Air Force Ellsworth Air Force Base B–21 PHASE HANGAR 160,000 34,000 
+ Air Force Ellsworth Air Force Base B–21 WEAPONS GENERATION FACILITY (INC) 160,000 160,000 
+ Spain 
+ Air Force Morón Air Base EDI: MUNITIONS STORAGE 26,000 34,000 
+ Texas 
+ Air Force Joint Base San Antonio-Lackland 91 CYBER OPERATIONS CENTER 0 48,000 
+ Air Force Joint Base San Antonio-Lackland BMT – CHAPEL FOR AMERICA’S AIRMEN 0 90,000 
+ Air Force Joint Base San Antonio-Lackland CHILD DEVELOPMENT CENTER 20,000 20,000 
+ United Kingdom 
+ Air Force Royal Air Force Fairford COST TO COMPLETE: EDI DABS-FEV STORAGE 0 28,000 
+ Air Force Royal Air Force Fairford COST TO COMPLETE: EDI MUNITIONS HOLDING AREA 0 20,000 
+ Air Force Royal Air Force Fairford EDI: RADR STORAGE FACILITY 47,000 47,000 
+ Air Force Royal Air Force Lakenheath EDI: RADR STORAGE FACILITY 28,000 28,000 
+ Air Force Royal Air Force Lakenheath SURETY DORMITORY 50,000 50,000 
+ Utah 
+ Air Force Hill Air Force Base F–35 T–7A EAST CAMPUS INFRASTRUCTURE 82,000 82,000 
+ Worldwide Unspecified 
+ Air Force Unspecified Worldwide Locations BARRACKS REPLACEMENT FUND (P&D) 0 65,000 
+ Air Force Unspecified Worldwide Locations CHILD DEVELOPMENT CENTER PLANNING & DESIGN 0 20,000 
+ Air Force Unspecified Worldwide Locations COST TO COMPLETE 0 0 137 STAT. 909 
+ Air Force Unspecified Worldwide Locations EDI: PLANNING & DESIGN 5,648 5,648 
+ Air Force Unspecified Worldwide Locations LAB INFRASTRUCTURE PLANNING & DESIGN 0 30,000 
+ Air Force Unspecified Worldwide Locations PLANNING & DESIGN 429,266 429,266 
+ Air Force Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 64,900 74,900 
+ Air Force Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 15,000 
+ Wyoming 
+ Air Force F.E. Warren Air Force Base COST TO COMPLETE: CONSOLIDATED HELO/TRF OPS/AMU AND ALERT FACILITY 0 18,000 
+ Air Force F.E. Warren Air Force Base GBSD INTEGRATED COMMAND CENTER (INC 2) 27,000 27,000 
+ Air Force F.E. Warren Air Force Base GBSD INTEGRATED TRAINING CENTER 85,000 85,000 
+ Air Force F.E. Warren Air Force Base GBSD MISSILE HANDLING COMPLEX (INC 2) 28,000 28,000 
+ 
+ Subtotal Military Construction, Air Force 2,605,314 3,151,314 
+ 
+ DEFENSE-WIDE 
+ Alabama 
+ Defense-Wide Redstone Arsenal GROUND TEST FACILITY INFRASTRUCTURE 147,975 67,975 
+ California 
+ Defense-Wide Marine Corps Air Station Miramar AMBULATORY CARE CENTER—DENTAL CLINIC ADD//ALT 103,000 20,600 
+ Defense-Wide Marine Corps Air Station Miramar ELECTRICAL INFRASTRUCTURE, ON-SITE GENERATION, AND MICROGRID IMPROVEMENTS 0 30,550 
+ Defense-Wide Monterey COST TO COMPLETE: COGEN PLANT AT B236 0 5,460 
+ Defense-Wide Naval Base Coronado COST TO COMPLETE: SOF ATC OPERATIONS SUPPORT FACILITY 0 11,400 
+ Defense-Wide Naval Base Coronado SOF NAVAL SPECIAL WARFARE COMMAND OPERATIONS SUPPORT FACILITY PHASE 2 0 51,000 
+ Defense-Wide Naval Base San Diego AMBULATORY CARE CENTER—DENTAL CLINIC REPLMT 101,644 22,184 
+ Defense-Wide Naval Base San Diego MICROGRID AND BACKUP POWER 0 6,300 
+ Defense-Wide Naval Base Ventura County COST TO COMPLETE: GROUND MOUNTED SOLAR PV 0 16,840 
+ Defense-Wide Vandenberg Space Force Base MICROGRID WITH BACKUP POWER 0 57,000 
+ Colorado 
+ Defense-Wide Buckley Space Force Base REDUNDANT ELECTRICAL SUPPLY 0 9,000 
+ Defense-Wide Buckley Space Force Base REPLACEMENT WATER WELL 0 5,700 
+ Cuba 
+ Defense-Wide Naval Station Guantanamo Bay AMBULATORY CARE CENTER (INC 1) 60,000 60,000 
+ Delaware 
+ Defense-Wide Dover Air Force Base WHOLE BLOOD PROCESSING LABORATORY REPLACEMENT 0 30,500 
+ Djibouti 137 STAT. 910 
+ Defense-Wide Camp Lemonnier COST TO COMPLETE: ENHANCE ENERGY SECURITY AND CONTROL SYSTEMS 0 5,200 
+ Georgia 
+ Defense-Wide Fort Moore DEXTER ELEMENTARY SCHOOL (P&D) 0 500 
+ Defense-Wide Naval Submarine Base Kings Bay ELECTRICAL TRANSMISSION AND DISTRIBUTION IMPROVEMENTS, PHASE 2 0 49,500 
+ Germany 
+ Defense-Wide Baumholder HUMAN PERFORMANCE TRAINING CENTER 0 16,700 
+ Defense-Wide Baumholder SOF COMPANY OPERATIONS FACILITY 41,000 41,000 
+ Defense-Wide Baumholder SOF JOINT PARACHUTE RIGGING FACILITY 23,000 23,000 
+ Defense-Wide Kaiserslautern Air Base KAISERSLAUTERN MIDDLE SCHOOL 21,275 21,275 
+ Defense-Wide Ramstein Air Base RAMSTEIN MIDDLE SCHOOL 181,764 181,764 
+ Defense-Wide Rhine Ordnance Barracks MEDICAL CENTER REPLACEMENT (INC 11) 77,210 77,210 
+ Defense-Wide Stuttgart ROBINSON BARRACKS ELEM SCHOOL REPLACEMENT 8,000 8,000 
+ Hawaii 
+ Defense-Wide Joint Base Pearl Harbor-Hickam COST TO COMPLETE: FY20 500 KW PV COVERED PARKING EV CHARGING STATION 0 7,476 
+ Defense-Wide Joint Base Pearl Harbor-Hickam COST TO COMPLETE: PRIMARY ELECTRICAL DISTRIBUTION 0 13,040 
+ Honduras 
+ Defense-Wide Soto Cano Air Base FUEL FACILITIES 41,300 41,300 
+ Italy 
+ Defense-Wide Naples COST TO COMPLETE: SMART GRID 0 7,610 
+ Japan 
+ Defense-Wide Fleet Activities Yokosuka KINNICK HIGH SCHOOL (INC) 70,000 70,000 
+ Defense-Wide Kadena Air Base PDI SOF MAINTENANCE HANGAR 88,900 88,900 
+ Defense-Wide Kadena Air Base PDI: SOF COMPOSITE MAINTENANCE FACILITY 11,400 11,400 
+ Kansas 
+ Defense-Wide Forbes Field MICROGRID AND BACKUP POWER 0 5,850 
+ Defense-Wide Fort Riley COST TO COMPLETE: POWER GENERATION AND MICROGRID 0 15,468 
+ Kentucky 
+ Defense-Wide Fort Knox MIDDLE SCHOOL ADDITION (P&D) 0 6,600 
+ Korea 
+ Defense-Wide K–16 Air Base K–16 EMERGENCY BACKUP POWER 0 5,650 
+ Kuwait 
+ Defense-Wide Camp Arifjan COST TO COMPLETE: POWER GENERATION AND MICROGRID 0 8,197 
+ Defense-Wide Camp Buehring MICROGRID AND BACKUP POWER 0 18,850 
+ Louisiana 
+ Defense-Wide Naval Air Station Joint Reserve Base New Orleans COST TO COMPLETE: DISTRIBUTION SWITCHGEAR 0 6,453 
+ Maryland 
+ Defense-Wide Bethesda Naval Hospital MEDICAL CENTER ADDITION/ALTERATION (INC 7) 101,816 101,816 
+ Defense-Wide Fort Meade NSAW MISSION OPS AND RECORDS CENTER (INC) 105,000 105,000 
+ Defense-Wide Fort Meade NSAW RECAP BUILDING 4 (INC) 315,000 315,000 
+ Defense-Wide Fort Meade NSAW RECAP BUILDING 5 (ECB 5) (INC) 65,000 65,000 137 STAT. 911 
+ Defense-Wide Joint Base Andrews HYDRANT FUELING SYSTEM 38,300 38,300 
+ Missouri 
+ Defense-Wide Lake City Army Ammunition Plant MICROGRID AND BACKUP POWER 0 80,100 
+ Montana 
+ Defense-Wide Great Falls International Airport FUEL FACILITIES 30,000 30,000 
+ Nebraska 
+ Defense-Wide Offutt Air Force Base DEFENSE POW/MIA ACCOUNTABILITY AGENCY LABORATORY (P&D) 0 5,000 
+ Defense-Wide Offutt Air Force Base MICROGRID AND BACKUP POWER 0 41,000 
+ North Carolina 
+ Defense-Wide Fort Liberty (Camp Mackall) MICROGRID AND BACKUP POWER 0 10,500 
+ Defense-Wide Marine Corps Base Camp Lejeune MARINE RAIDER BATTALION OPERATIONS FACILITY 0 70,000 
+ Oklahoma 
+ Defense-Wide Fort Sill MICROGRID AND BACKUP POWER 0 76,650 
+ Pennsylvania 
+ Defense-Wide Fort Indiantown Gap COST TO COMPLETE: GEOTHERMAL AND SOLAR PV 0 9,250 
+ Puerto Rico 
+ Defense-Wide Fort Buchanan MICROGRID AND BACKUP POWER 0 56,000 
+ Defense-Wide Juana Díaz COST TO COMPLETE: MICROGRID CONTROLS, 690 KW PV, 275KW GEN, 570 KWH BESS 0 7,680 
+ Defense-Wide Ramey COST TO COMPLETE: MICROGRID CONTROL SYSTEM, 460 KW PV, 275KW GEN, 660 KWH BESS 0 6,360 
+ Spain 
+ Defense-Wide Naval Station Rota BULK TANK FARM, PHASE 1 80,000 80,000 
+ Texas 
+ Defense-Wide Fort Cavazos COST TO COMPLETE: POWER GENERATION AND MICROGRID 0 18,900 
+ Defense-Wide Fort Cavazos MICROGRID AND BACKUP POWER 0 18,250 
+ Utah 
+ Defense-Wide Hill Air Force Base OPEN STORAGE 14,200 14,200 
+ Virginia 
+ Defense-Wide Fort Belvoir DIA HEADQUARTERS ANNEX 185,000 25,000 
+ Defense-Wide Fort Belvoir (NGA Campus East) COST TO COMPLETE: CHILLED WATER REDUNDANCY 0 550 
+ Defense-Wide Hampton Roads COST TO COMPLETE: BACKUP POWER GENERATION 0 1,200 
+ Defense-Wide Joint Expeditionary Base Little Creek—Fort Story SOF SDVT2 OPERATIONS SUPPORT FACILITY 61,000 61,000 
+ Defense-Wide Pentagon HVAC EFFICIENCY UPGRADES 0 2,250 
+ Defense-Wide Pentagon SEC OPS AND PEDESTRIAN ACCESS FACS 30,600 30,600 
+ Washington 
+ Defense-Wide Joint Base Lewis-McChord POWER GENERATION AND MICROGRID 0 49,850 
+ Defense-Wide Joint Base Lewis-McChord SOF CONSOLIDATED RIGGING FACILITY 62,000 62,000 
+ Defense-Wide Manchester BULK STORAGE TANKS, PHASE 2 71,000 71,000 
+ Defense-Wide Naval Undersea Warfare Center Keyport SOF COLD WATER TRAINING AUSTERE ENVIRONMENT FACILITY 0 37,000 137 STAT. 912 
+ Worldwide Unspecified 
+ Defense-Wide Unspecified Worldwide Locations INDOPACOM MILITARY CONSTRUCTION PILOT PROGRAM 0 150,000 
+ Defense-Wide Unspecified Worldwide Locations INDOPACOM UNSPECIFIED MINOR MILITARY CONSTRUCTION 0 62,000 
+ Defense-Wide Unspecified Worldwide Locations ENERGY RESILIENCE AND CONSERV. INVEST. PROG. 548,000 0 
+ Defense-Wide Unspecified Worldwide Locations ERCIP PLANNING & DESIGN 86,250 101,250 
+ Defense-Wide Unspecified Worldwide Locations EXERCISE RELATED MINOR CONSTRUCTION 11,107 21,472 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (CYBERCOM) 30,215 30,215 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (DEFENSE-WIDE) 32,579 32,579 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (DHA) 49,610 49,610 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (DLA) 24,000 24,000 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (DODEA) 8,568 8,568 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (MDA) 1,035 21,035 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (NSA) 3,068 3,068 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (SOCOM) 25,130 25,130 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (TJS) 2,000 2,000 
+ Defense-Wide Unspecified Worldwide Locations PLANNING & DESIGN (WHS) 590 590 
+ Defense-Wide Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION (DEFENSE-WIDE) 3,000 3,000 
+ Defense-Wide Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION (SOCOM) 19,271 19,271 
+ Defense-Wide Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION (DLA) 4,875 4,875 
+ Wyoming 
+ Defense-Wide F.E. Warren Air Force Base MICROGRID AND BATTERY STORAGE 0 25,000 
+ 
+ Subtotal Military Construction, Defense-Wide 2,984,682 3,198,571 
+ 
+ ARMY NATIONAL GUARD 
+ Alabama 
+ Army National Guard Fort McClellan COST TO COMPLETE: ENLISTED BARRACKS, TT 0 7,000 137 STAT. 913 
+ Army National Guard Huntsville COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 4,650 
+ Arizona 
+ Army National Guard Surprise Readiness Center NATIONAL GUARD READINESS CENTER 15,000 15,000 
+ Arkansas 
+ Army National Guard Fort Chaffee COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 610 
+ California 
+ Army National Guard Bakersfield COST TO COMPLETE: VEHICLE MAINTENANCE SHOP 0 1,000 
+ Army National Guard Camp Roberts COST TO COMPLETE: AUTOMATED MULTIPURPOSE MACHINE GUN (MPMG) RANGE 0 5,000 
+ Colorado 
+ Army National Guard Peterson Space Force Base COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 3,000 
+ Connecticut 
+ Army National Guard Putnam COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 6,125 
+ Florida 
+ Army National Guard Camp Blanding MULTIPURPOSE MACHINE GUN RANGE 0 11,000 
+ Army National Guard Camp Blanding TRAINING AIDS CENTER (P&D) 0 1,200 
+ Army National Guard Camp Blanding WEDGE INFANTRY SQUAD BATTLE COURSE (P&D) 0 840 
+ Guam 
+ Army National Guard Barrigada COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 6,900 
+ Idaho 
+ Army National Guard Jerome County Regional Site COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 1,250 
+ Army National Guard Jerome County Regional Site NATIONAL GUARD VEHICLE MAINTENANCE SHOP 17,000 17,000 
+ Illinois 
+ Army National Guard Bloomington COST TO COMPLETE: NATIONAL GUARD VEHICLE MAINTENANCE SHOP 0 5,250 
+ Army National Guard Chicago, Jones Armory GENERAL JONES NATIONAL GUARD READINESS CENTER ALTERATION (P&D) 0 5,000 
+ Army National Guard North Riverside Armory NATIONAL GUARD VEHICLE MAINTENANCE SHOP 24,000 24,000 
+ Army National Guard Peoria READINESS CENTER (P&D) 0 2,400 
+ Indiana 
+ Army National Guard Shelbyville COST TO COMPLETE: NATIONAL GUARD READINESS CENTER ADD/ALT 0 5,000 
+ Kansas 
+ Army National Guard Topeka COST TO COMPLETE: NATIONAL GUARD/RESERVE CENTER BUILDING 0 5,856 
+ Kentucky 
+ Army National Guard Burlington VEHICLE MAINTENANCE SHOP 0 16,400 
+ Army National Guard Frankfort COST TO COMPLETE: NATIONAL GUARD/RESERVE CENTER BUILDING 0 2,000 
+ Louisiana 
+ Army National Guard Camp Beauregard COLLECTIVE TRAINING UNACCOMPANIED HOUSING OPEN-BAY (P&D) 0 2,400 
+ Army National Guard Camp Beauregard COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 2,000 137 STAT. 914 
+ Army National Guard Camp Minden COST TO COMPLETE: COLLECTIVE TRAINING UNACCOMPANIED HOUSING, OPEN BAY 0 3,718 
+ Maine 
+ Army National Guard Northern Maine Range Complex AUTOMATED MULTIPURPOSE MACHINE GUN RANGE (P&D) 0 2,800 
+ Army National Guard Saco COST TO COMPLETE: NATIONAL GUARD VEHICLE MAINTENANCE SHOP 0 7,420 
+ Massachusetts 
+ Army National Guard Camp Edwards COST TO COMPLETE: AUTOMATED MULTIPURPOSE MACHINE GUN (MPMG) RANGE 0 0 
+ Minnesota 
+ Army National Guard Camp Ripley ACCESS CONTROL FACILITY (P&D) 0 1,530 
+ Mississippi 
+ Army National Guard Camp Shelby CAMP SHELBY JFTC RAILHEAD EXPANSION (P&D) 0 2,200 
+ Army National Guard Camp Shelby COST TO COMPLETE: MANEUVER AREA TRAINING EQUIPMENT SITE ADDITION 0 5,425 
+ Army National Guard Meridian ARMY AVIATION SUPPORT FACILITY 3 (P&D) 0 2,160 
+ Army National Guard Southaven Readiness Center NATIONAL GUARD READINESS CENTER 0 33,000 
+ Missouri 
+ Army National Guard Bellefontaine NATIONAL GUARD READINESS CENTER 28,000 28,000 
+ Nebraska 
+ Army National Guard Bellevue COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 9,090 
+ Army National Guard Greenlief Training Site COLLECTIVE TRAINING UNACCOMPANIED HOUSING OPEN-BAY (P&D) 0 1,200 
+ Army National Guard Mead Training Site COST TO COMPLETE: COLLECTIVE TRAINING UNACCOMPANIED HOUSING, OPEN BAY 0 1,913 
+ Army National Guard North Platte COST TO COMPLETE: NATIONAL GUARD VEHICLE MAINTENANCE SHOP 0 400 
+ Nevada 
+ Army National Guard Floyd Edsall Training Center COMBINED SUPPORT MAINTENANCE SHOP (P&D) 0 2,700 
+ Army National Guard Floyd Edsall Training Center GENERAL INSTRUCTION FACILITY (P&D) 0 5,490 
+ Army National Guard Harry Reid Training Center READY BUILDING (P&D) 0 590 
+ New Hampshire 
+ Army National Guard Concord COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 200 
+ Army National Guard Littleton NATIONAL GUARD VEHICLE MAINTENANCE SHOP ADDITION 23,000 23,000 
+ New Jersey 
+ Army National Guard Joint Base McGuire-Dix-Lakehurst COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 605 
+ Army National Guard Newark NATIONAL GUARD READINESS CENTER (P&D) 0 1,900 
+ New Mexico 
+ Army National Guard Rio Rancho Training Site NATIONAL GUARD VEHICLE MAINTENANCE SHOP ADDITION 11,000 11,000 
+ New York 
+ Army National Guard Lexington Avenue Armory NATIONAL GUARD READINESS CENTER ADDITION/ALTERATION 0 70,000 
+ North Carolina 137 STAT. 915 
+ Army National Guard Salisbury ARMY AVIATION SUPPORT FACILITIES (P&D) 0 2,200 
+ North Dakota 
+ Army National Guard Camp Grafton INSTITUTIONAL POST-INITIAL MILITARY TRAINING, UNACCOMPANIED HOUSING (P&D) 0 1,950 
+ Army National Guard Dickinson COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 5,425 
+ Ohio 
+ Army National Guard Camp Perry Joint Training Center NATIONAL GUARD READINESS CENTER 19,200 19,200 
+ Army National Guard Columbus COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 4,000 
+ Oklahoma 
+ Army National Guard Ardmore COST TO COMPLETE: VEHICLE MAINTENANCE SHOP 0 400 
+ Army National Guard Shawnee Readiness Center NATIONAL GUARD READINESS CENTER (P&D) 0 1,800 
+ Oregon 
+ Army National Guard Washington County Readiness Center NATIONAL GUARD READINESS CENTER 26,000 26,000 
+ Pennsylvania 
+ Army National Guard Fort Indiantown Gap AUTOMATED MULTIPURPOSE MACHINE GUN RANGE (P&D) 0 1,550 
+ Army National Guard Hermitage Readiness Center NATIONAL GUARD READINESS CENTER 13,600 13,600 
+ Army National Guard Moon Township COST TO COMPLETE: COMBINED SUPPORT MAINTENANCE SHOP 0 3,100 
+ Puerto Rico 
+ Army National Guard Fort Allen COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 3,677 
+ Rhode Island 
+ Army National Guard Camp Fogarty Training Site COLLECTIVE TRAINING UNACCOMPANIED HOUSING OPEN-BAY (P&D) 0 1,990 
+ Army National Guard Quonset Point NATIONAL GUARD READINESS CENTER 0 41,000 
+ South Carolina 
+ Army National Guard Aiken County Readiness Center NATIONAL GUARD READINESS CENTER 20,000 20,000 
+ Army National Guard Joint Base Charleston COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 4,373 
+ Army National Guard McCrady Training Center AUTOMATED MULTIPURPOSE MACHINE GUN RANGE 7,900 7,900 
+ South Dakota 
+ Army National Guard Sioux Falls COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 5,250 
+ Tennessee 
+ Army National Guard Campbell Army Air Field ARMY AIR TRAFFIC CONTROL TOWERS (P&D) 0 2,500 
+ Army National Guard McMinnville COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 500 
+ Texas 
+ Army National Guard Fort Cavazos GENERAL PURPOSE INSTRUCTION BUILDING (P&D) 0 2,685 
+ Army National Guard Fort Worth COST TO COMPLETE: AIRCRAFT MAINTENANCE HANGAR ADD/ALT 0 6,489 
+ Army National Guard Fort Worth COST TO COMPLETE: NATIONAL GUARD VEHICLE MAINTENANCE SHOP 0 381 
+ Utah 
+ Army National Guard Camp Williams COLLECTIVE TRAINING UNACCOMPANIED HOUSING, SENIOR NCO AND OFFICER (P&D) 0 2,875 
+ Vermont 137 STAT. 916 
+ Army National Guard Bennington COST TO COMPLETE: NATIONAL GUARD READINESS CENTER 0 3,415 
+ Virgin Islands 
+ Army National Guard St. Croix COST TO COMPLETE: ARMY AVIATION SUPPORT FACILITY 0 4,200 
+ Army National Guard St. Croix COST TO COMPLETE: READY BUILDING 0 1,710 
+ Virginia 
+ Army National Guard Sandston Rc & FMS 1 AIRCRAFT MAINTENANCE HANGAR 20,000 20,000 
+ Army National Guard Troutville COST TO COMPLETE: COMBINED SUPPORT MAINTENANCE SHOP ADDITION 0 2,415 
+ Army National Guard Troutville COST TO COMPLETE: NATIONAL GUARD READINESS CENTER ADDITION 0 2,135 
+ Washington 
+ Army National Guard Camp Murray NATIONAL GUARD/RESERVE CENTER (P&D) 0 3,600 
+ West Virginia 
+ Army National Guard Bluefield NATIONAL GUARD READINESS CENTER (P&D) 0 1,950 
+ Army National Guard Charleston NATIONAL GUARD READINESS CENTER (P&D) 0 4,800 
+ Army National Guard Parkersburg NATIONAL GUARD READINESS CENTER (P&D) 0 3,300 
+ Wisconsin 
+ Army National Guard Viroqua NATIONAL GUARD READINESS CENTER 18,200 18,200 
+ Worldwide Unspecified 
+ Army National Guard Unspecified Worldwide Locations COST TO COMPLETE ARMY NATIONAL GUARD 0 0 
+ Army National Guard Unspecified Worldwide Locations PLANNING & DESIGN 34,286 34,286 
+ Army National Guard Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 63,000 73,000 
+ Army National Guard Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 15,000 
+ 
+ Subtotal Military Construction, Army National Guard 340,186 732,078 
+ 
+ ARMY RESERVE 
+ Alabama 
+ Army Reserve Birmingham ARMY RESERVE CENTER/AMSA/LAND 57,000 57,000 
+ Arizona 
+ Army Reserve San Tan Valley AREA MAINTENANCE SUPPORT ACTIVITY 12,000 17,000 
+ California 
+ Army Reserve Marine Corps Base Camp Pendleton COST TO COMPLETE: AREA MAINTENANCE SUPPORT ACTIVITY 0 3,000 
+ Army Reserve Fort Hunter Liggett NETWORK ENTERPRISE CENTER 0 40,000 
+ Florida 
+ Army Reserve Perrine COST TO COMPLETE: ARMY RESERVE CENTER 0 3,000 
+ Georgia 
+ Army Reserve Marine Corps Logistics Base Albany ARMY RESERVE CENTER 0 40,000 
+ North Carolina 137 STAT. 917 
+ Army Reserve Asheville COST TO COMPLETE: ARMY RESERVE CENTER 0 12,000 
+ Ohio 
+ Army Reserve Wright Patterson Air Force Base COST TO COMPLETE: ARMY RESERVE CENTER 0 5,000 
+ Virginia 
+ Army Reserve Richmond ARMY RESERVE CENTER (P&D) 0 4,000 
+ Worldwide Unspecified 
+ Army Reserve Unspecified Worldwide Locations COST TO COMPLETE ARMY RESERVE 0 0 
+ Army Reserve Unspecified Worldwide Locations PLANNING & DESIGN 23,389 23,389 
+ Army Reserve Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 14,687 24,687 
+ Army Reserve Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 5,000 
+ 
+ Subtotal Military Construction, Army Reserve 107,076 234,076 
+ 
+ NAVY RESERVE & MARINE CORPS RESERVE 
+ Michigan 
+ Navy Reserve & Marine Corps Reserve Naval Reserve Center Battle Creek ORGANIC SUPPLY FACILITIES 24,549 24,549 
+ Virginia 
+ Navy Reserve & Marine Corps Reserve Marine Forces Reserve Dam Neck Virginia Beach G/ATOR SUPPORT FACILITIES 12,400 12,400 
+ Worldwide Unspecified 
+ Navy Reserve & Marine Corps Reserve Unspecified Worldwide Locations MCNR PLANNING & DESIGN 6,495 6,495 
+ Navy Reserve & Marine Corps Reserve Unspecified Worldwide Locations MCNR UNSPECIFIED MINOR MILITARY CONSTRUCTION 7,847 17,847 
+ Navy Reserve & Marine Corps Reserve Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 5,000 
+ 
+ Subtotal Military Construction, Navy Reserve & Marine Corps Reserve 51,291 66,291 
+ 
+ AIR NATIONAL GUARD 
+ Alabama 
+ Air National Guard Montgomery Regional Airport F–35 ADAL SQ OPS BLDG 1303 7,000 7,000 
+ Alaska 
+ Air National Guard Eielson Air Force Base AMC STANDARD DUAL BAY HANGAR (P&D) 0 5,000 
+ Air National Guard Joint Base Elmendorf-Richardson ADAL ALERT CREW FACILITY HGR 18 0 7,000 
+ Air National Guard Joint Base Elmendorf-Richardson HC–130J SIMULATOR FACILITY (P&D) 0 2,000 
+ Arizona 
+ Air National Guard Tucson International Airport MCCA: AIRCRAFT ARRESTING SYSTEM (NEW RWY) 11,600 11,600 137 STAT. 918 
+ Arkansas 
+ Air National Guard Ebbing Air National Guard Base 3–BAY HANGAR 0 54,000 
+ Air National Guard Ebbing Air National Guard Base AIRCREW FLIGHT EQUIPMENT/STEP 0 0 
+ Air National Guard Ebbing Air National Guard Base SPECIAL ACCESS PROGRAM FACILITY 0 21,989 
+ Colorado 
+ Air National Guard Buckley Space Force Base AIRCRAFT CORROSION CONTROL 12,000 12,000 
+ Florida 
+ Air National Guard Jacksonville International Airport F–35 MUNITIONS STORAGE AREA ADMIN (P&D) 0 600 
+ Indiana 
+ Air National Guard Fort Wayne International Airport FIRE STATION 8,900 8,900 
+ Maine 
+ Air National Guard Bangor International Airport REPAIR HANGAR ACCESS APRON (LIGHT DUTY RAMP) (P&D) 0 1,450 
+ Air National Guard Bangor International Airport REPAIR WHISKEY APRON (P&D) 0 704 
+ Mississippi 
+ Air National Guard Jackson International Airport COST TO COMPLETE: 172ND AIRLIFT WING FIRE/CRASH RESCUE STATION 0 8,000 
+ Missouri 
+ Air National Guard Rosecrans Air National Guard Base 139TH AIRLIFT WING ENTRY CONTROL POINT (P&D) 0 2,000 
+ Air National Guard Rosecrans Air National Guard Base ENTRY CONTROL POINT (P&D) 0 0 
+ New Jersey 
+ Air National Guard Atlantic City International Airport CONSOLIDATED DINING, SERVICES, AND FITNESS CENTER (P&D) 0 2,000 
+ Air National Guard Atlantic City International Airport F–16 MISSION TRAINING CENTER (P&D) 0 1,100 
+ Oregon 
+ Air National Guard Portland International Airport SPECIAL TACTICS COMPLEX, PHASE 1 22,000 23,000 
+ Air National Guard Portland International Airport SPECIAL TACTICS COMPLEX, PHASE 2 18,500 21,000 
+ Air National Guard Portland International Airport SPECIAL TACTICS COMPLEX, PHASE 3 0 24,000 
+ Air National Guard Portland International Airport SPECIAL TACTICS COMPLEX, PHASE 4 0 11,000 
+ Pennsylvania 
+ Air National Guard Harrisburg International Airport ENTRY CONTROL FACILITY 0 8,000 
+ Wisconsin 
+ Air National Guard Truax Field F–35: MM&I FAC, B701 0 5,200 
+ Air National Guard Volk Air National Guard Base FIRE/CRASH RESCUE STATION (P&D) 0 0 
+ Worldwide Unspecified 
+ Air National Guard Unspecified Worldwide Locations PLANNING & DESIGN 35,600 35,600 137 STAT. 919 
+ Air National Guard Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 63,122 73,122 
+ Air National Guard Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 15,000 
+ 
+ Subtotal Military Construction, Air National Guard 178,722 361,265 
+ 
+ AIR FORCE RESERVE 
+ Arizona 
+ Air Force Reserve Davis-Monthan Air Force Base GUARDIAN ANGEL POTFF FACILITY 0 8,500 
+ California 
+ Air Force Reserve March Air Reserve Base KC–46 ADD/ALTER B1244 FUT/CARGO PALLET STORAGE 17,000 17,000 
+ Air Force Reserve March Air Reserve Base KC–46 ADD/ALTER B6000 SIMULATOR FACILITY 8,500 8,500 
+ Air Force Reserve March Air Reserve Base KC–46 TWO BAY MAINTENANCE/FUEL HANGAR 201,000 201,000 
+ Georgia 
+ Air Force Reserve Dobbins Air Reserve Base SECURITY FORCES FACILITY 0 22,000 
+ Guam 
+ Air Force Reserve Joint Region Marianas AERIAL PORT FACILITY 27,000 27,000 
+ Louisiana 
+ Air Force Reserve Barksdale Air Force Base 307 BW MEDICAL FACILITY ADDITION 0 7,000 
+ Ohio 
+ Air Force Reserve Youngstown Air Reserve Station FIRE STATION (P&D) 0 2,500 
+ Texas 
+ Air Force Reserve Naval Air Station Joint Reserve Base Fort Worth LRS WAREHOUSE 16,000 16,000 
+ Worldwide Unspecified 
+ Air Force Reserve Unspecified Worldwide Locations PLANNING & DESIGN 12,146 12,146 
+ Air Force Reserve Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION 9,926 19,926 
+ Air Force Reserve Unspecified Worldwide Locations UNSPECIFIED MINOR MILITARY CONSTRUCTION DEMOLITION 0 5,000 
+ 
+ Subtotal Military Construction, Air Force Reserve 291,572 346,572 
+ 
+ NATO SECURITY INVESTMENT PROGRAM 
+ Worldwide Unspecified 
+ NATO NATO Security Investment Program NATO SECURITY INVESTMENT PROGRAM 293,434 343,434 
+ 
+ Subtotal NATO Security Investment Program 293,434 343,434 
+ 
+ TOTAL MILITARY CONSTRUCTION 14,345,019 15,656,630 
+ 
+ FAMILY HOUSING 
+ FAMILY HOUSING CONSTRUCTION, ARMY 
+ Georgia 
+ Fam Hsg Con, Army Fort Eisenhower FORT EISENHOWER MHPI EQUITY INVESTMENT 50,000 50,000 137 STAT. 920 
+ Germany 
+ Fam Hsg Con, Army Baumholder FAMILY HOUSING NEW CONSTRUCTION 78,746 90,135 
+ Kwajalein 
+ Fam Hsg Con, Army Kwajalein Atoll FAMILY HOUSING REPLACEMENT CONSTRUCTION 98,600 98,600 
+ Missouri 
+ Fam Hsg Con, Army Fort Leonard Wood FORT LEONARD WOOD MHPI EQUITY INVESTMENT 50,000 50,000 
+ Worldwide Unspecified 
+ Fam Hsg Con, Army Unspecified Worldwide Locations FAMILY HOUSING P&D 27,549 27,549 
+ 
+ Subtotal Family Housing Construction, Army 304,895 316,284 
+ 
+ FAMILY HOUSING O&M, ARMY 
+ Worldwide Unspecified 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations FURNISHINGS 12,121 12,121 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations HOUSING PRIVATIZATION SUPPORT 86,019 86,019 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations LEASING 112,976 112,976 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations MAINTENANCE 86,706 86,706 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations MANAGEMENT 41,121 41,121 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations MISCELLANEOUS 554 554 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations SERVICES 7,037 7,037 
+ Fam Hsg O&M, Army Unspecified Worldwide Locations UTILITIES 38,951 38,951 
+ 
+ Subtotal Family Housing Operation And Maintenance, Army 385,485 385,485 
+ 
+ FAMILY HOUSING CONSTRUCTION, NAVY & MARINE CORPS 
+ Guam 
+ Fam Hsg Con, Navy & Marine Corps Joint Region Marianas REPLACE ANDERSEN HOUSING (AF), PHASE 7 83,126 83,126 
+ Fam Hsg Con, Navy & Marine Corps Joint Region Marianas REPLACE ANDERSEN HOUSING, PHASE 8 121,906 121,906 
+ Worldwide Unspecified 
+ Fam Hsg Con, Navy & Marine Corps Unspecified Worldwide Locations DESIGN, WASHINGTON DC 4,782 4,782 
+ Fam Hsg Con, Navy & Marine Corps Unspecified Worldwide Locations IMPROVEMENTS, WASHINGTON DC 57,740 57,740 
+ Fam Hsg Con, Navy & Marine Corps Unspecified Worldwide Locations USMC DPRI/GUAM PLANNING & DESIGN 9,588 9,588 
+ 
+ 137 STAT. 921 
+ Subtotal Family Housing Construction, Navy & Marine Corps 277,142 277,142 
+ 
+ FAMILY HOUSING O&M, NAVY & MARINE CORPS 
+ Worldwide Unspecified 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations FURNISHINGS 17,744 17,744 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations HOUSING PRIVATIZATION SUPPORT 65,655 65,655 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations LEASING 60,214 60,214 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations MAINTENANCE 101,356 101,356 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations MANAGEMENT 61,896 61,896 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations MISCELLANEOUS 419 419 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations SERVICES 13,250 13,250 
+ Fam Hsg O&M, Navy & Marine Corps Unspecified Worldwide Locations UTILITIES 43,320 43,320 
+ 
+ Subtotal Family Housing Operation & Maintenance, Navy & Marine Corps 363,854 363,854 
+ 
+ FAMILY HOUSING CONSTRUCTION, AIR FORCE 
+ Alabama 
+ Fam Hsg Con, Air Force Maxwell Air Force Base MHPI RESTRUCTURE-AETC GROUP II 65,000 65,000 
+ Colorado 
+ Fam Hsg Con, Air Force U.S. Air Force Academy CONSTRUCTION IMPROVEMENT—CARLTON HOUSE 9,282 9,282 
+ Hawaii 
+ Fam Hsg Con, Air Force Joint Base Pearl Harbor-Hickam MHPI RESTRUCTURE-JOINT BASE PEARL HARBOR-HICKAM 75,000 75,000 
+ Japan 
+ Fam Hsg Con, Air Force Yokota Air Base IMPROVE FAMILY HOUSING PAIP 9, PHASE 1 (24 UNITS) 0 27,000 
+ Mississippi 
+ Fam Hsg Con, Air Force Keesler Air Force Base MHPI RESTRUCTURE-SOUTHERN GROUP 80,000 80,000 
+ Worldwide Unspecified 
+ Fam Hsg Con, Air Force Unspecified Worldwide Locations PLANNING & DESIGN 7,815 7,815 
+ 
+ Subtotal Family Housing Construction, Air Force 237,097 264,097 
+ 
+ FAMILY HOUSING O&M, AIR FORCE 
+ Worldwide Unspecified 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations FURNISHINGS 12,884 23,884 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations HOUSING PRIVATIZATION SUPPORT 31,803 31,803 137 STAT. 922 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations LEASING 5,143 5,143 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations MAINTENANCE 135,410 124,410 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations MANAGEMENT 68,023 68,023 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations MISCELLANEOUS 2,377 2,377 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations SERVICES 10,692 10,692 
+ Fam Hsg O&M, Air Force Unspecified Worldwide Locations UTILITIES 48,054 48,054 
+ 
+ Subtotal Family Housing Operation And Maintenance, Air Force 314,386 314,386 
+ 
+ FAMILY HOUSING O&M, DEFENSE-WIDE 
+ Worldwide Unspecified 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations FURNISHINGS 673 673 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations FURNISHINGS 89 89 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations LEASING 32,042 32,042 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations LEASING 13,658 13,658 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations MAINTENANCE 35 35 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations UTILITIES 4,273 4,273 
+ Fam Hsg O&M, Defense-Wide Unspecified Worldwide Locations UTILITIES 15 15 
+ 
+ Subtotal Family Housing Operation And Maintenance, Defense-Wide 50,785 50,785 
+ 
+ FAMILY HOUSING IMPROVEMENT FUND 
+ Worldwide Unspecified 
+ Family Housing Improvement Fund Unspecified Worldwide Locations ADMINISTRATIVE EXPENSES—FHIF 6,611 6,611 
+ 
+ Subtotal Family Housing Improvement Fund 6,611 6,611 
+ 
+ UNACCOMPANIED HOUSING IMPROVEMENT FUND 
+ Worldwide Unspecified 
+ Unaccompanied Housing Improvement Fund Unspecified Worldwide Locations ADMINISTRATIVE EXPENSES—UHIF 496 496 
+ 
+ Subtotal Unaccompanied Housing Improvement Fund 496 496 
+ 137 STAT. 923 
+ 
+ TOTAL FAMILY HOUSING 1,940,751 1,979,140 
+ DEFENSE BASE REALIGNMENT AND CLOSURE 
+ BASE REALIGNMENT AND CLOSURE, ARMY 
+ Worldwide Unspecified 
+ BRAC, Army Unspecified Worldwide Locations BASE REALIGNMENT & CLOSURE 150,640 200,640 
+ 
+ Subtotal Base Realignment and Closure—Army 150,640 200,640 
+ 
+ BASE REALIGNMENT AND CLOSURE, NAVY 
+ Worldwide Unspecified 
+ BRAC, Navy Unspecified Worldwide Locations BASE REALIGNMENT & CLOSURE 108,818 158,818 
+ 
+ Subtotal Base Realignment and Closure—Navy 108,818 158,818 
+ 
+ BASE REALIGNMENT AND CLOSURE, AIR FORCE 
+ Worldwide Unspecified 
+ BRAC, Air Force Unspecified Worldwide Locations BASE REALIGNMENT & CLOSURE 123,990 173,990 
+ 
+ Subtotal Base Realignment and Closure—Air Force 123,990 173,990 
+ 
+ BASE REALIGNMENT AND CLOSURE, DEFENSE-WIDE 
+ Worldwide Unspecified 
+ BRAC, Defense-Wide Unspecified Worldwide Locations INT–4: DLA ACTIVITIES 5,726 5,726 
+ 
+ Subtotal Base Realignment and Closure—Defense-Wide 5,726 5,726 
+ 
+ TOTAL DEFENSE BASE REALIGNMENT AND CLOSURE 389,174 539,174 
+ 
+ TOTAL MILITARY CONSTRUCTION, FAMILY HOUSING, AND BRAC 16,674,944 18,174,944

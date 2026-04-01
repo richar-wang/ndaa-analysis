@@ -1,0 +1,17 @@
+SEC. 832.  DEFENSE ACQUISITION UNIVERSITY REFORMS. (a)  In General .— Section 1746 of title 10, United States Code ,  is amended — (1)  in subsection (b)— (A)  by  amending  paragraph (2) to read as follows: “(2)  The Secretary of Defense shall ensure the defense acquisition university structure includes relevant expert lecturers from extramural institutions (as defined in section 1746a(g) of this title), industry, or federally funded research and development centers to advance acquisition workforce competence regarding commercial business interests, acquisition process-related innovations, and other relevant leading practices of the private sector.” 
+ ; 
+ (B)  by  striking  paragraph (3); and 
+ (C)  by  redesignating  paragraphs (4) and (5) as paragraphs (3) and (4), respectively; 
+ 
+ (2)  in subsection (c), by  striking  “ commercial training providers ” and  inserting  “ extramural institutions (as defined in section 1746a(g) of this title) ”; and 
+ (3)  by  adding  at the end the following new subsection: “(e)  President Appointment .— (1)  The Under Secretary of Defense for Acquisition and Sustainment shall appoint the President of the Defense Acquisition University. 
+ “(2)  Determination. When determining who to appoint under paragraph (1), the Under Secretary of Defense for Acquisition and Sustainment shall, in consultation with the Under Secretary of Defense for Research and Engineering and the service acquisition executives, prioritize highly qualified candidates who demonstrate a combination of the following: “(A)  Leadership abilities. 
+ “(B)  Experience using leading practices to develop talent in the private sector. 
+ “(C)  Other qualifying factors, including experience with and an understanding of the defense acquisition system (as defined in section 3001 of this title), an understanding of emerging technologies and the defense applications of such technologies, experience partnering with States, national associations, and academia, and experience with learning technologies. 
+ 
+ “(3)  Time period. Determination. Extension. The term of the President of the Defense Acquisition University shall be not more than five years, unless the Under Secretary of Defense for Acquisition and Sustainment determines it necessary to extend the term for up to an additional five years. The preceding sentence does not apply to the President of the Defense Acquisition University serving on January 1, 2022.” 
+ 
+ . 
+ 
+ (b)  Plan. Compliance. 10 USC 1746 note . Implementation Report .— Not later than March 1, 2023, the Secretary of Defense shall submit to the congressional defense committees a plan to modify the defense acquisition university  136 STAT. 2713 
+structure to comply with  section 1746(b)(2) of title 10, United States Code , as amended by subsection (a).  Deadline. Such plan shall establish a date of not later than March 1, 2026, for such modification to be completed.

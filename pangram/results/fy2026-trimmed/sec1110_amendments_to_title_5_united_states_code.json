@@ -1,0 +1,36 @@
+{
+  "text": "Amendments to title 5, United States Code (a) Modernizing competitive hiring authorities for Department of Defense Section 3301 of title 5, United States Code, is amended - (1) by striking The President and inserting (a) In general. The President ; and (2) by adding at the end the following new subsection: (b) DOD procedures The President may authorize the Department of Defense to determine the qualification, examination, and assessment procedures for positions in the competitive service based primarily on job-related competencies and skills, including the use of structured interviews, technical evaluations, or skills-based assessments, and alternative assessments. . (b) Modernizing public notice requirements Section 3327 of title 5, United States Code, is amended by adding at the end the following: (c) The Office of Personnel Management may authorize the Department of Defense to use flexible outreach methods, including curated prospect sourcing, provided that all hiring opportunities remain publicly accessible and merit-based. . (c) Elimination of time-in-grade restrictions Section 3361 of title 5, United States Code, is amended - (1) by striking An individual and inserting (a) In general . An individual ; and (2) by adding at the end the following: (b) DOD promotions Promotions in the competitive service within the Department of Defense may be made based on demonstrated skills and qualifications without regard to minimum time-in-grade requirements, subject to agency policies and applicable merit system principles. . (d) Shared talent pools and structured assessments Subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following (and conforming the table of sections at the beginning of such subchapter accordingly): 3330g. DOD use of shared talent pools and structured assessments (a) Shared talent pools The Department of Defense may share certificates of eligibles and curated prospect pools within the Department. Certificates issued under this authority shall remain valid for not less than one year from the date of issuance, subject to agency-specific qualification checks. (b) Structured assessments The Department of Defense shall use validated structured interviews, technical evaluations, or other skills-based assessments as part of the hiring process for competitive service positions at the Department, in accordance with regulations prescribed by the Office of Personnel Management. . (e) Report Not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall submit a report to the congressional defense committees on the impact of this subtitle and the amendments made by this subtitle on hiring at the Department of Defense. Such report shall include an analysis on the impact on the length of the hiring process, the quality of applicants, the useability of the system for applicants and the Department, the total number of individuals appointed through alternative job postings, the total number of individuals appointed from a shared applicant pool, and any identified challenges to hiring.",
+  "version": "3.2",
+  "headline": "AI Detected",
+  "prediction": "We are confident that this document is a mix of AI-generated, and human-written content",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.7933247753530168,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.20667522464698332,
+  "num_ai_segments": 1,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Amendments to title 5, United States Code (a) Modernizing competitive hiring authorities for Department of Defense Section 3301 of title 5, United States Code, is amended - (1) by striking The President and inserting (a) In general. The President ; and (2) by adding at the end the following new subsection: (b) DOD procedures The President may authorize the Department of Defense to determine the qualification, examination, and assessment procedures for positions in the competitive service based primarily on job-related competencies and skills, including the use of structured interviews, technical evaluations, or skills-based assessments, and alternative assessments. . (b) Modernizing public notice requirements Section 3327 of title 5, United States Code, is amended by adding at the end the following: (c) The Office of Personnel Management may authorize the Department of Defense to use flexible outreach methods, including curated prospect sourcing, provided that all hiring opportunities remain publicly accessible and merit-based. . (c) Elimination of time-in-grade restrictions Section 3361 of title 5, United States Code, is amended - (1) by striking An individual and inserting (a) In general . An individual ; and (2) by adding at the end the following: (b) DOD promotions Promotions in the competitive service within the Department of Defense may be made based on demonstrated skills and qualifications without regard to minimum time-in-grade requirements, subject to agency policies and applicable merit system principles. . (d) Shared talent pools and structured assessments Subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following (and conforming the table of sections at the beginning of such subchapter accordingly): 3330g. DOD use of shared talent pools and structured assessments (a) Shared talent pools The Department of Defense may share certificates of eligibles and curated prospect pools within the Department. Certificates issued under this authority shall remain valid for not less than one year from the date of issuance, subject to agency-specific qualification checks. (b) Structured assessments The Department of Defense shall use validated structured interviews, technical evaluations, or other skills-based assessments as part of the hiring process for competitive service positions at the Department, in accordance with regulations prescribed by the Office of Personnel Management. . (",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.7727268033150939,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2472,
+      "word_count": 367,
+      "token_length": 481
+    },
+    {
+      "text": "e) Report Not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall submit a report to the congressional defense committees on the impact of this subtitle and the amendments made by this subtitle on hiring at the Department of Defense. Such report shall include an analysis on the impact on the length of the hiring process, the quality of applicants, the useability of the system for applicants and the Department, the total number of individuals appointed through alternative job postings, the total number of individuals appointed from a shared applicant pool, and any identified challenges to hiring.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.1837971912076076,
+      "confidence": "High",
+      "start_index": 2472,
+      "end_index": 3116,
+      "word_count": 106,
+      "token_length": 119
+    }
+  ],
+  "_submission_type": "solo"
+}

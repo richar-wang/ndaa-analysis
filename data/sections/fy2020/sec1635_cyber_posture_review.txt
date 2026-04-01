@@ -1,0 +1,13 @@
+SEC. 1635.  CYBER POSTURE REVIEW.   Section 1644 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ) 10 USC 394 note .   is amended — (1)  in subsection (a), by  inserting  “ , not later than December 31, 2022, and quadrennially thereafter, ” before “ conduct ”; 
+ (2)  in subsection (b), by  striking  “ the review ” and  inserting  “ each review ”; 
+ (3)  in subsection (c)— (A)  in the matter preceding paragraph (1), by  striking  “ The review ” and  inserting  “ Each review ”; 
+ (B)  by  redesignating  paragraph (9) as paragraph (11); and 
+ (C)  by  inserting  after paragraph (8) the following new paragraphs: “(9)  An assessment of the potential costs, benefits, and value, if any, of establishing a cyber force as a separate uniformed service. 
+ “(10)  Any recurrent problems or capability gaps that remain unaddressed since the previous posture review.” 
+ ; 
+ 
+ (4)  in subsection (d)— (A)  in paragraph (1), by  striking  “ the cyber ” and  inserting  “ each cyber ”; 
+ (B)  in paragraph (2), by  striking  “ The report ” and  inserting  “ Each report ”; and 
+ (C)  by  striking  paragraph (3); and 
+ 
+ (5)  in subsection (e), by  striking  “ period beginning on the date that is five years after the date of the enactment of this Act and ending on the date that is 10 years after such date of enactment ” and  inserting  “ eight-year period that begins on the date of each review conducted under subsection (a) ”.

@@ -1,0 +1,22 @@
+SEC. 1534.  Deadlines. 10 USC 167b note . CORRECTING CYBER MISSION FORCE READINESS SHORTFALLS. (a)  Plan and Briefing Required .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the Secretaries of the military departments shall jointly— (1)  develop a near-term plan to correct readiness shortfalls in the Cyber Mission Forces over the period covered by the most recent future-years defense program submitted to Congress under  section 221 of title 10, United States Code ; 
+ (2)  Recommenda- tions. develop recommendations for such legislative action as the Secretary of Defense, the Chairman, and the Secretaries of the military departments jointly consider appropriate to correct the readiness shortfalls described in paragraph (1); and 
+ (3)  provide to the congressional defense committees a briefing on the plan under paragraph (1) and the recommendations under paragraph (2). 
+ 
+ (b)  Implementation .— Not later than 30 days after the date of the briefing provided under paragraph (3) of subsection (a), the Secretary of Defense and the Chairman shall commence implementation of the aspects of the plan developed under paragraph (1) of such subsection that are not dependent upon legislative action. 
+ (c)  Analysis. Matters to Be Addressed .— In developing the plan under paragraph (1) of subsection (a), the Secretary of Defense, the Chairman, and the Secretaries of the military departments shall consider and explicitly address through analysis the following potential courses of action, singly and in combination, to increase the availability of personnel in key work roles: (1)  Determination. Determining the correct number of personnel necessary to fill key work roles, including the proper force mix of civilian, military, and contractor personnel, and the means necessary to meet those requirements. 
+ (2)  Employing civilians rather than military personnel in key work roles. 
+ (3)  Expanding training capacity. 
+ (4)  Modifying or creating new training models. 
+ (5)  Maximizing use of compensation and incentive authorities, including increasing bonuses and special pays, and alternative compensation mechanisms. 
+ (6)  Modifying career paths and service policies to permit consecutive assignments in key work roles without jeopardizing promotion opportunities. 
+ (7)  Increasing service commitments following training commensurate with the value of the key work role training. 
+ (8)  Standardizing compensation models across the services. 
+ (9)  Requiring multiple rotations within the Cyber Mission Forces for key work roles. 
+ (10)  Adopting and implementing what are known as “rank in person” policies that enable civilian personnel to be promoted on the basis of skills and abilities demonstrated in a given position. 
+ (11)  Review. A review of departmental guidance and processes consistent with  section 167b(d)(2)(A)(x) of title 10, United States Code , with respect to the authority of the Commander of United States Cyber Command to monitor the promotions of certain cyber operations forces and coordinate with the Secretaries  136 STAT. 2907 
+regarding the assignment, retention, training, professional military education, and special and incentive pays of certain cyber operations forces, including— (A)  the recruiting, retention, professional military education, and promotion of certain cyber operations personnel; 
+ (B)  the sharing of personnel data between the military departments and the United States Cyber Command; and 
+ (C)  structures, departmental guidance, and processes developed between the military departments and the United States Special Operations Command with respect to the authority of the Commander of the United States Special Operations Command described in  section 167(e)(2)(J) of title 10, United States Code , that could be used as a model for the United States Cyber Command. 
+ 
+ 
+ (d)  Key Work Roles Defined .— In this section, the term “ key work roles ” means work roles that consist of access development, tool development, and exploitation analysis.

@@ -1,0 +1,54 @@
+{
+  "text": "Automatic execution of conforming changes (a) In general When an amendment to a covered Coast Guard law adds a section or larger organizational unit to the covered Coast Guard law, repeals or transfers a section or larger organizational unit in the covered Coast Guard law, or amends the designation or heading of a section or larger organizational unit in the covered Coast Guard law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered Coast Guard law to alter the table to conform to the changes made by the amendment. (b) Exceptions Subsection (a) shall not apply to an amendment described in such subsection when - (1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or (2) the amendment otherwise expressly exempts itself from the operation of this section. (c) Covered Coast Guard law defined In this section, the term covered Coast Guard law means - (1) this title; (2) any Coast Guard authorization Act that authorizes funds to be appropriated for a fiscal year to the Coast Guard; and (3) any other law designated in the text thereof as a covered Coast Guard law for purposes of application of this section.\n\nAutomatic execution of conforming changes (a) In general When an amendment to a covered maritime law adds a section or larger organizational unit to the covered maritime law, repeals or transfers a section or larger organizational unit in the covered maritime law, or amends the designation or heading of a section or larger organizational unit in the covered maritime law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment. (b) Exceptions Subsection (a) shall not apply to an amendment described in such subsection when - (1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or (2) the amendment otherwise expressly exempts itself from the operation of this section. (c) Covered maritime law defined In this section, the term covered maritime law means - (1) this title; (2) any Maritime Administration authorization Act that authorizes funds to be appropriated for a fiscal year to the Maritime Administration; and (3) any other law designated in the text thereof as a covered maritime law for purposes of application of this section.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Automatic execution of conforming changes (a) In general When an amendment to a covered Coast Guard law adds a section or larger organizational unit to the covered Coast Guard law, repeals or transfers a section or larger organizational unit in the covered Coast Guard law, or amends the designation or heading of a section or larger organizational unit in the covered Coast Guard law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered Coast Guard law to alter the table to conform to the changes made by the amendment. (b) Exceptions Subsection (a) shall not apply to an amendment described in such subsection when - (1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or (2) the amendment otherwise expressly exempts itself from the operation of this section. (c) Covered Coast Guard law defined In this section, the term covered Coast Guard law means - (1) this title; (2) any Coast Guard authorization Act that authorizes funds to be appropriated for a fiscal year to the Coast Guard; and (3) any other law designated in the text thereof as a covered Coast Guard law for purposes of application of this section.\n\nAutomatic execution of conforming changes (a) In general When an amendment to a covered maritime law adds a section or larger organizational unit to the covered maritime law, repeals or transfers a section or larger organizational unit in the covered maritime law, or amends the designation or heading of a section or larger organizational unit in the covered maritime law, that amendment also shall have the effect of amending any analysis, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment. (b) Exceptions Subsection (a) shall not apply to an amendment described in such subsection when - (1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered maritime law to alter the table to conform to the changes made by the amendment; or (2) the amendment otherwise expressly exempts itself from the operation of this section. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006619903352111578,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2413,
+      "word_count": 407,
+      "token_length": 486
+    },
+    {
+      "text": "c) Covered maritime law defined In this section, the term covered maritime law means - (1) this title; (2) any Maritime Administration authorization Act that authorizes funds to be appropriated for a fiscal year to the Maritime Administration; and (3) any other law designated in the text thereof as a covered maritime law for purposes of application of this section.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005565383937209845,
+      "confidence": "High",
+      "start_index": 2413,
+      "end_index": 2780,
+      "word_count": 60,
+      "token_length": 74
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec107_automatic_execution_of_conforming_changes.txt",
+    "sec301_automatic_execution_of_conforming_changes.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec107_automatic_execution_of_conforming_changes.txt",
+      "start_index": 0,
+      "end_index": 1389,
+      "word_count": 237
+    },
+    {
+      "filename": "sec301_automatic_execution_of_conforming_changes.txt",
+      "start_index": 1391,
+      "end_index": 2780,
+      "word_count": 229
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+SEC. 1658.  10 USC 2224 note . DESIGNATION OF TEST NETWORKS FOR TESTING AND ACCREDITATION OF CYBERSECURITY PRODUCTS AND SERVICES. (a)  Deadline. Designation .— Not later than April 1, 2020, the Secretary of Defense shall designate, for use by the Defense Information Systems Agency and such other components of the Department of Defense as the Secretary considers appropriate, three test networks for the testing and accreditation of cybersecurity products and services. 
+ (b)  Requirements .— The networks designated under subsection (a) shall— (1)  be of sufficient scale to realistically test cybersecurity products and services; 
+ (2)  feature substantially different architectures and configurations; 
+ (3)  be live, operational networks; and 133 STAT. 1770 
+ (4)  feature cybersecurity processes, tools, and technologies that are appropriate for test purposes and representative of the processes, tools, and technologies that are widely used throughout the Department. 
+ 
+ (c)  Access .— Upon request, information generated in the testing and accreditation of cybersecurity products and services shall be made available to the Office of the Director, Operational Test and Evaluation.

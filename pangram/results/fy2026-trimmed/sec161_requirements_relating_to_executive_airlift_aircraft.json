@@ -1,0 +1,36 @@
+{
+  "text": "Requirements relating to executive airlift aircraft (a) Analysis of alternatives (1) In general The Secretary of Defense, in consultation with the Secretaries of the military departments, shall conduct an analysis of alternatives to identify potential solutions for the recapitalization of the executive airlift aircraft fleets of the Armed Forces. In conducting such analysis, the Secretary of Defense shall seek to identify aircraft solutions that have capabilities comparable to the capabilities of commercial passenger aircraft in terms of range. (2) Timeline The Secretary of Defense shall - (A) initiate the analysis of alternatives required under paragraph (1) not later than 30 days after the date of the enactment of this Act; and (B) complete such analysis not later than April 1, 2026. (3) Report Not later than 60 days after completing the analysis of alternatives required under paragraph (1), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the analysis. (b) Responsibilities (1) In general Section 120(b) of title 10, United States Code, is amended - (A) by striking paragraph (2); (B) by redesignating paragraph (3) as paragraph (4); and (C) by inserting after paragraph (1) the following new paragraphs: (2) The Secretary of Defense shall establish standards for prioritizing access to executive aircraft controlled by the Secretaries of the military departments among authorized users of such aircraft within the Federal Government. (3) The Secretary of Defense shall assign a career appointee (as that term is defined in section 3132(a) of title 5) in the Senior Executive Service of the Department of Defense to coordinate the efficient tasking of executive aircraft controlled by the Secretaries of the military departments and compliance with rules, regulations, policies, and guidance relating to such aircraft, including the standards established under paragraph (2). The career appointee shall, as determined by the Secretary of Defense, have knowledge and experience relating to executive aircraft, including familiarity with the executive aircraft fleets controlled by the Secretaries of the military departments and procedures for the prioritization of executive aircraft users. . (2) Timelines The Secretary of Defense shall - (A) establish the standards required by paragraph (2) of such section 120(b) (as amended by this section) not later than December 1, 2025; and (B) assign the career appointee required by paragraph (3) of such section 120(b) (as amended by this section) not later than January 1, 2026.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Requirements relating to executive airlift aircraft (a) Analysis of alternatives (1) In general The Secretary of Defense, in consultation with the Secretaries of the military departments, shall conduct an analysis of alternatives to identify potential solutions for the recapitalization of the executive airlift aircraft fleets of the Armed Forces. In conducting such analysis, the Secretary of Defense shall seek to identify aircraft solutions that have capabilities comparable to the capabilities of commercial passenger aircraft in terms of range. (2) Timeline The Secretary of Defense shall - (A) initiate the analysis of alternatives required under paragraph (1) not later than 30 days after the date of the enactment of this Act; and (B) complete such analysis not later than April 1, 2026. (3) Report Not later than 60 days after completing the analysis of alternatives required under paragraph (1), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the analysis. (b) Responsibilities (1) In general Section 120(b) of title 10, United States Code, is amended - (A) by striking paragraph (2); (B) by redesignating paragraph (3) as paragraph (4); and (C) by inserting after paragraph (1) the following new paragraphs: (2) The Secretary of Defense shall establish standards for prioritizing access to executive aircraft controlled by the Secretaries of the military departments among authorized users of such aircraft within the Federal Government. (3) The Secretary of Defense shall assign a career appointee (as that term is defined in section 3132(a) of title 5) in the Senior Executive Service of the Department of Defense to coordinate the efficient tasking of executive aircraft controlled by the Secretaries of the military departments and compliance with rules, regulations, policies, and guidance relating to such aircraft, including the standards established under paragraph (2). The career appointee shall, as determined by the Secretary of Defense, have knowledge and experience relating to executive aircraft, including familiarity with the executive aircraft fleets controlled by the Secretaries of the military departments and procedures for the prioritization of executive aircraft users. . (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.015056480254445757,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2310,
+      "word_count": 349,
+      "token_length": 462
+    },
+    {
+      "text": "2) Timelines The Secretary of Defense shall - (A) establish the standards required by paragraph (2) of such section 120(b) (as amended by this section) not later than December 1, 2025; and (B) assign the career appointee required by paragraph (3) of such section 120(b) (as amended by this section) not later than January 1, 2026.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.015373211354017258,
+      "confidence": "High",
+      "start_index": 2310,
+      "end_index": 2640,
+      "word_count": 56,
+      "token_length": 97
+    }
+  ],
+  "_submission_type": "solo"
+}

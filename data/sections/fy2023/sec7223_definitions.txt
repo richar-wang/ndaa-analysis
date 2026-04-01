@@ -1,0 +1,13 @@
+SEC. 7223.  DEFINITIONS.   In this subtitle: (1)  Agency .— The term “ agency ” has the meaning given the term in  section 3502 of title 44, United States Code . 
+ (2)  Appropriate congressional committees .— The term “ appropriate congressional committees ” means— (A)  the Committee on Homeland Security and Governmental Affairs of the Senate; 
+ (B)  the Committee on Oversight and Reform of the House of Representatives; and 
+ (C)  the Committee on Homeland Security of the House of Representatives. 
+ 
+ (3)  Artificial intelligence .— The term “ artificial intelligence ” has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( 10 U.S.C. 2358 note ). 
+ (4)  Artificial intelligence system .— The term “ artificial intelligence system ”— (A)  means any data system, software, application, tool, or utility that operates in whole or in part using dynamic or static machine learning algorithms or other forms of artificial intelligence, whether— (i)  the data system, software, application, tool, or utility is established primarily for the purpose of researching, developing, or implementing artificial intelligence technology; or 
+ (ii)  artificial intelligence capability is integrated into another system or agency business process, operational activity, or technology system; and 
+ 
+ (B)  does not include any common commercial product within which artificial intelligence is embedded, such as a word processor or map navigation system. 
+ 
+ (5)  Department .— The term “ Department ” means the Department of Homeland Security. 
+ (6)  Director .— The term “ Director ” means the Director of the Office of Management and Budget.

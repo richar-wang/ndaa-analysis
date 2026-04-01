@@ -1,0 +1,10 @@
+SEC. 5823.  DATA TRANSPARENCY RELATING TO MUNICIPAL SECURITIES. (a)  In General .— Section 15B(b) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78o–4(b) )  is amended  by  adding  at the end the following: “(8) (A)  The Commission shall adopt data standards for information submitted to the Board. 
+ “(B)  Any data standards adopted under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 124 of the Financial Stability Act of 2010, including,  136 STAT. 3428 
+to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 124. 
+ “(C)  Consultation. The Commission shall consult market participants in establishing data standards under subparagraph (A). 
+ “(D)  Nothing in this paragraph may be construed to affect the operation of paragraph (1) or (2) of subsection (d).” 
+ 
+ . 
+ (b)  15 USC 78o–4 note . Rulemaking .— (1)  Deadline. In general .— Not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010, as added by section 5811(a) of this title, the Securities and Exchange Commission shall issue rules to adopt the data standards required under paragraph (8) of section 15B(b) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78o–4(b) ), as added by subsection (a) of this section. 
+ (2)  Scaling of regulatory requirements; minimizing disruption .— In issuing the rules described in paragraph (1) that adopt the data standards described in that paragraph, the Securities and Exchange Commission— (A)  may scale those data standards in order to reduce any unjustified burden on smaller regulated entities; and 
+ (B)  shall seek to minimize disruptive changes to the persons affected by those rules.

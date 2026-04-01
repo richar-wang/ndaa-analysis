@@ -1,0 +1,26 @@
+{
+  "text": "Development finance education Section 1413 of the Better Utilization of Investments Leading to Development Act of 2018 ( 22 U.S.C. 9613 ), as amended by this title, is further amended by adding at the end the following new subsection: (m) Report on the feasibility of establishing a development finance education program at the Foreign Service Institute (1) In general Not later than 1 year after the date of the enactment of the DFC Modernization and Reauthorization Act of 2025 , the Secretary of State, acting through the Director of the Foreign Service Institute and in collaboration with the Chief Executive Officer of the Corporation, shall conduct a review of and submit to the appropriate congressional committees a report on the utility of establishing elective training classes or programs on development finance within the School of Professional and Area Studies for all levels of the foreign service. (2) Elements The report required by paragraph (1) shall include a description of how a proposed class would be structured to ensure an appropriate level of training in development finance, including descriptions of - (A) the potential benefits and challenges of development finance as a component of United States foreign policy in promoting development outcomes and in promoting United States interests in advocating for the advancement of free-market principles; (B) the operations of the Corporation, generally, and a comparative analysis of similarly situated development finance institutions, both bilateral and multilateral; (C) how development finance can further the foreign policies of the United States, generally; (D) the anticipated foreign service consumers of any proposed classes on development finance; (E) the resources that may be required to establish such training classes, including through the use of detailed staff from the Corporation or temporary fellows brought in from the development finance community; and (F) other relevant issues, as determined by the Secretary of State and the Chief Executive Officer of the Corporation determines appropriate. .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Development finance education Section 1413 of the Better Utilization of Investments Leading to Development Act of 2018 ( 22 U.S.C. 9613 ), as amended by this title, is further amended by adding at the end the following new subsection: (m) Report on the feasibility of establishing a development finance education program at the Foreign Service Institute (1) In general Not later than 1 year after the date of the enactment of the DFC Modernization and Reauthorization Act of 2025 , the Secretary of State, acting through the Director of the Foreign Service Institute and in collaboration with the Chief Executive Officer of the Corporation, shall conduct a review of and submit to the appropriate congressional committees a report on the utility of establishing elective training classes or programs on development finance within the School of Professional and Area Studies for all levels of the foreign service. (2) Elements The report required by paragraph (1) shall include a description of how a proposed class would be structured to ensure an appropriate level of training in development finance, including descriptions of - (A) the potential benefits and challenges of development finance as a component of United States foreign policy in promoting development outcomes and in promoting United States interests in advocating for the advancement of free-market principles; (B) the operations of the Corporation, generally, and a comparative analysis of similarly situated development finance institutions, both bilateral and multilateral; (C) how development finance can further the foreign policies of the United States, generally; (D) the anticipated foreign service consumers of any proposed classes on development finance; (E) the resources that may be required to establish such training classes, including through the use of detailed staff from the Corporation or temporary fellows brought in from the development finance community; and (F) other relevant issues, as determined by the Secretary of State and the Chief Executive Officer of the Corporation determines appropriate. .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004757144954055548,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2091,
+      "word_count": 318,
+      "token_length": 386
+    }
+  ],
+  "_submission_type": "solo"
+}

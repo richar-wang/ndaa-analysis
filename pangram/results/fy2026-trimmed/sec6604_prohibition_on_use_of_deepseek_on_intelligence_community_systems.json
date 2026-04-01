@@ -1,0 +1,26 @@
+{
+  "text": "Prohibition on use of DeepSeek on intelligence community systems (a) Prohibition The Director of National Intelligence, in consultation with the other heads of the elements of the intelligence community, shall develop standards and guidelines for elements of the intelligence community that require the removal of any covered application from national security systems operated by an element of the intelligence community, a contractor to an element of the intelligence community, or another entity on behalf of an element of the intelligence community. (b) Applicability of Information Security Requirements The standards and guidelines developed under subsection (a) shall be consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code. (c) National Security and Research Exceptions The standards and guidelines developed under subsection (a) shall include - (1) exceptions for national security purposes and research activities; and (2) risk mitigation standards and guidelines that shall apply in the case of an exception described in paragraph (1). (d) Initial standards and guidelines The Director of National Intelligence shall develop the initial standards and guidelines under subsection (a) not later than 60 days after the date of the enactment of this Act. (e) Definitions In this section: (1) Covered application The term covered application means the DeepSeek application or any successor application or service. (2) National security system The term national security system has the meaning given the term in section 3552 of title 44, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Prohibition on use of DeepSeek on intelligence community systems (a) Prohibition The Director of National Intelligence, in consultation with the other heads of the elements of the intelligence community, shall develop standards and guidelines for elements of the intelligence community that require the removal of any covered application from national security systems operated by an element of the intelligence community, a contractor to an element of the intelligence community, or another entity on behalf of an element of the intelligence community. (b) Applicability of Information Security Requirements The standards and guidelines developed under subsection (a) shall be consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code. (c) National Security and Research Exceptions The standards and guidelines developed under subsection (a) shall include - (1) exceptions for national security purposes and research activities; and (2) risk mitigation standards and guidelines that shall apply in the case of an exception described in paragraph (1). (d) Initial standards and guidelines The Director of National Intelligence shall develop the initial standards and guidelines under subsection (a) not later than 60 days after the date of the enactment of this Act. (e) Definitions In this section: (1) Covered application The term covered application means the DeepSeek application or any successor application or service. (2) National security system The term national security system has the meaning given the term in section 3552 of title 44, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007746181450784206,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1629,
+      "word_count": 241,
+      "token_length": 303
+    }
+  ],
+  "_submission_type": "solo"
+}

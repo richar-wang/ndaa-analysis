@@ -1,0 +1,21 @@
+SEC. 226.  F–35 PROPULSION AND THERMAL MANAGEMENT MODERNIZATION PROGRAM. (a)  Establishment and Validation of Requirements .— The Secretary of the Air Force (with respect to F–35A aircraft of the Air Force) and the Secretary of the Navy (with respect to F–35B and F–35C aircraft of the Navy and the Marine Corps) shall each— (1)  establish requirements for the propulsion, power and cooling, thermal management, and electrical power systems of the F–35 aircraft system that adequately support the planned service-life and all planned mission systems hardware and software capability upgrades for such aircraft system; 
+ (2)  Validation. validate the requirements; and 
+ (3)  promptly provide the validated requirements to the Program Executive Officer for the F–35 aircraft acquisition program. 
+ 
+ (b)  Cost-benefit and Technical Risk Analysis .— (1)  Evaluation. Determination. In general .— Based on the requirements established and validated under subsection (a), the Program Executive Officer for the F–35 aircraft acquisition program shall conduct a complete and comprehensive cost-benefit and technical risk analysis that evaluates and determines the upgrades and modernization required of the F–35 aircraft system to support all of the requirements established under such subsection. 
+ (2)  Assessments. Elements .— The cost-benefit and technical risk analysis conducted under paragraph (1) shall assess, at a minimum,  137 STAT. 196 
+the cost, risk, modernization, integration activities, and acquisition strategy required for the upgrade and modernization options available for the following major subsystems of F–35 aircraft: (A)  The aircraft propulsion system and gearbox. 
+ (B)  The power and thermal management system. 
+ (C)  The fuel thermal management system. 
+ (D)  The electrical power system. 
+ (E)  The engine ice protection system. 
+ (F)  Mission systems hardware, avionics, sensors, and weapons. 
+ (G)  Determination. Any additional systems of the F–35 aircraft system the Program Executive Officer determines to be relevant to support the planned service-life requirements for each variant of such aircraft. 
+ 
+ (3)  Limitation on commencement .— The Program Executive Officer may not commence the analysis required under paragraph (1) until the requirements established under subsection (a) have been provided to the Officer. 
+ (4)  Independent cost estimate .— In addition to developing the cost-benefit analysis under paragraph (1), the Program Executive Officer shall also obtain an independent cost estimate from an organization within the Department of Defense that is not directly associated with the Office of the Program Executive Officer, the Department of the Air Force, or the Department of the Navy. 
+ (5)  Report .— Following the completion of the analysis under paragraph (1) and the independent cost estimate under paragraph (4), but not later than July 1, 2024, the Program Executive Officer shall submit to the congressional defense committees— (A)  a report on the results of the analysis under paragraph (1); and 
+ (B)  Records. a copy of the cost estimate obtained under paragraph (4). 
+ 
+ 
+ (c)  Designation of Major Subprogram .— In accordance with  section 4203 of title 10, United States Code , the Secretary of Defense shall designate all activities relating to the modernization, upgrade, and integration of the major subsystems included in the analysis under subsection (b)(1), collectively, as a single major subprogram of the F–35 aircraft acquisition program.

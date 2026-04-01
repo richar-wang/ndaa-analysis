@@ -1,0 +1,36 @@
+{
+  "text": "Multilateral engagement and coordination (a) Authorities The Secretary, in coordination with the Secretary of State, the Secretary of Commerce, and the heads of other relevant Federal agencies, should - (1) conduct bilateral and multilateral engagement with the governments of countries that are allies and partners of the United States to promote and increase coordination of protocols and procedures to facilitate the effective implementation of and appropriate compliance with the prohibitions and notification requirement pursuant to this title; (2) upon adoption of protocols and procedures described in paragraph (1), work with those governments to establish mechanisms for sharing information, including trends, with respect to such activities; and (3) work with and encourage the governments of countries that are allies and partners of the United States to develop similar mechanisms of their own, for the exclusive purpose of preventing the development of prohibited technologies by a country of concern. (b) Strategy for multilateral engagement and coordination Not later than 180 days after the date of the regulations implementing enactment of this title, the Secretary, in coordination with the Secretary of State, the Secretary of Commerce, and the heads of other relevant Federal agencies, should - (1) develop a strategy to work with the governments of countries that are allies and partners of the United States to develop mechanisms that are comparable to the prohibitions and notification requirements pursuant to this title, for the exclusive purpose of preventing the development of prohibited technologies by a country of concern; and (2) assess opportunities to provide technical assistance to those countries with respect to the development of those mechanisms. (c) Report Not later than one year after the date of the regulations implementing enactment of this title, and annually thereafter for four years, the Secretary shall submit to the appropriate congressional committees a report, subject to the appropriate confidentiality and classification requirements, that includes - (1) a discussion of any strategy developed pursuant to subsection (b)(1), including key tools and objectives for the development of comparable mechanisms by the governments of allies and partners of the United States; (2) a list of partner and allied countries to target for cooperation in developing their own prohibitions; (3) the status of the strategy\u2019s implementation and outcomes; and (4) a description of impediments to the establishment of comparable mechanisms by governments of allies and partners of the United States. (d) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and (2) the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Multilateral engagement and coordination (a) Authorities The Secretary, in coordination with the Secretary of State, the Secretary of Commerce, and the heads of other relevant Federal agencies, should - (1) conduct bilateral and multilateral engagement with the governments of countries that are allies and partners of the United States to promote and increase coordination of protocols and procedures to facilitate the effective implementation of and appropriate compliance with the prohibitions and notification requirement pursuant to this title; (2) upon adoption of protocols and procedures described in paragraph (1), work with those governments to establish mechanisms for sharing information, including trends, with respect to such activities; and (3) work with and encourage the governments of countries that are allies and partners of the United States to develop similar mechanisms of their own, for the exclusive purpose of preventing the development of prohibited technologies by a country of concern. (b) Strategy for multilateral engagement and coordination Not later than 180 days after the date of the regulations implementing enactment of this title, the Secretary, in coordination with the Secretary of State, the Secretary of Commerce, and the heads of other relevant Federal agencies, should - (1) develop a strategy to work with the governments of countries that are allies and partners of the United States to develop mechanisms that are comparable to the prohibitions and notification requirements pursuant to this title, for the exclusive purpose of preventing the development of prohibited technologies by a country of concern; and (2) assess opportunities to provide technical assistance to those countries with respect to the development of those mechanisms. (c) Report Not later than one year after the date of the regulations implementing enactment of this title, and annually thereafter for four years, the Secretary shall submit to the appropriate congressional committees a report, subject to the appropriate confidentiality and classification requirements, that includes - (1) a discussion of any strategy developed pursuant to subsection (b)(1), including key tools and objectives for the development of comparable mechanisms by the governments of allies and partners of the United States; (2) a list of partner and allied countries to target for cooperation in developing their own prohibitions; (3) the status of the strategy\u2019s implementation and outcomes; and (4) a description of impediments to the establishment of comparable mechanisms by governments of allies and partners of the United States. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.11730606108903885,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 2638,
+      "word_count": 392,
+      "token_length": 465
+    },
+    {
+      "text": "d) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate; and (2) the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.11770522966980934,
+      "confidence": "Medium",
+      "start_index": 2638,
+      "end_index": 2981,
+      "word_count": 51,
+      "token_length": 63
+    }
+  ],
+  "_submission_type": "solo"
+}

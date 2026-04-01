@@ -1,0 +1,44 @@
+SEC. 6312.  Deadlines. 50 USC 3024 note . INTELLIGENCE COMMUNITY INFORMATION TECHNOLOGY ENVIRONMENT. (a)  Definitions .— In this section: (1)  Core service .— The term “ core service ” means a capability that is available to multiple elements of the intelligence community and required for consistent operation of the intelligence community information technology environment. 133 STAT. 2192 
+ (2)  Intelligence community information technology environment .— The term “ intelligence community information technology environment ” means all of the information technology services across the intelligence community, including the data sharing and protection environment across multiple classification domains. 
+ 
+ (b)  Roles and Responsibilities .— (1)  Coordination. Director of national intelligence .— The Director of National Intelligence shall be responsible for coordinating the performance by elements of the intelligence community of the intelligence community information technology environment, including each of the following: (A)  Compliance. Ensuring compliance with all applicable environment rules and regulations of such environment. 
+ (B)  Ensuring measurable performance goals exist for such environment. 
+ (C)  Documenting standards and practices of such environment. 
+ (D)  Acting as an arbiter among elements of the intelligence community related to any disagreements arising out of the implementation of such environment. 
+ (E)  Delegating responsibilities to the elements of the intelligence community and carrying out such other responsibilities as are necessary for the effective implementation of such environment. 
+ 
+ (2)  Core service providers .— Providers of core services shall be responsible for— (A)  Coordination. providing core services, in coordination with the Director of National Intelligence; and 
+ (B)  providing the Director with information requested and required to fulfill the responsibilities of the Director under paragraph (1). 
+ 
+ (3)  Use of core services .— (A)  In general .— Except as provided in subparagraph (B), each element of the intelligence community shall use core services when such services are available. 
+ (B)  Determination. Exception .— The Director of National Intelligence may provide for a written exception to the requirement under subparagraph (A) if the Director determines there is a compelling financial or mission need for such exception. 
+ 
+ 
+ (c)  Designation. Management Accountability .— Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall designate and maintain one or more accountable executives of the intelligence community information technology environment to be responsible for— (1)  management, financial control, and integration of such environment; 
+ (2)  overseeing the performance of each core service, including establishing measurable service requirements and schedules; 
+ (3)  to the degree feasible, ensuring testing of each core service of such environment, including testing by the intended users, to evaluate performance against measurable service requirements and to ensure the capability meets user requirements; and 
+ (4)  Coordination. coordinate transition or restructuring efforts of such environment, including phaseout of legacy systems. 133 STAT. 2193 
+ 
+ (d)  Security Plan .— Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall develop and maintain a security plan for the intelligence community information technology environment. 
+ (e)  Long-Term Roadmap .— Not later than 180 days after the date of the enactment of this Act, and during each of the second and fourth fiscal quarters thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a long-term roadmap that shall include each of the following: (1)  A description of the minimum required and desired core service requirements, including— (A)  key performance parameters; and 
+ (B)  Assessment. an assessment of current, measured performance. 
+ 
+ (2)  Implementation milestones for the intelligence community information technology environment, including each of the following: (A)  Schedule. A schedule for expected deliveries of core service capabilities during each of the following phases: (i)  Concept refinement and technology maturity demonstration. 
+ (ii)  Development, integration, and demonstration. 
+ (iii)  Production, deployment, and sustainment. 
+ (iv)  System retirement. 
+ 
+ (B)  Dependencies of such core service capabilities. 
+ (C)  Plans. Plans for the transition or restructuring necessary to incorporate core service capabilities. 
+ (D)  A description of any legacy systems and discontinued capabilities to be phased out. 
+ 
+ (3)  Such other matters as the Director determines appropriate. 
+ 
+ (f)  Business Plan .— Not later than 180 days after the date of the enactment of this Act, and during each of the second and fourth fiscal quarters thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a business plan that includes each of the following: (1)  A systematic approach to identify core service funding requests for the intelligence community information technology environment within the proposed budget, including multiyear plans to implement the long-term roadmap required by subsection (e). 
+ (2)  A uniform approach by which each element of the intelligence community shall identify the cost of legacy information technology or alternative capabilities where services of the intelligence community information technology environment will also be available. 
+ (3)  A uniform effort by which each element of the intelligence community shall identify transition and restructuring costs for new, existing, and retiring services of the intelligence community information technology environment, as well as services of such environment that have changed designations as a core service. 
+ 
+ (g)  Updates. Quarterly Presentations .— Beginning not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall provide to the congressional intelligence committees quarterly updates regarding ongoing implementation of the intelligence community information technology environment as compared to the requirements in the most  133 STAT. 2194 
+recently submitted security plan required by subsection (d), long-term roadmap required by subsection (e), and business plan required by subsection (f). 
+ (h)  Additional Notifications .— The Director of National Intelligence shall provide timely notification to the congressional intelligence committees regarding any policy changes related to or affecting the intelligence community information technology environment, new initiatives or strategies related to or impacting such environment, and changes or deficiencies in the execution of the security plan required by subsection (d), long-term roadmap required by subsection (e), and business plan required by subsection (f). 
+ (i)  Sunset .— The section shall have no effect on or after September 30, 2024.

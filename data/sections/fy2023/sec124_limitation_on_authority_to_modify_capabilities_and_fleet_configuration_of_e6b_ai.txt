@@ -1,0 +1,8 @@
+SEC. 124.  LIMITATION ON AUTHORITY TO MODIFY CAPABILITIES AND FLEET CONFIGURATION OF E–6B AIRCRAFT. (a)  Limitation .— Until the date on which the certification described in subsection (b) is submitted to the congressional defense committees, the Secretary of the Navy— (1)  may not retire, or prepare to retire, any E–6B aircraft; 
+ (2)  shall maintain the fleet of E–6B aircraft in the configuration in effect as of the date of the enactment of this Act; and 
+ (3)  shall ensure that E–6B aircraft continue to meet the operational requirements of the combatant commands that are met by such aircraft as of the date of the enactment of this Act. 
+ 
+ (b)  Certification Described .— The certification described in this subsection is a written certification from the Chair of the Joint Requirements Oversight Council indicating that the replacement capability for the E–6B aircraft— (1)  will be fielded at the same time or before the retirement of the first E–6B aircraft; and 
+ (2)  at the time such replacement capability achieves initial operational capability, will have the ability to meet the operational requirements of the combatant commands that have been, or that are expected to be, assigned to such replacement capability. 
+ 
+ (c)  Determination. Exception .— The requirements of subsection (a) shall not apply to an individual E–6B aircraft otherwise required to be maintained by that subsection if the Secretary of the Navy determines, on a case-by-case basis, that such aircraft is no longer mission capable due to a mishap or other damage.

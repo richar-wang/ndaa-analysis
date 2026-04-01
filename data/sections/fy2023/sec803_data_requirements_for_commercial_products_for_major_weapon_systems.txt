@@ -1,0 +1,51 @@
+SEC. 803.  DATA REQUIREMENTS FOR COMMERCIAL PRODUCTS FOR MAJOR WEAPON SYSTEMS. (a)  Amendments Relating to Subsystems of Major Weapons Systems .— Section 3455(b) of title 10, United States Code   is amended — (1)  by  redesignating  paragraphs (1) and (2) as subparagraphs (A) and (B); 
+ (2)  by  inserting  “ (1) ” before “ A subsystem of a major weapon system ”; and 
+ (3)  by  adding  at the end the following new paragraph: “(2) (A)  For a subsystem proposed as commercial (as defined in section 103(1) of title 41) and that has not been previously determined commercial in accordance with section 3703(d) of this title, the offeror shall— 136 STAT. 2694 
+ “(i)  identify the comparable commercial product the offeror sells to the general public or nongovernmental entities that serves as the basis for the ‘of a type’ assertion; 
+ “(ii)  submit to the contracting officer a comparison necessary to serve as the basis of the ‘of a type’ assertion of the physical characteristics and functionality between the subsystem and the comparable commercial product identified under clause (i); and 
+ “(iii)  provide to the contracting officer the National Stock Number for both the comparable commercial product identified under clause (i), if one is assigned, and the subsystem, if one is assigned. 
+ 
+ “(B)  If the offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than governmental purposes that can serve as the basis for an ‘of a type’ assertion with respect to the subsystem— “(i)  the offeror shall— “(I)  notify the contracting officer in writing that it does not so sell such a comparable commercial product; and 
+ “(II)  provide to the contracting officer a comparison necessary to serve as the basis of the ‘of a type’ assertion of the physical characteristics and functionality between the subsystem and the most comparable commercial product in the commercial marketplace, to the extent reasonably known by the offeror; and 
+ 
+ “(ii)  subparagraph (A) shall not apply with respect to the offeror for such subsystem.” 
+ 
+ 
+ . 
+ 
+ (b)  Amendment Relating to Components and Spare Parts .— Section 3455(c)(2) of such title  is amended  to read as follows: “(2) (A)  For a component or spare part proposed as commercial (as defined in section 103(1) of title 41) and that has not previously been determined commercial in accordance with section 3703(d) of this title, the offeror shall— “(i)  identify the comparable commercial product the offeror sells to the general public or nongovernmental entities that serves as the basis for the ‘of a type’ assertion; 
+ “(ii)  submit to the contracting officer a comparison necessary to serve as the basis of the ‘of a type’ assertion of the physical characteristics and functionality between the component or spare part and the comparable commercial product identified under clause (i); and 
+ “(iii)  provide to the contracting officer the National Stock Number for both the comparable commercial product identified under clause (i), if one is assigned, and the component or spare part, if one is assigned. 
+ 
+ “(B)  If the offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than governmental purposes that can serve as the basis for an ‘of a type’ assertion with respect to the component or spare part— “(i)  the offeror shall— “(I)  notify the contracting officer in writing that it does not so sell such a comparable commercial product; and 
+ “(II)  provide to the contracting officer a comparison necessary to serve as the basis of the ‘of a type’ assertion  136 STAT. 2695 
+of the physical characteristics and functionality between the component or spare part and the most comparable commercial product in the commercial marketplace, to the extent reasonably known by the offeror; and 
+ 
+ “(ii)  subparagraph (A) shall not apply with respect to the offeror for such component or spare part.” 
+ 
+ 
+ . 
+ (c)  Amendments Relating to Information Submitted .— Section 3455(d) of such title  is amended — (1)  in the subsection heading, by  inserting  after “ Submitted ” the following: “ for Procurements That Are Not Covered by the Exceptions in Section 3703(a)(1) of This Title ”; 
+ (2)  Determinations. in paragraph (1)— (A)  in the matter preceding subparagraph (A), by  striking  “ the contracting officer shall require the offeror to submit— ” and  inserting  “ the offeror shall, in accordance with paragraph (4), submit to the contracting officer or provide the contracting officer access to— ”; 
+ (B)  in subparagraph (A)— (i)  by  inserting  “ a representative sample, as determined by the contracting officer, of the ” before “ prices paid ”; and 
+ (ii)  by  inserting  “ , and the terms and conditions of such sales ” after “ Government and commercial customers ”; 
+ 
+ (C)  in subparagraph (B), by  striking  “ information on— ” and all that follows and  inserting  the following: “ a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and ”; and 
+ (D)  in subparagraph (C)— (i)  by  inserting  “ only ” before “ if the contracting officer ”; and 
+ (ii)  by  inserting  after “ reasonableness of price ” the following: “ because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5) ”; and 
+ 
+ 
+ (3)  by  adding  at the end the following new paragraphs: “(4) (A)  An offeror may redact data information submitted or made available under subparagraph (A) or (B) of paragraph (1) with respect to sales of an item acquired under this section only to the extent necessary to remove information individually identifying government customers, commercial customers purchasing such item for governmental purposes, and commercial customers purchasing such item for commercial, mixed, or unknown purposes. 
+ “(B)  Certification. Before an offeror may exercise the authority under subparagraph (A) with respect to a customer, the offeror shall certify in writing to the contracting officer whether the customer is a government customer, a commercial customer purchasing the item for governmental purpose, or a commercial customer purchasing the item for a commercial, mixed, or unknown purpose. 136 STAT. 2696 
+ 
+ “(5)  A contracting officer may not require an offeror to submit or make available information under paragraph (1)(C) without approval from a level above the contracting officer. 
+ “(6)  Nothing in this subsection shall relieve an offeror of other obligations under any other law or regulation to disclose and support the actual rationale of the offeror for the price proposed by the offeror to the Government for any good or service.” 
+ . 
+ 
+ (d)  Applicability .— Section 3455 of such title  is amended  by  adding  at the end the following new subsection: “(g)  Applicability .— “(1)  In general .— Subsections (b) and (c) shall apply only with respect to subsystems described in subsection (b) and components or spare parts described in subsection (c), respectively, that the Department of Defense acquires through— “(A)  a prime contract; 
+ “(B)  a modification to a prime contract; or 
+ “(C)  a subcontract described in paragraph (2). 
+ 
+ “(2)  Subcontract described .— A subcontract described in this paragraph is a subcontract through which the Department of Defense acquires a subsystem or component or spare part proposed as commercial (as defined in section 103(1) of title 41) under this section and that has not previously been determined commercial in accordance with section 3703(d).” 
+ 
+ .

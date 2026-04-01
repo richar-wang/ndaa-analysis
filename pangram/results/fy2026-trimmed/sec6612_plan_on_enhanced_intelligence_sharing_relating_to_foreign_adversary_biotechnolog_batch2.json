@@ -1,0 +1,54 @@
+{
+  "text": "Plan on enhanced intelligence sharing relating to foreign adversary biotechnological threats (a) Plan Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence, in consultation with such other heads of elements of the intelligence community as the Director considers appropriate, shall - (1) develop and commence carrying out a plan, consistent with Executive Order 13526 and with adequate protections for sources and methods, for streamlining the declassification or downgrading and sharing of intelligence information relating to biotechnological developments and threats in order to counter efforts by foreign adversaries to weaponize biotechnologies and biological weapons, including threats relating to military, industrial, agricultural, and health applications of biotechnology; and (2) submit to the appropriate congressional committees such plan. (b) Recipients The plan under subsection (a) shall include mechanisms for sharing the intelligence information described in such subsection - (1) with allies and partners of the United States; (2) with private sector partners of the United States; and (3) across the Federal Government. (c) Reports Not later than 1 year after the date of the enactment of this Act, and annually thereafter for 2 years, the Director shall submit to the appropriate congressional committees a report on the progress made by the intelligence community with respect to sharing intelligence information relating to biotechnological developments and threats with recipients specified in subsection (b). (d) Appropriate congressional committees defined In this section, the term appropriate congressional committees means the following: (1) The congressional intelligence committees. (2) The Committees on Armed Services of the Senate and the House of Representatives. (3) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives.\n\nEnhancing biotechnology talent within the intelligence community (a) Plan Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall develop a plan to use existing and future funding and resources of the intelligence community to ensure the intelligence community has sufficient personnel with appropriate security clearances, including private-sector experts, to identify and respond to biotechnology threats. (b) Elements The plan required by subsection (a) shall include the following: (1) An identification of the exact number of personnel dedicated to biotechnology threats other than biological weapons in each element of the intelligence community as of the date on which such plan is completed, including personnel breakdowns by position function. (2) An identification of the exact number of personnel dedicated to biological weapons issues in each element of the intelligence community as of such date, including personnel breakdowns by position function. (3) An identification of areas within the intelligence community with respect to which the addition of full-time employees or detailees may be appropriate to address biotechnology expertise gaps. (4) Strategies for increasing partnerships with the National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 ( 42 U.S.C. 15801 )) and other government and private-sector entities, including strategies for using existing funding and resources of the intelligence community to secure expertise on biotechnology issues and provide appropriate security clearances to personnel who can provide such expertise. (5) Strategies to make use of special hiring authorities to ensure the intelligence community has sufficient personnel to inform analysis and provide independent recommendations to address emerging biotechnology threats. (6) Strategies to increase recruitment and retention of persons with biotechnology expertise. (c) Implementation Not later than 180 days after the completion of the plan required by subsection (a), the Director of National Intelligence shall direct the funding and resources described in subsection (b)(4) towards securing sufficient expertise to identify and respond to biotechnology threats.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Plan on enhanced intelligence sharing relating to foreign adversary biotechnological threats (a) Plan Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence, in consultation with such other heads of elements of the intelligence community as the Director considers appropriate, shall - (1) develop and commence carrying out a plan, consistent with Executive Order 13526 and with adequate protections for sources and methods, for streamlining the declassification or downgrading and sharing of intelligence information relating to biotechnological developments and threats in order to counter efforts by foreign adversaries to weaponize biotechnologies and biological weapons, including threats relating to military, industrial, agricultural, and health applications of biotechnology; and (2) submit to the appropriate congressional committees such plan. (b) Recipients The plan under subsection (a) shall include mechanisms for sharing the intelligence information described in such subsection - (1) with allies and partners of the United States; (2) with private sector partners of the United States; and (3) across the Federal Government. (c) Reports Not later than 1 year after the date of the enactment of this Act, and annually thereafter for 2 years, the Director shall submit to the appropriate congressional committees a report on the progress made by the intelligence community with respect to sharing intelligence information relating to biotechnological developments and threats with recipients specified in subsection (b). (d) Appropriate congressional committees defined In this section, the term appropriate congressional committees means the following: (1) The congressional intelligence committees. (2) The Committees on Armed Services of the Senate and the House of Representatives. (3) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives.\n\nEnhancing biotechnology talent within the intelligence community (a) Plan Not later than 90 days after the date of the enactment of this Act, the Director of National Intelligence shall develop a plan to use existing and future funding and resources of the intelligence community to ensure the intelligence community has sufficient personnel with appropriate security clearances, including private-sector experts, to identify and respond to biotechnology threats. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010810348282878596,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2466,
+      "word_count": 353,
+      "token_length": 453
+    },
+    {
+      "text": "b) Elements The plan required by subsection (a) shall include the following: (1) An identification of the exact number of personnel dedicated to biotechnology threats other than biological weapons in each element of the intelligence community as of the date on which such plan is completed, including personnel breakdowns by position function. (2) An identification of the exact number of personnel dedicated to biological weapons issues in each element of the intelligence community as of such date, including personnel breakdowns by position function. (3) An identification of areas within the intelligence community with respect to which the addition of full-time employees or detailees may be appropriate to address biotechnology expertise gaps. (4) Strategies for increasing partnerships with the National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 ( 42 U.S.C. 15801 )) and other government and private-sector entities, including strategies for using existing funding and resources of the intelligence community to secure expertise on biotechnology issues and provide appropriate security clearances to personnel who can provide such expertise. (5) Strategies to make use of special hiring authorities to ensure the intelligence community has sufficient personnel to inform analysis and provide independent recommendations to address emerging biotechnology threats. (6) Strategies to increase recruitment and retention of persons with biotechnology expertise. (c) Implementation Not later than 180 days after the completion of the plan required by subsection (a), the Director of National Intelligence shall direct the funding and resources described in subsection (b)(4) towards securing sufficient expertise to identify and respond to biotechnology threats.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007549271442084795,
+      "confidence": "High",
+      "start_index": 2466,
+      "end_index": 4258,
+      "word_count": 257,
+      "token_length": 325
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec6612_plan_on_enhanced_intelligence_sharing_relating_to_foreign_adversary_biotechnolog.txt",
+    "sec6613_enhancing_biotechnology_talent_within_the_intelligence_community.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec6612_plan_on_enhanced_intelligence_sharing_relating_to_foreign_adversary_biotechnolog.txt",
+      "start_index": 0,
+      "end_index": 1999,
+      "word_count": 286
+    },
+    {
+      "filename": "sec6613_enhancing_biotechnology_talent_within_the_intelligence_community.txt",
+      "start_index": 2001,
+      "end_index": 4258,
+      "word_count": 323
+    }
+  ]
+}

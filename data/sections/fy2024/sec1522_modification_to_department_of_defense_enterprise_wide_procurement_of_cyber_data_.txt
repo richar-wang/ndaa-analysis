@@ -1,0 +1,4 @@
+SEC. 1522.  MODIFICATION TO DEPARTMENT OF DEFENSE ENTERPRISE-WIDE PROCUREMENT OF CYBER DATA PRODUCTS AND SERVICES.   Section 1521(a) of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ;  10 U.S.C. 2224 note )  is amended — (1)  by  redesignating  paragraph (6) as paragraph (7); 
+ (2)  in paragraph (7), as so redesignated, by  striking  “ (1) through (5) ” and  inserting  “ (1) through (6) ”; and 
+ (3)  by  inserting  after paragraph (5) the following new paragraph: “(6)  Evaluating emerging cyber technologies, such as artificial intelligence-enabled security tools, for efficacy and applicability to the requirements of the Department of Defense.” 
+ .

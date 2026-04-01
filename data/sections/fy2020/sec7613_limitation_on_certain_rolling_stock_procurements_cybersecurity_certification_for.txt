@@ -1,0 +1,28 @@
+SEC. 7613.  LIMITATION ON CERTAIN ROLLING STOCK PROCUREMENTS; CYBERSECURITY CERTIFICATION FOR RAIL ROLLING STOCK AND OPERATIONS.    Section 5323 of title 49, United States Code ,  is amended  by  adding  at the end the following: “(u)  Limitation on Certain Rolling Stock Procurements .— “(1)  In general .— Except as provided in paragraph (5), financial assistance made available under this chapter shall not be used in awarding a contract or subcontract to an entity on or after the date of enactment of this subsection for the procurement of rolling stock for use in public transportation if the manufacturer of the rolling stock— “(A)  is incorporated in or has manufacturing facilities in the United States; and 
+ “(B)  is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that— “(i)  is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 ( 19 U.S.C. 1677(18) )) as of the date of enactment of this subsection; 
+ “(ii)  was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 ( 19 U.S.C. 2242 ) as a foreign country included on the priority watch list defined in subsection (g)(3) of that section; and 
+ “(iii)  is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 ( 19 U.S.C. 2416 ). 
+ 
+ 
+ “(2)  Exception .— For purposes of paragraph (1), the term ‘ otherwise related legally or financially ’ does not include a minority relationship or investment. 
+ “(3)  Applicability. International agreements .— This subsection shall be applied in a manner consistent with the obligations of the United States under international agreements. 
+ “(4)  Certification for rail rolling stock .— “(A)  In general .— Except as provided in paragraph (5), as a condition of financial assistance made available in a fiscal year under section 5337, a recipient that operates rail fixed guideway service shall certify in that fiscal year that the recipient will not award any contract or subcontract for the procurement of rail rolling stock for use in public transportation with a rail rolling stock manufacturer described in paragraph (1). 
+ “(B)  Separate certification .— The certification required under this paragraph shall be in addition to any certification the Secretary establishes to ensure compliance with the requirements of paragraph (1). 
+ 
+ “(5)  Special rules .— “(A)  Parties to executed contracts .— This subsection, including the certification requirement under paragraph (4), shall not apply to the award of any contract or subcontract made by a public transportation agency  133 STAT. 2315 
+with a rail rolling stock manufacturer described in paragraph (1) if the manufacturer and the public transportation agency have executed a contract for rail rolling stock before the date of enactment of this subsection. 
+ “(B)  Time period. Rolling stock .— Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturer for the 2-year period beginning on or after the date of enactment of this subsection. 
+ “(C)  Exception .— Subparagraph (B) shall not apply to the award of a contract or subcontract made by the Washington Metropolitan Area Transit Authority. 
+ 
+ 
+ “(v)  Cybersecurity Certification for Rail Rolling Stock and Operations .— “(1)  Certification .— As a condition of financial assistance made available under this chapter, a recipient that operates a rail fixed guideway public transportation system shall certify that the recipient has established a process to develop, maintain, and execute a written plan for identifying and reducing cybersecurity risks. 
+ “(2)  Compliance .— For the process required under paragraph (1), a recipient of assistance under this chapter shall— “(A)  utilize the approach described by the voluntary standards and best practices developed under section 2(c)(15) of the National Institute of Standards and Technology Act ( 15 U.S.C. 272(c)(15) ), as applicable; 
+ “(B)  Determination. identify hardware and software that the recipient determines should undergo third-party testing and analysis to mitigate cybersecurity risks, such as hardware or software for rail rolling stock under proposed procurements; and 
+ “(C)  utilize the approach described in any voluntary standards and best practices for rail fixed guideway public transportation systems developed under the authority of the Secretary of Homeland Security, as applicable. 
+ 
+ “(3)  Limitations on statutory construction .— Nothing in this subsection shall be construed to interfere with the authority of— “(A)  the Secretary of Homeland Security to publish or ensure compliance with requirements or standards concerning cybersecurity for rail fixed guideway public transportation systems; or 
+ “(B)  the Secretary of Transportation under section 5329 to address cybersecurity issues as those issues relate to  133 STAT. 2316 
+the safety of rail fixed guideway public transportation systems.” 
+ 
+ 
+ .

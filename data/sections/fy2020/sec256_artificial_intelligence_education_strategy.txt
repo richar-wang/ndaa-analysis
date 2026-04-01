@@ -1,0 +1,16 @@
+SEC. 256.  ARTIFICIAL INTELLIGENCE EDUCATION STRATEGY. (a)  Strategy Required .— (1)  In general .— The Secretary of Defense shall develop a strategy for educating servicemembers in relevant occupational fields on matters relating to artificial intelligence. 
+ (2)  Elements .— The strategy developed under subsection (a) shall include a curriculum designed to give servicemembers a basic knowledge of artificial intelligence. The curriculum shall include instruction in— (A)  artificial intelligence design; 
+ (B)  software coding; 
+ (C)  potential military applications for artificial intelligence; 
+ (D)  the impact of artificial intelligence on military strategy and doctrine; 
+ (E)  artificial intelligence decisionmaking via machine learning and neural networks; 
+ (F)  ethical issues relating to artificial intelligence; 
+ (G)  the potential biases of artificial intelligence; 
+ (H)  potential weakness in artificial intelligence technology; 
+ (I)  opportunities and risks; and 
+ (J)  any other matters the Secretary of Defense determines to be relevant. 
+ 
+ 
+ (b)  Implementation Plan .— The Secretary of Defense shall develop a plan for implementing the strategy developed under subsection (a). 
+ (c)  Deadline. Submittal to Congress .— Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees— (1)  the strategy developed under subsection (a); and 133 STAT. 1291 
+ (2)  the implementation plan developed under subsection (b).

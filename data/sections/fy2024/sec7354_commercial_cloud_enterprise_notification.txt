@@ -1,0 +1,10 @@
+SEC. 7354.  COMMERCIAL CLOUD ENTERPRISE NOTIFICATION. (a)  Notification Requirement .— Not later than 90 days after the date of the enactment of this Act, and on a quarterly basis thereafter, the Director of the Central Intelligence Agency shall submit to the appropriate committees of Congress a notification relating to the Commercial Cloud Enterprise contract entered into by the Director of the Central Intelligence Agency in November 2020 for commercial cloud services for the intelligence community, which shall include— (1)  the number and value of all task orders issued under such contract, broken down by vendor, for each element of the intelligence community; 
+ (2)  the duration of each task order; 
+ (3)  the number of sole source task orders issued compared to the number of task orders issued on a competitive basis under such contract; and 
+ (4)  Update. with respect to each vendor authorized to provide commercial cloud services under such contract, an update on the status of the security accreditation and authority to operate decision of each vendor. 
+ 
+ (b)  Data Sharing .— The head of each element of the intelligence community shall share such data with the Director of the Central Intelligence Agency as necessary to prepare the notification required under subsection (a). 137 STAT. 1067 
+ (c)  Sunset .— The requirement to submit the notification under subsection (a) shall terminate on the date that is 3 years after the date of the enactment of this Act. 
+ (d)  Definition of Appropriate Committees of Congress .— In this section, the term “ appropriate committees of Congress ” means— (1)  the congressional intelligence committees; 
+ (2)  the Committee on Appropriations of the Senate; and 
+ (3)  the Committee on Appropriations of the House of Representatives.

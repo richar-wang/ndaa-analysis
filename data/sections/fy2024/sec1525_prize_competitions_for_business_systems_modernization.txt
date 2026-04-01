@@ -1,0 +1,17 @@
+SEC. 1525.  Deadlines. 10 USC 2222 note . PRIZE COMPETITIONS FOR BUSINESS SYSTEMS MODERNIZATION. (a)  Establishment .— Not later than 270 days after the date of the enactment of this Act, under the authority of  section 4025 of title 10, United States Code , the Secretary of Defense shall establish one or more prize competitions to support the business systems modernization goals of the Department of Defense. 
+ (b)  Scope .— 137 STAT. 557 
+ (1)  In general .— The Secretary of Defense shall structure any prize competition established under subsection (a) to complement, and to the extent practicable, accelerate the delivery or expand the functionality of business systems capabilities sought by the Secretaries of the military departments that are in operation, in development, or belong to any broad class of systems covered by the defense business enterprise architecture specified in  section 2222(e) of title 10, United States Code . 
+ (2)  Areas for consideration .— In carrying out subsection (a), the Secretary of Defense and the Secretaries of the military departments shall consider the following: (A)  Integration of artificial intelligence or machine learning capabilities. 
+ (B)  Data analytics, business intelligence, or related visualization capabilities. 
+ (C)  Automated updating of business architectures, business systems integration, or documentation relating to existing systems or manuals. 
+ (D)  Improvements to interfaces or processes for interacting with other non-Department of Defense business systems. 
+ (E)  Updates or replacements for legacy defense business systems to improve operational effectiveness and efficiency, such as the system of the Defense Logistics Agency known as the “Mechanization of Contract Administration Services” system, or any successor system. 
+ (F)  Contract writing systems, or expanded capabilities relating to such systems, that may be integrated into existing systems of the Department of Defense. 
+ (G)  Pay and personnel systems, or expanded capabilities relating to such systems, that may be integrated into existing systems of the Department of Defense. 
+ (H)  Other finance and accounting systems, or expanded capabilities relating to such systems, that may be integrated into existing systems of the Department of Defense. 
+ (I)  Systems supporting the defense industrial base and related supply chain visibility, analytics, and management. 
+ 
+ 
+ (c)  Framework .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees a briefing on the framework to be used in carrying out the prize competition under subsection (a). 
+ (d)  Annual Briefings .— Not later than October 1 of each year until the date of termination under subsection (e), the Secretary of Defense shall provide to the congressional defense committees a briefing on the results of the prize competition under subsection (a). 
+ (e)  Termination .— The authority to carry out the prize competition under subsection (a) shall terminate on September 30, 2028.

@@ -1,0 +1,26 @@
+{
+  "text": "Quarterly briefings on research, development, test, and evaluation laboratories and facilities (a) Required briefings Not later than 90 days after the date of the of enactment of this Act, and every three months for two years thereafter, the Director of Science, Technology, and Test Resource Management of the Air Force shall provide to the congressional defense committees a briefing on the challenges facing Department of Defense research, development, test, and evaluation laboratories and facilities. Such briefings shall address the chronic institutional causes of underinvestment in such laboratories and facilities and how to improve investment in the future. (b) Participants The Director of Science, Technology, and Test Resource Management may include representatives from the Office of the Under Secretary of Defense for Research and Engineering or a military department (as appropriate) in the briefings required by this section. (c) Briefing elements Each quarterly briefing should address - (1) the funding trends and internal processes that are contributing to the underinvestment in such laboratories and facilities; (2) the overall conditions of research, development, test, and evaluation infrastructure of the Department of Defense, including maintenance backlogs and modernization needs; (3) how such infrastructure investments are weighed against other military construction requirements; (4) the highest priority projects for research, development, test, and evaluation infrastructure, a justification for such priority, and any progress made towards funding any such priorities; (5) options for improving the way such infrastructure is funded and managed, including the potential for public-private partnerships and public-public partnerships that could lessen the need for funding under the categories of military construction or operation and maintenance; (6) an overview of the current state of the workforce for research, development, test, and evaluation, challenges in attracting and retaining top technical talent for such workforce and options for strengthening such workforce, including hiring authorities and effective recruitment campaigns; and (7) limitations of existing policies or statutes that support the sustainment and modernization of research, development, test, and evaluation infrastructure.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Quarterly briefings on research, development, test, and evaluation laboratories and facilities (a) Required briefings Not later than 90 days after the date of the of enactment of this Act, and every three months for two years thereafter, the Director of Science, Technology, and Test Resource Management of the Air Force shall provide to the congressional defense committees a briefing on the challenges facing Department of Defense research, development, test, and evaluation laboratories and facilities. Such briefings shall address the chronic institutional causes of underinvestment in such laboratories and facilities and how to improve investment in the future. (b) Participants The Director of Science, Technology, and Test Resource Management may include representatives from the Office of the Under Secretary of Defense for Research and Engineering or a military department (as appropriate) in the briefings required by this section. (c) Briefing elements Each quarterly briefing should address - (1) the funding trends and internal processes that are contributing to the underinvestment in such laboratories and facilities; (2) the overall conditions of research, development, test, and evaluation infrastructure of the Department of Defense, including maintenance backlogs and modernization needs; (3) how such infrastructure investments are weighed against other military construction requirements; (4) the highest priority projects for research, development, test, and evaluation infrastructure, a justification for such priority, and any progress made towards funding any such priorities; (5) options for improving the way such infrastructure is funded and managed, including the potential for public-private partnerships and public-public partnerships that could lessen the need for funding under the categories of military construction or operation and maintenance; (6) an overview of the current state of the workforce for research, development, test, and evaluation, challenges in attracting and retaining top technical talent for such workforce and options for strengthening such workforce, including hiring authorities and effective recruitment campaigns; and (7) limitations of existing policies or statutes that support the sustainment and modernization of research, development, test, and evaluation infrastructure.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006003380287438631,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2338,
+      "word_count": 323,
+      "token_length": 410
+    }
+  ],
+  "_submission_type": "solo"
+}

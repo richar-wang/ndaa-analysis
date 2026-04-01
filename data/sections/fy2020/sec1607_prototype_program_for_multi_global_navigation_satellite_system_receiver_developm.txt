@@ -1,0 +1,39 @@
+SEC. 1607.  10 USC 2281 note . PROTOTYPE PROGRAM FOR MULTI-GLOBAL NAVIGATION SATELLITE SYSTEM RECEIVER DEVELOPMENT. (a)  Prototype Multi-GNSS Program .— The Secretary of the Air Force shall carry out a program to prototype an M-code based, multi-global navigation satellite system receiver that is capable  133 STAT. 1725 
+of receiving covered signals to increase the resilience and capability of military position, navigation, and timing equipment against threats to the Global Positioning System and to deter the likelihood of attack on the worldwide Global Positioning System by reducing the benefits of such an attack. 
+ (b)  Assessments. Elements .— In carrying out the program under subsection (a), the Secretary shall— (1)  with respect to each covered signal that could be received by the prototype receiver under such program, conduct an assessment of the relative benefits and risks of using that signal, including with respect to any existing or needed monitoring infrastructure that would alert users of the Department of Defense of potentially corrupted signal information, and the cyber risks and challenges of incorporating such signals into a properly designed receiver; 
+ (2)  ensure that monitoring systems are able to include any monitoring network of the United States or allies of the United States; 
+ (3)  conduct an assessment of the benefits and risks, including with respect to the compatibility of non-United States global navigation satellite system signals with existing position, navigation, and timing equipment of the United States, and the extent to which the capability to receive such signals would impact current receiver or antenna design; and 
+ (4)  Coordination. conduct an assessment of the desirability of establishing a program for the development and deployment of the receiver system described in subsection (a) in a manner that— (A)  is a cooperative effort, coordinated with the Secretary of State, between the United States and the allies of the United States that may also have interest in funding a multi-global navigation satellite system and M-code program; and 
+ (B)  the Secretary of Defense, in coordination with the Secretary of State, ensures that the United States has access to sufficient insight into trusted signals of allied systems to assure potential reliance by the United States on such signals. 
+ 
+ 
+ (c)  Briefing .— Deadline. Coordination. Plans. Not later than 120 days after the date of the enactment of this Act, the Secretary, in coordination with the Air Force GPS User Equipment Program office, shall provide to the congressional defense committees a briefing on a plan to carry out the program under subsection (a) that includes— (1)  Cost estimate. the estimated cost, including total cost and out-year funding requirements for a program to develop and deploy the receiver system described in subsection (a); 
+ (2)  Schedule. the schedule for such program; 
+ (3)  a plan for how the results of the program could be incorporated into future blocks of the Global Positioning System military user equipment program; and 
+ (4)  Recommenda- tions. Analysis. the recommendations and analysis contained in the study sponsored by the Department of Defense conducted by the MITRE Corporation on the risks, benefits, and approaches to  adding  multi-global navigation satellite system capabilities to military user equipment. 
+ 
+ (d)  Assessments. Report .— Not later than 150 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report containing— 133 STAT. 1726 
+ (1)  Compliance. an explanation of how the Secretary intends to comply with section 1609 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  10 U.S.C. 2281 note ); 
+ (2)  an outline of any potential cooperative efforts acting in accordance with the North Atlantic Treaty Organization, the European Union, or Japan that would support such compliance; 
+ (3)  an assessment of the potential to host, or incorporate through software-defined payloads, Global Positioning System M-code functionality onto allied global navigation satellite system systems; and 
+ (4)  an assessment of new or enhanced monitoring capabilities that would be needed to incorporate global navigation satellite system functionality into weapon systems of the Department. 
+ 
+ (e)  Limitation .— Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for increment 2 of the acquisition of military Global Positioning System user equipment terminals, not more than 90 percent may be obligated or expended until the date on which the briefing has been provided under subsection (c) and the report has been submitted under subsection (d). 
+ (f)  Waiver Authority for Trusted Signals Capabilities .— Section 1609(a)(2)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  10 U.S.C. 2281 note )  is amended  by  striking  “ such capability ” and  inserting  “ the capability to add multi-Global Navigation Satellite System signals to provide substantive military utility ”. 
+ (g)  Definitions .— In this section: (1)  The term “ allied systems ” means— (A)  the Galileo system of the European Union; 
+ (B)  the QZSS system of Japan; and 
+ (C)  Consultation. upon designation by the Secretary of Defense, in consultation with the Director of National Intelligence— (i)  the NAVIC system of India; and 
+ (ii)  any similarly associated wide area augmentation systems. 
+ 
+ 
+ (2)  The term “ covered signals ”— (A)  means global navigation satellite system signals from— (i)  allied systems; and 
+ (ii)  non-allied systems; and 
+ 
+ (B)  includes both encrypted signals and open signals. 
+ 
+ (3)  The term “ encrypted signals ” means global navigation satellite system signals that incorporate encryption or other internal methods to authenticate signal information. 
+ (4)  The term “ M-code ” means, with respect to global navigation satellite system signals, military code that provides enhanced positioning, navigation, and timing capabilities and improved resistance to existing and emerging threats, such as jamming. 
+ (5)  The term “ non-allied systems ” means— (A)  the Russian GLONASS system; and 
+ (B)  the Chinese Beidou system. 133 STAT. 1727 
+ 
+ (6)  The term “ open signals ” means global navigation satellite system that do not include encryption or other internal methods to authenticate signal information.

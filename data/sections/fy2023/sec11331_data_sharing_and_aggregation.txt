@@ -1,0 +1,5 @@
+SEC. 11331.  DATA SHARING AND AGGREGATION. (a)  Interagency Working Group on Illegal, Unreported, or Unregulated Fishing .— Section 3551(c) of the Maritime SAFE Act ( 16 U.S.C. 8031(c) )  is amended — (1)  by  redesignating  paragraphs (4) through (13) as paragraphs (5) through (14), respectively; and 
+ (2)  by  inserting  after paragraph (3) the following: “(4)  maximizing the utility of the import data collected by the members of the Working Group by harmonizing data standards and entry fields;” 
+ . 
+ 
+ (b)  Prohibition on Aggregated Catch Data for Certain Species . Effective date. 16 USC 8031 note . — Beginning not later than 1 year after the date of enactment of this Act, for the purposes of compliance with respect to Northern red snapper under the Seafood Import Monitoring Program, the Secretary may not allow an aggregated harvest report of such species, regardless of vessel size.

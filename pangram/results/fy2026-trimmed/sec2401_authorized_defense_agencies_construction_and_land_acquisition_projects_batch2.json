@@ -1,0 +1,54 @@
+{
+  "text": "Authorized defense agencies construction and land acquisition projects (a) Inside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: Defense Agencies: Inside the United States State Installation or Location Amount Alabama DLA Distribution Center Anniston $32,000,000 California Naval Base Coronado $75,900,000 Travis Air Force Base $49,980,000 Florida Homestead Air Reserve Base $33,000,000 Georgia Fort Benning $127,375,000 Maryland Fort Meade $26,600,000 North Carolina Fort Bragg $333,200,000 Marine Corps Base Camp Lejeune $306,400,000 Pennsylvania Defense Distribution Depot New Cumberland $90,000,000 Harrisburg Air National Guard Base $13,400,000 Puerto Rico Punta Borinquen $155,000,000 Texas NSA Texas $500,000,000 Virginia Pentagon $34,000,000 Washington Fairchild Air Force Base $85,000,000 Manchester Tank Farm $71,000,000 (b) Outside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: Defense Agencies: Outside the United States Country Installation or Location Amount Germany U.S. Army Garrison Rheinland-Pfalz $16,700,000 United Kingdom Royal Air Force Lakenheath $433,600,000 Royal Air Force Mildenhall $45,000,000\n\nAuthorized energy resilience and conservation investment program projects (a) Inside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code, for the installations or locations inside the United States, and in the amounts, set forth in the following table: ERCIP Projects: Inside the United States State Installation or Location Amount California Armed Forces Reserve Center Mountain View $20,600,000 Travis Air Force Base $25,120,000 Florida Marine Corps Support Facility Blount Island $30,500,000 Guam Naval Base Guam $63,010,000 Massachusetts Cape Cod Space Force Station $124,000,000 New Mexico White Sands Missile Range $38,500,000 North Carolina Fort Bragg $80,000,000 Texas Camp Swift $19,800,000 Fort Hood $34,500,000 Utah Camp Williams $28,500,000 (b) Outside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code, for the installations or locations outside the United States, and in the amounts, set forth in the following table: ERCIP Projects: Outside the United States Country Installation or Location Amount Germany United States Army Garrison Ansbach (Storck Barracks) $73,000,000 Japan Marine Corps Air Station Iwakuni $146,800,000",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Authorized defense agencies construction and land acquisition projects (a) Inside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: Defense Agencies: Inside the United States State Installation or Location Amount Alabama DLA Distribution Center Anniston $32,000,000 California Naval Base Coronado $75,900,000 Travis Air Force Base $49,980,000 Florida Homestead Air Reserve Base $33,000,000 Georgia Fort Benning $127,375,000 Maryland Fort Meade $26,600,000 North Carolina Fort Bragg $333,200,000 Marine Corps Base Camp Lejeune $306,400,000 Pennsylvania Defense Distribution Depot New Cumberland $90,000,000 Harrisburg Air National Guard Base $13,400,000 Puerto Rico Punta Borinquen $155,000,000 Texas NSA Texas $500,000,000 Virginia Pentagon $34,000,000 Washington Fairchild Air Force Base $85,000,000 Manchester Tank Farm $71,000,000 (b) Outside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of Defense may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: Defense Agencies: Outside the United States Country Installation or Location Amount Germany U.S. Army Garrison",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014427347807213664,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1804,
+      "word_count": 248,
+      "token_length": 460
+    },
+    {
+      "text": " Rheinland-Pfalz $16,700,000 United Kingdom Royal Air Force Lakenheath $433,600,000 Royal Air Force Mildenhall $45,000,000\n\nAuthorized energy resilience and conservation investment program projects (a) Inside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code, for the installations or locations inside the United States, and in the amounts, set forth in the following table: ERCIP Projects: Inside the United States State Installation or Location Amount California Armed Forces Reserve Center Mountain View $20,600,000 Travis Air Force Base $25,120,000 Florida Marine Corps Support Facility Blount Island $30,500,000 Guam Naval Base Guam $63,010,000 Massachusetts Cape Cod Space Force Station $124,000,000 New Mexico White Sands Missile Range $38,500,000 North Carolina Fort Bragg $80,000,000 Texas Camp Swift $19,800,000 Fort Hood $34,500,000 Utah Camp Williams $28,500,000 (b) Outside the united states Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under chapter 173 of title 10, United States Code, for the installations or locations outside the United States, and in the amounts, set forth in the following table: ERCIP Projects: Outside the United States Country Installation or Location Amount Germany United States Army Garrison Ansbach (Storck Barracks) $73,000,000 Japan Marine Corps Air Station Iwakuni $146,800,000",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01521427909998844,
+      "confidence": "High",
+      "start_index": 1804,
+      "end_index": 3621,
+      "word_count": 256,
+      "token_length": 486
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec2401_authorized_defense_agencies_construction_and_land_acquisition_projects.txt",
+    "sec2402_authorized_energy_resilience_and_conservation_investment_program_projects.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec2401_authorized_defense_agencies_construction_and_land_acquisition_projects.txt",
+      "start_index": 0,
+      "end_index": 1926,
+      "word_count": 262
+    },
+    {
+      "filename": "sec2402_authorized_energy_resilience_and_conservation_investment_program_projects.txt",
+      "start_index": 1928,
+      "end_index": 3621,
+      "word_count": 242
+    }
+  ]
+}

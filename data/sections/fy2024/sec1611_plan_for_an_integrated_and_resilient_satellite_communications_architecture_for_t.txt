@@ -1,0 +1,14 @@
+SEC. 1611.  PLAN FOR AN INTEGRATED AND RESILIENT SATELLITE COMMUNICATIONS ARCHITECTURE FOR THE SPACE FORCE. (a)  In General .— The Secretary of the Air Force, in coordination with the Assistant Secretary of the Air Force for Space Acquisition and Integration and the Chief of Space Operations, shall— (1)  as part of the force design process for the Space Force, consider options for the integration of resilient military tactical satellite communications capabilities; 
+ (2)  develop a plan for the integration of such capabilities into the Space Force, as required under subsection (b); and 
+ (3)  Evaluation. ensure that a geostationary small satellite communications constellation is evaluated for inclusion as a component of the space data transport force design of the Space Force through, at a minimum, the end of fiscal year 2027. 
+ 
+ (b)  Plan for Integration .— (1)  In general .— The Secretary of the Air Force, in coordination with the Assistant Secretary of the Air Force for Space Acquisition and Integration and the Chief of Space Operations, shall develop a plan for an integrated and resilient satellite communications architecture for the Space Force. 
+ (2)  Elements .— The plan under paragraph (1) shall include, at a minimum, options for— (A)  leveraging commercially available geostationary small satellite communications technology developed and produced in the United States; 
+ (B)  ensuring sufficient funding for such an integration; 
+ (C)  including the unique requirements for small satellite communications constellations throughout the  137 STAT. 590 
+acquisition and deployment period, including support for global X-band coverage and support for secure communications waveforms using on-board digital processing; and 
+ (D)  potential integration of such geostationary small satellite communications capability into the enterprise satellite communications management and control (commonly known as “ESC–MC”) implementation plan of the Department of Defense. 
+ 
+ (3)  Deadline. Briefing .— Not later than the date specified in paragraph (4), than the Secretary of the Air Force shall provide to the congressional defense committees a briefing on the plan developed under paragraph (1). 
+ (4)  Date specified .— The date specified in this subsection is the earlier of— (A)  July 1, 2024; or 
+ (B)  the date on which the Secretary of the Air Force completes the space data transport force design for the Space Force.

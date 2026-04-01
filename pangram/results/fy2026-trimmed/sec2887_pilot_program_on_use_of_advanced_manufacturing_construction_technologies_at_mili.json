@@ -1,0 +1,36 @@
+{
+  "text": "Pilot program on use of advanced manufacturing construction technologies at military installations (a) Establishment Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense, acting through each Secretary of a military department, shall carry out a pilot program relating to the use of advanced manufacturing construction technologies for military construction projects (including unspecified minor military construction projects authorized under section 2805 of title 10, United States Code) on military installations selected under subsection (d). (b) Designation of official The Secretary of Defense shall designate an individual to administer the pilot program established under this section. Such individual shall establish guidelines and procedures with respect to carrying out military construction projects using advanced manufacturing construction technologies under the pilot program. (c) Elements Under the pilot program, the Secretary of Defense shall - (1) assess the cost, schedule, and quality advantages of advanced manufacturing construction technologies for military construction projects; (2) identify and validate technical standards, design templates, and contracting methods for use under the pilot program; (3) establish a Department-wide framework for lessons learned, data sharing, and future adoption of advanced manufacturing construction technologies for military construction projects; and (4) create a centralized catalog of advanced manufacturing construction technologies that are compliant with the requirements of the Unified Facilities Criteria/DoD Building Code (UFC 1\u2013200\u201301) and suitable for use across military installations. (d) Selection of installations The Secretary of Defense, in coordination with the official designated under subsection (b), shall - (1) select one or more military installations at which to carry out the pilot program established under this section; and (2) minimize any disruption to the operations of any selected installation due to participation in the pilot program. (e) Reports (1) Interim report Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of the pilot program established under this section, including - (A) a summary of any barriers to such implementation, including any statutory or resource limitations; (B) a summary of the recommendations to address any such barrier; and (C) any other recommendation of the Secretary for improving the pilot program. (2) Final report Not later than 180 days after the termination date in subsection (f), the Secretary shall submit to the congressional defense committees a report on the results of the pilot program. (f) Termination The authority to carry out the pilot program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act. (g) Definitions In this section: (1) The term advanced manufacturing has the meaning given in section 4841 of title 10, United States Code. (2) The term military installation has the meaning given in section 2801 of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Pilot program on use of advanced manufacturing construction technologies at military installations (a) Establishment Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense, acting through each Secretary of a military department, shall carry out a pilot program relating to the use of advanced manufacturing construction technologies for military construction projects (including unspecified minor military construction projects authorized under section 2805 of title 10, United States Code) on military installations selected under subsection (d). (b) Designation of official The Secretary of Defense shall designate an individual to administer the pilot program established under this section. Such individual shall establish guidelines and procedures with respect to carrying out military construction projects using advanced manufacturing construction technologies under the pilot program. (c) Elements Under the pilot program, the Secretary of Defense shall - (1) assess the cost, schedule, and quality advantages of advanced manufacturing construction technologies for military construction projects; (2) identify and validate technical standards, design templates, and contracting methods for use under the pilot program; (3) establish a Department-wide framework for lessons learned, data sharing, and future adoption of advanced manufacturing construction technologies for military construction projects; and (4) create a centralized catalog of advanced manufacturing construction technologies that are compliant with the requirements of the Unified Facilities Criteria/DoD Building Code (UFC 1\u2013200\u201301) and suitable for use across military installations. (d) Selection of installations The Secretary of Defense, in coordination with the official designated under subsection (b), shall - (1) select one or more military installations at which to carry out the pilot program established under this section; and (2) minimize any disruption to the operations of any selected installation due to participation in the pilot program. (e) Reports (1) Interim report Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of the pilot program established under this section, including - (A) a summary of any barriers to such implementation, including any statutory or resource limitations; (B) a summary of the recommendations to address any such barrier; and (C) any other recommendation of the Secretary for improving the pilot program. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.2678261721536281,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 2601,
+      "word_count": 370,
+      "token_length": 463
+    },
+    {
+      "text": "2) Final report Not later than 180 days after the termination date in subsection (f), the Secretary shall submit to the congressional defense committees a report on the results of the pilot program. (f) Termination The authority to carry out the pilot program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act. (g) Definitions In this section: (1) The term advanced manufacturing has the meaning given in section 4841 of title 10, United States Code. (2) The term military installation has the meaning given in section 2801 of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.2881968499471744,
+      "confidence": "Medium",
+      "start_index": 2601,
+      "end_index": 3219,
+      "word_count": 105,
+      "token_length": 143
+    }
+  ],
+  "_submission_type": "solo"
+}

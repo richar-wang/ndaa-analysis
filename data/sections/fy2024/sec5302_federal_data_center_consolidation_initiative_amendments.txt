@@ -1,0 +1,58 @@
+SEC. 5302.  FEDERAL DATA CENTER CONSOLIDATION INITIATIVE AMENDMENTS. (a)  44 USC 3601 note . Findings .— Congress finds the following: (1)  The statutory authorization for the Federal Data Center Optimization Initiative under section 834 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 ( 44 U.S.C. 3601 note ;  Public Law 113–291 ) expired at the end of fiscal year 2022. 
+ (2)  The expiration of the authorization described in paragraph (1) presents Congress with an opportunity to review the objectives of the Federal Data Center Optimization Initiative to ensure that the initiative is meeting the current needs of the Federal Government. 
+ (3)  The initial focus of the Federal Data Center Optimization Initiative, which was to consolidate data centers and create new efficiencies, has resulted in, since 2010— (A)  the consolidation of more than 6,000 Federal data centers; and 
+ (B)  cost savings and avoidance of $5,800,000,000. 
+ 
+ (4)  The need of the Federal Government for access to data and data processing systems has evolved since the date of enactment in 2014 of subtitle D of title VIII of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015. 
+ (5)  Federal agencies and employees involved in mission critical functions increasingly need reliable access to secure, reliable, and protected facilities to house mission critical data and data operations to meet the immediate needs of the people of the United States. 137 STAT. 941 
+ (6)  As of the date of enactment of this title, there is a growing need for Federal agencies to use data centers and cloud applications that meet high standards for cybersecurity, resiliency, and availability. 
+ 
+ (b)  Minimum Requirements for New Data Centers .— Section 834 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 ( 44 U.S.C. 3601 note ;  Public Law 113–291 )  is amended — (1)  in subsection (a), by  striking  paragraphs (3) and (4) and  inserting  the following: “(3)  Definition. New data center .— The term ‘ new data center ’ means— “(A) (i)  a data center or a portion thereof that is owned, operated, or maintained by a covered agency; or 
+ “(ii)  to the extent practicable, a data center or portion thereof— “(I)  that is owned, operated, or maintained by a contractor on behalf of a covered agency on the date on which the contract between the covered agency and the contractor expires; and 
+ “(II)  with respect to which the covered agency extends the contract, or enters into a new contract, with the contractor; and 
+ 
+ 
+ “(B)  Effective date. on or after the date that is 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2023, a data center or portion thereof that is— “(i)  established; or 
+ “(ii)  substantially upgraded or expanded.” 
+ 
+ 
+ ; 
+ (2)  by  striking  subsection (b) and  inserting  the following: “(b)  Minimum Requirements for New Data Centers .— “(1)  Deadline. In general .— Not later than 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2023, the Administrator shall establish minimum requirements for new data centers in consultation with the Administrator of General Services and the Federal Chief Information Officers Council. 
+ “(2)  Contents .— “(A)  In general .— The minimum requirements established under paragraph (1) shall include requirements relating to— “(i)  the availability of new data centers; 
+ “(ii)  the use of new data centers, including costs related to the facility, energy consumption, and related infrastructure; 
+ “(iii)  uptime percentage; 
+ “(iv)  protections against power failures, including on-site energy generation and access to multiple transmission paths; 
+ “(v)  protections against physical intrusions and natural disasters; 
+ “(vi)  information security protections required by  subchapter II of chapter 35 of title 44, United States Code , and other applicable law and policy; and 
+ “(vii)  any other requirements the Administrator determines appropriate. 
+ 
+ “(B)  Consultation .— In establishing the requirements described in subparagraph (A)(vi), the Administrator shall  137 STAT. 942 
+consult with the Director of the Cybersecurity and Infrastructure Security Agency and the National Cyber Director. 
+ 
+ “(3)  Incorporation of minimum requirements into current data centers .— As  Deadline. Guidance. soon as practicable, and in any case not later than 90 days after the Administrator establishes the minimum requirements pursuant to paragraph (1), the Administrator shall issue guidance to ensure, as appropriate, that covered agencies incorporate the minimum requirements established under that paragraph into the operations of any data center of a covered agency existing as of the date of enactment of the Federal Data Center Enhancement Act of 2023. 
+ “(4)  Review of requirements .— The Administrator, in consultation with the Administrator of General Services and the Federal Chief Information Officers Council, shall review, update, and modify the minimum requirements established under paragraph (1), as necessary. 
+ “(5)  Determination. Report on new data centers .— During the development and planning lifecycle of a new data center, if the head of a covered agency determines that the covered agency is likely to make a management or financial decision relating to any data center, the head of the covered agency shall— “(A)  Notification. notify— “(i)  the Administrator; 
+ “(ii)  Committee on Homeland Security and Governmental Affairs of the Senate; and 
+ “(iii)  Committee on Oversight and Accountability of the House of Representatives; and 
+ 
+ “(B)  describe in the notification with sufficient detail how the covered agency intends to comply with the minimum requirements established under paragraph (1). 
+ 
+ “(6)  Determination. Use of technology .— In determining whether to establish or continue to operate an existing data center, the head of a covered agency shall— “(A)  Assessment. regularly assess the application portfolio of the covered agency and ensure that each at-risk legacy application is updated, replaced, or modernized, as appropriate, to take advantage of modern technologies; and 
+ “(B)  prioritize and, to the greatest extent possible, leverage commercial data center solutions, including hybrid cloud, multi-cloud, co-location, interconnection, or cloud computing (as defined in section 3607 of this Chapter) rather than acquiring, overseeing, or managing custom data center infrastructure. 
+ 
+ “(7)  Public website .— “(A)  In general .— The Administrator shall maintain a public-facing website that includes information, data, and explanatory statements relating to the compliance of covered agencies with the requirements of this section. 
+ “(B)  Processes and procedures .— In maintaining the website described in subparagraph (A), the Administrator shall— “(i)  Time period. Updates. ensure covered agencies regularly, and not less frequently than biannually, update the information, data, and explanatory statements posed on the website, pursuant to guidance issued by the Administrator,  137 STAT. 943 
+relating to any new data centers and, as appropriate, each existing data center of the covered agency; and 
+ “(ii)  ensure that all information, data, and explanatory statements on the website are maintained as open Government data assets.” 
+ 
+ 
+ 
+ ; and 
+ (3)  in subsection (c), by  striking  paragraph (1) and  inserting  the following: “(1)  In general .— The head of a covered agency shall oversee and manage the data center portfolio and the information technology strategy of the covered agency in accordance with Federal cybersecurity guidelines and directives, including— “(A)  information security standards and guidelines promulgated by the Director of the National Institute of Standards and Technology; 
+ “(B)  applicable requirements and guidance issued by the Director of the Office of Management and Budget pursuant to  section 3614 of title 44, United States Code ; and 
+ “(C)  directives issued by the Secretary of Homeland Security under  section 3553 of title 44, United States Code .” 
+ 
+ . 
+ 
+ (c)  Extension of Sunset .— Section 834(e) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 ( 44 U.S.C. 3601 note ;  Public Law 113–291 )  is amended  by  striking  “ 2022 ” and  inserting  “ 2026 ”. 
+ (d)  Deadline. Verification. Audits. 44 USC 3601 note . Gao Review .— Not later than 1 year after the date of the enactment of this title, and annually thereafter, the Comptroller General of the United States shall review, verify, and audit the compliance of covered agencies with the minimum requirements established pursuant to section 834(b)(1) of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 ( 44 U.S.C. 3601 note ;  Public Law 113–291 ) for new data centers and subsection (b)(3) of that section for existing data centers, as appropriate.

@@ -1,0 +1,31 @@
+SEC. 254.  10 USC 2223a note . STRATEGY AND IMPLEMENTATION PLAN FOR FIFTH GENERATION INFORMATION AND COMMUNICATIONS TECHNOLOGIES. (a)  Deadline. In General .— Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall develop— (1)  a strategy for harnessing fifth generation (commonly known as “5G”) information and communications technologies to enhance military capabilities, maintain a technological advantage on the battlefield, and accelerate the deployment of new commercial products and services enabled by 5G networks throughout the Department of Defense; and 
+ (2)  a plan for implementing the strategy developed under paragraph (1). 
+ 
+ (b)  Elements .— The strategy required under subsection (a) shall include the following elements: (1)  Adoption and use of secure fourth generation (commonly known as “4G”) communications technologies and the transition to advanced and secure 5G communications technologies for military applications and for military infrastructure. 
+ (2)  Science, technology, research, and development efforts to facilitate the advancement and adoption of 5G technology and new uses of 5G systems, subsystems, and components, including— (A)  5G testbeds for developing military and dual-use applications; and 
+ (B)  spectrum-sharing technologies and frameworks. 
+ 
+ (3)  Strengthening engagement and outreach with industry, academia, international partners, and other departments and agencies of the Federal Government on issues relating to 5G technology and the deployment of such technology, including  133 STAT. 1288 
+development of a common industrial base for secure microelectronics. 
+ (4)  Defense industrial base supply chain risk, management, and opportunities. 
+ (5)  Preserving the ability of the Joint Force to achieve objectives in a contested and congested spectrum environment. 
+ (6)  Strengthening the ability of the Joint Force to conduct full spectrum operations that enhance the military advantages of the United States. 
+ (7)  Securing the information technology and weapon systems of the Department against malicious activity. 
+ (8)  Advancing the deployment of secure 5G networks nationwide. 
+ (9)  Such other matters as the Secretary of Defense determines to be relevant. 
+ 
+ (c)  Consultation .— In developing the strategy and implementation plan required under subsection (a), the Secretary of Defense shall consult with the following: (1)  The Chief Information Officer of the Department of Defense. 
+ (2)  The Under Secretary of Defense for Research and Engineering. 
+ (3)  The Under Secretary of Defense for Acquisition and Sustainment. 
+ (4)  The Under Secretary of Defense for Intelligence. 
+ (5)  Service Acquisition Executives of each military service. 
+ 
+ (d)  Periodic Briefings .— (1)  Deadline. In general .— Not later than March 15, 2020, and not less frequently than once every three months thereafter through March 15, 2022, the Secretary of Defense shall provide to the congressional defense committees a briefing on the development and implementation of the strategy required under subsection (a), including an explanation of how the Department of Defense— (A)  is using secure 5G wireless network technology; 
+ (B)  is reshaping the Department’s policy for producing and procuring secure microelectronics; and 
+ (C)  is working in the interagency and internationally to develop common policies and approaches. 
+ 
+ (2)  Elements .— Each briefing under paragraph (1) shall include information on— (A)  efforts to ensure a secure supply chain for 5G wireless network equipment and microelectronics; 
+ (B)  the continued availability of electromagnetic spectrum for warfighting needs; 
+ (C)  planned implementation of 5G wireless network infrastructure in warfighting networks, base infrastructure, defense-related manufacturing, and logistics; 
+ (D)  steps taken to work with allied and partner countries to protect critical networks and supply chains; and 
+ (E)  such other topics as the Secretary of Defense considers relevant.

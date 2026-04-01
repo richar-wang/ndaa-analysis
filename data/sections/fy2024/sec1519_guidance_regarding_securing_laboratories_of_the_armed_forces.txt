@@ -1,0 +1,14 @@
+SEC. 1519.  10 USC note  prec. 2661. GUIDANCE REGARDING SECURING LABORATORIES OF THE ARMED FORCES. (a)  Deadline. Guidance .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chief Digital and Artificial Intelligence Officer of the Department, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Intelligence and Security, shall issue Department-wide guidance regarding methods and processes to secure laboratories of the Armed Forces from— (1)  unauthorized access and intrusion; 
+ (2)  damage to, and destruction, manipulation, or theft of, physical and digital laboratory assets; 
+ (3)  accidental or intentional release or disclosure of sensitive information; and 
+ (4)  cyber sabotage. 137 STAT. 551 
+ 
+ (b)  Methods and Processes .— At a minimum, the guidance under subsection (a) shall include, with respect to laboratories of the Armed Forces, methods and processes to— (1)  secure laboratory operations through zero trust principles; 
+ (2)  control the access of devices to laboratory information networks; 
+ (3)  secure inventory management processes of such laboratories; 
+ (4)  control or limit access to such laboratories to authorized individuals; 
+ (5)  maintain the security and integrity of data libraries, repositories, and other digital assets of such laboratories; 
+ (6)  report and remediate cyber incidents or other unauthorized intrusions affecting such laboratories; 
+ (7)  train and educate personnel of the Department on laboratory security; 
+ (8)  develop an operations security plan to secure laboratory operations that may be used by applicable units of the Armed Forces to implement countermeasures appropriate with respect to the mission, assessed risk, and resources available to the unit (including guidelines for implementation of routine procedures and measures to be employed during daily operations or activities of the unit); and 
+ (9)  develop and train applicable units of the Armed Forces on individualized secure laboratory critical information and indicator lists to aid in protecting critical information regarding any activity, intention, capability, or limitation of the Department over which an adversary seeks to gain a military, political, diplomatic, economic, or technological advantage.

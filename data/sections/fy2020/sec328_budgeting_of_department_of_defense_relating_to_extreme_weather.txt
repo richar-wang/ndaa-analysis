@@ -1,0 +1,6 @@
+SEC. 328.  10 USC 221 note . BUDGETING OF DEPARTMENT OF DEFENSE RELATING TO EXTREME WEATHER. (a)  In General .— The Secretary of Defense shall include in the annual budget submission of the President under  section 1105(a) of title 31, United States Code — (1)  a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks,  133 STAT. 1312 
+systems, installations, facilities, and other assets and capabilities of the Department of Defense; and 
+ (2)  Estimate. an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result extreme weather events. 
+ 
+ (b)  Disaggregation of Impacts and Costs .— The estimate under subsection (a)(2) shall set forth the adverse readiness impacts and financial costs under that subsection by military department, Defense Agency, and other component or element of the Department. 
+ (c)  Extreme Weather Defined .— In this section, the term “ extreme weather ” means recurrent flooding, drought, desertification, wildfires, and thawing permafrost.

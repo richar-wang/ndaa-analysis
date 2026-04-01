@@ -1,0 +1,36 @@
+{
+  "text": "Pilot program to increase payments for child care services in high-cost areas (a) Establishment The Secretary may establish a pilot program to increase the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under section 1798 of title 10, United States Code, for services provided to children who are two years old or younger in accordance with this section. (b) Requirements If the Secretary establishes a pilot program under subsection (a), the Secretary - (1) shall provide for an increased maximum amount of financial assistance under the pilot program in each area with high child care services costs, as determined by the Secretary; and (2) may provide for such increased maximum amount of financial assistance in other areas as the Secretary considers appropriate. (c) Reports (1) Annual Reports Not later than one year after the establishment of the pilot program under this subsection, and annually thereafter until the date of the termination of the pilot program, the Secretary shall submit to the congressional defense committees a report on the pilot program that includes - (A) the number of families with respect to whom the Secretary has increased the maximum amount of financial assistance per month per child being provided under the pilot program, disaggregated by location; (B) the methodology for determining the areas that should receive an increased amount of financial assistance per month per child under the pilot program; (C) the number of areas the Secretary determined should receive such increased amount of financial assistance; (D) the total amount of financial assistance provided under the pilot program with respect to such families, disaggregated by location; (E) the total amount of financial assistance that would have been provided with respect to such families without the increase under the pilot program, disaggregated by location; (F) the determination of the Secretary as to whether additional funding under the pilot program - (i) helped reduce child care costs for applicable military families; (ii) increased child care provider participation in the financial assistance available under this section; and (iii) increased access to infant and toddler care for military families; (G) the determination of the Secretary with respect to the feasibility of expanding the pilot program to all communities; (H) any challenges identified by the Secretary in carrying out the pilot program; (I) legislation or administrative action that the Secretary determines necessary to make the pilot program permanent; and (J) any other information the Secretary determines appropriate. (2) Final Report Not later than 90 days after the date of the termination of the pilot program, the Secretary shall submit to the congressional defense committees a report that includes - (A) the elements specified in subparagraphs (A) through (J) of paragraph (3); and (B) the recommendation of the Secretary as to whether to make the pilot program permanent. (d) Termination The pilot program established under this subsection shall terminate on the date that is five years after the date on which such program is established.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Pilot program to increase payments for child care services in high-cost areas (a) Establishment The Secretary may establish a pilot program to increase the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under section 1798 of title 10, United States Code, for services provided to children who are two years old or younger in accordance with this section. (b) Requirements If the Secretary establishes a pilot program under subsection (a), the Secretary - (1) shall provide for an increased maximum amount of financial assistance under the pilot program in each area with high child care services costs, as determined by the Secretary; and (2) may provide for such increased maximum amount of financial assistance in other areas as the Secretary considers appropriate. (c) Reports (1) Annual Reports Not later than one year after the establishment of the pilot program under this subsection, and annually thereafter until the date of the termination of the pilot program, the Secretary shall submit to the congressional defense committees a report on the pilot program that includes - (A) the number of families with respect to whom the Secretary has increased the maximum amount of financial assistance per month per child being provided under the pilot program, disaggregated by location; (B) the methodology for determining the areas that should receive an increased amount of financial assistance per month per child under the pilot program; (C) the number of areas the Secretary determined should receive such increased amount of financial assistance; (D) the total amount of financial assistance provided under the pilot program with respect to such families, disaggregated by location; (E) the total amount of financial assistance that would have been provided with respect to such families without the increase under the pilot program, disaggregated by location; (F) the determination of the Secretary as to whether additional funding under the pilot program - (i) helped reduce child care costs for applicable military families; (ii) increased child care provider participation in the financial assistance available under this section; and (iii) increased access to infant and toddler care for military families; (G) the determination of the Secretary with respect to the feasibility of expanding the pilot program to all communities; (H) any challenges identified by the Secretary in carrying out the pilot program; (I) legislation or administrative action that the Secretary determines necessary to make the pilot program permanent; and (J) any other information the Secretary determines appropriate. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00957441950837771,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2691,
+      "word_count": 413,
+      "token_length": 492
+    },
+    {
+      "text": "2) Final Report Not later than 90 days after the date of the termination of the pilot program, the Secretary shall submit to the congressional defense committees a report that includes - (A) the elements specified in subparagraphs (A) through (J) of paragraph (3); and (B) the recommendation of the Secretary as to whether to make the pilot program permanent. (d) Termination The pilot program established under this subsection shall terminate on the date that is five years after the date on which such program is established.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01133633591234684,
+      "confidence": "High",
+      "start_index": 2691,
+      "end_index": 3218,
+      "word_count": 87,
+      "token_length": 108
+    }
+  ],
+  "_submission_type": "solo"
+}

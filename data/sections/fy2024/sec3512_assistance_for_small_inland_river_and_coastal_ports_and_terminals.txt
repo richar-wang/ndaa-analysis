@@ -1,0 +1,10 @@
+SEC. 3512.  Data. ASSISTANCE FOR SMALL INLAND RIVER AND COASTAL PORTS AND TERMINALS. (a)  In General .— Section 54301(b) of title 46, United States Code ,  is amended — (1)  in paragraph (1), by  striking  “ the findings of which are acceptable to the Secretary ”; 
+ (2)  by  redesignating  paragraphs (2) through (5) as paragraphs (4) through (7), respectively; and 
+ (3)  by  inserting  after paragraph (1) the following new paragraph (2): “(2)  Independent audit .— “(A)  In general . Determination. — If an eligible applicant provides data by an independent audit for purposes of paragraph (1), the Secretary shall use such data to make a tonnage determination if the Secretary determines that it is acceptable to use such data instead of using Corps of Engineers data. 
+ “(B)  Acceptable use of data .— For purposes of subparagraph (A), an acceptable use of data means that the Secretary has determined such data is a reasonable substitute for Army Corps data. 
+ “(C)  Justification .— If the Secretary makes a determination pursuant to subparagraph (A) that it is not acceptable to use independent audit data provided by an eligible applicant, the Secretary shall provide the eligible applicant with notification of, and justification for, such determination. 
+ 
+ “(3)  Tonnage determination .— In making a determination of the average annual tonnage of cargo using Corps of Engineers data for purposes of evaluating an application of an eligible applicant pursuant to paragraph (1), the Secretary shall use data that is specific to the eligible applicant.” 
+ . 
+ 
+ (b)  Conforming Amendment .— Section 54301(a)(7)(C)(ii) of title 46, United States Code ,  is amended  by  striking  “ subsection (b)(3)(A)(ii)(III) ” and  inserting  “ subsection (b)(5)(A)(ii)(III) ”.

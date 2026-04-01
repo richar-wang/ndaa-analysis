@@ -1,0 +1,36 @@
+{
+  "text": "Imposition of sanctions (a) In general The President may impose the sanctions described in subsection (b) with respect to any foreign person determined to be a covered foreign person. (b) Sanctions described The President may exercise all of the powers granted to the President under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq. ) to the extent necessary to prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of a foreign person that is determined to be a covered foreign person pursuant to subsection (a). (c) Penalties The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) shall apply to any person who violates, attempts to violate, conspires to violate, or causes a violation of any prohibition of this section, or an order or regulation prescribed under this section, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of such Act ( 50 U.S.C. 1705(a) ). (d) Exception for intelligence and law enforcement activities Sanctions under this section shall not apply with respect to - (1) any activity subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq. ); or (2) any authorized intelligence activities of the United States. (e) Exception for United States Government activities Nothing in this section shall prohibit transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof. (f) Report to congress (1) In general Not later than one year after the date of the enactment of this Act, and annually thereafter for seven years, the President shall submit to the appropriate congressional committees a report that states whether any foreign person on the Non-SDN Chinese Military-Industrial Complex Companies List is a covered foreign person. (2) Form The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex. (g) Administrative provisions The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section. (h) Rule of construction Nothing in this section may be construed to limit the authority of the President to designate foreign persons for the imposition of sanctions pursuant to any other provision of Federal law, including the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq. ).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Imposition of sanctions (a) In general The President may impose the sanctions described in subsection (b) with respect to any foreign person determined to be a covered foreign person. (b) Sanctions described The President may exercise all of the powers granted to the President under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq. ) to the extent necessary to prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of a foreign person that is determined to be a covered foreign person pursuant to subsection (a). (c) Penalties The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) shall apply to any person who violates, attempts to violate, conspires to violate, or causes a violation of any prohibition of this section, or an order or regulation prescribed under this section, to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of such Act ( 50 U.S.C. 1705(a) ). (d) Exception for intelligence and law enforcement activities Sanctions under this section shall not apply with respect to - (1) any activity subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq. ); or (2) any authorized intelligence activities of the United States. (e) Exception for United States Government activities Nothing in this section shall prohibit transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof. (f) Report to congress (1) In general Not later than one year after the date of the enactment of this Act, and annually thereafter for seven years, the President shall submit to the appropriate congressional committees a report that states whether any foreign person on the Non-SDN Chinese Military-Industrial Complex Companies List is a covered foreign person. (2) Form The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014541229233145714,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2134,
+      "word_count": 346,
+      "token_length": 460
+    },
+    {
+      "text": "g) Administrative provisions The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section. (h) Rule of construction Nothing in this section may be construed to limit the authority of the President to designate foreign persons for the imposition of sanctions pursuant to any other provision of Federal law, including the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq. ).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.022229987429454923,
+      "confidence": "High",
+      "start_index": 2134,
+      "end_index": 2646,
+      "word_count": 81,
+      "token_length": 118
+    }
+  ],
+  "_submission_type": "solo"
+}

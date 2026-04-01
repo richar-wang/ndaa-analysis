@@ -1,0 +1,49 @@
+SEC. 5933.  DEFINITIONS.   In this subtitle: (1)  At-risk individual .— The term “ at-risk individual ” means— (A)  a Federal judge; 
+ (B)  a senior, recalled, or retired Federal judge; 
+ (C)  any individual who is the spouse, parent, sibling, or child of an individual described in subparagraph (A) or (B); 
+ (D)  any individual to whom an individual described in subparagraph (A) or (B) stands in loco parentis; or 136 STAT. 3460 
+ (E)  any other individual living in the household of an individual described in subparagraph (A) or (B). 
+ 
+ (2)  Covered information .— The term “ covered information ”— (A)  means— (i)  a home address, including primary residence or secondary residences; 
+ (ii)  a home or personal mobile telephone number; 
+ (iii)  a personal email address; 
+ (iv)  a social security number or driver’s license number; 
+ (v)  a bank account or credit or debit card information; 
+ (vi)  a license plate number or other unique identifiers of a vehicle owned, leased, or regularly used by an at-risk individual; 
+ (vii)  the identification of children of an at-risk individual under the age of 18; 
+ (viii)  the full date of birth; 
+ (ix)  information regarding current or future school or day care attendance, including the name or address of the school or day care, schedules of attendance, or routes taken to or from the school or day care by an at-risk individual; or 
+ (x)  information regarding the employment location of an at-risk individual, including the name or address of the employer, employment schedules, or routes taken to or from the employer by an at-risk individual; and 
+ 
+ (B)  does not include information regarding employment with a Government agency. 
+ 
+ (3)  Data broker .— (A)  In general .— The term “ data broker ” means an entity that collects and sells or licenses to third parties the personal information of an individual with whom the entity does not have a direct relationship.. 
+ (B)  Exclusion .— The term “ data broker ” does not include a commercial entity engaged in the following activities: (i)  Engaging in reporting, news-gathering, speaking, or other activities intended to inform the public on matters of public interest or public concern. 
+ (ii)  Providing 411 directory assistance or directory information services, including name, address, and telephone number, on behalf of or as a function of a telecommunications carrier. 
+ (iii)  Using personal information internally, providing access to businesses under common ownership or affiliated by corporate control, or selling or providing data for a transaction or service requested by or concerning the individual whose personal information is being transferred. 
+ (iv)  Providing publicly available information via real-time or near-real-time alert services for health or safety purposes. 
+ (v)  A consumer reporting agency subject to the Fair Credit Reporting Act ( 15 U.S.C. 1681 et seq. ). 136 STAT. 3461 
+ (vi)  A financial institution subject to the Gramm-Leach-Bliley Act ( Public Law 106–102 ) and regulations implementing that title. 
+ (vii)  A covered entity for purposes of the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ( 42 U.S.C. 1320d-2 note ). 
+ (viii)  The collection and sale or licensing of covered information incidental to conducting the activities described in clauses (i) through (vii). 
+ 
+ 
+ (4)  Federal judge .— The term “ Federal judge ” means— (A)  a justice of the United States or a judge of the United States, as those terms are defined in  section 451 of title 28, United States Code ; 
+ (B)  a bankruptcy judge appointed under  section 152 of title 28, United States Code ; 
+ (C)  a United States magistrate judge appointed under  section 631 of title 28, United States Code ; 
+ (D)  a judge confirmed by the United States Senate and empowered by statute in any commonwealth, territory, or possession to perform the duties of a Federal judge; 
+ (E)  a judge of the United States Court of Federal Claims appointed under  section 171 of title 28, United States Code ; 
+ (F)  a judge of the United States Court of Appeals for Veterans Claims appointed under  section 7253 of title 38, United States Code ; 
+ (G)  a judge of the United States Court of Appeals for the Armed Forces appointed under  section 942 of title 10, United States Code ; 
+ (H)  a judge of the United States Tax Court appointed under section 7443 of the Internal Revenue Code of 1986; and 
+ (I)  a special trial judge of the United States Tax Court appointed under section 7443A of the Internal Revenue Code of 1986. 
+ 
+ (5)  Government agency .— The term “ Government agency ” includes— (A)  an Executive agency, as defined in  section 105 of title 5, United States Code ; and 
+ (B)  any agency in the judicial branch or legislative branch. 
+ 
+ (6)  Immediate family member .— The term “ immediate family member ” means— (A)  any individual who is the spouse, parent, sibling, or child of an at-risk individual; 
+ (B)  any individual to whom an at-risk individual stands in loco parentis; or 
+ (C)  any other individual living in the household of an at-risk individual. 
+ 
+ (7)  Interactive computer service .— The term “ interactive computer service ” has the meaning given the term in section 230 of the Communications Act of 1934 ( 47 U.S.C. 230 ). 
+ (8)  Transfer .— The term “ transfer ” means to sell, license, trade, or exchange for consideration the covered information of an at-risk individual or immediate family member. 136 STAT. 3462

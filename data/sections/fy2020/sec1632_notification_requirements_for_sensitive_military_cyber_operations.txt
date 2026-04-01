@@ -1,0 +1,12 @@
+SEC. 1632.  NOTIFICATION REQUIREMENTS FOR SENSITIVE MILITARY CYBER OPERATIONS.    Section 395 of title 10, United States Code ,  is amended — (1)  in subsection (b)(3), by  inserting  “ , signed by the Secretary, or the Secretary’s designee, ” after “ written notification ”; and 
+ (2)  in subsection (c)— (A)  in paragraph (1)— (i)  in subparagraph (A), by  striking  “ and ” after the semicolon at the end; 
+ (ii)  by  redesignating  subparagraph (B) as subparagraph (C); and 
+ (iii)  by  inserting  after subparagraph (A) the following new subparagraph: “(B)  is determined to— 133 STAT. 1746 “(i)  have a medium or high collateral effects estimate; 
+ “(ii)  have a medium or high intelligence gain or loss; 
+ “(iii)  have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations; 
+ “(iv)  have a medium or high probability of detection when detection is not intended; or 
+ “(v)  result in medium or high collateral effects; and” 
+ 
+ ; and 
+ 
+ (B)  in paragraph (2)(B), by  striking  “ outside the Department of Defense Information Networks to defeat an ongoing or imminent threat ”.

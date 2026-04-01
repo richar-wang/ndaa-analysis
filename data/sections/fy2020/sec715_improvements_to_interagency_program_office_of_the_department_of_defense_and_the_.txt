@@ -1,0 +1,111 @@
+SEC. 715.  IMPROVEMENTS TO INTERAGENCY PROGRAM OFFICE OF THE DEPARTMENT OF DEFENSE AND THE DEPARTMENT OF VETERANS AFFAIRS. (a)  Leadership .— Subsection (c) of section 1635 of the Wounded Warrior Act ( title XVI of Public Law 110–181 ;  10 U.S.C. 1071 note )  is amended  to read as follows: “(c)  Leadership .— “(1)  Director .— The Director of the Office shall be the head of the Office. 
+ “(2)  Deputy director .— The Deputy Director of the Office shall be the deputy head of the Office and shall assist the Director in carrying out the duties of the Director. 
+ “(3)  Reporting .— The Director shall report directly to the Deputy Secretary of Defense and the Deputy Secretary of Veterans Affairs. 
+ “(4)  Appointments .— “(A)  Director .— The Director shall be appointed by the Secretary of Defense, with the concurrence of the Secretary of Veterans Affairs, for a fixed term of four years. For the subsequent term, the Secretary of Veterans Affairs, with the concurrence of the Secretary of Defense, shall appoint the Director for a fixed term of four years, and thereafter, the appointment of the Director for a fixed term of four years shall alternate between the Secretaries. 133 STAT. 1447 
+ “(B)  Deputy director .— The Deputy Director shall be appointed by the Secretary of Veterans Affairs, with the concurrence of the Secretary of Defense, for a fixed term of four years. For the subsequent term, the Secretary of Defense, with the concurrence of the Secretary of Veterans Affairs, shall appoint the Deputy Director for a fixed term of four years, and thereafter, the appointment of the Deputy Director for a fixed term of four years shall alternate between the Secretaries. 
+ “(C)  Minimum qualifications .— The Secretary of Defense and the Secretary of Veterans Affairs shall jointly develop qualification requirements for the Director and the Deputy Director. Such requirements shall ensure that, at a minimum, the Director and Deputy Director, individually or together, meet the following qualifications: “(i)  Significant experience at a senior management level fielding enterprise-wide technology in a health care setting, or business systems in the public or private sector. 
+ “(ii)  Credentials for enterprise-wide program management. 
+ “(iii)  Significant experience leading implementation of complex organizational change by integrating the input of experts from various disciplines, such as clinical, business, management, informatics, and technology. 
+ 
+ 
+ “(5)  Succession .— The Secretary of Defense and the Secretary of Veterans Affairs shall jointly develop a leadership succession process for the Office. 
+ “(6)  Additional guidance .— The Department of Veterans Affairs-Department of Defense Joint Executive Committee may provide guidance in the discharge of the functions of the Office under this section. 
+ “(7)  Testimony. Briefing. Information to congress .— Upon request by any of the appropriate committees of Congress, the Director and the Deputy Director shall testify before such committee, or provide a briefing or otherwise provide requested information to such committee, regarding the discharge of the functions of the Office under this section.” 
+ 
+ . 
+ (b)  Authority .— Paragraph (1) of subsection (b) of such section  is amended  by  adding  at the end the following new sentence: “ The Office shall carry out decision making authority delegated to the Office by the Secretary of Defense and the Secretary of Veterans Affairs with respect to the definition, coordination, and management of functional, technical, and programmatic activities that are jointly used, carried out, and shared by the Departments. ”. 
+ (c)  Purposes .— Paragraph (2) of subsection (b) of such section  is amended  by  adding  at the end the following new subparagraphs: “(C)  Strategy. To develop and implement a comprehensive interoperability strategy, which shall include— “(i)  the Electronic Health Record Modernization Program of the Department of Veterans Affairs; and 
+ “(ii)  the Healthcare Management System Modernization Program of the Department of Defense. 
+ 
+ “(D)  To pursue the highest level of interoperability for the delivery of health care by the Department of Defense and the Department of Veterans Affairs. 133 STAT. 1448 
+ “(E)  To accelerate the exchange of health care information between the Departments, and advances in the health information technology marketplace, in order to support the delivery of health care by the Departments. 
+ “(F)  To collect the operational and strategic requirements of the Departments relating to the strategy under subsection (a) and communicate such requirements and activities to the Office of the National Coordinator for Health Information Technology of the Department of Health and Human Services for the purpose of implementing title IV of the 21st Century Cures Act ( division A of Public Law 114–255 ), and the amendments made by that title, and other objectives of the Office of the National Coordinator for Health Information Technology. 
+ “(G)  To plan for and effectuate the broadest possible implementation of standards, specifically with respect to the Fast Healthcare Interoperability Resources standard or successor standard, the evolution of such standards, and the obsolescence of such standards. 
+ “(H)  To actively engage with national and international health standards setting organizations, including by taking membership in such organizations, to ensure that standards established by such organizations meet the needs of the Departments pursuant to the strategy under subsection (a), and oversee and approve adoption of and mapping to such standards by the Departments. 
+ “(I)  To express the content and format of health data of the Departments using a common language to improve the exchange of data between the Departments and with the private sector, and to ensure that clinicians of the Departments have access to integrated, computable, comprehensive health records of patients. 
+ “(J)  To inform the Chief Information Officer of the Department of Defense and the Chief Information Officer of the Department of Veterans Affairs of any activities of the Office affecting or relevant to cybersecurity. 
+ “(K)  To establish an environment that will enable and encourage the adoption by the Departments of innovative technologies for health care delivery. 
+ “(L)  To leverage data integration to advance health research and develop an evidence base for the health care programs of the Departments. 
+ “(M)  To prioritize the use of open systems architecture by the Departments. 
+ “(N)  To ensure ownership and control by patients of personal health information and data in a manner consistent with applicable law. 
+ “(O)  To prevent contractors of the Departments or other non-departmental entities from owning or having exclusive control over patient health data, for the purposes of protecting patient privacy and enhancing opportunities for innovation. 
+ “(P)  To implement a single lifetime longitudinal personal health record between the Department of Defense and the Department of Veterans Affairs. 
+ “(Q)  To attain interoperability capabilities— 133 STAT. 1449 “(i)  sufficient to enable the provision of seamless health care by health care facilities and providers of the Departments, as well as private sector facilities and providers contracted by the Departments; and 
+ “(ii)  that are more adaptable and far reaching than those achievable through biodirectional information exchange between electronic health records of the exchange of read-only data alone. 
+ 
+ “(R)  To make maximum use of open-application program interfaces and the Fast Healthcare Interoperability Resources standard (or successor standard).” 
+ . 
+ (d)  Implementation Milestones .— Subsection (e) of such section  is amended  to read as follows: “(e)  Implementation Milestones .— “(1)  Contracts. Deadline. Evaluation .— With respect to the electronic health record systems of the Department of Defense and the Department of Veterans Affairs, the Office shall seek to enter into an agreement with an independent entity to conduct an evaluation by not later than October 1, 2021 of the following: “(A)  Whether a clinician of the Department of Defense, can access, and meaningfully interact with, a complete patient health record of a veteran, from a military medical treatment facility. 
+ “(B)  Whether a clinician of the Department of Veterans Affairs can access, and meaningfully interact with, a complete patient health record of a member of the Armed Forces serving on active duty, from a medical center of the Department of Veterans Affairs. 
+ “(C)  Whether clinicians of the Departments can access, and meaningfully interact with, the data elements of the health record of a patient who is a veteran or is a member of the Armed Forces which are generated when the individual receives health care from a community care provider of the Department of Veterans Affairs or a TRICARE program provider of the Department of Defense. 
+ “(D)  Whether a community care provider of the Department of the Veterans Affairs and a TRICARE program provider of the Department of Defense on a Health Information Exchange-supported electronic health record can access patient health records of veterans and active-duty members of the Armed Forces from the system of the provider. 
+ “(E)  Assessment. An assessment of interoperability between the legacy electronic health record systems and the future electronic health record systems of the Department of Veterans Affairs and the Department of Defense. 
+ “(F)  Assessment. An assessment of the use of interoperable content between— “(i)  the legacy electronic health record systems and the future electronic health record systems of the Department of Veterans Affairs and the Department of Defense; and 
+ “(ii)  third-party applications. 
+ 
+ 
+ “(2)  System configuration management .— The Office shall— “(A)  maintain the common configuration baseline for the electronic health record systems of the Department of Defense and the Department of Veterans Affairs; and 133 STAT. 1450 
+ “(B)  continually evaluate the state of configuration and the impacts on interoperability; and 
+ “(C)  promote the enhancement of such electronic health records systems. 
+ 
+ “(3)  Consultation .— “(A)  Annual meeting required .— Not less than once per year, the Office shall convene a meeting of clinical staff from the Department of Defense, the Department of Veterans Affairs, the Coast Guard, community providers, and other leading clinical experts, for the purpose of assessing the state of clinical use of the electronic health record systems and whether the systems are meeting clinical and patient needs. 
+ “(B)  Recommendations .— Clinical staff participating in a meeting under subparagraph (A) shall make recommendations to the Office on the need for any improvements or concerns with the electronic health record systems. 
+ 
+ “(4)  Time period. Clinical and patient satisfaction survey .— Beginning October 1, 2021, and on at least a biannual basis thereafter until 2025 at the earliest, the Office shall undertake a clinician and patient satisfaction survey regarding clinical use and patient experience with the electronic health record systems of the Department of Defense and the Department of Veterans Affairs.” 
+ 
+ . 
+ (e)  Resources and Staffing .— Subsection (g) of such section  is amended — (1)  in paragraph (1), by  inserting  before the period at the end the following: “ , including the assignment of clinical or technical personnel of the Department of Defense or the Department of Veterans Affairs to the Office ”; and 
+ (2)  by  adding  at the end the following new paragraphs: “(3)  Cost sharing .— The Secretary of Defense and the Secretary of Veterans shall enter into an agreement on cost sharing and providing resources for the operations and staffing of the Office. 
+ “(4)  Hiring authority .— The Secretary of Defense and the Secretary of Veterans Affairs shall delegate to the Director the authority under  title 5, United States Code , regarding appointments in the competitive service to hire personnel of the Office.” 
+ . 
+ 
+ (f)  Reports .— Subsection (h) of such section  is amended  to read as follows: “(h)  Reports .— “(1)  Annual reports .— Not later than September 30, 2020, and each year thereafter through 2024, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include the following: “(A)  A detailed description of the activities of the Office during the year covered by such report, including a detailed description of the amounts expended and the purposes for which expended. 
+ “(B)  With respect to the objectives of the strategy under paragraph (2)(C) of subsection (b), and the purposes of the Office under such subsection— 133 STAT. 1451 “(i)  Assessment. a discussion, description, and assessment of the progress made by the Department of Defense and the Department of Veterans Affairs during the preceding calendar year; and 
+ “(ii)  a discussion and description of the goals of the Department of Defense and the Department of Veterans Affairs for the following calendar year, including updates to strategies and plans. 
+ 
+ “(C)  Financial summary. Assessment. A detailed financial summary of the activities of the Office, including the funds allocated to the Office by each Department, the expenditures made, and an assessment as to whether the current funding is sufficient to carry out the activities of the Office. 
+ “(D)  A detailed description of the status of each of the implementation milestones, including the nature of the evaluation, methodology for testing, and findings with respect to each milestone under subsection (e). 
+ “(E)  A detailed description of the state of the configuration baseline, including any activities which decremented or enhanced the state of configuration under subsection (e). 
+ “(F)  With respect to the annual meeting required under subsection (e)(3)— “(i)  a detailed description of activities, assessments, and recommendations relating to such meeting; and 
+ “(ii)  the response of the Office to any such recommendations. 
+ 
+ 
+ “(2)  Public information. Availability .— Each report under this subsection shall be made publicly available.” 
+ 
+ . 
+ (g)  Definitions .— Such section is further amended by  adding  at the end the following new subsection (k): “(k)  Definitions .— In this section: “(1)  The term ‘ appropriate congressional committees ’ means— “(A)  the congressional defense committees; and 
+ “(B)  the Committees on Veterans’ Affairs of the House of Representatives and the Senate. 
+ 
+ “(2)  The term ‘ configuration baseline ’ means a fixed reference in the development cycle or an agreed-upon specification of a product at a point in time that serves as a documented basis for defining incremental change in all aspects of an information technology product. 
+ “(3)  The term ‘ Electronic Health Record Modernization Program ’ has the meaning given that term in section 503 of the Veterans Benefits and Transition Act of 2018 ( Public Law 115–407 ;  132 Stat. 5376 ). 
+ “(4)  The term ‘ interoperability ’ means the ability of different information systems, devices, or applications to connect, regardless of the technology platform or the location where care is provided— “(A)  in a coordinated and secure manner, within and across organizational boundaries, and across the complete spectrum of care, including all applicable care settings; 
+ “(B)  with relevant stakeholders, including the person whose information is being shared, to access, exchange,  133 STAT. 1452 
+integrate, and use computable data regardless of the origin or destination of the data or the applications employed; 
+ “(C)  with the capability to reliably exchange information without error; 
+ “(D)  with the ability to interpret and to make effective use of such exchanged information; 
+ “(E)  with the ability for information that can be used to advance patient care to move between health care entities; and 
+ “(F)  without additional intervention by the end user. 
+ 
+ “(5)  The term ‘ meaningfully interact ’ means the ability to view, consume, act upon, and edit information in a clinical setting to facilitate high-quality clinical decision making. 
+ “(6)  The term ‘ seamless health care ’ means health care which is optimized through access by patients and clinicians to integrated, relevant, and complete information about the clinical experiences of the patient, social and environmental determinants of health, and health trends over time, in order to enable patients and clinicians to— “(A)  move efficiently within and across organizational boundaries; 
+ “(B)  make high-quality decisions; and 
+ “(C)  effectively carry out complete plans of care. 
+ 
+ “(7)  The term ‘ Secretary concerned ’ means— “(A)  the Secretary of Defense, with respect to matters concerning the Department of Defense; 
+ “(B)  the Secretary of Veterans Affairs, with respect to matters concerning the Department of Veterans Affairs; and 
+ “(C)  the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy. 
+ 
+ “(8)  The term ‘ TRICARE program ’ has the meaning given that term in  section 1072 of title 10, United States Code .” 
+ 
+ . 
+ (h)  Interoperability Strategy .— (1)  Report required .— Not later than 270 days after the date of the enactment of this Act, the Director shall submit to each Secretary concerned and to the appropriate congressional committees a report that contains a comprehensive interoperability strategy with respect to electronic health records jointly developed by the Secretary of Defense and Secretary of Veterans Affairs, including any accompanying or associated implementation plans and supporting plans. 
+ (2)  Elements .— The comprehensive interoperability strategy under paragraph (1) shall discuss the purposes described in paragraphs (K) through (R) of section 1635(b)(2) of the Wounded Warrior Act ( title XVI of Public Law 110–181 ;  10 U.S.C. 1071 note ), as amended by subsection (c). 
+ (3)  Definitions .— In this subsection: (A)  The term “ appropriate congressional committees ” means— (i)  the Committees on Armed Services of the Senate and the House of Representatives; and 
+ (ii)  the Committees on Veterans’ Affairs of the Senate and the House of Representatives. 
+ 
+ (B)  The term “ Director ” means the individual described in section 1635(c) of the Wounded Warrior Act (title XVI  133 STAT. 1453 
+of  Public Law 110–181 ;  10 U.S.C. 1071 note ), as amended by subsection (a). 
+ (C)  The term “ interoperability ” has the meaning given that term in subsection (k) of such section, as added by subsection (g). 
+ 
+ 
+ (i)  Conforming Repeal .— Section 713 of the National Defense Authorization Act for Fiscal Year 2014 ( Public Law 113–66 ;  10 U.S.C. 1071 note ) is  repealed .

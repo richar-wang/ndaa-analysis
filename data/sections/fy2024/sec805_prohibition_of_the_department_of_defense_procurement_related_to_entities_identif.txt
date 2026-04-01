@@ -1,0 +1,29 @@
+SEC. 805.  10 USC note   prec. 4651. PROHIBITION OF THE DEPARTMENT OF DEFENSE PROCUREMENT RELATED TO ENTITIES IDENTIFIED AS CHINESE MILITARY COMPANIES OPERATING IN THE UNITED STATES. (a)  Prohibition on Use or Procurement .— (1)  In general .— Except as provided under subsection (d), the Secretary may not— (A)  enter into, renew, or extend a contract for the procurement of goods, services, or technology with an entity described in paragraph (2); or 
+ (B)  enter into, renew, or extend a contract for the procurement of goods or services that include goods or services produced or developed by an entity described in paragraph (2). 
+ 
+ (2)  Entities described .— An entity described in this paragraph is— 137 STAT. 316 
+ (A)  an entity that is identified in the annual list published in the Federal Register by the Department of Defense of Chinese military companies operating in the United States pursuant to section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( 10 U.S.C. 113 note ); or 
+ (B)  any entity subject to the control of an entity described in subparagraph (A). 
+ 
+ (3)  Limitation on applicability .— (A)  In general .— Nothing in paragraph (1) shall prohibit the Secretary from entering into, renewing, or extending a contract for the procurement of goods, services, or technology to provide a service that connects to the facilities of a third party, including backhaul, roaming, or interconnection arrangements. 
+ (B)  Existing contracts .— Nothing in this section shall permit the Secretary to apply the prohibitions in paragraph (1) to existing contracts for goods, services, or technology, including when such contracts are modified, extended, or renewed, entered into prior to the relevant date described in subsection (b). 
+ (C)  Components .— Paragraph (1) shall not apply with respect to components (as defined in  section 105 of title 41, United States Code ). 
+ 
+ (4)  Deadlines. Rulemaking .— (A)  Entity prohibition .— Not later than one year after the date of the enactment of this Act, the Secretary shall amend the Defense Federal Acquisition Regulation Supplement to implement the prohibitions in paragraph (1)(A) for the Department of Defense. 
+ (B)  Goods and services prohibition .— Not later than 545 days after the date of the enactment of this Act, the Secretary shall amend the Defense Federal Acquisition Regulation Supplement to implement the prohibitions in paragraph (1)(B) for the Department of Defense, including— (i)  best practices to avoid being subject to the prohibitions described in paragraph (1)(B); and 
+ (ii)  technical support to assist affected businesses, institutions, and organizations as is reasonably necessary for those affected entities to comply with this section. 
+ 
+ 
+ 
+ (b)  Effective Dates .— The prohibition under subsection (a)(1)(A) shall take effect on June 30, 2026, and the prohibition under subsection (a)(1)(B) shall take effect on June 30, 2027. 
+ (c)  Waiver Authority .— (1)  In general .— The Secretary may waive the requirements under subsection (a) with respect to an entity that requests such a waiver if the entity seeking the waiver— (A)  provides to the Secretary a compelling justification for the additional time to implement the requirements under such subsection, as determined by the Secretary of Defense; and 
+ (B)  Plan. provides to the Secretary a phase-out plan to eliminate goods, services, or technology produced or developed by an entity described in subsection (a)(2) from the systems of the entity. 137 STAT. 317 
+ 
+ (2)  Duration .— A waiver granted under paragraph (1) may remain in effect until the date on which the Secretary determines that commercially viable providers exist outside of the People’s Republic of China that can and are willing to provide the Department of Defense with quality goods and services in the quantity demanded. 
+ (3)  Delegation .— The Secretary may designate the authority under this section only to— (A)  the service acquisition executive of the military department (as such terms are defined in  section 101(a) of title 10, United States Code ) concerned; or 
+ (B)  the official responsible for all acquisition functions of such other element or organization of the Department of Defense concerned. 
+ 
+ 
+ (d)  Exception .— The President shall not be required to apply or maintain the prohibition under subsection (a) for activities subject to the reporting requirements under title V of the National Security Act of 1947 ( 50 U.S.C. 3091 et seq. ), or to any authorized intelligence activities of the United States. 
+ (e)  Definitions .— In this section: (1)  Control .— The term “ control ” has the meaning given that term in  part 800.208 of title 31, Code of Federal Regulations , or any successor regulations. 
+ (2)  Secretary .— The term “ Secretary ” means the Secretary of Defense.

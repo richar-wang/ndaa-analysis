@@ -1,0 +1,55 @@
+SEC. 3543.  MARITIME ENVIRONMENTAL AND TECHNICAL ASSISTANCE PROGRAM. (a)  In General .— Section 50307 of title 46, United States Code ,  is amended — (1)  by  striking  the subsection (a) enumerator and all that follows through “ Transportation ” and  inserting  the following: “(a)  Emerging Marine Technologies and Practices .— “(1)  In general .— The Secretary of Transportation” 
+ 
+ ; 
+ (2)  in subsection (b)— (A)  in paragraph (1)— (i)  by  redesignating  subparagraphs (A) through (D) as clauses (i) through (iv), respectively and adjusting the margins accordingly; and 
+ (ii)  in clause (iv), as redesignated by clause (i), by  striking  “ propeller cavitation ” and  inserting  “ incidental vessel-generated underwater noise, such as noise from propeller cavitation or hydrodynamic flow ”; 
+ 
+ (B)  by  redesignating  paragraphs (1) and (2) as subparagraphs (A) and (B), respectively and adjusting the margins accordingly; 
+ 
+ (3)  in subsection (c), by  redesignating  paragraphs (1) and (2) as subparagraphs (A) and (B), respectively and adjusting the margins accordingly; 
+ (4)  by  redesignating  subsections (b) through (d) as paragraphs (2) through (4), respectively and adjusting the margins accordingly; 
+ (5)  by  redesignating  subsection (e) as subsection (b); 
+ (6)  by  striking  subsection (f); 
+ (7)  in subsection (a)— (A)  in paragraph (1), as designated under paragraph (1) of this section— (i)  by  inserting  “ or support ” after “ engage in ”; 
+ (ii)  by  striking  “ the use of public ” and all that follows through the end of the sentence and  inserting  “ eligible entities. ”; 
+ 
+ (B)  in paragraph (2), as redesignated under paragraph (4) of this section— (i)  by  striking  “ this section ” and  inserting  “ this subsection ”; 
+ (ii)  by  striking  “ or improve ” and  inserting  “ improve, or support efforts related to, ”; 
+ 
+ (C)  in paragraph (3), as redesignated by paragraph (4) of this section, by  striking  “ under subsection (b)(2)  136 STAT. 3099 
+may include ” and  inserting  “ with other Federal agencies or with State, local, or Tribal governments, as appropriate, under paragraph (2)(B) may include ”; 
+ (D)  in paragraph (4), as redesignated by paragraph (4) of this section— (i)  by  striking  “ academic, public, private, and nongovernmental entities and facilities ” and  inserting  “ eligible entities ”; and 
+ (ii)  by  striking  “ subsection (a) ” and  inserting  “ this subsection ”; and 
+ 
+ (E)  by  adding  at the end the following: “(5)  Grants .— Subject to the availability of appropriations, the Maritime Administrator, may establish and carry out a competitive grant program to award grants to eligible entities for projects in the United States consistent with the goals of this subsection to study, evaluate, test, demonstrate, or apply technologies and practices to improve environmental performance.” 
+ ; 
+ 
+ (8)  in subsection (b), as redesignated by paragraph (5) of this section, by  striking  “ subsection (b)(1) ” and  inserting  “ this section ”; and 
+ (9)  by  adding  at the end the following: “(c)  Vessels .— Activities carried out under a grant or cooperative agreement made under this section may be conducted on public vessels under the control of the Maritime Administration, upon approval of the Maritime Administrator. 
+ “(d)  Eligible Entity Defined .— In this section, the term ‘ eligible entity ’ means— “(1)  a private entity, including a nonprofit organization; 
+ “(2)  a State, regional, or local government or entity, including special districts; 
+ “(3)  an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 )) or a consortium of Indian Tribes; 
+ “(4)  an institution of higher education as defined under section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 ); or 
+ “(5)  a partnership or collaboration of entities described in paragraphs (1) through (4). 
+ 
+ “(e)  Establishment. Center for Maritime Innovation .— “(1)  Contracts. In general .— The Secretary of Transportation shall, through a cooperative agreement, establish a United States Center for Maritime Innovation (referred to in this subsection as the ‘Center’) to support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system. 
+ “(2)  Selection .— The Center shall be— “(A)  selected through a competitive process of eligible entities, and if a private entity, a domestic entity; 
+ “(B)  based in the United States with technical expertise in emerging marine technologies and practices related to the maritime transportation system; and 
+ “(C)  located in close proximity to eligible entities with expertise in United States emerging marine technologies and practices, including the use of alternative fuels and the development of both vessel and shoreside infrastructure. 136 STAT. 3100 
+ 
+ “(3)  Coordination .— The Secretary of Transportation shall coordinate with other agencies critical for science, research, and regulation of emerging marine technologies for the maritime sector, including the Department of Energy, the Environmental Protection Agency, the National Science Foundation, and the Coast Guard, when establishing the Center. 
+ “(4)  Functions .— The Center shall— “(A)  support eligible entities regarding the development and use of clean energy and necessary infrastructure to support the deployment of clean energy on vessels of the United States; 
+ “(B)  monitor and assess, on an ongoing basis, the current state of knowledge regarding emerging marine technologies in the United States; 
+ “(C)  identify any significant gaps in emerging marine technologies research specific to the United States maritime industry, and seek to fill those gaps; 
+ “(D)  conduct research, development, testing, and evaluation for equipment, technologies, and techniques to address the components under subsection (a)(2); 
+ “(E)  provide— “(i)  guidance on best available technologies; 
+ “(ii)  technical analysis; 
+ “(iii)  assistance with understanding complex regulatory requirements; and 
+ “(iv)  documentation of best practices in the maritime industry, including training and informational webinars on solutions for the maritime industry; and 
+ 
+ “(F)  work with academic and private sector response training centers and Domestic Maritime Workforce Training and Education Centers of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.” 
+ 
+ 
+ . 
+ 
+ (b)  46 USC 50307 note . Deadline for Implementation .— The Secretary of Transportation shall establish the United States Center for Maritime Innovation under subsection (e) of  section 50307 of title 46, United States Code , as added by subsection (a), by not later than one year after the date of the enactment of this Act.

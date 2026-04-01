@@ -1,0 +1,7 @@
+SEC. 1662.  MODIFICATION OF AUTHORITIES RELATING TO NUCLEAR COMMAND, CONTROL, AND COMMUNICATIONS SYSTEM. (a)  Duties and Powers of Under Secretary of Defense for Acquisition and Sustainment .— Section 133b(b) of title 10, United States Code ,  is amended — (1)  by  redesignating  paragraphs (4), (5), (6), and (7) as paragraphs (5), (6), (7), and (8), respectively; 
+ (2)  by  inserting  after paragraph (3) the following new paragraph (4): “(4)  establishing policies for, and providing oversight, guidance, and coordination with respect to, the nuclear command, control, and communications system;” 
+ ; and 
+ (3)  in paragraph (6), as redesignated by paragraph (1), by  inserting  after “ overseeing the modernization of nuclear forces ” the following: “ , including the nuclear command, control, and communications system, ”. 
+ 
+ (b)  Duties and Responsibilities of Chief Information Officer .— Section 142(b)(1) of such title  is amended — (1)  by  striking  subparagraph (G); and 
+ (2)  by  redesignating  subparagraphs (H) and (I) as subparagraphs (G) and (H), respectively.

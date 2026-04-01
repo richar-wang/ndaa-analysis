@@ -1,0 +1,6 @@
+SEC. 221.  UNDERSTANDING OF INVESTMENTS IN ARTIFICIAL INTELLIGENCE AND DEVELOPMENT OF CAPABILITIES BY ADVERSARIES.   Section 238(c)(2)(I) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ) 10 USC 2358 note .   is amended — (1)  in clause (i), by  striking  “ ; and ” and  inserting  a semicolon; 133 STAT. 1262 
+ (2)  in clause (ii), by  striking  the period at the end and  inserting  “ ; and ”; and 
+ (3)  by  adding  at the end the following new clause: “(iii)  that appropriate entities in the Department are reviewing all open source publications from both the United States and outside the United States that contribute to, affect, or advance— “(I)  artificial intelligence research and development; or 
+ “(II)  the understanding of the Secretary concerning the investments by adversaries of the United States in artificial intelligence and the development by such adversaries of capabilities relating to artificial intelligence.” 
+ 
+ .

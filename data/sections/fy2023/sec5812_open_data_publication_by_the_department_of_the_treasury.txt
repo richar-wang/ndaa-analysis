@@ -1,0 +1,15 @@
+SEC. 5812.  OPEN DATA PUBLICATION BY THE DEPARTMENT OF THE TREASURY. (a)  In General .— Subtitle A of the Financial Stability Act of 2010 ( 12 U.S.C. 5321 et seq. ), as amended by section 5811(a), is further amended by  adding  at the end the following: “SEC. 125.  12 USC 5335 . OPEN DATA PUBLICATION.   “All public data assets published by the Secretary under this subtitle shall be— “(1)  made available as an open Government data asset (as defined in  section 3502 of title 44, United States Code ); 
+ “(2)  freely available for download; 
+ “(3)  rendered in a human-readable format; and 
+ “(4)  accessible via application programming interface where appropriate.” 
+ 
+ . 
+ (b)  Clerical Amendment .— The table of contents under section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, as amended by section 5811(b), is further amended by  inserting  after the item relating to section 124 the following: 
+ 
+ “Sec. 125.  
+ Open data publication.”. 
+ 
+ 
+ (c)  Effective date. Deadline. 12 USC 5335 note . Rulemaking .— (1)  In general .— The Secretary of the Treasury shall issue rules to carry out the amendments made by this section, which  136 STAT. 3424 
+shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010, as added by section 5811(a) of this title. 
+ (2)  Delegation .— Notwithstanding any other provision of law, the Secretary of the Treasury may delegate the functions required under the amendments made by this subtitle to an appropriate office within the Department of the Treasury.

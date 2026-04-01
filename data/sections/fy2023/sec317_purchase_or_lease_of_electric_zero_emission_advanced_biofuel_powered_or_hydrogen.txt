@@ -1,0 +1,26 @@
+SEC. 317.  PURCHASE OR LEASE OF ELECTRIC, ZERO EMISSION, ADVANCED-BIOFUEL-POWERED, OR HYDROGEN-POWERED VEHICLES FOR THE DEPARTMENT OF DEFENSE. (a)  Requirement .— Section 2922g of title 10, United States Code ,  is amended — (1)  in the heading, by  striking  “ systems ” and  inserting  “ systems; purchase or lease of certain electric and other vehicles ”; 
+ (2)  in subsection (a), by  striking  “ In leasing ” and  inserting  “ During the period preceding October 1, 2035, in leasing ”; 
+ (3)  in subsection (c), by  inserting  “ , during the period specified in subsection (a), ” after “ from authorizing ”; and 
+ (4)  by  adding  at the end the following new subsections: “(d)  Effective date. Requirement .— Except as provided in subsection (e), beginning on October 1, 2035, each covered nontactical vehicle purchased or leased by or for the use of the Department of Defense shall be— “(1)  an electric or zero emission vehicle that uses a charging connector type (or other means to transmit electricity to the vehicle) that meets applicable industry accepted standards for interoperability and safety; 
+ “(2)  an advanced-biofuel-powered vehicle; or 
+ “(3)  a hydrogen-powered vehicle. 
+ 
+ “(e)  Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels .— Effective date. Determination. Notwithstanding the requirement under subsection (d), beginning on October 1, 2035, the Secretary of Defense may authorize the purchase or lease of a covered nontactical vehicle that is not described in such subsection if the Secretary determines, on a case-by-case basis, that— “(1)  the technology used in the vehicle to be purchased or leased reduces the consumption of fossil fuels compared to vehicles that use conventional internal combustion technology; 
+ “(2)  the purchase or lease of such vehicle is consistent with the energy performance goals and plan of the Department of Defense required by section 2911 of this title; and 
+ “(3)  the purchase or lease of a vehicle described in subsection (d) is impracticable under the circumstances. 
+ 
+ “(f)  Waiver .— (1)  The Secretary of Defense may waive the requirement under subsection (d). 
+ “(2)  The Secretary of Defense may not delegate the waiver authority under paragraph (1). 
+ 
+ “(g)  Definitions .— In this section: “(1)  The term ‘ advanced-biofuel-powered vehicle ’ includes a vehicle that uses a fuel described in section 9001(3)(A) of the Farm Security and Rural Investment Act of 2202 ( 7 U.S.C. 8101(3)(A) ). 
+ “(2)  The term ‘ covered nontactical vehicle ’ means any vehicle— “(A)  that is not a tactical vehicle designed for use in combat; and 136 STAT. 2507 
+ “(B)  that is purchased or leased by the Department of Defense pursuant to a contract entered into, renewed, modified, or amended on or after October 1, 2035. 
+ 
+ “(3)  The term ‘ hydrogen-powered vehicle ’ means a vehicle that uses hydrogen as the main source of motive power, either through a fuel cell or internal combustion.” 
+ 
+ . 
+ 
+ (b)  Clerical Amendment .— The table of sections at the beginning of subchapter II of chapter 173 of such title 10 USC  prec. 2922.   is amended  by  striking  the item relating to section 2922g and  inserting  the following new item: 
+ 
+ “2922g.  
+ Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles.”.

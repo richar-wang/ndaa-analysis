@@ -1,0 +1,36 @@
+{
+  "text": "Exemptions for nontraditional defense contractors (a) Exemption For the purposes of contracts, subcontracts, or agreements of the Department of Defense, products and services provided by nontraditional defense contractors (as defined in section 3014 of title 10, United States Code) shall be exempt from the following requirements: (1) Section 252.242\u20137006 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (2) Section 252.234\u20137002 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (3) Section 252.215\u20137002 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (4) Section 252.242\u20137004 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (5) Section 252.245\u20137003 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (6) Section 252.244\u20137001 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (7) Section 252.242\u20137005 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (8) Section 215.407 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (9) Section 3702 of title 10, United States Code. (10) Part 31 of the Federal Acquisition Regulation, or successor regulation. (b) Waiver and reporting (1) In general The requirement under subsection (a) may be waived or modified with respect to a product or service with a written determination approved by the head of the relevant contracting activity. (2) Delegation The authority to approve a written determination under paragraph (1) may only be delegated to a senior contracting official for the relevant contracting activity or a more senior official. (3) Partial application One or more of the requirements described in paragraphs (1) through (10) of subsection (a) may be applied to a contract, subcontract, or other agreement with a nontraditional defense contractor upon a written determination approved by the head of the relevant contracting activity that includes a justification explaining why application of such requirements is in the best interest of the Federal Government. (4) Congressional notice Not later than 60 days after the date on which a waiver is issued under this section, the Secretary of Defense shall provide to the congressional defense committees a notice of the waiver, including with a discussion of efforts made to adapt the acquisition approach for the product or service with respect to which the such waiver was granted so that such waiver would not be necessary.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Exemptions for nontraditional defense contractors (a) Exemption For the purposes of contracts, subcontracts, or agreements of the Department of Defense, products and services provided by nontraditional defense contractors (as defined in section 3014 of title 10, United States Code) shall be exempt from the following requirements: (1) Section 252.242\u20137006 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (2) Section 252.234\u20137002 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (3) Section 252.215\u20137002 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (4) Section 252.242\u20137004 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (5) Section 252.245\u20137003 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (6) Section 252.244\u20137001 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (7) Section 252.242\u20137005 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (8) Section 215.407 of the Department of Defense Supplement to the Federal Acquisition Regulation, or successor regulation. (9) Section 3702 of title 10, United States Code. (10) Part 31 of the Federal Acquisition Regulation, or successor regulation. (b) Waiver and reporting (1) In general The requirement under subsection (a) may be waived or modified with respect to a product or service with a written determination approved by the head of the relevant contracting activity. (2) Delegation The authority to approve a written determination under paragraph (1) may only be delegated to a senior contracting official for the relevant contracting activity or a more senior official. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00727397595377018,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1919,
+      "word_count": 271,
+      "token_length": 451
+    },
+    {
+      "text": "3) Partial application One or more of the requirements described in paragraphs (1) through (10) of subsection (a) may be applied to a contract, subcontract, or other agreement with a nontraditional defense contractor upon a written determination approved by the head of the relevant contracting activity that includes a justification explaining why application of such requirements is in the best interest of the Federal Government. (4) Congressional notice Not later than 60 days after the date on which a waiver is issued under this section, the Secretary of Defense shall provide to the congressional defense committees a notice of the waiver, including with a discussion of efforts made to adapt the acquisition approach for the product or service with respect to which the such waiver was granted so that such waiver would not be necessary.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005988732329569757,
+      "confidence": "High",
+      "start_index": 1919,
+      "end_index": 2764,
+      "word_count": 135,
+      "token_length": 160
+    }
+  ],
+  "_submission_type": "solo"
+}

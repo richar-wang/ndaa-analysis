@@ -1,0 +1,40 @@
+SEC. 225.  10 USC 4001 note . PILOT PROGRAM TO FACILITATE THE DEVELOPMENT OF BATTERY TECHNOLOGIES FOR WARFIGHTERS. (a)  Establishment .— (1)  Assessments. In general .— The Secretary of Defense may establish and carry out a pilot program to assess the feasibility and advisability of providing support to battery producers— (A)  to facilitate the research and development of safe and secure battery technologies for existing and new or novel battery chemistry configurations, including through the research and development of new or updated manufacturing processes and technologies; 
+ (B)  to assess commercial battery offerings within the marketplace for viability and utility for warfighter applications; and 
+ (C)  to transition battery technologies, including technologies developed under other pilot programs, prototype projects, or other research and development programs, from the prototyping phase to manufacturing production. 
+ 
+ (2)  Designation .— The pilot program established under paragraph (1) shall be known as the “Warfighter Electric Battery Transition Project” (referred to in this section as the “Project”). 
+ (3)  Administration .— The Under Secretary of Defense for Research and Engineering shall administer the Project. 
+ 
+ (b)  Grants, Contracts, and Other Agreements .— The Secretary of Defense may carry out the Project through the award of support, as described in subsection (a)(1), in the form of grants to, or contracts or other agreements with, battery producers. 
+ (c)  Coordination .— The Secretary of Defense shall ensure that activities under the Project are coordinated with the Strategic Environmental Research and Development Program under  section 2901 of title 10, United States Code . 
+ (d)  Use of Grant and Contract Amounts .— A battery producer who receives a grant, contract, or other agreement under the Project may use the amount of the grant, contract, or other agreement to carry out one or more of the following activities: (1)  Conducting research and development to validate new or novel battery chemistry configurations, including through— (A)  experimentation; 
+ (B)  prototyping; 
+ (C)  testing; 
+ (D)  adapting battery technology to integrate with other technologies and systems; or 
+ (E)  addressing manufacturing or other production challenges. 136 STAT. 2485 
+ 
+ (2)  Providing commercially available battery technologies to each Secretary of a military department and the commanders of the combatant commands to support utility assessments or other testing by warfighters. 
+ (3)  Assessments. Expanding, validating, or assessing battery recycling capabilities that may provide operational utility to the Department of Defense. 
+ (4)  Building and strengthening relationships of the Department of Defense with nontraditional defense contractors in the technology industry that may have unused or underused solutions to specific operational challenges of the Department relating to battery technology. 
+ 
+ (e)  Criteria. Priority of Awards .— In awarding grants, contracts, or other agreements under the Project, the Secretary shall give preference to battery producers that meet one or more of the following criteria: (1)  The producer manufactures, designs, or develops battery cells, packs, modules, or other related capabilities in the United States. 
+ (2)  The producer manufactures, designs, or develops battery cells, packs, modules, or other related capabilities in the national technology and industrial base (as defined in  section 4801 of title 10, United States Code ). 
+ (3)  The technology made available by the producer provides modularity to support diverse applications. 
+ (4)  The technology made available by the producer facilitates safety in tactical and combat applications by using battery chemistries and configurations that reduce thermal runaway and minimize oxygen liberation. 
+ (5)  The producer demonstrates new or novel battery chemistry configurations, safety characteristics, or form-factor configurations. 
+ (6)  The producer facilitates the domestic supply chain for raw materials needed for battery production. 
+ (7)  The producer offers battery-related commercial products or commercial services. 
+ 
+ (f)  Planning, Reporting and Data Collection .— (1)  Plan required before implementation .— (A)  In general .— The Secretary of Defense may not commence the Project until the Secretary has completed a plan for the implementation of the Project. 
+ (B)  Elements .— The plan under subparagraph (A) shall provide for— (i)  collecting, analyzing, and retaining Project data; 
+ (ii)  developing and sharing best practices for achieving the objectives of the Project; 
+ (iii)  identification of any policy or regulatory impediments inhibiting the execution of the Project; and 
+ (iv)  sharing results from the Project across the Department of Defense and with other departments and agencies of the Federal Government and Congress. 
+ 
+ (C)  Deadline. Submittal to congress .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees the implementation plan developed under subparagraph (A). 136 STAT. 2486 
+ 
+ (2)  Final report .— Not later than one year after the date on which the Project terminates under subsection (g), the Secretary of Defense shall submit to the congressional defense committees a final report on the results of the Project. Such report shall include— (A)  Summary. a summary of the objectives achieved by the Project; and 
+ (B)  Recommenda- tions. recommendations regarding the steps that may be taken to promote battery technologies that are not dependent on foreign competitors to meet the needs of the Armed Forces. 
+ 
+ 
+ (g)  Termination .— The authority to carry out the Project shall terminate on December 31, 2028.

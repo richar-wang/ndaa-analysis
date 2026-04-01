@@ -1,0 +1,36 @@
+{
+  "text": "Study on establishing a tactical surveillance, reconnaissance, and tracking program of record (a) Study The Secretary of the Air Force, in coordination with the Under Secretary of Defense for Intelligence and Security, shall conduct a study on the feasibility and advisability of establishing a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense. (b) Scope The study under subsection (a) shall - (1) assess operational and technical requirements for tactical surveillance, reconnaissance, and tracking capabilities across the joint force, including requirements identified by the combatant commands; (2) evaluate options for organizational placement of such a program within the Department of Defense; (3) develop recommended acquisition and management approaches; (4) consider applicable intelligence oversight, legal, and policy regulations relevant to the collection, retention, and dissemination of information; and (5) provide funding profile options and estimated resource requirements to establish and sustain such a program. (c) Coordination In conducting the study under subsection (a), the Secretary - (1) shall coordinate with the Under Secretary of Defense for Acquisition and Sustainment, the Chairman of the Joint Chiefs of Staff, and commanders of the combatant commands; and (2) may receive support from other elements of the Department or federally funded research and development centers as the Secretary determines appropriate. (d) Report Not later than July 31, 2026, the Secretary shall submit to the congressional defense committees a report, and shall provide a briefing on, the findings and recommendations of the study under subsection (a). (e) Authority to establish The Secretary may establish a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense if - (1) the Secretary determines in the study under subsection (a) that such establishment is advisable and feasible; and (2) a period of 90 days elapses following the date on which the Secretary submits the report under subsection (d); and (3) after such 90-day period, the Secretary notifies the congressional defense committees of carrying out this subsection. (f) Tactical surveillance, reconnaissance, and tracking capabilities defined In this section, the term tactical surveillance, reconnaissance, and tracking capabilities means the capabilities provided under the pilot program carried out by the Space Force to use commercial data and analytics to provide surveillance, reconnaissance, and tracking information to the combatant commands.",
+  "version": "3.2",
+  "headline": "AI Detected",
+  "prediction": "We are confident that this document is a mix of AI-generated, and human-written content",
+  "prediction_short": "Mixed",
+  "fraction_ai": 0.6523863209319805,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 0.3476136790680195,
+  "num_ai_segments": 1,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Study on establishing a tactical surveillance, reconnaissance, and tracking program of record (a) Study The Secretary of the Air Force, in coordination with the Under Secretary of Defense for Intelligence and Security, shall conduct a study on the feasibility and advisability of establishing a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense. (b) Scope The study under subsection (a) shall - (1) assess operational and technical requirements for tactical surveillance, reconnaissance, and tracking capabilities across the joint force, including requirements identified by the combatant commands; (2) evaluate options for organizational placement of such a program within the Department of Defense; (3) develop recommended acquisition and management approaches; (4) consider applicable intelligence oversight, legal, and policy regulations relevant to the collection, retention, and dissemination of information; and (5) provide funding profile options and estimated resource requirements to establish and sustain such a program. (c) Coordination In conducting the study under subsection (a), the Secretary - (1) shall coordinate with the Under Secretary of Defense for Acquisition and Sustainment, the Chairman of the Joint Chiefs of Staff, and commanders of the combatant commands; and (2) may receive support from other elements of the Department or federally funded research and development centers as the Secretary determines appropriate. (d) Report Not later than July 31, 2026, the Secretary shall submit to the congressional defense committees a report, and shall provide a briefing on, the findings and recommendations of the study under subsection (a). (",
+      "label": "AI-Generated",
+      "ai_assistance_score": 0.5958792250021361,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1736,
+      "word_count": 247,
+      "token_length": 316
+    },
+    {
+      "text": "e) Authority to establish The Secretary may establish a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense if - (1) the Secretary determines in the study under subsection (a) that such establishment is advisable and feasible; and (2) a period of 90 days elapses following the date on which the Secretary submits the report under subsection (d); and (3) after such 90-day period, the Secretary notifies the congressional defense committees of carrying out this subsection. (f) Tactical surveillance, reconnaissance, and tracking capabilities defined In this section, the term tactical surveillance, reconnaissance, and tracking capabilities means the capabilities provided under the pilot program carried out by the Space Force to use commercial data and analytics to provide surveillance, reconnaissance, and tracking information to the combatant commands.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.37508833602381253,
+      "confidence": "Medium",
+      "start_index": 1736,
+      "end_index": 2661,
+      "word_count": 132,
+      "token_length": 167
+    }
+  ],
+  "_submission_type": "solo"
+}

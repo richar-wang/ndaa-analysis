@@ -1,0 +1,44 @@
+SEC. 1652.  IMPROVEMENTS TO ACQUISITION ACCOUNTABILITY REPORTS ON THE BALLISTIC MISSILE DEFENSE SYSTEM. (a)  Elements of Baselines .— Subsection (b) of  section 225 of title 10, United States Code ,  is amended — (1)  in paragraph (1)(C), by  striking  “ and flight ” and  inserting  “ , flight, and cybersecurity ”; 
+ (2)  in paragraph (2), by  striking  subparagraph (C) and  inserting  the following new subparagraph (C): “(C)  how the proposed capability satisfies a capability requirement or performance attribute identified through— “(i)  the missile defense warfighter involvement process, as governed by United States Strategic Command Instruction 538-03, or such successor document; or 
+ “(ii)  processes and products approved by the Joint Chiefs of Staff or Joint Requirements Oversight Council;” 
+ 
+ ; and 
+ (3)  in paragraph (3)— (A)  in subparagraph (C), by  striking  “ ; and ” and  inserting  a semicolon; 
+ (B)  in subparagraph (D), by  striking  the period at the end and  inserting  “ ; and ”; and 
+ (C)  by  adding  at the end the following new subparagraph: “(E)  an explanation for why a program joint cost analysis requirements description has not been prepared and approved, and, if a program joint cost analysis requirements description is not applicable, the rationale for such inapplicability.” 
+ . 
+ 
+ 
+ (b)  Annual Reports on Acquisition Baselines .— Subsection (c) of such section  is amended — (1)  in paragraph (2)(B)(ii)— (A)  in subclause (I)— (i)  by  striking  “ initial ” and  inserting  “ original ”; and 
+ (ii)  by  striking  “ ; and ” and  inserting  a semicolon; 
+ 
+ (B)  in subclause (II), by  striking  the period at the ending and  inserting  “ ; and ”; and 
+ (C)  by  adding  at the end the following new subclause: “(III)  the most recent adjusted or revised acquisition baseline for such program element or major subprogram under subsection (d).” 
+ ; 
+ 
+ (2)  by  redesignating  paragraph (3) as paragraph (4); 
+ (3)  by  inserting  after paragraph (3) the following new paragraph: “(3) (A)  Each report under paragraph (1) shall include the total system costs for each element described in subparagraph (B) that comprises the missile defense system, without regard to funding source or management control (such as the Missile Defense Agency, a military department, or other element of the Department of Defense). 
+ “(B)  The elements described in this subparagraph shall include the following: “(i)  Research and development. 136 STAT. 2949 
+ “(ii)  Procurement. 
+ “(iii)  Military construction. 
+ “(iv)  Operations and sustainment. 
+ “(v)  Disposal.” 
+ 
+ 
+ ; and 
+ (4)  by  inserting  after paragraph (4) the following new paragraph (5): “(5)  Definitions. In this subsection: “(A)  The term ‘ original acquisition baseline ’ means, with respect to a program element or major subprogram, the first acquisition baseline created for the program element or major subprogram that has no previous iterations and has not been adjusted or revised, including any adjustments or revisions pursuant to subsection (d). 
+ “(B)  The term ‘ total system costs ’ means, with respect to each element that comprises the missile defense system— “(i)  all combined costs from closed, canceled, and active acquisition baselines; 
+ “(ii)  any costs shifted to or a part of future efforts without an established acquisition baseline; and 
+ “(iii)  any costs under the responsibility of a military department or other Department entity.” 
+ 
+ 
+ . 
+ 
+ (c)  Operations and Sustainment Cost Estimates .— Subsection (e) of such section  is amended — (1)  in paragraph (1), by  striking  “ ; and ” and  inserting  a semicolon; 
+ (2)  in paragraph (2), by  striking  the period at the end and  inserting  a semicolon; and 
+ (3)  by  adding  at the end the following new paragraphs: “(3)  the amount of operations and sustainment costs (dollar value and base year) for which the military department or other element of the Department of Defense is responsible; and 
+ “(4) (A)  a citation to the source (such as a joint cost estimate or one or more military department estimates) that captures the operations and sustainment costs for which a military department or other element of the Department of Defense is responsible; 
+ “(B)  the date the source was prepared; and 
+ “(C)  if and when the source was independently verified by the Office for Cost Assessment and Program Evaluation.” 
+ 
+ .

@@ -1,0 +1,4317 @@
+SEC. 2.  ORGANIZATION OF ACT INTO DIVISIONS; TABLE OF CONTENTS. (a)  Divisions .— This Act is organized into four divisions as follows: (1)  Division A—Department of Defense Authorizations. 
+ (2)  Division B—Military Construction Authorizations. 
+ (3)  Division C—Department of Energy National Security Authorizations and Other Authorizations. 
+ (4)  Division D—Funding Tables. 
+ (5)  Division E—Intelligence Authorizations for Fiscal Years 2018, 2019, and 2020. 
+ (6)  Division F—Other Matters. 
+ 
+ (b)  Table of Contents .— The table of contents for this Act is as follows: 
+ 
+ 
+ Sec. 1.  
+ Short title. 
+ 
+ Sec. 2.  
+ Organization of Act into divisions; table of contents. 
+ 
+ Sec. 3.  
+ Congressional defense committees. 
+ 
+ Sec. 4.  
+ Budgetary effects of this Act. 
+ 
+ DIVISION A— 
+ DEPARTMENT OF DEFENSE AUTHORIZATIONS 
+ 
+ TITLE I— 
+ PROCUREMENT 
+ 
+ Subtitle A— 
+ Authorization Of Appropriations 
+ 
+ Sec. 101.  
+ Authorization of appropriations. 
+ 
+ Subtitle B— 
+ Army Programs 
+ 
+ Sec. 111.  
+ Authority of the Secretary of the Army to waive certain limitations related to the Distributed Common Ground System-Army Increment 1. 
+ 
+ Subtitle C— 
+ Navy Programs 
+ 
+ Sec. 121.  
+ Ford-class aircraft carrier cost limitation baselines. 
+ 
+ Sec. 122.  
+ Modification of annual report on cost targets for certain aircraft carriers. 
+ 
+ Sec. 123.  
+ Refueling and complex overhauls of the U.S.S. John C. Stennis and U.S.S. Harry S. Truman. 
+ 
+ Sec. 124.  
+ Ford class aircraft carrier support for F–35C aircraft. 
+ 
+ Sec. 125.  
+ Prohibition on use of funds for reduction of aircraft carrier force structure. 133 STAT. 1199 
+ 
+ Sec. 126.  
+ Modification of prohibition on availability of funds for Navy waterborne security barriers. 
+ 
+ Sec. 127.  
+ LHA Replacement Amphibious Assault Ship Program. 
+ 
+ Sec. 128.  
+ Strategic sealift fleet vessel. 
+ 
+ Sec. 129.  
+ Design and construction of amphibious transport dock designated LPD–31. 
+ 
+ Sec. 130.  
+ Limitation on availability of funds for the Littoral Combat Ship. 
+ 
+ Sec. 131.  
+ Limitation on the next new class of Navy large surface combatants. 
+ 
+ Sec. 132.  
+ Limitation on availability of funds pending quarterly updates on the CH–53K King Stallion helicopter program. 
+ 
+ Sec. 133.  
+ Limitation on availability of funds for VH–92A helicopter. 
+ 
+ Sec. 134.  
+ Report on carrier wing and aviation combat element composition. 
+ 
+ Subtitle D— 
+ Air Force Programs 
+ 
+ Sec. 141.  
+ Modification of requirement to preserve certain C–5 aircraft. 
+ 
+ Sec. 142.  
+ OC–135B aircraft recapitalization program. 
+ 
+ Sec. 143.  
+ Requirement to align Air Force aviation force structure with National Defense Strategy. 
+ 
+ Sec. 144.  
+ Prohibition on availability of funds for reduction in KC–10 primary mission aircraft inventory. 
+ 
+ Sec. 145.  
+ Limitation on availability of funds for F–15EX aircraft. 
+ 
+ Sec. 146.  
+ Limitation on availability of funds for VC–25B aircraft. 
+ 
+ Sec. 147.  
+ Limitation on availability of funds for RC–26B aircraft. 
+ 
+ Sec. 148.  
+ Limitation on availability of funds for retirement of RC–135 aircraft. 
+ 
+ Sec. 149.  
+ Air Force aggressor squadron modernization. 
+ 
+ Sec. 150.  
+ Air Force plan for Combat Rescue Helicopter fielding. 
+ 
+ Sec. 151.  
+ Report on feasibility of multiyear contract for procurement of JASSM–ER missiles. 
+ 
+ Sec. 152.  
+ Report on aircraft fleet of the Civil Air Patrol. 
+ 
+ Sec. 153.  
+ Sense of Congress on the light attack aircraft initiative of the Air Force. 
+ 
+ Subtitle E— 
+ Defense-wide, Joint, and Multiservice Matters 
+ 
+ Sec. 161.  
+ Economic order quantity contracting and buy-to-budget acquisition for F–35 aircraft program. 
+ 
+ Sec. 162.  
+ Relief from contractors for failure to deliver ready-for-issue spare parts for the F–35 aircraft program. 
+ 
+ Sec. 163.  
+ Limitation on availability of funds for reallocation of Turkish F–35A aircraft to the United States. 
+ 
+ Sec. 164.  
+ Requirement to establish the use of an Agile DevOps software development solution as an alternative for Joint Strike Fighter Autonomic Logistics Information System. 
+ 
+ Sec. 165.  
+ F–35 sustainment cost. 
+ 
+ Sec. 166.  
+ Reports on the progress and performance of the F–35 aircraft program. 
+ 
+ Sec. 167.  
+ Other reports on the F–35 aircraft program. 
+ 
+ Sec. 168.  
+ Limitation on availability of funds for communications systems lacking certain resiliency features. 
+ 
+ Sec. 169.  
+ Repeal of tactical unmanned vehicle common data link requirement. 
+ 
+ TITLE II— 
+ RESEARCH, DEVELOPMENT, TEST, AND EVALUATION 
+ 
+ Subtitle A— 
+ Authorization of Appropriations 
+ 
+ Sec. 201.  
+ Authorization of appropriations. 
+ 
+ Subtitle B— 
+ Program Requirements, Restrictions, and Limitations 
+ 
+ Sec. 211.  
+ Program on enhancement of preparation of dependents of members of Armed Forces for careers in science, technology, engineering, and mathematics. 
+ 
+ Sec. 212.  
+ Updates to the Department of Defense personnel management authority to attract experts in science and engineering. 
+ 
+ Sec. 213.  
+ Establishment of joint reserve detachment of the Defense Innovation Unit. 
+ 
+ Sec. 214.  
+ Research and educational programs and activities for Historically Black Colleges and Universities and Minority-Serving Institutions of Higher Education. 
+ 
+ Sec. 215.  
+ Modification of authority for prizes for advanced technology achievements. 
+ 
+ Sec. 216.  
+ Joint hypersonics transition office. 
+ 
+ Sec. 217.  
+ Modification of proof of concept commercialization program. 
+ 
+ Sec. 218.  
+ Modification of authority and addition of technology areas for expedited access to technical talent. 
+ 
+ Sec. 219.  
+ Expansion of coordination in support of national security innovation and entrepreneurial education. 133 STAT. 1200 
+ 
+ Sec. 220.  
+ Modification of defense quantum information science and technology research and development program. 
+ 
+ Sec. 221.  
+ Understanding of investments in artificial intelligence and development of capabilities by adversaries. 
+ 
+ Sec. 222.  
+ Advisory role of JASON scientific advisory group. 
+ 
+ Sec. 223.  
+ Direct Air Capture and Blue Carbon Removal Technology Program. 
+ 
+ Sec. 224.  
+ Requiring defense microelectronics products and services meet trusted supply chain and operational security standards. 
+ 
+ Sec. 225.  
+ Development and acquisition strategy to procure secure, low probability of detection data link network capability. 
+ 
+ Sec. 226.  
+ Establishment of secure next-generation wireless network (5G) infrastructure for the Nevada Test and Training Range and base infrastructure. 
+ 
+ Sec. 227.  
+ Administration of manufacturing innovation institutes funded by the Department of Defense. 
+ 
+ Sec. 228.  
+ Research program on foreign malign influence operations. 
+ 
+ Sec. 229.  
+ Diversification of the research and engineering workforce of the Department of Defense. 
+ 
+ Sec. 230.  
+ Policy on the talent management of digital expertise and software professionals. 
+ 
+ Sec. 231.  
+ Digital engineering capability to automate testing and evaluation. 
+ 
+ Sec. 232.  
+ Process to align policy formulation and emerging technology development. 
+ 
+ Sec. 233.  
+ Improvement of the Strategic Capabilities Office of the Department of Defense. 
+ 
+ Sec. 234.  
+ Pilot program on enhanced civics education. 
+ 
+ Sec. 235.  
+ Technology and national security fellowship. 
+ 
+ Sec. 236.  
+ Documentation relating to the Advanced Battle Management System. 
+ 
+ Sec. 237.  
+ Sensor data integration for fifth generation aircraft. 
+ 
+ Sec. 238.  
+ Sense of Congress on future vertical lift technologies. 
+ 
+ Sec. 239.  
+ Use of funds for Strategic Environmental Research Program, Environmental Security Technical Certification Program, and Operational Energy Capability Improvement. 
+ 
+ Sec. 240.  
+ Limitation and report on Indirect Fire Protection Capability Increment 2 capability. 
+ 
+ Subtitle C— 
+ Plans, Reports, and Other Matters 
+ 
+ Sec. 251.  
+ Master plan for implementation of authorities relating to science and technology reinvention laboratories. 
+ 
+ Sec. 252.  
+ Infrastructure to support research, development, test, and evaluation missions. 
+ 
+ Sec. 253.  
+ Energetics plan. 
+ 
+ Sec. 254.  
+ Strategy and implementation plan for fifth generation information and communications technologies. 
+ 
+ Sec. 255.  
+ Department-wide software science and technology strategy. 
+ 
+ Sec. 256.  
+ Artificial intelligence education strategy. 
+ 
+ Sec. 257.  
+ Cyber science and technology activities roadmap and reports. 
+ 
+ Sec. 258.  
+ Report on B–52 commercial engine replacement program. 
+ 
+ Sec. 259.  
+ Commercial edge computing technologies and best practices for Department of Defense warfighting systems. 
+ 
+ Sec. 260.  
+ Biannual report on the Joint Artificial Intelligence Center. 
+ 
+ Sec. 261.  
+ Quarterly updates on the Optionally Manned Fighting Vehicle program. 
+ 
+ Sec. 262.  
+ National Study on Defense Research At Historically Black Colleges and Universities and Other Minority Institutions. 
+ 
+ Sec. 263.  
+ Study on national security emerging biotechnologies for the Department of Defense. 
+ 
+ Sec. 264.  
+ Independent study on optimizing resources allocated to Combating Terrorism Technical Support Office. 
+ 
+ Sec. 265.  
+ Independent assessment of electronic warfare plans and programs. 
+ 
+ Sec. 266.  
+ Technical correction to Global Research Watch Program. 
+ 
+ TITLE III— 
+ OPERATION AND MAINTENANCE 
+ 
+ Subtitle A— 
+ Authorization of Appropriations 
+ 
+ Sec. 301.  
+ Authorization of appropriations. 
+ 
+ Subtitle B— 
+ Energy and Environment 
+ 
+ Sec. 311.  
+ Timeline for Clearinghouse review of applications for energy projects that may have an adverse impact on military operations and readiness. 
+ 
+ Sec. 312.  
+ Authority to accept contributions of funds from applicants for energy projects for mitigation of impacts on military operations and readiness. 
+ 
+ Sec. 313.  
+ Use of proceeds from sale of recyclable materials. 
+ 
+ Sec. 314.  
+ Disposal of recyclable materials. 133 STAT. 1201 
+ 
+ Sec. 315.  
+ Department of Defense improvement of previously conveyed utility systems serving military installations. 
+ 
+ Sec. 316.  
+ Modification of Department of Defense environmental restoration authorities to include Federal Government facilities used by National Guard. 
+ 
+ Sec. 317.  
+ Use of operational energy cost savings of Department of Defense. 
+ 
+ Sec. 318.  
+ Sale of electricity from alternate energy and cogeneration production facilities. 
+ 
+ Sec. 319.  
+ Energy resilience programs and activities. 
+ 
+ Sec. 320.  
+ Technical and grammatical corrections and repeal of obsolete provisions relating to energy. 
+ 
+ Sec. 321.  
+ Transfer authority for funding of study and assessment on health implications of per- and polyfluoroalkyl substances contamination in drinking water by Agency for Toxic Substances and Disease Registry. 
+ 
+ Sec. 322.  
+ Replacement of fluorinated aqueous film-forming foam with fluorine-free fire-fighting agent. 
+ 
+ Sec. 323.  
+ Prohibition of uncontrolled release of fluorinated aqueous film-forming foam at military installations. 
+ 
+ Sec. 324.  
+ Prohibition on use of fluorinated aqueous film forming foam for training exercises. 
+ 
+ Sec. 325.  
+ Real-time sound-monitoring at Navy installations where tactical fighter aircraft operate. 
+ 
+ Sec. 326.  
+ Development of extreme weather vulnerability and risk assessment tool. 
+ 
+ Sec. 327.  
+ Removal of barriers that discourage investments to increase military installation resilience. 
+ 
+ Sec. 328.  
+ Budgeting of Department of Defense relating to extreme weather. 
+ 
+ Sec. 329.  
+ Prohibition on Perfluoroalkyl Substances and Polyfluoroalkyl Substances in Meals Ready-to-Eat Food Packaging. 
+ 
+ Sec. 330.  
+ Disposal of materials containing per- and polyfluoroalkyl substances or aqueous film-forming foam. 
+ 
+ Sec. 331.  
+ Agreements to share monitoring data relating to perfluoroalkyl and polyfluoroalkyl substances and other contaminants of concern. 
+ 
+ Sec. 332.  
+ Cooperative agreements with States to address contamination by perfluoroalkyl and polyfluoroalkyl substances. 
+ 
+ Sec. 333.  
+ Plan to phase out use of burn pits. 
+ 
+ Sec. 334.  
+ Information relating to locations of burn pit use. 
+ 
+ Sec. 335.  
+ Data quality review of radium testing conducted at certain locations of the Department of the Navy. 
+ 
+ Sec. 336.  
+ Reimbursement of Environmental Protection Agency for certain costs in connection with the Twin Cities Army Ammunition Plant, Minnesota. 
+ 
+ Sec. 337.  
+ Pilot program for availability of working-capital funds for increased combat capability through energy optimization. 
+ 
+ Sec. 338.  
+ Report on efforts to reduce high energy intensity at military installations. 
+ 
+ Subtitle C— 
+ Treatment of Contaminated Water Near Military Installations 
+ 
+ Sec. 341.  
+ Short title. 
+ 
+ Sec. 342.  
+ Definitions. 
+ 
+ Sec. 343.  
+ Provision of water uncontaminated with perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS) for agricultural purposes. 
+ 
+ Sec. 344.  
+ Acquisition of real property by Air Force. 
+ 
+ Sec. 345.  
+ Remediation plan. 
+ 
+ Subtitle D— 
+ Logistics and Sustainment 
+ 
+ Sec. 351.  
+ Materiel readiness metrics and objectives. 
+ 
+ Sec. 352.  
+ Clarification of authority regarding use of working-capital funds for unspecified minor military construction projects related to revitalization and recapitalization of defense industrial base facilities. 
+ 
+ Sec. 353.  
+ Modification to limitation on length of overseas forward deployment of naval vessels. 
+ 
+ Sec. 354.  
+ Extension of temporary installation reutilization authority for arsenals, depots, and plants. 
+ 
+ Sec. 355.  
+ F–35 Joint Strike Fighter sustainment. 
+ 
+ Sec. 356.  
+ Report on strategic policy for prepositioned materiel and equipment. 
+ 
+ Sec. 357.  
+ Pilot program to train skilled technicians in critical shipbuilding skills. 
+ 
+ Sec. 358.  
+ Requirement for military department inter-service depot maintenance. 
+ 
+ Sec. 359.  
+ Strategy to improve infrastructure of certain depots of the Department of Defense. 
+ 
+ Subtitle E— 
+ Reports 
+ 
+ Sec. 361.  
+ Readiness reporting. 
+ 
+ Sec. 362.  
+ Technical correction to deadline for transition to Defense Readiness Reporting System Strategic. 133 STAT. 1202 
+ 
+ Sec. 363.  
+ Report on Navy ship depot maintenance budget. 
+ 
+ Sec. 364.  
+ Report on Runit Dome. 
+ 
+ Sec. 365.  
+ Prohibition on subjective upgrades by commanders of unit ratings in monthly readiness reporting on military units. 
+ 
+ Sec. 366.  
+ Requirement to include foreign language proficiency in readiness reporting systems of Department of Defense. 
+ 
+ Subtitle F— 
+ Other Matters 
+ 
+ Sec. 371.  
+ Prevention of encroachment on military training routes and military operations areas. 
+ 
+ Sec. 372.  
+ Expansion and enhancement of authorities on transfer and adoption of military animals. 
+ 
+ Sec. 373.  
+ Extension of authority for Secretary of Defense to use Department of Defense reimbursement rate for transportation services provided to certain non-Department of Defense entities. 
+ 
+ Sec. 374.  
+ Extension of authority of Secretary of Transportation to issue non-premium aviation insurance. 
+ 
+ Sec. 375.  
+ Defense personal property program. 
+ 
+ Sec. 376.  
+ Public events about Red Hill Bulk Fuel Storage Facility. 
+ 
+ Sec. 377.  
+ Sense of Congress regarding Innovative Readiness Training program. 
+ 
+ Sec. 378.  
+ Detonation chambers for explosive ordnance disposal. 
+ 
+ TITLE IV— 
+ MILITARY PERSONNEL AUTHORIZATIONS 
+ 
+ Subtitle A— 
+ Active Forces 
+ 
+ Sec. 401.  
+ End strengths for active forces. 
+ 
+ Sec. 402.  
+ Revisions in permanent active duty end strength minimum levels. 
+ 
+ Subtitle B— 
+ Reserve Forces 
+ 
+ Sec. 411.  
+ End strengths for Selected Reserve. 
+ 
+ Sec. 412.  
+ End strengths for Reserves on active duty in support of the reserves. 
+ 
+ Sec. 413.  
+ End strengths for military technicians (dual status). 
+ 
+ Sec. 414.  
+ Maximum number of reserve personnel authorized to be on active duty for operational support. 
+ 
+ Sec. 415.  
+ Authorized strengths for Marine Corps Reserves on active duty. 
+ 
+ Sec. 416.  
+ Modification of authorized strength of Air Force Reserve serving on full-time reserve component duty for administration of the reserves or the National Guard. 
+ 
+ Subtitle C— 
+ Authorization of Appropriations 
+ 
+ Sec. 421.  
+ Military personnel. 
+ 
+ TITLE V— 
+ MILITARY PERSONNEL POLICY 
+ 
+ Subtitle A— 
+ Officer Personnel Policy 
+ 
+ Sec. 501.  
+ Maker of original appointments in a regular or reserve component of commissioned officers previously subject to original appointment in other type of component. 
+ 
+ Sec. 502.  
+ Furnishing of adverse information on officers to promotion selection boards. 
+ 
+ Sec. 503.  
+ Limitation on number of officers recommendable for promotion by promotion selection boards. 
+ 
+ Sec. 504.  
+ Expansion of authority for continuation on active duty of officers in certain military specialties and career tracks. 
+ 
+ Sec. 505.  
+ Management policies for joint qualified officers. 
+ 
+ Sec. 506.  
+ Modification of authorities on management of deployments of members of the Armed Forces and related unit operating and personnel tempo matters. 
+ 
+ Sec. 507.  
+ Personnel tempo of the Armed Forces and the United States Special Operations Command during periods of inapplicability of high-deployment limitations. 
+ 
+ Sec. 508.  
+ Permanent authority to defer past age 64 the retirement of chaplains in general and flag officer grades. 
+ 
+ Sec. 509.  
+ Higher grade in retirement for officers following reopening of determination or certification of retired grade. 
+ 
+ Sec. 510.  
+ Authority of promotion boards to recommend that officers of particular merit be placed higher on promotion list. 
+ 
+ Sec. 510A.  
+ Availability on the internet of certain information about officers serving in general or flag officer grades. 
+ 
+ Sec. 510B.  
+ Functional badge or insignia upon commission for chaplains. 
+ 
+ Subtitle B— 
+ Reserve Component Management 
+ 
+ Sec. 511.  
+ Modification of grade level threshold for Junior Reserve Officers’ Training Corps. 133 STAT. 1203 
+ 
+ Sec. 512.  
+ Inclusion of STEM in courses of instruction for the Junior Reserve Officers’ Training Corps. 
+ 
+ Sec. 513.  
+ Inclusion of homeschooled students in Junior Reserve Officers’ Training Corps units. 
+ 
+ Sec. 514.  
+ Clarification of eligibility to serve as Commander, Marine Forces Reserve. 
+ 
+ Sec. 515.  
+ Extension and periodic evaluation of suicide prevention and resilience program for the reserve components. 
+ 
+ Sec. 516.  
+ Authority to defer mandatory separation at age 68 of officers in medical specialties in the reserve components. 
+ 
+ Sec. 517.  
+ Modernization of inspection authorities applicable to the National Guard. 
+ 
+ Sec. 518.  
+ Consultation with Chief of the National Guard Bureau in the appointment or designation of National Guard property and fiscal officers. 
+ 
+ Sec. 519.  
+ Coast Guard Junior Reserve Officers’ Training Corps. 
+ 
+ Sec. 520.  
+ Repeal of requirement for review of certain Army Reserve officer unit vacancy promotions by commanders of associated active duty units. 
+ 
+ Sec. 520A.  
+ Report on methods to enhance domestic response to large scale, complex and catastrophic disasters. 
+ 
+ Sec. 520B.  
+ Report and briefing on the Senior Reserve Officers’ Training Corps. 
+ 
+ Sec. 520C.  
+ Sense of Congress on increase in number of Junior Reserve Officers’ Training Corps units. 
+ 
+ Subtitle C— 
+ General Service Authorities and Correction of Military Records 
+ 
+ Sec. 521.  
+ Advice and counsel of trauma experts in review by boards for correction of military records and discharge review boards of certain claims. 
+ 
+ Sec. 522.  
+ Reduction in required number of members of discharge review boards. 
+ 
+ Sec. 523.  
+ Establishment of process to review a request for upgrade of discharge or dismissal. 
+ 
+ Sec. 524.  
+ Prohibition on reduction in the number of personnel assigned to duty with a service review agency. 
+ 
+ Sec. 525.  
+ Training of members of boards for correction of military records and discharge review boards on sexual trauma, intimate partner violence, spousal abuse, and related matters. 
+ 
+ Sec. 526.  
+ Time requirements for certification of honorable service. 
+ 
+ Sec. 527.  
+ Correction of certain discharge characterizations. 
+ 
+ Sec. 528.  
+ Development of guidelines for use of unofficial sources of information to determine eligibility of members and former members of the Armed Forces for decorations when the service records are incomplete because of damage to the official record. 
+ 
+ Sec. 529.  
+ Strategic plan for diversity and inclusion. 
+ 
+ Sec. 530.  
+ Study regarding screening individuals who seek to enlist in the Armed Forces. 
+ 
+ Sec. 530A.  
+ Feasibility study regarding notification to Secretary of Homeland Security of honorable discharges of non-citizens. 
+ 
+ Sec. 530B.  
+ Sense of Congress regarding accession physicals. 
+ 
+ Subtitle D— 
+ Military Justice 
+ 
+ Sec. 531.  
+ Expansion of pre-referral matters reviewable by military judges and military magistrates in the interest of efficiency in military justice. 
+ 
+ Sec. 532.  
+ Command influence. 
+ 
+ Sec. 533.  
+ Statute of limitations for certain offenses. 
+ 
+ Sec. 534.  
+ Public access to dockets, filings, and court records of courts-martial or other records of trial of the military justice system. 
+ 
+ Sec. 535.  
+ Extension of Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces. 
+ 
+ Sec. 536.  
+ Authority for return of personal property to victims of sexual assault who file a Restricted Report before conclusion of related proceedings. 
+ 
+ Sec. 537.  
+ Guidelines on sentences for offenses committed under the Uniform Code of Military Justice. 
+ 
+ Sec. 538.  
+ Notification of significant events and documentation of preference for prosecution jurisdiction for victims of sexual assault. 
+ 
+ Sec. 539.  
+ Increase in number of digital forensic examiners for certain military criminal investigative organizations. 
+ 
+ Sec. 540.  
+ Increase in investigative personnel and Victim Witness Assistance Program liaisons. 
+ 
+ Sec. 540A.  
+ Training for sexual assault initial disposition authorities on exercise of disposition authority for sexual assault and collateral offenses. 
+ 
+ Sec. 540B.  
+ Training for commanders in the Armed Forces on their role in all stages of military justice in connection with sexual assault. 
+ 
+ Sec. 540C.  
+ Timely disposition of nonprosecutable sex-related offenses. 
+ 
+ Sec. 540D.  
+ Department of Defense-wide policy and military department-specific programs on reinvigoration of the prevention of sexual assault involving members of the Armed Forces. 133 STAT. 1204 
+ 
+ Sec. 540E.  
+ Recommendations on separate punitive article in the Uniform Code of Military Justice on sexual harassment. 
+ 
+ Sec. 540F.  
+ Report on military justice system involving alternative authority for determining whether to prefer or refer changes for felony offenses under the Uniform Code of Military Justice. 
+ 
+ Sec. 540G.  
+ Report on standardization among the military departments in collection and presentation of information on matters within the military justice system. 
+ 
+ Sec. 540H.  
+ Report on expansion of Air Force safe to report policy across the Armed Forces. 
+ 
+ Sec. 540I.  
+ Assessment of racial, ethnic, and gender disparities in the military justice system. 
+ 
+ Sec. 540J.  
+ Pilot programs on defense investigators in the military justice system. 
+ 
+ Sec. 540K.  
+ Report on preservation of recourse to restricted report on sexual assault for victims of sexual assault following certain victim or third-party communications. 
+ 
+ Sec. 540L.  
+ Report on establishment of guardian ad litem program for certain military dependents who are a victim or witness of an offense under the Uniform Code of Military Justice involving abuse or exploitation. 
+ 
+ Sec. 540M.  
+ Comptroller General of the United States report on implementation by the Armed Forces of recent statutory requirements on sexual assault prevention and response in the military. 
+ 
+ Sec. 540N.  
+ Sense of Congress on the Port Chicago 50. 
+ 
+ Subtitle E— 
+ Other Legal Matters 
+ 
+ Sec. 541.  
+ Improvement of certain Special Victims’ Counsel authorities. 
+ 
+ Sec. 542.  
+ Availability of Special Victims’ Counsel at military installations. 
+ 
+ Sec. 543.  
+ Notification of issuance of military protective order to civilian law enforcement. 
+ 
+ Sec. 544.  
+ Copyright protection for civilian faculty of certain accredited institutions. 
+ 
+ Sec. 545.  
+ Termination of leases of premises and motor vehicles of servicemembers who incur catastrophic injury or illness or die while in military service. 
+ 
+ Sec. 546.  
+ Military orders required for termination of leases pursuant to the Servicemembers Civil Relief Act. 
+ 
+ Sec. 547.  
+ Preservation of right to bring class action under Servicemembers Civil Relief Act. 
+ 
+ Sec. 548.  
+ Legal counsel for victims of alleged domestic violence offenses. 
+ 
+ Sec. 549.  
+ Notice to victims of alleged sexual assault of pendency of further administrative action following a determination not to refer to trial by court-martial. 
+ 
+ Sec. 550.  
+ Treatment of information in Catch a Serial Offender Program for certain purposes. 
+ 
+ Sec. 550A.  
+ Policies and procedures on registration at military installations of civilian protective orders applicable to members of the Armed Forces assigned to such installations and certain other individuals. 
+ 
+ Sec. 550B.  
+ Defense Advisory Committee for the Prevention of Sexual Misconduct. 
+ 
+ Sec. 550C.  
+ Training for Special Victims’ Counsel on civilian criminal justice matters in the States of the military installations to which assigned. 
+ 
+ Sec. 550D.  
+ Enhancing the capability of military criminal investigative organizations to prevent and combat child sexual exploitation. 
+ 
+ Sec. 550E.  
+ Feasibility study on establishment of database of military protective orders. 
+ 
+ Sec. 550F.  
+ GAO review of USERRA and SCRA. 
+ 
+ Subtitle F— 
+ Member Education 
+ 
+ Sec. 551.  
+ Authority for detail of certain enlisted members of the Armed Forces as students at law schools. 
+ 
+ Sec. 552.  
+ Inclusion of Coast Guard in Department of Defense STARBASE Program. 
+ 
+ Sec. 553.  
+ Degree granting authority for United States Army Armament Graduate School; limitation on establishment of certain educational institutions. 
+ 
+ Sec. 554.  
+ Prohibition on off-duty employment for cadets and midshipmen completing obligated service after graduation. 
+ 
+ Sec. 555.  
+ Consideration of request for transfer of a cadet or midshipman at a military service academy who is the victim of a sexual assault or related offense. 
+ 
+ Sec. 556.  
+ Redesignation of the Commandant of the United States Air Force Institute of Technology as the Director and Chancellor of such Institute. 
+ 
+ Sec. 557.  
+ Eligibility of additional enlisted members for associate degree programs of the Community College of the Air Force. 
+ 
+ Sec. 558.  
+ Speech disorders of cadets and midshipmen. 
+ 
+ Sec. 559.  
+ Requirement to continue provision of tuition assistance for members of the Armed Forces. 133 STAT. 1205 
+ 
+ Sec. 560.  
+ Information on institutions of higher education participating in the Department of Defense Tuition Assistance Program. 
+ 
+ Sec. 560A.  
+ Inclusion of information on free credit monitoring in annual financial literacy briefing. 
+ 
+ Sec. 560B.  
+ Programs to facilitate the award of private pilot’s certificates. 
+ 
+ Subtitle G— 
+ Member Training and Transition 
+ 
+ Sec. 561.  
+ Requirement to provide information regarding benefits claims to members during TAP counseling. 
+ 
+ Sec. 562.  
+ Participation of other Federal agencies in the SkillBridge apprenticeship and internship program for members of the Armed Forces. 
+ 
+ Sec. 563.  
+ First modification of elements of report on the improved Transition Assistance Program. 
+ 
+ Sec. 564.  
+ Second modification of elements of report on the improved Transition Assistance Program. 
+ 
+ Sec. 565.  
+ Prohibition on gender-segregated training at Marine Corps Recruit Depots. 
+ 
+ Sec. 566.  
+ Assessment of deaths of recruits under the jurisdiction of the Secretaries of the military departments. 
+ 
+ Sec. 567.  
+ Review of Department of Defense training programs regarding disinformation campaigns. 
+ 
+ Sec. 568.  
+ Command matters in connection with transition assistance programs. 
+ 
+ Sec. 569.  
+ Machine readability and electronic transferability of Certificate of Release or Discharge from Active Duty (DD Form 214). 
+ 
+ Sec. 570.  
+ Records of service for Reserves. 
+ 
+ Sec. 570A.  
+ Limitations and requirements in connection with separations for members of the Armed Forces who suffer from mental health conditions in connection with a sex-related, intimate partner violence-related, or spousal-abuse offense. 
+ 
+ Sec. 570B.  
+ Prohibition on involuntary separation of certain members of the Armed Forces; consideration of military service in removal determinations. 
+ 
+ Sec. 570C.  
+ Inclusion of question regarding immigration status on preseparation counseling checklist (DD Form 2648). 
+ 
+ Sec. 570D.  
+ Counseling for members of the Armed Forces who are not citizens of the United States on naturalization in the United States. 
+ 
+ Sec. 570E.  
+ Pilot program on information sharing between Department of Defense and designated relatives and friends of members of the Armed Forces regarding the experiences and challenges of military service. 
+ 
+ Sec. 570F.  
+ Connections of members retiring or separating from the Armed Forces with community-based organizations and related entities. 
+ 
+ Sec. 570G.  
+ Pilot program regarding online application for the Transition Assistance Program. 
+ 
+ Subtitle H— 
+ Military Family Readiness and Dependents’ Education 
+ 
+ Sec. 571.  
+ Authorizing members to take leave for a birth or adoption in more than one increment. 
+ 
+ Sec. 572.  
+ Deferred deployment for members who give birth. 
+ 
+ Sec. 573.  
+ Authority of the Secretary concerned to transport remains of a covered decedent to no more than two places selected by the person designated to direct disposition of the remains. 
+ 
+ Sec. 574.  
+ Military funeral honors matters. 
+ 
+ Sec. 575.  
+ Improvement of occupational license portability for relocated spouses of members of the uniformed services. 
+ 
+ Sec. 576.  
+ Continued eligibility for education and training opportunities for spouses of promoted members. 
+ 
+ Sec. 577.  
+ Modification to authority to reimburse for State licensure and certification costs of a spouse of a servicemember arising from relocation. 
+ 
+ Sec. 578.  
+ Clarification regarding eligibility to transfer entitlement under Post-9/11 Educational Assistance Program. 
+ 
+ Sec. 579.  
+ Annual State report card. 
+ 
+ Sec. 580.  
+ Improvements to child care for members of the Armed Forces. 
+ 
+ Sec. 580A.  
+ Transportation of remains of casualties; travel expenses for next of kin. 
+ 
+ Sec. 580B.  
+ Meetings of officials of the Department of Defense with representative groups of survivors of deceased members of the Armed Forces. 
+ 
+ Sec. 580C.  
+ Information and opportunities for registration for voting and absentee ballot requests for members of the Armed Forces undergoing deployment overseas. 
+ 
+ Sec. 580D.  
+ Study on two-way military ballot barcode tracking. 
+ 
+ Sec. 580E.  
+ Assistance to schools with military dependent students. 
+ 
+ Sec. 580F.  
+ First expansion of the My Career Advancement Account program for military spouses. 133 STAT. 1206 
+ 
+ Sec. 580G.  
+ Second expansion of the My Career Advancement Account program for military spouses. 
+ 
+ Sec. 580H.  
+ Report on training and support available to military spouses. 
+ 
+ Sec. 580I.  
+ Ri’katak Guest Student Program at United States Army Garrison−Kwajalein Atoll. 
+ 
+ Subtitle I— 
+ Decorations and Awards 
+ 
+ Sec. 581.  
+ Modification of authorities on eligibility for and replacement of gold star lapel buttons. 
+ 
+ Sec. 582.  
+ Standardization of honorable service requirement for award of military decorations. 
+ 
+ Sec. 583.  
+ Authorization for award of the Medal of Honor to John J. Duffy for acts of valor in Vietnam. 
+ 
+ Sec. 584.  
+ Review of World War I valor medals. 
+ 
+ Subtitle J— 
+ Miscellaneous Reports and Other Matters 
+ 
+ Sec. 591.  
+ Clarification of the term “ assault ” for purposes of Workplace and Gender Relations Surveys. 
+ 
+ Sec. 592.  
+ Inclusion of certain veterans on temporary disability or permanent disabled retirement lists in military adaptive sports programs. 
+ 
+ Sec. 593.  
+ Questions in surveys regarding extremist activity in the workplace. 
+ 
+ Sec. 594.  
+ Study on best practices for providing financial literacy education for separating members of the Armed Forces. 
+ 
+ Sec. 595.  
+ Report on oversight of authorized strengths of certain grades of commissioned regular and reserve officers of the Armed Forces. 
+ 
+ Sec. 596.  
+ Report on certain waivers. 
+ 
+ Sec. 597.  
+ Notifications on manning of afloat naval forces. 
+ 
+ Sec. 598.  
+ Report regarding use of aerial systems of the Department of Defense to support agencies of States, Territories, and the Federal Government. 
+ 
+ Sec. 599.  
+ Information for members of the Armed Forces on availability of services of the Department of Veterans Affairs relating to sexual trauma. 
+ 
+ Sec. 599A.  
+ Authority to issue an honorary promotion to Colonel Charles E. McGee, United States Air Force (ret.), to the grade of brigadier general. 
+ 
+ Sec. 599B.  
+ Authority to issue an honorary and posthumous promotion to Lieutenant Colonel Richard Cole, United States Air Force (ret.), to the grade of colonel. 
+ 
+ Sec. 599C.  
+ Sense of Congress on the honorable and distinguished service of General Joseph F. Dunford, United States Marine Corps, to the United States. 
+ 
+ TITLE VI— 
+ MILITARY COMPENSATION 
+ 
+ Subtitle A— 
+ Pay and Allowances 
+ 
+ Sec. 601.  
+ Clarification of continuation of pays during hospitalization and rehabilitation resulting from wounds, injury, or illness incurred while on duty in a hostile fire area or exposed to an event of hostile fire or other hostile action. 
+ 
+ Sec. 602.  
+ Continued entitlements while a member of the Armed Forces participates in a career intermission program. 
+ 
+ Sec. 603.  
+ Exemption from repayment of voluntary separation pay. 
+ 
+ Sec. 604.  
+ Consideration of service on active duty to reduce age of eligibility for retired pay for non-regular service. 
+ 
+ Sec. 605.  
+ Temporary adjustment of rates of basic allowance for housing following determination that local civilian housing costs significantly differ from such rates. 
+ 
+ Sec. 606.  
+ Reinvestment of travel refunds by the Department of Defense. 
+ 
+ Sec. 607.  
+ Addition of partial dislocation allowance to allowable travel and transportation expenses for servicemembers. 
+ 
+ Sec. 608.  
+ Reductions on account of earnings from work performed while entitled to an annuity supplement. 
+ 
+ Sec. 609.  
+ Increase in basic pay. 
+ 
+ Subtitle B— 
+ Bonuses and Special Incentive Pays 
+ 
+ Sec. 611.  
+ One-year extension of certain expiring bonus and special pay authorities. 
+ 
+ Subtitle C— 
+ Family and Survivor Benefits 
+ 
+ Sec. 621.  
+ Expansion of eligibility for exceptional transitional compensation for dependents to dependents of current members. 
+ 
+ Sec. 622.  
+ Phase-out of reduction of Survivor Benefit Plan survivor annuities by amount of dependency and indemnity compensation. 
+ 
+ Sec. 623.  
+ Death gratuity for ROTC graduates. 
+ 
+ Sec. 624.  
+ Expansion of authority to provide financial assistance to civilian providers of child care services or youth program services who provide such services to survivors of members of the Armed Forces who die in combat in the line of duty. 133 STAT. 1207 
+ 
+ Sec. 625.  
+ Casualty assistance for survivors of deceased ROTC graduates. 
+ 
+ Subtitle D— 
+ Defense Resale Matters 
+ 
+ Sec. 631.  
+ Defense resale system matters. 
+ 
+ Sec. 632.  
+ Procurement by commissary stores of certain locally sourced products. 
+ 
+ Sec. 633.  
+ GAO review of defense resale optimization study. 
+ 
+ Subtitle E— 
+ Morale, Welfare, and Recreation Privileges 
+ 
+ Sec. 641.  
+ Extension of certain morale, welfare, and recreation privileges to Foreign Service officers on mandatory home leave. 
+ 
+ Sec. 642.  
+ Extension of pilot program on a Government lodging program. 
+ 
+ Subtitle F— 
+ Reports and Other Matters 
+ 
+ Sec. 651.  
+ Annual reports on approval of employment or compensation of retired general or flag officers by foreign governments for emoluments clause purposes. 
+ 
+ Sec. 652.  
+ Report regarding transition from overseas housing allowance to basic allowance for housing for servicemembers in the territories. 
+ 
+ Sec. 653.  
+ Report on extension to members of the reserve components of the Armed Forces of special and incentive pays for members of the Armed Forces not currently payable to members of the reserve components. 
+ 
+ Sec. 654.  
+ Study regarding recoupment of separation pay, special separation benefits, and voluntary separation incentive payments from members of the Armed Forces and veterans who receive disability compensation under laws administered by the Secretary of Veterans Affairs. 
+ 
+ Sec. 655.  
+ Report on implementation of contributions to the Department of Defense Military Retirement Fund based on pay costs per Armed Force rather than on Armed Forces-wide basis. 
+ 
+ Sec. 656.  
+ Report on food insecurity among members of the Armed Forces and their dependents. 
+ 
+ TITLE VII— 
+ HEALTH CARE PROVISIONS 
+ 
+ Subtitle A— 
+ TRICARE and Other Health Care Benefits 
+ 
+ Sec. 701.  
+ Modification of eligibility for TRICARE Reserve Select for certain members of the Selected Reserve. 
+ 
+ Sec. 702.  
+ TRICARE payment options for retirees and their dependents. 
+ 
+ Sec. 703.  
+ Lead level screening and testing for children. 
+ 
+ Sec. 704.  
+ Exposure to open burn pits and toxic airborne chemicals or other airborne contaminants as part of periodic health assessments and other physical examinations. 
+ 
+ Sec. 705.  
+ Enhancement of recordkeeping with respect to exposure by members of the Armed Forces to certain occupational and environmental hazards while deployed overseas. 
+ 
+ Sec. 706.  
+ Modifications to post-deployment mental health assessments for members of the Armed Forces deployed in support of a contingency operation. 
+ 
+ Sec. 707.  
+ Provision of blood testing for firefighters of Department of Defense to determine exposure to perfluoroalkyl and polyfluoroalkyl substances. 
+ 
+ Subtitle B— 
+ Health Care Administration 
+ 
+ Sec. 711.  
+ Modification of organization of military health system. 
+ 
+ Sec. 712.  
+ Support by military health system of medical requirements of combatant commands. 
+ 
+ Sec. 713.  
+ Requirements for certain prescription drug labels. 
+ 
+ Sec. 714.  
+ Officers authorized to command Army dental units. 
+ 
+ Sec. 715.  
+ Improvements to interagency program office of the Department of Defense and the Department of Veterans Affairs. 
+ 
+ Sec. 716.  
+ Expansion of strategy to improve acquisition of managed care support contracts under TRICARE program. 
+ 
+ Sec. 717.  
+ Inclusion of blast exposure history in medical records of members of the Armed Forces. 
+ 
+ Sec. 718.  
+ Comprehensive policy for provision of mental health care to members of the Armed Forces. 
+ 
+ Sec. 719.  
+ Limitation on the realignment or reduction of military medical manning end strength. 
+ 
+ Sec. 720.  
+ Strategy to recruit and retain mental health providers. 
+ 
+ Sec. 721.  
+ Development of partnerships to improve combat casualty care for personnel of the Armed Forces. 
+ 
+ Sec. 722.  
+ Modification to referrals for mental health services. 133 STAT. 1208 
+ 
+ Subtitle C— 
+ Reports and Other Matters 
+ 
+ Sec. 731.  
+ Authorization of claims by members of the uniformed services against the United States for personal injury or death caused by medical malpractice. 
+ 
+ Sec. 732.  
+ Extension and clarification of authority for Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration Fund. 
+ 
+ Sec. 733.  
+ Appointment of non-ex officio members of the Henry M. Jackson Foundation for the Advancement of Military Medicine. 
+ 
+ Sec. 734.  
+ Establishment of Academic Health System in National Capital Region. 
+ 
+ Sec. 735.  
+ Provision of veterinary services by veterinary professionals of the Department of Defense in emergencies. 
+ 
+ Sec. 736.  
+ Three-year extension of authority to continue the DOD-VA Health Care Sharing Incentive Fund. 
+ 
+ Sec. 737.  
+ Preservation of resources of the Army Medical Research and Materiel Command and continuation as Center of Excellence. 
+ 
+ Sec. 738.  
+ Encouragement of participation in Women’s Health Transition Training pilot program. 
+ 
+ Sec. 739.  
+ National Guard suicide prevention pilot program. 
+ 
+ Sec. 740.  
+ Pilot Program on civilian and military partnerships to enhance interoperability and medical surge capability and capacity of National Disaster Medical System. 
+ 
+ Sec. 741.  
+ Reports on suicide among members of the Armed Forces and suicide prevention programs and activities of the Department of Defense. 
+ 
+ Sec. 742.  
+ Modification of requirements for longitudinal medical study on blast pressure exposure of members of the Armed Forces and collection of exposure information. 
+ 
+ Sec. 743.  
+ Study and plan on the use of military-civilian integrated health delivery systems. 
+ 
+ Sec. 744.  
+ Study on case management in the military health system. 
+ 
+ Sec. 745.  
+ Report on Global Health Security Strategy and the National Biodefense Security. 
+ 
+ Sec. 746.  
+ Study on establishment of wounded warrior service dog program. 
+ 
+ Sec. 747.  
+ GAO report on Department of Defense quality assurance program and impacts of medical malpractice actions. 
+ 
+ Sec. 748.  
+ Reports on Millennium Cohort Study relating to women members of the Armed Forces. 
+ 
+ Sec. 749.  
+ Study on effects of sleep deprivation on readiness of members of the Armed Forces. 
+ 
+ Sec. 750.  
+ Study and report on traumatic brain injury mitigation efforts. 
+ 
+ TITLE VIII— 
+ ACQUISITION POLICY, ACQUISITION MANAGEMENT, AND RELATED MATTERS 
+ 
+ Subtitle A— 
+ Acquisition Policy and Management 
+ 
+ Sec. 800.  
+ Authority for continuous integration and delivery of software applications and upgrades to embedded systems. 
+ 
+ Sec. 801.  
+ Pilot program on intellectual property evaluation for acquisition programs. 
+ 
+ Sec. 802.  
+ Pilot program to use alpha contracting teams for complex requirements. 
+ 
+ Sec. 803.  
+ Failure to provide other than certified cost or pricing data upon request. 
+ 
+ Sec. 804.  
+ Comptroller General report on price reasonableness. 
+ 
+ Sec. 805.  
+ Limitation on transfer of funds related to cost overruns and cost underruns. 
+ 
+ Sec. 806.  
+ Standardizing data collection and reporting on use of source selection procedures by Federal agencies. 
+ 
+ Sec. 807.  
+ Department of Defense use of fixed-price contracts. 
+ 
+ Sec. 808.  
+ Repeal of continuation of data rights during challenges. 
+ 
+ Sec. 809.  
+ Repeal of authority to waive acquisition laws to acquire vital national security capabilities. 
+ 
+ Sec. 810.  
+ Repeal of the Defense Cost Accounting Standards Board. 
+ 
+ Subtitle B— 
+ Amendments to General Contracting Authorities, Procedures, and Limitations 
+ 
+ Sec. 815.  
+ Modification of Director of Operational Test and Evaluation report. 
+ 
+ Sec. 816.  
+ Modification of written approval requirement for task and delivery order single contract awards. 
+ 
+ Sec. 817.  
+ Responsibility for data analysis and requirements validation for services contracts. 
+ 
+ Sec. 818.  
+ Documentation of market research related to commercial item determinations. 133 STAT. 1209 
+ 
+ Sec. 819.  
+ Availability of data on the use of other transaction authority and report on the use of authority to carry out prototype projects. 
+ 
+ Sec. 820.  
+ Notification of Navy procurement production disruptions. 
+ 
+ Sec. 821.  
+ Modification to acquisition authority of the Commander of the United States Cyber Command. 
+ 
+ Sec. 822.  
+ Extension of Never Contract With the Enemy. 
+ 
+ Sec. 823.  
+ Modification of justification and approval requirement for certain Department of Defense contracts. 
+ 
+ Sec. 824.  
+ Extension of sunset relating to Federal Data Center Consolidation Initiative. 
+ 
+ Sec. 825.  
+ Pilot program to accelerate contracting and pricing processes. 
+ 
+ Sec. 826.  
+ Uniformity in application of micro-purchase threshold to certain task or delivery orders. 
+ 
+ Sec. 827.  
+ Requirement for cost estimates on models of commercial e-commerce portal program. 
+ 
+ Subtitle C— 
+ Provisions Relating to Major Defense Acquisition Programs 
+ 
+ Sec. 830.  
+ Modification of requirements for reporting to Congress on certain acquisition programs. 
+ 
+ Sec. 831.  
+ Pilot program to streamline decision-making processes for weapon systems. 
+ 
+ Sec. 832.  
+ Analysis of alternatives pursuant to materiel development decisions. 
+ 
+ Sec. 833.  
+ Naval vessel certification required before Milestone B approval. 
+ 
+ Subtitle D— 
+ Provisions Relating to the Acquisition System 
+ 
+ Sec. 835.  
+ Extramural acquisition innovation and research activities. 
+ 
+ Sec. 836.  
+ Report on realignment of the defense acquisition system to implement acquisition reforms. 
+ 
+ Sec. 837.  
+ Report and limitation on the availability of funds relating to the “middle tier” of acquisition programs. 
+ 
+ Sec. 838.  
+ Report on intellectual property policy and the cadre of intellectual property experts. 
+ 
+ Sec. 839.  
+ Guidance and reports relating to covered defense business systems. 
+ 
+ Sec. 840.  
+ Implementation guidance for use of a modular open system approach. 
+ 
+ Sec. 841.  
+ Limitation on availability of funds for the Office of the Chief Management Officer of the Department of Defense. 
+ 
+ Subtitle E— 
+ Industrial Base Matters 
+ 
+ Sec. 845.  
+ Modernization of acquisition processes to ensure integrity of industrial base. 
+ 
+ Sec. 846.  
+ Report requirements for the national technology and industrial base. 
+ 
+ Sec. 847.  
+ Mitigating risks related to foreign ownership, control, or influence of Department of Defense contractors or subcontractors. 
+ 
+ Sec. 848.  
+ Prohibition on operation or procurement of foreign-made unmanned aircraft systems. 
+ 
+ Sec. 849.  
+ Modification of prohibition on acquisition of sensitive materials from non-allied foreign nations. 
+ 
+ Sec. 850.  
+ Acquisition and disposal of certain rare earth materials. 
+ 
+ Sec. 851.  
+ Pilot program for development of technology-enhanced capabilities with partnership intermediaries. 
+ 
+ Sec. 852.  
+ Authorized official to carry out the procurement technical assistance cooperative agreement program. 
+ 
+ Sec. 853.  
+ Requirement that certain ship components be manufactured in the national technology and industrial base. 
+ 
+ Sec. 854.  
+ Addition of domestically produced stainless steel flatware and dinnerware to the Berry Amendment. 
+ 
+ Sec. 855.  
+ Application of miscellaneous technology base policies and programs to the Columbia-class submarine program. 
+ 
+ Sec. 856.  
+ Application of limitation on procurement of goods other than United States goods to the FFG–Frigate Program. 
+ 
+ Sec. 857.  
+ Sense of Congress regarding consideration of price in procurement of the FFG(X) frigate. 
+ 
+ Subtitle F— 
+ Provisions Relating to Acquisition Workforce 
+ 
+ Sec. 860.  
+ Establishment of Defense Civilian Training Corps. 
+ 
+ Sec. 861.  
+ Defense acquisition workforce certification, education, and career fields. 
+ 
+ Sec. 862.  
+ Software development and software acquisition training and management programs. 
+ 
+ Sec. 863.  
+ Modification of temporary assignments of Department of Defense employees to a private-sector organization. 
+ 
+ Sec. 864.  
+ Incentives and consideration for qualified training programs. 133 STAT. 1210 
+ 
+ Sec. 865.  
+ Use of qualified apprentices by military construction contractors. 
+ 
+ Subtitle G— 
+ Small Business Matters 
+ 
+ Sec. 870.  
+ Requirements relating to credit for certain small business concern subcontractors. 
+ 
+ Sec. 871.  
+ Inclusion of best in class designations in annual report on small business goals. 
+ 
+ Sec. 872.  
+ Reauthorization and improvement of Department of Defense Mentor-Protege Program. 
+ 
+ Sec. 873.  
+ Accelerated payments applicable to contracts with certain small business concerns under the Prompt Payment Act. 
+ 
+ Sec. 874.  
+ Postaward explanations for unsuccessful offerors for certain contracts. 
+ 
+ Sec. 875.  
+ Small business contracting credit for subcontractors that are Puerto Rico businesses or covered territory businesses. 
+ 
+ Sec. 876.  
+ Technical amendment regarding treatment of certain surviving spouses under the definition of small business concern owned and controlled by service-disabled veterans. 
+ 
+ Sec. 877.  
+ Extension of loan assistance and deferral eligibility to reservists and members of the National Guard beyond periods of military conflict. 
+ 
+ Sec. 878.  
+ Modification to the Defense Research and Development Rapid Innovation Program. 
+ 
+ Sec. 879.  
+ Alignment of the Department of Defense Small Business Innovation Research Program and Small Business Technology Transfer Program with the National Defense Science and Technology Strategy. 
+ 
+ Sec. 880.  
+ Assistance for small business concerns participating in the SBIR and STTR programs. 
+ 
+ Sec. 881.  
+ Cybersecurity technical assistance for SBIR and STTR programs. 
+ 
+ Sec. 882.  
+ Funding for defense research activities of small business concerns. 
+ 
+ Sec. 883.  
+ Modifications to budget display requirements for the Department of Defense Small Business Innovation Research Program and Small Business Technology Transfer Program. 
+ 
+ Sec. 884.  
+ Pilot program for domestic investment under the SBIR program. 
+ 
+ Subtitle H— 
+ Other Matters 
+ 
+ Sec. 885.  
+ Review of guidance to contractors on nondiscrimination on the basis of sex. 
+ 
+ Sec. 886.  
+ Comptroller General report on contractor violations of certain labor laws. 
+ 
+ Sec. 887.  
+ Comptroller General report on contingency contracting. 
+ 
+ Sec. 888.  
+ Policies and procedures for contractors to report gross violations of internationally recognized human rights. 
+ 
+ Sec. 889.  
+ Comptroller General report on oversight of contractors providing private security functions. 
+ 
+ Sec. 890.  
+ Prohibition on contracting with persons that have business operations with the Maduro regime. 
+ 
+ Sec. 891.  
+ Report on the Combating Trafficking in Persons initiative. 
+ 
+ Sec. 892.  
+ Improved management of information technology and cyberspace investments. 
+ 
+ Sec. 893.  
+ Modification to requirements for purchase of commercial leasing services pursuant to multiple award contracts. 
+ 
+ TITLE IX— 
+ DEPARTMENT OF DEFENSE ORGANIZATION AND MANAGEMENT 
+ 
+ Subtitle A— 
+ Office of the Secretary of Defense and Related Matters 
+ 
+ Sec. 901.  
+ Headquarters activities of the Department of Defense matters. 
+ 
+ Sec. 902.  
+ Clarifying the roles and responsibilities of the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering. 
+ 
+ Sec. 903.  
+ Return to Chief Information Officer of the Department of Defense of responsibility for business systems and related matters. 
+ 
+ Sec. 904.  
+ Assessments of responsibilities and authorities of the Chief Management Officer of the Department of Defense. 
+ 
+ Sec. 905.  
+ Senior Military Advisor for Cyber Policy and Deputy Principal Cyber Advisor. 
+ 
+ Sec. 906.  
+ Exclusion from limitations on personnel in the Office of the Secretary of Defense and Department of Defense headquarters of fellows appointed under the John S. McCain Defense Fellows Program. 
+ 
+ Subtitle B— 
+ Organization and Management of Other Department of Defense Offices and Elements 
+ 
+ Sec. 911.  
+ Codification of Assistant Secretaries for Energy, Installations, and Environment of the Army, Navy, and Air Force. 133 STAT. 1211 
+ 
+ Subtitle C— 
+ Other Department of Defense Organization and Management Matters 
+ 
+ Sec. 921.  
+ Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense. 
+ 
+ Sec. 922.  
+ Limitation on consolidation of Defense Media Activity. 
+ 
+ Sec. 923.  
+ Report on resources to implement the civilian casualty policy of the Department of Defense. 
+ 
+ Subtitle D— 
+ United States Space Force 
+ 
+ Sec. 951.  
+ Short title. 
+ 
+ Sec. 952.  
+ The Space Force. 
+ 
+ Sec. 953.  
+ Chief of Space Operations. 
+ 
+ Sec. 954.  
+ Space Force Acquisition Council. 
+ 
+ Sec. 955.  
+ Assistant Secretary of Defense for Space Policy. 
+ 
+ Sec. 956.  
+ Assistant Secretary of the Air Force for Space Acquisition and Integration. 
+ 
+ Sec. 957.  
+ Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs. 
+ 
+ Sec. 958.  
+ Conforming amendments and clarification of authorities. 
+ 
+ Sec. 959.  
+ Effects on military installations. 
+ 
+ Sec. 960.  
+ Availability of funds. 
+ 
+ Sec. 961.  
+ Implementation. 
+ 
+ TITLE X— 
+ GENERAL PROVISIONS 
+ 
+ Subtitle A— 
+ Financial Matters 
+ 
+ Sec. 1001.  
+ General transfer authority. 
+ 
+ Sec. 1002.  
+ Defense Business Audit Remediation Plan. 
+ 
+ Sec. 1003.  
+ Financial improvement and audit remediation plan. 
+ 
+ Sec. 1004.  
+ Reporting requirements relating to Department of Defense audits. 
+ 
+ Sec. 1005.  
+ Inclusion of certain military construction projects in annual reports on unfunded priorities of the Armed Forces and the combatant commands. 
+ 
+ Sec. 1006.  
+ Prohibition on delegation of responsibility for submittal to Congress of Out-Year Unconstrained Total Munitions Requirements and Out-Year Inventory numbers. 
+ 
+ Sec. 1007.  
+ Annual budget justification display for service-common and other support and enabling capabilities for special operations forces. 
+ 
+ Sec. 1008.  
+ Element in annual reports on the Financial Improvement and Audit Remediation Plan on activities with respect to classified programs. 
+ 
+ Sec. 1009.  
+ Plan of the Department of Defense for financial management information. 
+ 
+ Sec. 1010.  
+ Update of authorities and renaming of Department of Defense Acquisition Workforce Development Fund. 
+ 
+ Sec. 1011.  
+ Transparency of accounting firms used to support Department of Defense audit. 
+ 
+ Sec. 1012.  
+ Modification of required elements of annual reports on emergency and extraordinary expenses of the Department of Defense. 
+ 
+ Subtitle B— 
+ Counterdrug Activities 
+ 
+ Sec. 1021.  
+ Modification of authority to support a unified counterdrug and counterterrorism campaign in Colombia. 
+ 
+ Sec. 1022.  
+ Extension of authority for joint task forces to provide support to law enforcement agencies conducting counter-terrorism activities. 
+ 
+ Sec. 1023.  
+ Sense of Congress regarding Department of Defense counterdrug activities in the transit zone and Caribbean basin. 
+ 
+ Sec. 1024.  
+ Assessment of impact of any planned or proposed border wall on volume of illegal narcotics. 
+ 
+ Subtitle C— 
+ Naval Vessels 
+ 
+ Sec. 1031.  
+ Modification of authority to purchase vessels using funds in National Defense Sealift Fund. 
+ 
+ Sec. 1032.  
+ Use of National Defense Sealift Fund for procurement of two used vessels. 
+ 
+ Sec. 1033.  
+ Transportation by sea of supplies for the Armed Forces and Defense Agencies. 
+ 
+ Sec. 1034.  
+ Senior Technical Authority for each naval vessel class. 
+ 
+ Sec. 1035.  
+ Permanent authority for sustaining operational readiness of littoral combat ships on extended deployment. 
+ 
+ Sec. 1036.  
+ Formal training for shipboard system programs of record. 
+ 
+ Sec. 1037.  
+ Report on shipbuilder training and the defense industrial base. 
+ 
+ Sec. 1038.  
+ Use of competitive procedures for CVN–80 and CVN–81 dual aircraft carrier contract. 133 STAT. 1212 
+ 
+ Sec. 1039.  
+ Report on expanding naval vessel maintenance. 
+ 
+ Subtitle D— 
+ Counterterrorism 
+ 
+ Sec. 1041.  
+ Modification of support of special operations to combat terrorism. 
+ 
+ Sec. 1042.  
+ Extension of prohibition on use of funds for transfer or release of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, to certain countries. 
+ 
+ Sec. 1043.  
+ Extension of prohibition on use of funds for transfer or release of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, to the United States. 
+ 
+ Sec. 1044.  
+ Extension of prohibition on use of funds to construct or modify facilities in the United States to house detainees transferred from United States Naval Station, Guantanamo Bay, Cuba. 
+ 
+ Sec. 1045.  
+ Extension of prohibition on use of funds to close or relinquish control of United States Naval Station, Guantanamo Bay, Cuba. 
+ 
+ Sec. 1046.  
+ Chief Medical Officer at United States Naval Station, Guantanamo Bay, Cuba. 
+ 
+ Sec. 1047.  
+ Independent assessment on gender and countering violent extremism. 
+ 
+ Subtitle E— 
+ Miscellaneous Authorities and Limitations 
+ 
+ Sec. 1051.  
+ Scheduling of Department of Defense executive aircraft controlled by Secretaries of military departments. 
+ 
+ Sec. 1052.  
+ Explosive ordnance defense disposal program. 
+ 
+ Sec. 1053.  
+ Technical correction and extension of reporting requirement regarding enhancement of information sharing and coordination of military training between Department of Homeland Security and Department of Defense. 
+ 
+ Sec. 1054.  
+ Notification on the provision of defense sensitive support. 
+ 
+ Sec. 1055.  
+ Revision to authorities relating to mail service for members of the Armed Forces and Department of Defense civilians overseas. 
+ 
+ Sec. 1056.  
+ Access to and use of military post offices by United States citizens employed overseas by the North Atlantic Treaty Organization who perform functions in support of military operations of the Armed Forces. 
+ 
+ Sec. 1057.  
+ Expenditure of funds for Department of Defense intelligence and counterintelligence activities. 
+ 
+ Sec. 1058.  
+ Limitation on use of funds for the inactivation of Army watercraft units. 
+ 
+ TITLE XI— 
+ CIVILIAN PERSONNEL MATTERS 
+ 
+ Subtitle A— 
+ General Provisions 
+ 
+ Sec. 1101.  
+ Defense Advanced Research Projects Agency personnel management authority. 
+ 
+ Sec. 1102.  
+ Report on the probationary period for Department of Defense employees. 
+ 
+ Sec. 1103.  
+ Civilian personnel management. 
+ 
+ Sec. 1104.  
+ One-year extension of temporary authority to grant allowances, benefits, and gratuities to civilian personnel on official duty in a combat zone. 
+ 
+ Sec. 1105.  
+ One-year extension of authority to waive annual limitation on premium pay and aggregate limitation on pay for Federal civilian employees working overseas. 
+ 
+ Sec. 1106.  
+ Performance of civilian functions by military personnel. 
+ 
+ Sec. 1107.  
+ Extension of direct hire authority for domestic industrial base facilities and Major Range and Test Facilities Base. 
+ 
+ Sec. 1108.  
+ Authority to provide additional allowances and benefits for certain Defense Clandestine Service employees. 
+ 
+ Sec. 1109.  
+ Modification of direct hire authorities for the Department of Defense. 
+ 
+ Sec. 1110.  
+ Designating certain FEHBP and FEGLI services provided by Federal employees as excepted services under the Anti-Deficiency Act. 
+ 
+ Sec. 1111.  
+ Continuing supplemental dental and vision benefits and long-term care insurance coverage during a Government shutdown. 
+ 
+ Sec. 1112.  
+ Limitation on transfer of Office of Personnel Management. 
+ 
+ Sec. 1113.  
+ Assessment of Accelerated Promotion Program suspension. 
+ 
+ Sec. 1114.  
+ Reimbursement for Federal, State, and local income taxes incurred during travel, transportation, and relocation. 
+ 
+ Sec. 1115.  
+ Clarification of limitation on expedited hiring authority for post-secondary students. 
+ 
+ Sec. 1116.  
+ Modification of temporary assignments of Department of Defense employees to a private-sector organization. 
+ 
+ Sec. 1117.  
+ Extension of authority for part-time reemployment. 
+ 
+ Subtitle B— 
+ Fair Chance Act 
+ 
+ Sec. 1121.  
+ Short title. 133 STAT. 1213 
+ 
+ Sec. 1122.  
+ Prohibition on criminal history inquiries prior to conditional offer for Federal employment. 
+ 
+ Sec. 1123.  
+ Prohibition on criminal history inquiries by contractors prior to conditional offer. 
+ 
+ Sec. 1124.  
+ Report on employment of individuals formerly incarcerated in Federal prisons. 
+ 
+ Subtitle C— 
+ ATC Hiring Reform 
+ 
+ Sec. 1131.  
+ Short title; definition. 
+ 
+ Sec. 1132.  
+ Hiring of air traffic control specialists. 
+ 
+ Sec. 1133.  
+ Ensuring hiring preference for applicants with experience at an air traffic control facility of the National Guard. 
+ 
+ Sec. 1134.  
+ FAA reports on air traffic controller hiring and training. 
+ 
+ Sec. 1135.  
+ DOT Inspector General review and report. 
+ 
+ TITLE XII— 
+ MATTERS RELATING TO FOREIGN NATIONS 
+ 
+ Subtitle A— 
+ Assistance and Training 
+ 
+ Sec. 1201.  
+ Modification of authority to build capacity of foreign security forces. 
+ 
+ Sec. 1202.  
+ Modification and extension of cross servicing agreements for loan of personnel protection and personnel survivability equipment in coalition operations. 
+ 
+ Sec. 1203.  
+ Modifications of authorities relating to acquisition and cross-servicing agreements. 
+ 
+ Sec. 1204.  
+ Modification of quarterly report on obligation and expenditure of funds for security cooperation programs and activities. 
+ 
+ Sec. 1205.  
+ Gender perspectives and participation by women in security cooperation activities. 
+ 
+ Sec. 1206.  
+ Plan to provide consistency of administration of authorities relating to vetting of units of security forces of foreign countries; modification of assessment, monitoring, and evaluation of security cooperation programs and activities. 
+ 
+ Sec. 1207.  
+ Extension of authority for support of special operations for irregular warfare. 
+ 
+ Sec. 1208.  
+ Extension and modification of Commanders’ Emergency Response Program and elimination of certain payments to redress injury and loss. 
+ 
+ Sec. 1209.  
+ Two-year extension of program authority for Global Security Contingency Fund. 
+ 
+ Sec. 1210.  
+ Legal institutional capacity building initiative for foreign defense institutions. 
+ 
+ Sec. 1210A.  
+ Department of Defense support for stabilization activities in national security interest of the United States. 
+ 
+ Subtitle B— 
+ Matters Relating to Afghanistan and Pakistan 
+ 
+ Sec. 1211.  
+ Extension of authority to transfer defense articles and provide defense services to the military and security forces of Afghanistan. 
+ 
+ Sec. 1212.  
+ Extension and modification of authority to acquire products and services produced in countries along a major route of supply to Afghanistan. 
+ 
+ Sec. 1213.  
+ Authority for certain payments to redress injury and loss. 
+ 
+ Sec. 1214.  
+ Extension and modification of semiannual report on enhancing security and stability in Afghanistan. 
+ 
+ Sec. 1215.  
+ Special Immigrant Visa program reporting requirement. 
+ 
+ Sec. 1216.  
+ Meaningful inclusion of Afghan women in peace negotiations. 
+ 
+ Sec. 1217.  
+ Extension and modification of authority for reimbursement of certain coalition nations for support provided to United States military operations. 
+ 
+ Sec. 1218.  
+ Support for reconciliation activities led by the Government of Afghanistan. 
+ 
+ Sec. 1219.  
+ Modification and extension of the Afghan Special Immigrant Visa Program. 
+ 
+ Subtitle C— 
+ Matters Relating to Syria, Iraq, and Iran 
+ 
+ Sec. 1221.  
+ Modification of authority and limitation on use of funds to provide assistance to counter the Islamic State of Iraq and Syria. 
+ 
+ Sec. 1222.  
+ Extension and modification of authority to provide assistance to vetted Syrian groups and individuals. 
+ 
+ Sec. 1223.  
+ Modification of authority to support operations and activities of the Office of Security Cooperation in Iraq. 
+ 
+ Sec. 1224.  
+ Establishing a coordinator for detained ISIS members and relevant displaced populations in Syria. 
+ 
+ Sec. 1225.  
+ Report on lessons learned from efforts to liberate Mosul and Raqqah from control of the Islamic State of Iraq and Syria. 133 STAT. 1214 
+ 
+ Sec. 1226.  
+ Expansion of availability of financial assets of Iran to victims of terrorism. 
+ 
+ Sec. 1227.  
+ Report on the status of deconfliction channels with Iran. 
+ 
+ Sec. 1228.  
+ Prohibition on provision of weapons and other forms of support to certain organizations. 
+ 
+ Subtitle D— 
+ Matters Relating to the Russian Federation 
+ 
+ Sec. 1231.  
+ Extension of limitation on military cooperation between the United States and Russia. 
+ 
+ Sec. 1232.  
+ Prohibition on availability of funds relating to sovereignty of Russia over Crimea. 
+ 
+ Sec. 1233.  
+ Sense of Congress on updating and modernizing existing agreements to avert miscalculation between the United States and Russia. 
+ 
+ Sec. 1234.  
+ United States participation in Open Skies Treaty. 
+ 
+ Sec. 1235.  
+ Modifications of briefing, notification, and reporting requirements relating to non-compliance by the Russian Federation with its obligations under the INF Treaty. 
+ 
+ Sec. 1236.  
+ Report on treaties relating to nuclear arms control. 
+ 
+ Sec. 1237.  
+ Reports relating to the New START Treaty. 
+ 
+ Sec. 1238.  
+ Report on military activities of the Russian Federation and the People’s Republic of China in the Arctic region. 
+ 
+ Sec. 1239.  
+ Updated strategy to counter the threat of malign influence by the Russian Federation and other countries. 
+ 
+ Subtitle E— 
+ Matters Relating to Europe and NATO 
+ 
+ Sec. 1241.  
+ Sense of Congress on support for the North Atlantic Treaty Organization. 
+ 
+ Sec. 1242.  
+ Prohibition on the use of funds to suspend, terminate, or provide notice of denunciation of the North Atlantic Treaty. 
+ 
+ Sec. 1243.  
+ Future years plans and planning transparency for the European Deterrence Initiative. 
+ 
+ Sec. 1244.  
+ Modification and extension of Ukraine Security Assistance Initiative. 
+ 
+ Sec. 1245.  
+ Limitation on transfer of F–35 aircraft to Turkey. 
+ 
+ Sec. 1246.  
+ Baltic defense assessment; extension and modification of security assistance for Baltic countries for joint program for interoperability and deterrence against aggression. 
+ 
+ Sec. 1247.  
+ Extension of authority for and report on training for Eastern European national security forces in the course of multilateral exercises. 
+ 
+ Sec. 1248.  
+ Extension and modification of NATO Special Operations Headquarters. 
+ 
+ Sec. 1249.  
+ North Atlantic Treaty Organization Joint Force Command. 
+ 
+ Sec. 1250.  
+ Report on North Atlantic Treaty Organization Readiness Initiative. 
+ 
+ Sec. 1250A.  
+ Repeal of prohibition on transfer of articles on the United States munitions list to the Republic of Cyprus. 
+ 
+ Subtitle F— 
+ Matters Relating to the Indo-Pacific Region 
+ 
+ Sec. 1251.  
+ Modification of Indo-Pacific Maritime Security Initiative. 
+ 
+ Sec. 1252.  
+ Expansion of Indo-Pacific Maritime Security Initiative and limitation on use of funds. 
+ 
+ Sec. 1253.  
+ Report on resourcing United States defense requirements for the Indo-Pacific region and study on competitive strategies. 
+ 
+ Sec. 1254.  
+ Limitation on use of funds to reduce the total number of members of the Armed Forces serving on active duty who are deployed to South Korea. 
+ 
+ Sec. 1255.  
+ Report on direct, indirect, and burden-sharing contributions of Japan and South Korea. 
+ 
+ Sec. 1256.  
+ Sense of Congress on security commitments to the Governments of Japan and the Republic of Korea and trilateral cooperation among the United States, Japan, and the Republic of Korea. 
+ 
+ Sec. 1257.  
+ Sense of Congress on North Korea. 
+ 
+ Sec. 1258.  
+ Statement of policy and sense of Congress on, and strategy to fulfill obligations under, Mutual Defense Treaty with the Republic of the Philippines. 
+ 
+ Sec. 1259.  
+ Report on security cooperation with the Philippine National Police. 
+ 
+ Sec. 1260.  
+ Modification of annual report on military and security developments involving the People’s Republic of China. 
+ 
+ Sec. 1260A.  
+ Report on foreign military activities in Pacific Island countries. 
+ 
+ Sec. 1260B.  
+ Report on cybersecurity activities with Taiwan. 
+ 
+ Sec. 1260C.  
+ Review and report related to the Taiwan Relations Act. 
+ 
+ Sec. 1260D.  
+ Sense of Congress on enhancement of the United States-Taiwan defense relationship. 
+ 
+ Sec. 1260E.  
+ Chinese foreign direct investment in countries of the Arctic region. 
+ 
+ Sec. 1260F.  
+ Sense of Congress on policy toward Hong Kong. 133 STAT. 1215 
+ 
+ Sec. 1260G.  
+ Sense of Congress on enhancing defense and security cooperation with the Republic of Singapore. 
+ 
+ Sec. 1260H.  
+ Authority to transfer funds for Bien Hoa dioxin cleanup. 
+ 
+ Sec. 1260I.  
+ Limitation on removal of Huawei Technologies Co. Ltd. from entity list of Bureau of Industry and Security. 
+ 
+ Sec. 1260J.  
+ Report on ZTE compliance with Superseding Settlement Agreement and Superseding Order. 
+ 
+ Sec. 1260K.  
+ Report on the lay-down of United States Marines in the Indo-Pacific Region. 
+ 
+ Subtitle G— 
+ Other Matters 
+ 
+ Sec. 1261.  
+ Modification to report on legal and policy frameworks for the use of military force. 
+ 
+ Sec. 1262.  
+ Independent review of sufficiency of resources available to United States Southern Command and United States Africa Command. 
+ 
+ Sec. 1263.  
+ United States Central Command posture assessment and review. 
+ 
+ Sec. 1264.  
+ Limitation on production of nuclear proliferation assessment statements. 
+ 
+ Sec. 1265.  
+ Western Hemisphere resource assessment. 
+ 
+ Sec. 1266.  
+ Human rights in Brazil. 
+ 
+ Sec. 1267.  
+ Certification relating to assistance for Guatemala. 
+ 
+ Sec. 1268.  
+ Independent analysis of human rights situation in Honduras. 
+ 
+ Sec. 1269.  
+ Briefing on strategy to improve the efforts of the Nigerian military to prevent, mitigate, and respond to civilian harm. 
+ 
+ Sec. 1270.  
+ Report on implications of Chinese military presence in Djibouti. 
+ 
+ Sec. 1271.  
+ Rule of construction on the permanent stationing of United States Armed Forces in Somalia. 
+ 
+ Sec. 1272.  
+ Defense and diplomatic strategy for Libya. 
+ 
+ Sec. 1273.  
+ Prohibition on in-flight refueling to non-United States aircraft that engage in hostilities in the ongoing civil war in Yemen. 
+ 
+ Sec. 1274.  
+ Report on Saudi-led coalition strikes in Yemen. 
+ 
+ Sec. 1275.  
+ Reports on expenses incurred for in-flight refueling of Saudi coalition aircraft conducting missions relating to civil war in Yemen. 
+ 
+ Sec. 1276.  
+ Report on Saudi Arabia’s human rights record. 
+ 
+ Sec. 1277.  
+ Report on intelligence community assessment relating to the killing of Washington Post columnist Jamal Khashoggi. 
+ 
+ Sec. 1278.  
+ United States-Israel cooperation to counter unmanned aerial systems. 
+ 
+ Sec. 1279.  
+ Extension and modification of authority for United States-Israel anti-tunnel cooperation activities. 
+ 
+ Sec. 1280.  
+ Report on cost imposition strategy. 
+ 
+ Sec. 1281.  
+ Modification of initiative to support protection of national security academic researchers from undue influence and other security threats. 
+ 
+ Sec. 1282.  
+ Modification of responsibility for policy on civilian casualty matters. 
+ 
+ Sec. 1283.  
+ Report on export of certain satellites to entities with certain beneficial ownership structures. 
+ 
+ Sec. 1284.  
+ Rule of construction relating to the use of military force. 
+ 
+ Sec. 1285.  
+ Reports and briefings on use of military force and support of partner forces. 
+ 
+ TITLE XIII— 
+ COOPERATIVE THREAT REDUCTION 
+ 
+ Sec. 1301.  
+ Funding allocations; specification of cooperative threat reduction funds. 
+ 
+ TITLE XIV— 
+ OTHER AUTHORIZATIONS 
+ 
+ Subtitle A— 
+ Military Programs 
+ 
+ Sec. 1401.  
+ Working capital funds. 
+ 
+ Sec. 1402.  
+ Chemical agents and munitions destruction, defense. 
+ 
+ Sec. 1403.  
+ Drug interdiction and counter-drug activities, defense-wide. 
+ 
+ Sec. 1404.  
+ Defense inspector general. 
+ 
+ Sec. 1405.  
+ Defense health program. 
+ 
+ Subtitle B— 
+ Other Matters 
+ 
+ Sec. 1411.  
+ Authority for transfer of funds to joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration Fund for Captain James A. Lovell Health Care Center, Illinois. 
+ 
+ Sec. 1412.  
+ Authorization of appropriations for Armed Forces Retirement Home. 
+ 
+ TITLE XV— 
+ AUTHORIZATION OF ADDITIONAL APPROPRIATIONS FOR OVERSEAS CONTINGENCY OPERATIONS 
+ 
+ Sec. 1501.  
+ Purpose. 
+ 
+ Sec. 1502.  
+ Treatment as additional authorizations. 133 STAT. 1216 
+ 
+ Subtitle A— 
+ Authorization of Appropriations for Overseas Contingency Operations 
+ 
+ Sec. 1511.  
+ Overseas contingency operations. 
+ 
+ Sec. 1512.  
+ Procurement. 
+ 
+ Sec. 1513.   
+ Research, development, test, and evaluation. 
+ 
+ Sec. 1514.  
+ Operation and maintenance. 
+ 
+ Sec. 1515.  
+ Military personnel. 
+ 
+ Sec. 1516.  
+ Working capital funds. 
+ 
+ Sec. 1517.  
+ Drug interdiction and counter-drug activities, defense-wide. 
+ 
+ Sec. 1518.  
+ Defense inspector general. 
+ 
+ Sec. 1519.  
+ Defense health program. 
+ 
+ Sec. 1520.  
+ Afghanistan security forces fund. 
+ 
+ Sec. 1520A.  
+ Special transfer authority. 
+ 
+ Subtitle B— 
+ Authorization of Appropriations for Emergency Funds for Recovery and Restoration 
+ 
+ Sec. 1521.  
+ Procurement. 
+ 
+ Sec. 1522.  
+ Research, development, test, and evaluation. 
+ 
+ Sec. 1523.  
+ Operation and maintenance. 
+ 
+ Sec. 1524.  
+ Restriction on transfer of funds authorized by this subtitle. 
+ 
+ TITLE XVI— 
+ STRATEGIC PROGRAMS, CYBER, AND INTELLIGENCE MATTERS 
+ 
+ Subtitle A— 
+ Space Activities 
+ 
+ Sec. 1601.  
+ Repeal of requirement to establish United States Space Command as a subordinate unified command of the United States Strategic Command. 
+ 
+ Sec. 1602.  
+ Coordination of modernization efforts relating to military-code capable GPS receiver cards. 
+ 
+ Sec. 1603.  
+ Demonstration of backup and complementary positioning, navigation, and timing capabilities of Global Positioning System. 
+ 
+ Sec. 1604.  
+ Annual determination on plan on full integration and exploitation of overhead persistent infrared capability. 
+ 
+ Sec. 1605.  
+ Space-based environmental monitoring mission requirements. 
+ 
+ Sec. 1606.  
+ Resilient enterprise ground architecture. 
+ 
+ Sec. 1607.  
+ Prototype program for multi-global navigation satellite system receiver development. 
+ 
+ Sec. 1608.  
+ Commercial space situational awareness capabilities. 
+ 
+ Sec. 1609.  
+ Program to enhance and improve launch support and infrastructure. 
+ 
+ Sec. 1610.  
+ Preparation to implement plan for use of allied launch vehicles. 
+ 
+ Sec. 1611.  
+ Independent study on plan for deterrence in space. 
+ 
+ Sec. 1612.  
+ Study on leveraging diverse commercial satellite remote sensing capabilities. 
+ 
+ Sec. 1613.  
+ Annual report on Space Command and Control program. 
+ 
+ Sec. 1614.  
+ Report on space debris. 
+ 
+ Subtitle B— 
+ Defense Intelligence and Intelligence-Related Activities 
+ 
+ Sec. 1621.  
+ Redesignation of Under Secretary of Defense for Intelligence as Under Secretary of Defense for Intelligence and Security. 
+ 
+ Sec. 1622.  
+ Modifications to ISR Integration Council and annual briefing requirements. 
+ 
+ Sec. 1623.  
+ Modification of annual authorization of appropriations for National Flagship Language Initiative. 
+ 
+ Sec. 1624.  
+ Improving the onboarding methodology for intelligence personnel. 
+ 
+ Sec. 1625.  
+ Defense Counterintelligence and Security Agency activities on facilitating access to local criminal records historical data. 
+ 
+ Sec. 1626.  
+ Survey and report on alignment of intelligence collections capabilities and activities with Department of Defense requirements. 
+ 
+ Sec. 1627.  
+ Reports on Consolidated Adjudication Facility of the Defense Counterintelligence and Security Agency. 
+ 
+ Sec. 1628.  
+ Report on the expanded purview of the Defense Counterintelligence and Security Agency. 
+ 
+ Sec. 1629.  
+ Termination of requirement for Department of Defense facility access clearances for joint ventures composed of previously-cleared entities. 
+ 
+ Subtitle C— 
+ Cyberspace-Related Matters 
+ 
+ Sec. 1631.  
+ Matters relating to military operations in the information environment. 
+ 
+ Sec. 1632.  
+ Notification requirements for sensitive military cyber operations. 
+ 
+ Sec. 1633.  
+ Evaluation of cyber vulnerabilities of major weapon systems of the Department of Defense. 
+ 
+ Sec. 1634.  
+ Quarterly assessments of the readiness of Cyber Mission Forces. 
+ 
+ Sec. 1635.  
+ Cyber posture review. 133 STAT. 1217 
+ 
+ Sec. 1636.  
+ Modification of elements of assessment required for termination of dual-hat arrangement for Commander of the United States Cyber Command. 
+ 
+ Sec. 1637.  
+ Modification of cyber scholarship program. 
+ 
+ Sec. 1638.  
+ Tier 1 exercise of support to civil authorities for a cyber incident. 
+ 
+ Sec. 1639.  
+ Extension of the Cyberspace Solarium Commission. 
+ 
+ Sec. 1640.  
+ Authority to use operation and maintenance funds for cyber operations-peculiar capability development projects. 
+ 
+ Sec. 1641.  
+ Role of Chief Information Officer in improving enterprise-wide cybersecurity. 
+ 
+ Sec. 1642.  
+ Notification of delegation of authorities to the Secretary of Defense for military operations in cyberspace. 
+ 
+ Sec. 1643.  
+ Limitation of funding for Consolidated Afloat Networks and Enterprise Services. 
+ 
+ Sec. 1644.  
+ Annual military cyberspace operations report. 
+ 
+ Sec. 1645.  
+ Annual report on cyber attacks and intrusions against the Department of Defense by certain foreign entities. 
+ 
+ Sec. 1646.  
+ Control and analysis of Department of Defense data stolen through cyberspace. 
+ 
+ Sec. 1647.  
+ Use of National Security Agency cybersecurity expertise to support evaluation of commercial cybersecurity products. 
+ 
+ Sec. 1648.  
+ Framework to enhance cybersecurity of the United States defense industrial base. 
+ 
+ Sec. 1649.  
+ Report on cybersecurity training programs. 
+ 
+ Sec. 1650.  
+ National Security Presidential Memorandums relating to Department of Defense operations in cyberspace. 
+ 
+ Sec. 1651.  
+ Reorientation of Big Data Platform program. 
+ 
+ Sec. 1652.  
+ Zero-based review of Department of Defense cyber and information technology personnel. 
+ 
+ Sec. 1653.  
+ Study on improving cyber career paths in the Navy. 
+ 
+ Sec. 1654.  
+ Accreditation standards and processes for cybersecurity and information technology products and services. 
+ 
+ Sec. 1655.  
+ Study on future cyber warfighting capabilities of Department of Defense. 
+ 
+ Sec. 1656.  
+ Study to determine the optimal strategy for structuring and manning elements of the Joint Force Headquarters–Cyber Organizations, Joint Mission Operations Centers, and Cyber Operations–Integrated Planning Elements. 
+ 
+ Sec. 1657.  
+ Cyber governance structures and Principal Cyber Advisors on military cyber force matters. 
+ 
+ Sec. 1658.  
+ Designation of test networks for testing and accreditation of cybersecurity products and services. 
+ 
+ Sec. 1659.  
+ Consortia of universities to advise Secretary of Defense on cybersecurity matters. 
+ 
+ Sec. 1660.  
+ Joint assessment of Department of Defense cyber red team capabilities, capacity, demand, and requirements. 
+ 
+ Subtitle D— 
+ Nuclear Forces 
+ 
+ Sec. 1661.  
+ Conforming amendment to Council on Oversight of the National Leadership Command, Control, and Communications System. 
+ 
+ Sec. 1662.  
+ Modification of authorities relating to nuclear command, control, and communications system. 
+ 
+ Sec. 1663.  
+ Briefings on meetings held by Nuclear Weapons Council. 
+ 
+ Sec. 1664.  
+ Consideration of budget matters at meetings of Nuclear Weapons Council. 
+ 
+ Sec. 1665.  
+ Improvement to annual report on the modernization of the nuclear weapons enterprise. 
+ 
+ Sec. 1666.  
+ Expansion of officials required to conduct biennial assessments of delivery platforms for nuclear weapons and nuclear command and control system. 
+ 
+ Sec. 1667.  
+ Extension of annual briefing on costs of forward-deploying nuclear weapons in Europe. 
+ 
+ Sec. 1668.  
+ Elimination of conventional requirement for long-range standoff weapon. 
+ 
+ Sec. 1669.  
+ Briefing on long-range standoff weapon and sea-launched cruise missile. 
+ 
+ Sec. 1670.  
+ Extension of prohibition on availability of funds for mobile variant of ground-based strategic deterrent missile. 
+ 
+ Sec. 1671.  
+ Reports on development of ground-based strategic deterrent weapon. 
+ 
+ Sec. 1672.  
+ Prohibition on reduction of the intercontinental ballistic missiles of the United States. 
+ 
+ Sec. 1673.  
+ Independent study on policy of no-first-use of nuclear weapons. 
+ 
+ Sec. 1674.  
+ Independent study on risks of nuclear terrorism and nuclear war. 
+ 
+ Sec. 1675.  
+ Report on military-to-military dialogue to reduce risks of miscalculation leading to nuclear war. 133 STAT. 1218 
+ 
+ Sec. 1676.  
+ Report on nuclear forces of the United States and near-peer countries. 
+ 
+ Sec. 1677.  
+ Report on operation of conventional forces of military departments under employment or threat of employment of nuclear weapons. 
+ 
+ Sec. 1678.  
+ Report on operation of conventional forces of certain combatant commands under employment or threat of employment of nuclear weapons. 
+ 
+ Sec. 1679.  
+ Briefings on plan for future-systems-level architecture of nuclear command, control, and communications systems. 
+ 
+ Sec. 1680.  
+ Sense of Congress on nuclear deterrence commitments of the United States. 
+ 
+ Subtitle E— 
+ Missile Defense Programs 
+ 
+ Sec. 1681.  
+ National missile defense policy. 
+ 
+ Sec. 1682.  
+ Development of space-based ballistic missile intercept layer. 
+ 
+ Sec. 1683.  
+ Development of hypersonic and ballistic missile tracking space sensor payload. 
+ 
+ Sec. 1684.  
+ Modifications to required testing by Missile Defense Agency of ground-based midcourse defense element of ballistic missile defense system. 
+ 
+ Sec. 1685.  
+ Iron Dome short-range rocket defense system and Israeli cooperative missile defense program co-development and co-production. 
+ 
+ Sec. 1686.  
+ Limitation on availability of funds for lower tier air and missile defense sensor. 
+ 
+ Sec. 1687.  
+ Plan for the redesigned kill vehicle replacement. 
+ 
+ Sec. 1688.  
+ Organization, authorities, and billets of the Missile Defense Agency. 
+ 
+ Sec. 1689.  
+ Annual assessment of ballistic missile defense system. 
+ 
+ Sec. 1690.  
+ Command and control, battle management, and communications program. 
+ 
+ Sec. 1691.  
+ Missile defense interceptor site in contiguous United States. 
+ 
+ Sec. 1692.  
+ Independent study on impacts of missile defense development and deployment. 
+ 
+ Sec. 1693.  
+ Report and briefing on multi-volume kill capability. 
+ 
+ Subtitle F— 
+ Other Matters 
+ 
+ Sec. 1694.  
+ Extension of authorization for protection of certain facilities and assets from unmanned aircraft. 
+ 
+ Sec. 1695.  
+ Repeal of requirement for commission on electromagnetic pulse attacks and similar events. 
+ 
+ Sec. 1696.  
+ Repeal of review requirement for ammonium perchlorate report. 
+ 
+ Sec. 1697.  
+ Transferability of conventional prompt global strike weapon system technologies to surface-launched platforms. 
+ 
+ Sec. 1698.  
+ Prohibition on availability of funds for certain offensive ground-launched ballistic or cruise missile systems. 
+ 
+ Sec. 1699.  
+ Hard and deeply buried targets. 
+ 
+ TITLE XVII— 
+ REPORTS AND OTHER MATTERS 
+ 
+ Subtitle A— 
+ Studies and Reports 
+ 
+ Sec. 1701.  
+ Modification of annual reporting requirements on defense manpower. 
+ 
+ Sec. 1702.  
+ Termination of requirement for submittal to Congress of certain recurring reports. 
+ 
+ Sec. 1703.  
+ Modification of annual report on civilian casualties in connection with United States military operations. 
+ 
+ Sec. 1704.  
+ Extension of requirement for briefings on the national biodefense strategy. 
+ 
+ Sec. 1705.  
+ Authorization of appropriations for title III of the Defense Production Act of 1950. 
+ 
+ Sec. 1706.  
+ Report on the Department of Defense plan for mass-casualty disaster response operations in the Arctic. 
+ 
+ Sec. 1707.  
+ Transmittal to Congress of requests for assistance from other departments of the Federal Government that are approved by the Department of Defense. 
+ 
+ Sec. 1708.  
+ Report and briefing on implementation of national defense strategy. 
+ 
+ Sec. 1709.  
+ Actions to increase analytic support. 
+ 
+ Sec. 1710.  
+ Inclusion of certain individuals investigated by Inspectors General in the semiannual report. 
+ 
+ Sec. 1711.  
+ Annual report on Joint Military Information Support Operations Web Operations Center. 
+ 
+ Sec. 1712.  
+ Mobility capability requirements study. 
+ 
+ Sec. 1713.  
+ Assessment of special operations force structure. 
+ 
+ Sec. 1714.  
+ Army aviation strategic plan and modernization roadmap. 
+ 
+ Sec. 1715.  
+ Report on ground-based long-range artillery to counter land and maritime threats. 133 STAT. 1219 
+ 
+ Sec. 1716.  
+ Independent review of transportation working-capital fund. 
+ 
+ Sec. 1717.  
+ Geographic command risk assessment of proposed use of certain aircraft capabilities. 
+ 
+ Sec. 1718.  
+ Report on backlog of personnel security clearance adjudications. 
+ 
+ Sec. 1719.  
+ Report regarding outstanding Government Accountability Office recommendations. 
+ 
+ Sec. 1720.  
+ Report on National Guard and United States Northern Command capacity to meet homeland defense and security incidents. 
+ 
+ Sec. 1721.  
+ Assessment of standards, processes, procedures, and policy relating to civilian casualties. 
+ 
+ Sec. 1722.  
+ Report on transfers of equipment to prohibited entities. 
+ 
+ Sec. 1723.  
+ Annual report on strikes undertaken by the United States against terrorist targets outside areas of active hostilities. 
+ 
+ Sec. 1724.  
+ Review and assessment of mitigation of military helicopter noise. 
+ 
+ Subtitle B— 
+ Other Matters 
+ 
+ Sec. 1731.  
+ Technical, conforming, and clerical amendments. 
+ 
+ Sec. 1732.  
+ Establishment of lead Inspector General for an overseas contingency operation based on Secretary of Defense notification. 
+ 
+ Sec. 1733.  
+ Clarification of authority of Inspectors General for overseas contingency operations. 
+ 
+ Sec. 1734.  
+ Employment status of annuitants for Inspectors General for overseas contingency operations. 
+ 
+ Sec. 1735.  
+ Extension of National Security Commission on Artificial Intelligence. 
+ 
+ Sec. 1736.  
+ Exemption from calculation of monthly income, for purposes of bankruptcy laws, of certain payments from the Department of Veterans Affairs and the Department of Defense. 
+ 
+ Sec. 1737.  
+ Extension of postage stamp for breast cancer research. 
+ 
+ Sec. 1738.  
+ National Commission on Military Aviation Safety. 
+ 
+ Sec. 1739.  
+ Guarantee of residency for spouses of members of the uniformed services. 
+ 
+ Sec. 1740.  
+ Electromagnetic pulses and geomagnetic disturbances. 
+ 
+ Sec. 1741.  
+ Improvements to Manufacturing USA Program. 
+ 
+ Sec. 1742.  
+ Regional innovation program. 
+ 
+ Sec. 1743.  
+ Aviation workforce development. 
+ 
+ Sec. 1744.  
+ Oversight of Department of Defense execute orders. 
+ 
+ Sec. 1745.  
+ Processes and procedures for notifications regarding special operations forces. 
+ 
+ Sec. 1746.  
+ Securing American science and technology. 
+ 
+ Sec. 1747.  
+ Standardized policy guidance for calculating aircraft operation and sustainment costs. 
+ 
+ Sec. 1748.  
+ Special Federal Aviation Regulation Working Group. 
+ 
+ Sec. 1749.  
+ Prohibition on names related to the Confederacy. 
+ 
+ Sec. 1750.  
+ Support for National Maritime Heritage Grants program. 
+ 
+ Sec. 1751.  
+ Support for world language advancement and readiness. 
+ 
+ Sec. 1752.  
+ Designation of Department of Defense strategic Arctic ports. 
+ 
+ Sec. 1753.  
+ Independent studies regarding potential cost savings with respect to the nuclear security enterprise and force structure . 
+ 
+ Sec. 1754.  
+ Comprehensive Department of Defense policy on collective self-defense. 
+ 
+ Sec. 1755.  
+ Policy regarding the transition of data and applications to the cloud. 
+ 
+ Sec. 1756.  
+ Integrated public alert and warning system. 
+ 
+ Sec. 1757.  
+ Improving quality of information in background investigation request packages. 
+ 
+ Sec. 1758.  
+ Parole in place for members of the Armed Forces and certain military dependents. 
+ 
+ Sec. 1759.  
+ Report on reducing the backlog in legally required historical declassification obligations of the Department of Defense. 
+ 
+ Sec. 1760.  
+ Military type certification for light attack experimentation aircraft. 
+ 
+ DIVISION B— 
+ MILITARY CONSTRUCTION AUTHORIZATIONS 
+ 
+ Sec. 2001.  
+ Short title. 
+ 
+ Sec. 2002.  
+ Expiration of authorizations and amounts required to be specified by law. 
+ 
+ Sec. 2003.  
+ Effective date. 
+ 
+ TITLE XXI— 
+ ARMY MILITARY CONSTRUCTION 
+ 
+ Sec. 2101.  
+ Authorized Army construction and land acquisition projects. 
+ 
+ Sec. 2102.  
+ Family housing. 
+ 
+ Sec. 2103.  
+ Authorization of appropriations, Army. 
+ 
+ Sec. 2104.  
+ Modification of authority to carry out certain fiscal year 2019 projects. 
+ 
+ TITLE XXII— 
+ NAVY MILITARY CONSTRUCTION 
+ 
+ Sec. 2201.  
+ Authorized Navy construction and land acquisition projects. 133 STAT. 1220 
+ 
+ Sec. 2202.  
+ Family housing. 
+ 
+ Sec. 2203.  
+ Improvements to military family housing units. 
+ 
+ Sec. 2204.  
+ Authorization of appropriations, Navy. 
+ 
+ Sec. 2205.  
+ Modification of authority to carry out certain fiscal year 2017 project. 
+ 
+ TITLE XXIII— 
+ AIR FORCE MILITARY CONSTRUCTION 
+ 
+ Sec. 2301.  
+ Authorized Air Force construction and land acquisition projects. 
+ 
+ Sec. 2302.  
+ Family housing. 
+ 
+ Sec. 2303.  
+ Improvements to military family housing units. 
+ 
+ Sec. 2304.  
+ Authorization of appropriations, Air Force. 
+ 
+ Sec. 2305.  
+ Modification of authorities to carry out phased Joint Intelligence Analysis Complex consolidation. 
+ 
+ Sec. 2306.  
+ Modification of authority to carry out certain fiscal year 2016 project. 
+ 
+ Sec. 2307.  
+ Modification of authority to carry out certain fiscal year 2017 project. 
+ 
+ Sec. 2308.  
+ Modification of authority to carry out certain fiscal year 2018 projects. 
+ 
+ Sec. 2309.  
+ Modification of authority to carry out certain fiscal year 2019 projects. 
+ 
+ TITLE XXIV— 
+ DEFENSE AGENCIES MILITARY CONSTRUCTION 
+ 
+ Sec. 2401.  
+ Authorized Defense Agencies construction and land acquisition projects. 
+ 
+ Sec. 2402.  
+ Authorized Energy Resilience and Conservation Investment Program projects. 
+ 
+ Sec. 2403.  
+ Authorization of appropriations, Defense Agencies. 
+ 
+ TITLE XXV— 
+ INTERNATIONAL PROGRAMS 
+ 
+ Subtitle A— 
+ North Atlantic Treaty Organization Security Investment Program 
+ 
+ Sec. 2501.  
+ Authorized NATO construction and land acquisition projects. 
+ 
+ Sec. 2502.  
+ Authorization of appropriations, NATO. 
+ 
+ Subtitle B— 
+ Host Country In-kind Contributions 
+ 
+ Sec. 2511.  
+ Republic of Korea funded construction projects. 
+ 
+ TITLE XXVI— 
+ GUARD AND RESERVE FORCES FACILITIES 
+ 
+ Sec. 2601.  
+ Authorized Army National Guard construction and land acquisition projects. 
+ 
+ Sec. 2602.  
+ Authorized Army Reserve construction and land acquisition projects. 
+ 
+ Sec. 2603.  
+ Authorized Navy Reserve and Marine Corps Reserve construction and land acquisition projects. 
+ 
+ Sec. 2604.  
+ Authorized Air National Guard construction and land acquisition projects. 
+ 
+ Sec. 2605.  
+ Authorized Air Force Reserve construction and land acquisition projects. 
+ 
+ Sec. 2606.  
+ Authorization of appropriations, National Guard and Reserve. 
+ 
+ TITLE XXVII— 
+ BASE REALIGNMENT AND CLOSURE ACTIVITIES 
+ 
+ Sec. 2701.  
+ Authorization of appropriations for base realignment and closure activities funded through Department of Defense base closure account. 
+ 
+ Sec. 2702.  
+ Prohibition on conducting additional base realignment and closure (BRAC) round. 
+ 
+ TITLE XXVIII— 
+ MILITARY CONSTRUCTION GENERAL PROVISIONS 
+ 
+ Subtitle A— 
+ Military Construction Program 
+ 
+ Sec. 2801.  
+ Military installation resilience plans and projects. 
+ 
+ Sec. 2802.  
+ Improved consultation with tribal governments when proposed military construction projects potentially impact Indian tribes. 
+ 
+ Sec. 2803.  
+ Increased authority for use of certain appropriations amounts for restoration or replacement of damaged or destroyed facilities. 
+ 
+ Sec. 2804.  
+ Amendment of Unified Facilities Criteria to promote military installation resilience, energy resilience, energy and climate resiliency, and cyber resilience. 
+ 
+ Sec. 2805.  
+ Modification to Department of Defense Form 1391 regarding consideration of potential long-term adverse environmental effects. 
+ 
+ Sec. 2806.  
+ Improved flood risk disclosure for military construction. 
+ 
+ Sec. 2807.  
+ Prioritization of projects in annual report on unfunded requirements for laboratory military construction projects. 
+ 
+ Sec. 2808.  
+ Technical corrections and improvements to defense access road resilience. 
+ 
+ Sec. 2809.  
+ Military construction projects for child development centers at military installations. 
+ 
+ Sec. 2810.  
+ Prohibition on use of funds to reduce air base resiliency or demolish protected aircraft shelters in the European theater without creating a similar protection from attack. 133 STAT. 1221 
+ 
+ Sec. 2811.  
+ Prohibition on use of funds to close or return certain bases to the host nation. 
+ 
+ Subtitle B— 
+ Real Property and Facilities Administration 
+ 
+ Sec. 2821.  
+ Improved energy security for main operating bases in Europe. 
+ 
+ Sec. 2822.  
+ Access to Department of Defense installations for credentialed transportation workers. 
+ 
+ Sec. 2823.  
+ Improved recording and maintaining of Department of Defense real property data. 
+ 
+ Subtitle C— 
+ Land Conveyances 
+ 
+ Sec. 2831.  
+ Land conveyance, Hill Air Force Base, Ogden, Utah. 
+ 
+ Sec. 2832.  
+ Release of interests retained in Camp Joseph T. Robinson, Arkansas, for use of such land as a veterans cemetery. 
+ 
+ Sec. 2833.  
+ Modification of authorized uses of certain property conveyed by the United States in Los Angeles, California. 
+ 
+ Sec. 2834.  
+ Transfer of administrative jurisdiction over certain parcels of Federal land in Arlington, Virginia. 
+ 
+ Subtitle D— 
+ Military Land Withdrawals 
+ 
+ Sec. 2841.  
+ Public notice regarding upcoming periods of Secretary of the Navy management of Shared Use Area of the Johnson Valley Off-Highway Vehicle Recreation Area. 
+ 
+ Subtitle E— 
+ White Sands National Park and White Sands Missile Range 
+ 
+ Sec. 2851.  
+ White Sands Missile Range Land Enhancements. 
+ 
+ Subtitle F— 
+ Other Matters 
+ 
+ Sec. 2861.  
+ Installation and maintenance of fire extinguishers in Department of Defense facilities. 
+ 
+ Sec. 2862.  
+ Definition of community infrastructure for purposes of military base reuse studies and community planning assistance. 
+ 
+ Sec. 2863.  
+ Temporary authority for acceptance and use of contributions for certain design and construction projects mutually beneficial to the Department of Defense and the Republic of Korea. 
+ 
+ Sec. 2864.  
+ Black start exercises at military installations. 
+ 
+ Sec. 2865.  
+ Pilot program to extend service life of roads and runways under the jurisdiction of the Secretary of Defense. 
+ 
+ Sec. 2866.  
+ Restrictions on rehabilitation of Over-the-Horizon Backscatter Radar System receiving station, Modoc County, California. 
+ 
+ Sec. 2867.  
+ Designation of Sumpter Smith Joint National Guard Base. 
+ 
+ Sec. 2868.  
+ Santa Ynez Band of Chumash Indians land affirmation. 
+ 
+ Sec. 2869.  
+ Lands to be taken into trust as part of the reservation of the Lytton Rancheria. 
+ 
+ Sec. 2870.  
+ Little Shell Tribe of Chippewa Indians of Montana. 
+ 
+ Sec. 2871.  
+ Sense of Congress on restoration of Tyndall Air Force Base. 
+ 
+ TITLE XXIX— 
+ AUTHORIZATION OF OVERSEAS CONTINGENCY OPERATIONS MILITARY CONSTRUCTION AND EMERGENCY MILITARY CONSTRUCTION 
+ 
+ Subtitle A— 
+ Overseas Contingency Operations Military Construction 
+ 
+ Sec. 2901.  
+ Authorized Army construction and land acquisition projects. 
+ 
+ Sec. 2902.  
+ Authorized Navy construction and land acquisition projects. 
+ 
+ Sec. 2903.  
+ Authorized Air Force construction and land acquisition projects. 
+ 
+ Sec. 2904.  
+ Authorized Defense Agencies construction and land acquisition projects. 
+ 
+ Sec. 2905.  
+ Authorization of appropriations. 
+ 
+ Subtitle B— 
+ Emergency Military Construction 
+ 
+ Sec. 2911.  
+ Authorization of emergency Navy construction and land acquisition projects. 
+ 
+ Sec. 2912.  
+ Authorization of emergency Air Force construction and land acquisition projects. 
+ 
+ Sec. 2913.  
+ Authorization of emergency Army National Guard construction and land acquisition projects. 
+ 
+ Sec. 2914.  
+ Authorization of emergency Defense Agencies construction and land acquisition projects. 
+ 
+ Sec. 2915.  
+ Authorization of emergency supplemental appropriations for military construction projects. 
+ 
+ TITLE XXX— 
+ MILITARY HOUSING PRIVATIZATION REFORM 
+ 
+ Sec. 3001.  
+ Definitions. 133 STAT. 1222 
+ 
+ Subtitle A— 
+ Addition of New Reform Subchapter 
+ 
+ Sec. 3011.  
+ Improved accountability and oversight of privatized military housing and protections and responsibilities for tenants of privatized military housing. 
+ 
+ Sec. 3012.  
+ Designation of Chief Housing Officer for privatized military housing. 
+ 
+ Sec. 3013.  
+ Additional requirements relating to contracts for privatized military housing. 
+ 
+ Sec. 3014.  
+ Additional requirements relating to management of privatized military housing. 
+ 
+ Sec. 3015.  
+ Consideration of contractor history in contracts for privatized military housing. 
+ 
+ Sec. 3016.  
+ Additional improvements for management of privatized military housing. 
+ 
+ Sec. 3017.  
+ Maintenance work order system for privatized military housing. 
+ 
+ Sec. 3018.  
+ Access by tenants of privatized military housing to maintenance work order system. 
+ 
+ Sec. 3019.  
+ Access by tenants to historical maintenance information for privatized military housing. 
+ 
+ Sec. 3020.  
+ Prohibition on requirement to disclose personally identifiable information in certain requests for maintenance of privatized military housing. 
+ 
+ Sec. 3021.  
+ Treatment of incentive fees for landlords of privatized military housing for failure to remedy a health or environmental hazard. 
+ 
+ Sec. 3022.  
+ Dispute resolution process for landlord-tenant disputes regarding privatized military housing and requests to withhold payments during dispute resolution process. 
+ 
+ Sec. 3023.  
+ Investigation of reports of reprisals relating to privatized military housing and congressional notification. 
+ 
+ Sec. 3024.  
+ Prohibition on use of nondisclosure agreements in connection with leases of privatized military housing. 
+ 
+ Subtitle B— 
+ Other Amendatory Provisions 
+ 
+ Sec. 3031.  
+ Installation of carbon monoxide detectors in military family housing. 
+ 
+ Sec. 3032.  
+ Authority to furnish certain services in connection with use of alternative authority for acquisition and improvement of military housing. 
+ 
+ Sec. 3033.  
+ Treatment of breach of contract for privatized military housing. 
+ 
+ Sec. 3034.  
+ Modification to requirements for window fall prevention devices in military family housing units. 
+ 
+ Sec. 3035.  
+ Expansion of direct hire authority for Department of Defense for childcare services providers for Department child development centers to include direct hire authority for installation military housing office personnel. 
+ 
+ Sec. 3036.  
+ Modification of authority to make payments to lessors of privatized military housing. 
+ 
+ Sec. 3037.  
+ Technical correction to definition used to make payments to lessors of privatized military housing. 
+ 
+ Subtitle C— 
+ One-Time Reporting Requirements 
+ 
+ Sec. 3041.  
+ Report on civilian personnel shortages for appropriate oversight of management of military housing constructed or acquired using alternative authority for acquisition and improvement of military housing. 
+ 
+ Sec. 3042.  
+ Plans for creation of councils on privatized military housing. 
+ 
+ Sec. 3043.  
+ Plan for establishment of Department of Defense jurisdiction over off-base privatized military housing. 
+ 
+ Sec. 3044.  
+ Inspector General review of Department of Defense oversight of privatized military housing. 
+ 
+ Sec. 3045.  
+ Information on legal services provided to members of the Armed Forces harmed by health or environmental hazards at military housing. 
+ 
+ Subtitle D— 
+ Development of Housing Reform Standards and Processes 
+ 
+ Sec. 3051.  
+ Uniform code of basic standards for privatized military housing and plan to conduct inspections and assessments. 
+ 
+ Sec. 3052.  
+ Tool for assessment of hazards in Department of Defense housing. 
+ 
+ Sec. 3053.  
+ Process to identify and address environmental health hazards in Department of Defense housing. 
+ 
+ Sec. 3054.  
+ Department of Defense policy on lead-based paint testing on military installations. 
+ 
+ Sec. 3055.  
+ Standard for minimum credentials for health and environmental inspectors of privatized military housing. 
+ 
+ Sec. 3056.  
+ Requirements relating to move-in, move-out, and maintenance of privatized military housing. 133 STAT. 1223 
+ 
+ Sec. 3057.  
+ Standardized documentation, templates, and forms for privatized military housing. 
+ 
+ Sec. 3058.  
+ Satisfaction survey for tenants of military housing. 
+ 
+ Subtitle E— 
+ Other Housing Reform Matters 
+ 
+ Sec. 3061.  
+ Radon testing of privatized military housing. 
+ 
+ Sec. 3062.  
+ Mitigation of risks posed by certain items in military family housing units. 
+ 
+ Sec. 3063.  
+ Suspension of Resident Energy Conservation Program and related programs for privatized military housing. 
+ 
+ Sec. 3064.  
+ Department of the Army pilot program to build and monitor use of single family homes. 
+ 
+ DIVISION C— 
+ DEPARTMENT OF ENERGY NATIONAL SECURITY AUTHORIZATIONS AND OTHER AUTHORIZATIONS 
+ 
+ TITLE XXXI— 
+ DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS 
+ 
+ Subtitle A— 
+ National Security Programs and Authorizations 
+ 
+ Sec. 3101.  
+ National Nuclear Security Administration. 
+ 
+ Sec. 3102.  
+ Defense environmental cleanup. 
+ 
+ Sec. 3103.  
+ Other defense activities. 
+ 
+ Sec. 3104.  
+ Nuclear energy. 
+ 
+ Subtitle B— 
+ Program Authorizations, Restrictions, and Limitations 
+ 
+ Sec. 3111.  
+ Personnel matters at National Nuclear Security Administration. 
+ 
+ Sec. 3112.  
+ Estimation of costs of meeting defense environmental cleanup milestones required by consent orders. 
+ 
+ Sec. 3113.  
+ Office of Cost Estimating and Program Evaluation. 
+ 
+ Sec. 3114.  
+ Clarification of certain Stockpile Responsiveness Program objectives. 
+ 
+ Sec. 3115.  
+ Elimination of limitation on availability of funds relating to submission of annual reports on unfunded priorities. 
+ 
+ Sec. 3116.  
+ Modification to certain requirements relating to plutonium pit production capacity. 
+ 
+ Sec. 3117.  
+ Annual certification of shipments to Waste Isolation Pilot Plant. 
+ 
+ Sec. 3118.  
+ Extension and modification of pilot program on unavailability for overhead costs of amounts specified for laboratory-directed research and development. 
+ 
+ Sec. 3119.  
+ Modification to limitation on availability of funds for acceleration of nuclear weapons dismantlement. 
+ 
+ Sec. 3120.  
+ Implementation of common financial reporting system for nuclear security enterprise. 
+ 
+ Sec. 3121.  
+ Limitation relating to reclassification of high-level waste. 
+ 
+ Sec. 3122.  
+ National Laboratory Jobs ACCESS Program. 
+ 
+ Subtitle C— 
+ Reports and Other Matters 
+ 
+ Sec. 3131.  
+ Civil penalties for violations of certain whistleblower protections. 
+ 
+ Sec. 3132.  
+ Repeal of assessments of adequacy of budget requests relating to nuclear weapons stockpile. 
+ 
+ Sec. 3133.  
+ Repeal of requirement for review relating to enhanced procurement authority. 
+ 
+ Sec. 3134.  
+ Improvements to Energy Employees Occupational Illness Compensation Program Act of 2000. 
+ 
+ Sec. 3135.  
+ Replacement of W78 warhead. 
+ 
+ Sec. 3136.  
+ Independent review of capabilities for detection, verification, and monitoring of nuclear weapons and fissile material. 
+ 
+ Sec. 3137.  
+ Assessment of high energy density physics. 
+ 
+ Sec. 3138.  
+ Determination of effect of treaty obligations with respect to producing tritium. 
+ 
+ Sec. 3139.  
+ Technical corrections to National Nuclear Security Administration Act and Atomic Energy Defense Act. 
+ 
+ TITLE XXXII— 
+ DEFENSE NUCLEAR FACILITIES SAFETY BOARD 
+ 
+ Sec. 3201.  
+ Authorization. 
+ 
+ Sec. 3202.  
+ Improvements to Defense Nuclear Facilities Safety Board. 
+ 
+ Sec. 3203.  
+ Membership of Defense Nuclear Facilities Safety Board. 
+ 
+ TITLE XXXIV— 
+ NAVAL PETROLEUM RESERVES 
+ 
+ Sec. 3401.  
+ Authorization of appropriations. 
+ 
+ TITLE XXXV— 
+ MARITIME MATTERS 
+ 
+ Subtitle A— 
+ Maritime Administration 
+ 
+ Sec. 3501.  
+ Authorization of the Maritime Administration. 133 STAT. 1224 
+ 
+ Sec. 3502.  
+ Reauthorization of Maritime Security Program. 
+ 
+ Sec. 3503.  
+ Maritime technical assistance program. 
+ 
+ Sec. 3504.  
+ Appointment of candidates attending sponsored preparatory school. 
+ 
+ Sec. 3505.  
+ General support program. 
+ 
+ Sec. 3506.  
+ Improvements to the maritime guaranteed loan program. 
+ 
+ Sec. 3507.  
+ Requirement for small shipyard grantees. 
+ 
+ Sec. 3508.  
+ Salvage recoveries of cargoes. 
+ 
+ Sec. 3509.  
+ Salvage recoveries for subrogated ownership of vessels and cargoes. 
+ 
+ Sec. 3510.  
+ Maritime Occupational Safety and Health Advisory Committee. 
+ 
+ Sec. 3511.  
+ Military to mariner. 
+ 
+ Sec. 3512.  
+ Department of Transportation Inspector General Report. 
+ 
+ Sec. 3513.  
+ Independent study on the United States Merchant Marine Academy. 
+ 
+ Sec. 3514.  
+ Port operations, research, and technology. 
+ 
+ Sec. 3515.  
+ Assessment and report on strategic seaports. 
+ 
+ Sec. 3516.  
+ Technical corrections. 
+ 
+ Sec. 3517.  
+ United States Merchant Marine Academy sexual assault prevention and response program. 
+ 
+ Sec. 3518.  
+ Report on vessels for emerging offshore energy infrastructure. 
+ 
+ Sec. 3519.  
+ Report on United States flagged fuel tanker vessel capacity. 
+ 
+ Subtitle B— 
+ Cable Security Fleet 
+ 
+ Sec. 3521.  
+ Establishment of Cable Security Fleet. 
+ 
+ Subtitle C— 
+ Maritime SAFE Act 
+ 
+ Sec. 3531.  
+ Short titles. 
+ 
+ Sec. 3532.  
+ Definitions. 
+ 
+ Sec. 3533.  
+ Purposes. 
+ 
+ Sec. 3534.  
+ Statement of policy. 
+ 
+ Part I— 
+ Programs to Combat IUU Fishing and Increase Maritime Security 
+ 
+ Sec. 3541.  
+ Coordination with international organizations. 
+ 
+ Sec. 3542.  
+ Engagement of diplomatic missions of the United States. 
+ 
+ Sec. 3543.  
+ Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states. 
+ 
+ Sec. 3544.  
+ Expansion of existing mechanisms to combat IUU fishing. 
+ 
+ Sec. 3545.  
+ Improvement of transparency and traceability programs. 
+ 
+ Sec. 3546.  
+ Technology programs. 
+ 
+ Sec. 3547.  
+ Savings clause. 
+ 
+ Part II— 
+ Establishment of Interagency Working Group on IUU Fishing 
+ 
+ Sec. 3551.  
+ Interagency Working Group on IUU Fishing. 
+ 
+ Sec. 3552.  
+ Strategic plan. 
+ 
+ Sec. 3553.  
+ Reports. 
+ 
+ Sec. 3554.  
+ Gulf of Mexico IUU Fishing Subworking Group. 
+ 
+ Part III— 
+ Combating Human Trafficking in Connection With the Catching and Processing of Seafood Products 
+ 
+ Sec. 3561.  
+ Finding. 
+ 
+ Sec. 3562.  
+ Adding  the Secretary of Commerce to the Interagency Task Force to Monitor and Combat Trafficking. 
+ 
+ Sec. 3563.  
+ Human trafficking in the seafood supply chain report. 
+ 
+ Part IV— 
+ Authorization of Appropriations 
+ 
+ Sec. 3571.  
+ Authorization of appropriations. 
+ 
+ Sec. 3572.  
+ Accounting of funds. 
+ 
+ DIVISION D— 
+ FUNDING TABLES 
+ 
+ Sec. 4001.  
+ Authorization of amounts in funding tables. 
+ 
+ TITLE XLI— 
+ PROCUREMENT 
+ 
+ Sec. 4101.  
+ Procurement. 
+ 
+ Sec. 4102.  
+ Procurement for overseas contingency operations. 
+ 
+ Sec. 4103.  
+ Procurement for emergency requirements. 
+ 
+ TITLE XLII— 
+ RESEARCH, DEVELOPMENT, TEST, AND EVALUATION 
+ 
+ Sec. 4201.  
+ Research, development, test, and evaluation. 
+ 
+ Sec. 4202.  
+ Research, development, test, and evaluation for overseas contingency operations. 
+ 
+ Sec. 4203.  
+ Research, development, test, and evaluation for emergency requirements. 133 STAT. 1225 
+ 
+ TITLE XLIII— 
+ OPERATION AND MAINTENANCE 
+ 
+ Sec. 4301.  
+ Operation and maintenance. 
+ 
+ Sec. 4302.  
+ Operation and maintenance for overseas contingency operations. 
+ 
+ Sec. 4303.  
+ Operation and maintenance for emergency requirements. 
+ 
+ TITLE XLIV— 
+ MILITARY PERSONNEL 
+ 
+ Sec. 4401.  
+ Military personnel. 
+ 
+ Sec. 4402.  
+ Military personnel for overseas contingency operations. 
+ 
+ TITLE XLV— 
+ OTHER AUTHORIZATIONS 
+ 
+ Sec. 4501.  
+ Other authorizations. 
+ 
+ Sec. 4502.  
+ Other authorizations for overseas contingency operations. 
+ 
+ TITLE XLVI— 
+ MILITARY CONSTRUCTION 
+ 
+ Sec. 4601.  
+ Military construction. 
+ 
+ Sec. 4602.  
+ Military construction for overseas contingency operations. 
+ 
+ Sec. 4603.  
+ Military construction for emergency requirements. 
+ 
+ TITLE XLVII— 
+ DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS 
+ 
+ Sec. 4701.  
+ Department of Energy national security programs. 
+ 
+ DIVISION E— 
+ INTELLIGENCE AUTHORIZATIONS FOR FISCAL YEARS 2018, 2019, AND 2020 
+ 
+ Sec. 5001.  
+ Short title. 
+ 
+ Sec. 5002.  
+ Subdivisions and table of contents. 
+ 
+ Sec. 5003.  
+ Definitions. 
+ 
+ Subdivision 1— 
+ Intelligence Authorizations for Fiscal Year 2020 
+ 
+ Sec. 5100.  
+ Table of contents. 
+ 
+ TITLE LI— 
+ INTELLIGENCE ACTIVITIES 
+ 
+ Sec. 5101.  
+ Authorization of appropriations. 
+ 
+ Sec. 5102.  
+ Classified schedule of authorizations. 
+ 
+ Sec. 5103.  
+ Intelligence community management account. 
+ 
+ TITLE LII— 
+ CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM 
+ 
+ Sec. 5201.  
+ Authorization of appropriations. 
+ 
+ TITLE LIII— 
+ INTELLIGENCE COMMUNITY MATTERS 
+ 
+ Subtitle A— 
+ General Intelligence Community Matters 
+ 
+ Sec. 5301.  
+ Restriction on conduct of intelligence activities. 
+ 
+ Sec. 5302.  
+ Increase in employee compensation and benefits authorized by law. 
+ 
+ Sec. 5303.  
+ Expansion of scope of protections for identities of covert agents. 
+ 
+ Sec. 5304.  
+ Required counterintelligence assessments, briefings, notifications, and reports. 
+ 
+ Sec. 5305.  
+ Inclusion of security risks in program management plans required for acquisition of major systems in National Intelligence Program. 
+ 
+ Sec. 5306.  
+ Intelligence community public-private talent exchange. 
+ 
+ Sec. 5307.  
+ Assessment of contracting practices to identify certain security and counterintelligence concerns. 
+ 
+ Subtitle B— 
+ Office of the Director of National Intelligence 
+ 
+ Sec. 5321.  
+ Establishment of Climate Security Advisory Council. 
+ 
+ Sec. 5322.  
+ Foreign Malign Influence Response Center. 
+ 
+ Sec. 5323.  
+ Encouragement of cooperative actions to detect and counter foreign influence operations. 
+ 
+ Sec. 5324.  
+ Transfer of National Intelligence University to the Office of the Director of National Intelligence. 
+ 
+ Subtitle C— 
+ Inspector General of the Intelligence Community 
+ 
+ Sec. 5331.  
+ Definitions. 
+ 
+ Sec. 5332.  
+ Inspector General external review panel. 
+ 
+ Sec. 5333.  
+ Harmonization of whistleblower processes and procedures. 
+ 
+ Sec. 5334.  
+ Oversight by Inspector General of the Intelligence Community over intelligence community whistleblower matters. 
+ 
+ Sec. 5335.  
+ Report on cleared whistleblower attorneys. 133 STAT. 1226 
+ 
+ Subtitle D— 
+ Central Intelligence Agency 
+ 
+ Sec. 5341.  
+ Clarification of certain authority of the Central Intelligence Agency. 
+ 
+ TITLE LIV— 
+ SECURITY CLEARANCES 
+ 
+ Sec. 5401.  
+ Improving visibility into the security clearance process. 
+ 
+ Sec. 5402.  
+ Making certain policies and execution plans relating to personnel clearances available to industry partners. 
+ 
+ TITLE LV— 
+ MATTERS RELATING TO FOREIGN COUNTRIES 
+ 
+ Subtitle A— 
+ Matters Relating to Russia 
+ 
+ Sec. 5501.  
+ Annual reports on influence operations and campaigns in the United States by the Russian Federation. 
+ 
+ Sec. 5502.  
+ Assessment of legitimate and illegitimate financial and other assets of Vladimir Putin. 
+ 
+ Sec. 5503.  
+ Assessments of intentions of political leadership of the Russian Federation. 
+ 
+ Subtitle B— 
+ Matters Relating to China 
+ 
+ Sec. 5511.  
+ Annual reports on influence operations and campaigns in the United States by the Communist Party of China. 
+ 
+ Sec. 5512.  
+ Report on repression of ethnic Muslim minorities in the Xinjiang region of the People’s Republic of China. 
+ 
+ Sec. 5513.  
+ Report on efforts by People’s Republic of China to influence election in Taiwan. 
+ 
+ Subtitle C— 
+ Matters Relating to Other Countries 
+ 
+ Sec. 5521.  
+ Sense of Congress and report on Iranian efforts in Syria and Lebanon. 
+ 
+ Sec. 5522.  
+ Assessments regarding the Northern Triangle and Mexico. 
+ 
+ TITLE LVI— 
+ FEDERAL EFFORTS AGAINST DOMESTIC TERRORISM 
+ 
+ Sec. 5601.  
+ Definitions. 
+ 
+ Sec. 5602.  
+ Strategic intelligence assessment of and reports on domestic terrorism. 
+ 
+ TITLE LVII— 
+ REPORTS AND OTHER MATTERS 
+ 
+ Subtitle A— 
+ Reports and Briefings 
+ 
+ Sec. 5701.   
+ Modification of requirements for submission to Congress of certain reports. 
+ 
+ Sec. 5702.  
+ Increased transparency regarding counterterrorism budget of the United States. 
+ 
+ Sec. 5703.  
+ Study on role of retired and former personnel of intelligence community with respect to certain foreign intelligence operations. 
+ 
+ Sec. 5704.  
+ Collection, analysis, and dissemination of workforce data. 
+ 
+ Sec. 5705.  
+ Plan for strengthening the supply chain intelligence function. 
+ 
+ Sec. 5706.  
+ Comprehensive economic assessment of investment in key United States technologies by companies or organizations linked to China. 
+ 
+ Sec. 5707.  
+ Report by Director of National Intelligence on fifth-generation wireless network technology. 
+ 
+ Sec. 5708.  
+ Report on use by intelligence community of facial recognition technology. 
+ 
+ Sec. 5709.  
+ Report on deepfake technology, foreign weaponization of deepfakes, and related notifications. 
+ 
+ Sec. 5710.  
+ Annual report by Comptroller General of the United States on cybersecurity and surveillance threats to Congress. 
+ 
+ Sec. 5711.  
+ Analysis of and periodic briefings on major initiatives of intelligence community in artificial intelligence and machine learning. 
+ 
+ Sec. 5712.  
+ Report on best practices to protect privacy and civil liberties of Chinese Americans. 
+ 
+ Sec. 5713.  
+ Oversight of foreign influence in academia. 
+ 
+ Sec. 5714.  
+ Report on death of Jamal Khashoggi. 
+ 
+ Sec. 5715.  
+ Report on terrorist screening database. 
+ 
+ Sec. 5716.  
+ Report containing threat assessment on terrorist use of conventional and advanced conventional weapons. 
+ 
+ Sec. 5717.  
+ Assessment of homeland security vulnerabilities associated with certain retired and former personnel of the intelligence community. 
+ 
+ Sec. 5718.  
+ Study on feasibility and advisability of establishing Geospatial-Intelligence Museum and learning center. 
+ 
+ Subtitle B— 
+ Other Matters 
+ 
+ Sec. 5721.  
+ Whistleblower disclosures to Congress and committees of Congress. 133 STAT. 1227 
+ 
+ Sec. 5722.  
+ Task force on illicit financing of espionage and foreign influence operations. 
+ 
+ Sec. 5723.  
+ Establishment of fifth-generation technology prize competition. 
+ 
+ Sec. 5724.  
+ Establishment of deepfakes prize competition. 
+ 
+ Sec. 5725.  
+ Identification of and countermeasures against certain International Mobile Subscriber Identity-catchers. 
+ 
+ Sec. 5726.  
+ Securing energy infrastructure. 
+ 
+ Subdivision 2— 
+ Intelligence Authorizations for Fiscal Years 2018 and 2019 
+ 
+ Sec. 6100.  
+ Table of contents. 
+ 
+ TITLE LXI— 
+ INTELLIGENCE ACTIVITIES 
+ 
+ Sec. 6101.  
+ Authorization of appropriations. 
+ 
+ Sec. 6102.  
+ Intelligence Community Management Account. 
+ 
+ TITLE LXII— 
+ CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM 
+ 
+ Sec. 6201.  
+ Authorization of appropriations. 
+ 
+ Sec. 6202.  
+ Computation of annuities for employees of the Central Intelligence Agency. 
+ 
+ TITLE LXIII— 
+ GENERAL INTELLIGENCE COMMUNITY MATTERS 
+ 
+ Sec. 6301.  
+ Restriction on conduct of intelligence activities. 
+ 
+ Sec. 6302.  
+ Increase in employee compensation and benefits authorized by law. 
+ 
+ Sec. 6303.  
+ Modification of special pay authority for science, technology, engineering, or mathematics positions and addition of special pay authority for cyber positions. 
+ 
+ Sec. 6304.  
+ Modification of appointment of Chief Information Officer of the Intelligence Community. 
+ 
+ Sec. 6305.  
+ Director of National Intelligence review of placement of positions within the intelligence community on the Executive Schedule. 
+ 
+ Sec. 6306.  
+ Supply Chain and Counterintelligence Risk Management Task Force. 
+ 
+ Sec. 6307.  
+ Consideration of adversarial telecommunications and cybersecurity infrastructure when sharing intelligence with foreign governments and entities. 
+ 
+ Sec. 6308.  
+ Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack. 
+ 
+ Sec. 6309.  
+ Elimination of sunset of authority relating to management of supply-chain risk. 
+ 
+ Sec. 6310.  
+ Limitations on determinations regarding certain security classifications. 
+ 
+ Sec. 6311.  
+ Joint Intelligence Community Council. 
+ 
+ Sec. 6312.  
+ Intelligence community information technology environment. 
+ 
+ Sec. 6313.  
+ Report on development of secure mobile voice solution for intelligence community. 
+ 
+ Sec. 6314.  
+ Policy on minimum insider threat standards. 
+ 
+ Sec. 6315.  
+ Submission of intelligence community policies. 
+ 
+ Sec. 6316.  
+ Expansion of intelligence community recruitment efforts. 
+ 
+ TITLE LXIV— 
+ MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY 
+ 
+ Subtitle A— 
+ Office of the Director of National Intelligence 
+ 
+ Sec. 6401.  
+ Authority for protection of current and former employees of the Office of the Director of National Intelligence. 
+ 
+ Sec. 6402.  
+ Designation of the program manager-information-sharing environment. 
+ 
+ Sec. 6403.  
+ Technical modification to the executive schedule. 
+ 
+ Sec. 6404.  
+ Chief Financial Officer of the Intelligence Community. 
+ 
+ Sec. 6405.  
+ Chief Information Officer of the Intelligence Community. 
+ 
+ Subtitle B— 
+ Central Intelligence Agency 
+ 
+ Sec. 6411.  
+ Central Intelligence Agency subsistence for personnel assigned to austere locations. 
+ 
+ Sec. 6412.  
+ Special rules for certain monthly workers’ compensation payments and other payments for Central Intelligence Agency personnel. 
+ 
+ Sec. 6413.  
+ Expansion of security protective service jurisdiction of the Central Intelligence Agency. 
+ 
+ Sec. 6414.  
+ Repeal of foreign language proficiency requirement for certain senior level positions in the Central Intelligence Agency. 
+ 
+ Subtitle C— 
+ Office of Intelligence and Counterintelligence of Department of Energy 
+ 
+ Sec. 6421.  
+ Consolidation of Department of Energy Offices of Intelligence and Counterintelligence. 133 STAT. 1228 
+ 
+ Sec. 6422.  
+ Repeal of Department of Energy Intelligence Executive Committee and budget reporting requirement. 
+ 
+ Subtitle D— 
+ Other Elements 
+ 
+ Sec. 6431.  
+ Plan for designation of counterintelligence component of Defense Security Service as an element of intelligence community. 
+ 
+ Sec. 6432.  
+ Notice not required for private entities. 
+ 
+ Sec. 6433.  
+ Establishment of advisory board for National Reconnaissance Office. 
+ 
+ Sec. 6434.  
+ Collocation of certain Department of Homeland Security personnel at field locations. 
+ 
+ TITLE LXV— 
+ ELECTION MATTERS 
+ 
+ Sec. 6501.  
+ Report on cyber attacks by foreign governments against United States election infrastructure. 
+ 
+ Sec. 6502.  
+ Review of intelligence community’s posture to collect against and analyze Russian efforts to influence the Presidential election. 
+ 
+ Sec. 6503.  
+ Assessment of foreign intelligence threats to Federal elections. 
+ 
+ Sec. 6504.  
+ Strategy for countering Russian cyber threats to United States elections. 
+ 
+ Sec. 6505.  
+ Assessment of significant Russian influence campaigns directed at foreign elections and referenda. 
+ 
+ Sec. 6506.  
+ Information sharing with State election officials. 
+ 
+ Sec. 6507.  
+ Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices. 
+ 
+ Sec. 6508.  
+ Designation of counterintelligence officer to lead election security matters. 
+ 
+ TITLE LXVI— 
+ SECURITY CLEARANCES 
+ 
+ Sec. 6601.  
+ Definitions. 
+ 
+ Sec. 6602.  
+ Reports and plans relating to security clearances and background investigations. 
+ 
+ Sec. 6603.  
+ Improving the process for security clearances. 
+ 
+ Sec. 6604.  
+ Goals for promptness of determinations regarding security clearances. 
+ 
+ Sec. 6605.  
+ Security Executive Agent. 
+ 
+ Sec. 6606.  
+ Report on unified, simplified, Governmentwide standards for positions of trust and security clearances. 
+ 
+ Sec. 6607.  
+ Report on clearance in person concept. 
+ 
+ Sec. 6608.  
+ Reports on reciprocity for security clearances inside of departments and agencies. 
+ 
+ Sec. 6609.  
+ Intelligence community reports on security clearances. 
+ 
+ Sec. 6610.  
+ Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities. 
+ 
+ Sec. 6611.  
+ Information-sharing program for positions of trust and security clearances. 
+ 
+ Sec. 6612.  
+ Report on protections for confidentiality of whistleblower-related communications. 
+ 
+ Sec. 6613.  
+ Reports on costs of security clearance background investigations. 
+ 
+ TITLE LXVII— 
+ REPORTS AND OTHER MATTERS 
+ 
+ Subtitle A— 
+ Matters Relating to Russia and Other Foreign Powers 
+ 
+ Sec. 6701.  
+ Limitation relating to establishment or support of cybersecurity unit with the Russian Federation. 
+ 
+ Sec. 6702.  
+ Assessment of threat finance relating to Russia. 
+ 
+ Sec. 6703.  
+ Notification of an active measures campaign. 
+ 
+ Sec. 6704.  
+ Notification of travel by accredited diplomatic and consular personnel of the Russian Federation in the United States. 
+ 
+ Sec. 6705.  
+ Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities. 
+ 
+ Sec. 6706.  
+ Expansion of scope of committee to counter active measures. 
+ 
+ Subtitle B— 
+ Reports 
+ 
+ Sec. 6711.  
+ Technical correction to Inspector General study. 
+ 
+ Sec. 6712.  
+ Reports on authorities of the Chief Intelligence Officer of the Department of Homeland Security. 
+ 
+ Sec. 6713.  
+ Review of intelligence community whistleblower matters. 
+ 
+ Sec. 6714.  
+ Report on role of Director of National Intelligence with respect to certain foreign investments. 
+ 
+ Sec. 6715.  
+ Report on surveillance by foreign governments against United States telecommunications networks. 
+ 
+ Sec. 6716.  
+ Biennial report on foreign investment risks. 133 STAT. 1229 
+ 
+ Sec. 6717.  
+ Modification of certain reporting requirement on travel of foreign diplomats. 
+ 
+ Sec. 6718.  
+ Semiannual reports on investigations of unauthorized disclosures of classified information. 
+ 
+ Sec. 6719.  
+ Congressional notification of designation of covered intelligence officer as persona non grata. 
+ 
+ Sec. 6720.  
+ Reports on intelligence community participation in vulnerabilities equities process of Federal Government. 
+ 
+ Sec. 6721.  
+ Inspectors General reports on classification. 
+ 
+ Sec. 6722.  
+ Reports and briefings on national security effects of global water insecurity and emerging infectious disease and pandemics. 
+ 
+ Sec. 6723.  
+ Annual report on memoranda of understanding between elements of intelligence community and other entities of the United States Government regarding significant operational activities or policy. 
+ 
+ Sec. 6724.  
+ Study on the feasibility of encrypting unclassified wireline and wireless telephone calls. 
+ 
+ Sec. 6725.  
+ Reports on intelligence community loan repayment and related programs. 
+ 
+ Sec. 6726.  
+ Repeal of certain reporting requirements. 
+ 
+ Sec. 6727.  
+ Inspector General of the Intelligence Community report on senior executives of the Office of the Director of National Intelligence. 
+ 
+ Sec. 6728.  
+ Briefing on Federal Bureau of Investigation offering permanent residence to sources and cooperators. 
+ 
+ Sec. 6729.  
+ Intelligence assessment of North Korea revenue sources. 
+ 
+ Sec. 6730.  
+ Report on possible exploitation of virtual currencies by terrorist actors. 
+ 
+ Subtitle C— 
+ Other Matters 
+ 
+ Sec. 6741.  
+ Public Interest Declassification Board. 
+ 
+ Sec. 6742.  
+ Technical and clerical amendments to the National Security Act of 1947. 
+ 
+ Sec. 6743.  
+ Bug bounty programs. 
+ 
+ Sec. 6744.  
+ Technical amendments related to the Department of Energy. 
+ 
+ Sec. 6745.  
+ Sense of Congress on notification of certain disclosures of classified information. 
+ 
+ Sec. 6746.  
+ Sense of Congress on consideration of espionage activities when considering whether or not to provide visas to foreign individuals to be accredited to a United Nations mission in the United States. 
+ 
+ Sec. 6747.  
+ Sense of Congress on WikiLeaks. 
+ 
+ DIVISION F— 
+ OTHER MATTERS 
+ 
+ TITLE LXXI— 
+ SANCTIONS WITH RESPECT TO NORTH KOREA 
+ 
+ Sec. 7101.  
+ Short title. 
+ 
+ Subtitle A— 
+ Sanctions With Respect to North Korea 
+ 
+ Sec. 7111.  
+ Sense of Congress. 
+ 
+ Sec. 7112.  
+ Definitions. 
+ 
+ Part I— 
+ Expansion of Sanctions and Related Matters 
+ 
+ Sec. 7121.  
+ Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons. 
+ 
+ Sec. 7122.  
+ Mandatory designations under North Korea Sanctions and Policy Enhancement Act of 2016. 
+ 
+ Sec. 7123.  
+ Extension of applicability period of proliferation prevention sanctions. 
+ 
+ Sec. 7124.  
+ Opposition to assistance by the international financial institutions. 
+ 
+ Sec. 7125.  
+ Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism. 
+ 
+ Sec. 7126.  
+ Report and briefings on compliance, penalties, and technical assistance. 
+ 
+ Sec. 7127.  
+ Sense of Congress on identification and blocking of property of North Korean officials. 
+ 
+ Sec. 7128.  
+ Modification of report on implementation of United Nations Security Council resolutions by other governments. 
+ 
+ Sec. 7129.  
+ Report on use by the Government of North Korea of beneficial ownership rules to access the international financial system. 
+ 
+ Part II— 
+ Congressional Review and Oversight 
+ 
+ Sec. 7131.  
+ Notification of termination or suspension of sanctions. 
+ 
+ Sec. 7132.  
+ Reports on certain licensing actions. 
+ 
+ Sec. 7133.  
+ Report and briefings on financial networks and financial methods of the Government of North Korea. 
+ 
+ Sec. 7134.  
+ Report on countries of concern with respect to transshipment, reexportation, or diversion of certain items to North Korea. 133 STAT. 1230 
+ 
+ Part III— 
+ General Matters 
+ 
+ Sec. 7141.  
+ Rulemaking. 
+ 
+ Sec. 7142.  
+ Authority to consolidate reports. 
+ 
+ Sec. 7143.  
+ Waivers, exemptions, and termination. 
+ 
+ Sec. 7144.  
+ Procedures for review of classified and certain other information. 
+ 
+ Sec. 7145.  
+ Briefing on resourcing of sanctions programs. 
+ 
+ Sec. 7146.  
+ Briefing on proliferation financing. 
+ 
+ Sec. 7147.  
+ Exception relating to importation of goods. 
+ 
+ Subtitle B— 
+ Financial Industry Guidance to Halt Trafficking 
+ 
+ Sec. 7151.  
+ Short title. 
+ 
+ Sec. 7152.  
+ Sense of Congress. 
+ 
+ Sec. 7153.  
+ Coordination of human trafficking issues by the Office of Terrorism and Financial Intelligence. 
+ 
+ Sec. 7154.  
+ Strengthening the role of anti-money laundering and other financial tools in combating human trafficking. 
+ 
+ Sec. 7155.  
+ Sense of Congress on resources to combat human trafficking. 
+ 
+ TITLE LXXII— 
+ SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS 
+ 
+ Sec. 7201.  
+ Short title. 
+ 
+ Sec. 7202.  
+ Sense of Congress. 
+ 
+ Sec. 7203.  
+ Definitions. 
+ 
+ Subtitle A— 
+ Sanctions With Respect to Foreign Opioid Traffickers 
+ 
+ Sec. 7211.  
+ Identification of foreign opioid traffickers. 
+ 
+ Sec. 7212.  
+ Imposition of sanctions. 
+ 
+ Sec. 7213.  
+ Description of sanctions. 
+ 
+ Sec. 7214.  
+ Waivers. 
+ 
+ Sec. 7215.  
+ Procedures for judicial review of classified information. 
+ 
+ Sec. 7216.  
+ Briefings on implementation. 
+ 
+ Sec. 7217.  
+ Inclusion of additional material in International Narcotics Control Strategy Report. 
+ 
+ Subtitle B— 
+ Commission on Combating Synthetic Opioid Trafficking 
+ 
+ Sec. 7221.  
+ Commission on combating synthetic opioid trafficking. 
+ 
+ Subtitle C— 
+ Other Matters 
+ 
+ Sec. 7231.  
+ Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers. 
+ 
+ Sec. 7232.  
+ Authorization of appropriations. 
+ 
+ Sec. 7233.  
+ Regulatory authority. 
+ 
+ Sec. 7234.  
+ Termination. 
+ 
+ Sec. 7235.  
+ Exception relating to importation of goods. 
+ 
+ TITLE LXXIII— 
+ PFAS 
+ 
+ Sec. 7301.  
+ Short title. 
+ 
+ Sec. 7302.  
+ Definition of Administrator. 
+ 
+ Subtitle A— 
+ Drinking Water 
+ 
+ Sec. 7311.  
+ Monitoring and detection. 
+ 
+ Sec. 7312.  
+ Drinking water state revolving funds. 
+ 
+ Subtitle B— 
+ PFAS Release Disclosure 
+ 
+ Sec. 7321.  
+ Additions to toxics release inventory. 
+ 
+ Subtitle C— 
+ USGS Performance Standard 
+ 
+ Sec. 7331.  
+ Definitions. 
+ 
+ Sec. 7332.  
+ Performance standard for the detection of highly fluorinated compounds. 
+ 
+ Sec. 7333.  
+ Nationwide sampling. 
+ 
+ Sec. 7334.  
+ Data usage. 
+ 
+ Sec. 7335.  
+ Collaboration. 
+ 
+ Subtitle D— 
+ Emerging Contaminants 
+ 
+ Sec. 7341.  
+ Definitions. 
+ 
+ Sec. 7342.  
+ Research and coordination plan for enhanced response on emerging contaminants. 
+ 
+ Subtitle E— 
+ Toxic Substances Control Act 
+ 
+ Sec. 7351.  
+ PFAS data call. 133 STAT. 1231 
+ 
+ Sec. 7352.  
+ Significant new use rule for long-chain PFAS. 
+ 
+ Subtitle F— 
+ Other Matters 
+ 
+ Sec. 7361.  
+ PFAS destruction and disposal guidance. 
+ 
+ Sec. 7362.  
+ PFAS research and development. 
+ 
+ TITLE LXXIV— 
+ CAESAR SYRIA CIVILIAN PROTECTION ACT OF 2019 
+ 
+ Sec. 7401.  
+ Short title. 
+ 
+ Sec. 7402.  
+ Statement of policy. 
+ 
+ Subtitle A— 
+ Additional Actions in Connection With the National Emergency With Respect to Syria 
+ 
+ Sec. 7411.  
+ Measures with respect to Central Bank of Syria. 
+ 
+ Sec. 7412.  
+ Sanctions with respect to foreign persons that engage in certain transactions. 
+ 
+ Sec. 7413.  
+ Strategy relating to areas of Syria in which civilians are subject to forced displacement. 
+ 
+ Subtitle B— 
+ Assistance for the People of Syria 
+ 
+ Sec. 7421.  
+ Sense of Congress. 
+ 
+ Sec. 7422.  
+ Briefing on monitoring and evaluating of ongoing assistance programs in Syria and to the Syrian people. 
+ 
+ Sec. 7423.  
+ Assessment of potential methods to enhance the protection of civilians. 
+ 
+ Sec. 7424.  
+ Assistance to support entities taking actions relating to gathering evidence for investigations into war crimes or crimes against humanity in Syria since March 2011. 
+ 
+ Sec. 7425.  
+ Codification of certain services in support of nongovernmental organizations’ activities authorized. 
+ 
+ Sec. 7426.  
+ Briefing on strategy to facilitate humanitarian assistance. 
+ 
+ Subtitle C— 
+ General Provisions 
+ 
+ Sec. 7431.  
+ Suspension of sanctions. 
+ 
+ Sec. 7432.  
+ Waivers and exemptions. 
+ 
+ Sec. 7433.  
+ Implementation and regulatory authorities. 
+ 
+ Sec. 7434.  
+ Exception relating to importation of goods. 
+ 
+ Sec. 7435.  
+ Cost limitation. 
+ 
+ Sec. 7436.  
+ Rule of construction. 
+ 
+ Sec. 7437.  
+ Prohibition on construction of provisions of this title as an authorization for use of military force. 
+ 
+ Sec. 7438.  
+ Sunset. 
+ 
+ TITLE LXXV— 
+ PROTECTING EUROPE’S ENERGY SECURITY 
+ 
+ Sec. 7501.  
+ Short title. 
+ 
+ Sec. 7502.  
+ Sense of Congress. 
+ 
+ Sec. 7503.  
+ Imposition of sanctions with respect to provision of certain vessels for the construction of certain Russian energy export pipelines. 
+ 
+ TITLE LXXVI— 
+ OTHER MATTERS 
+ 
+ Subtitle A— 
+ Federal Employee Paid Leave Act 
+ 
+ Sec. 7601.  
+ Short title. 
+ 
+ Sec. 7602.  
+ Paid parental leave under title 5. 
+ 
+ Sec. 7603.  
+ Paid parental leave for congressional employees. 
+ 
+ Sec. 7604.  
+ Conforming amendment to Family and Medical Leave Act for GAO and Library of Congress employees. 
+ 
+ Sec. 7605.  
+ Clarification for members of the National Guard and Reserves. 
+ 
+ Sec. 7606.  
+ Conforming amendment for certain TSA employees. 
+ 
+ Subtitle B— 
+ Other Matters 
+ 
+ Sec. 7611.  
+ Liberian refugee immigration fairness. 
+ 
+ Sec. 7612.  
+ Pensacola Dam and Reservoir, Grand River, Oklahoma. 
+ 
+ Sec. 7613.  
+ Limitation on certain rolling stock procurements; cybersecurity certification for rail rolling stock and operations.

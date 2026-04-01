@@ -1,0 +1,50 @@
+SEC. 323.  10 USC 2911 note . PILOT PROGRAM FOR DEVELOPMENT OF ELECTRIC VEHICLE CHARGING SOLUTIONS TO MITIGATE GRID STRESS. (a)  In General .— The Secretary of Defense, in coordination with the Secretaries of the military departments, and in consultation with the Secretary of Energy, shall carry out a pilot program to develop and test covered infrastructure to mitigate grid stress caused by electric vehicles through the implementation and maintenance on certain military installations of charging stations, microgrids, and other covered infrastructure sufficient to cover the energy demand at such installations. 
+ (b)  Selection of Military Installations .— (1)  Deadline. Selection .— Not later than 180 days after the date of the enactment of this Act, each Secretary of a military department shall— (A)  select at least one military installation of each Armed Force under the jurisdiction of that Secretary at  136 STAT. 2514 
+which to carry out the pilot program under subsection (a); and 
+ (B)  Notification. submit to the Committees on Armed Services of the House of Representatives and the Senate a notification containing an identification of each such selected installation. 
+ 
+ (2)  Considerations .— In choosing a military installation for selection pursuant to paragraph (1), each Secretary of a military department shall take into account the following: (A)  A calculation of existing loads at the installation and the existing capacity of the installation for the charging of electric vehicles, including (as applicable) light duty trucks. 
+ (B)  Any required upgrades to covered infrastructure on the installation, including electrical wiring, anticipated by the Secretary. 
+ (C)  The ownership, financing, operation, and maintenance models of existing and planned covered infrastructure on the installation. 
+ (D)  Assessment. An assessment of local grid needs, and any required updates relating to such needs anticipated by the Secretary. 
+ 
+ 
+ (c)  Report .— (1)  In general .— Not later than one year after the date on which a Secretary of a military department submits a notification identifying a selected military installation under subsection (b), that Secretary shall submit to the Committee on Armed Services and the Committee on Energy and Commerce of the House of Representatives and the Committee on Armed Services of the Senate a report on— (A)  the covered infrastructure to be implemented under the pilot program at the installation; 
+ (B)  the methodology by which each type of covered infrastructure so implemented shall be assessed for efficacy and efficiency at providing sufficient energy to cover the anticipated energy demand of the electric vehicle fleet at the installation and mitigating grid stress; and 
+ (C)  the maintenance on the military installation of charging stations and other covered infrastructure, including a microgrid, that will be sufficient to— (i)  cover the anticipated electricity demand of such fleet; and 
+ (ii)  improve installation energy resilience. 
+ 
+ 
+ (2)  Determinations. Elements .— Each report under paragraph (1) shall include, with respect to the selected military installation for which the report is submitted, the following: (A)  A determination of the type and number of charging stations to implement on the installation, taking into account the interoperability of chargers and the potential future needs or applications for chargers, such as vehicle-to-grid or vehicle-to-building applications. 
+ (B)  A determination of the optimal ownership model to provide charging stations on the installation, taking into account the following: (i)  Use of Government-owned (purchased, installed, and maintained) charging stations. 
+ (ii)  Use of third-party financed, installed, operated, and maintained charging stations. 136 STAT. 2515 
+ (iii)  Use of financing models in which energy and charging infrastructure operations and maintenance are treated as a service. 
+ (iv)  Cyber and physical security considerations and best practices associated with different ownership, network, and control models. 
+ 
+ (C)  A determination of the optimal power source to provide charging stations at the installation, taking into account the following: (i)  Transformer and substation requirements. 
+ (ii)  Microgrids and distributed energy to support both charging requirements and energy storage. 
+ 
+ 
+ (3)  Contracts. Source of services .— Each Secretary of a military department may use expertise within the military department or enter into a contract with a non-Department of Defense entity to make the determinations specified in paragraph (2). 
+ 
+ (d)  Final Report .— Not later than January 1, 2025, the Secretary of Defense shall submit to the congressional committees specified in subsection (c)(1) a final report on the pilot program under subsection (a). Such report shall include the observations and findings of the Department relating to the charging stations and other covered infrastructure implemented and maintained under such pilot program, including with respect to the elements specified in subsection (c)(2). 
+ (e)  Definitions .— In this section: (1)  The terms “Armed Forces” and “military departments” have the meanings given those terms in  section 101 of title 10, United States Code . 
+ (2)  The term “ charging station ” means a collection of one or more electric vehicle supply equipment units serving the purpose of charging an electric vehicle battery. 
+ (3)  The term “ covered infrastructure ”— (A)  means infrastructure that the Secretary of Defense determines may be used to— (i)  charge electric vehicles, including by transmitting electricity to such vehicles directly; or 
+ (ii)  support the charging of electric vehicles, including by supporting the resilience of grids or other systems for delivering energy to such vehicles (such as through the mitigation of grid stress); and 
+ 
+ (B)  includes— (i)  charging stations; 
+ (ii)  batteries; 
+ (iii)  battery-swapping systems; 
+ (iv)  microgrids; 
+ (v)  off-grid charging systems; and 
+ (vi)  other apparatuses installed for the specific purpose of delivering energy to an electric vehicle or to a battery intended to be used in an electric vehicle, including wireless charging technologies. 
+ 
+ 
+ (4)  The term “ electric vehicle ” includes— (A)  a plug-in hybrid electric vehicle that uses a combination of electric and gas powered engine that can use either gasoline or electricity as a fuel source; and 
+ (B)  a plug-in electric vehicle that runs solely on electricity and does not contain an internal combustion engine or gas tank. 136 STAT. 2516 
+ 
+ (5)  The term “ electric vehicle supply equipment unit ” means the port that supplies electricity to one vehicle at a time. 
+ (6)  The term “ microgrid ” means a group of interconnected loads and distributed energy resources within clearly defined electrical boundaries that acts as a single controllable entity with respect to the grid. 
+ (7)  The term “ military installation ” has the meaning given that term in  section 2801 of title 10, United States Code . 
+ (8)  The term “ wireless charging ” means the charging of a battery by inductive charging or by any means in which a battery is charged without a wire, or plug-in wire, connecting the power source and battery.

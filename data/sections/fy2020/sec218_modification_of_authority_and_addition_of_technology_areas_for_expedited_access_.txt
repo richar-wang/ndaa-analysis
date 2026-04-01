@@ -1,0 +1,6 @@
+SEC. 218.  MODIFICATION OF AUTHORITY AND ADDITION OF TECHNOLOGY AREAS FOR EXPEDITED ACCESS TO TECHNICAL TALENT. (a)  Deadline. Modification of Authority .— Subsection (a)(1) of section 217 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ;  10 U.S.C. 2358 note )  is amended  by  striking  “ The Secretary of Defense shall, acting through the secretaries of the military departments, establish ” and  inserting  “ Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, the Secretary of Defense shall direct the secretaries of the military departments to establish ”. 
+ (b)  Additional Technology Areas .— Subsection (e) of such section  is amended — (1)  by  redesignating  paragraph (27) as paragraph (30); and 
+ (2)  by  inserting  after paragraph (26) the following new paragraph (27): “(27)  Rapid prototyping. 133 STAT. 1260 
+ “(28)  Infrastructure resilience. 
+ “(29)  Hypersonics.” 
+ .

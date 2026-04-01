@@ -1,0 +1,36 @@
+{
+  "text": "Pilot program on procurement of utility services for installations of the Department of Defense through areawide contracts (a) Pilot program required Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall establish a pilot program (in this section referred to as the pilot program ) for the purposes of procuring utility services through an areawide contract with a public utility provider for any utility services that support energy resilience and mission readiness of a military installation. (b) Deadline for contracts Not later than 180 days after the date of the enactment of this Act, the Secretary of each military department shall enter into at least one areawide contract with a public utility provider pursuant to the pilot program. (c) Public-private partnerships The Secretary shall carry out the pilot program by entering into one or more public-private partnerships through an areawide contract entered into under the pilot program. (d) Competition In carrying out the pilot program, the Secretary shall, in accordance with part 6.302 of the Federal Acquisition Regulation, develop - (1) a justification and approval template to be used by all acquisition commands of the military departments when entering into an areawide contract pursuant to the pilot program; and (2) a process for granting waivers with respect to the requirements of the Defense Federal Acquisition Regulation. (e) Termination date The authority of the Secretary of Defense to carry out the pilot program shall terminate on the date that is one year after the date on which the Secretary commences the pilot program. (f) Reporting requirement Not later than 90 days after the date on which the pilot program is terminated pursuant to subsection (e), the Secretary of Defense shall submit to the congressional defense committees a report that includes - (1) an analysis of the pilot program, including any efficiencies, benefits, and cost-savings associated with utilizing areawide contracts under the pilot program to procure utility services from a public utility provider; and (2) proposed solutions, including recommended legislative text and modifications to the Federal Acquisition Regulation or policy guidance of the Department of Defense, to overcome any remaining legal and policy hurdles that the Secretary identifies as inhibiting adherence to and implementation of section 2811(b) of the Military Construction Authorization Act for Fiscal Year 2024 (division B of Public Law 118\u201331 ; 10 U.S.C. 2920 note). (g) Definitions In this section: (1) The terms areawide contract , energy resilience , and utility service have the meanings given such terms in section 2811(b)(3) of such Act. (2) The term military installation has the meaning given such term in section 2801 of title 10, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Pilot program on procurement of utility services for installations of the Department of Defense through areawide contracts (a) Pilot program required Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall establish a pilot program (in this section referred to as the pilot program ) for the purposes of procuring utility services through an areawide contract with a public utility provider for any utility services that support energy resilience and mission readiness of a military installation. (b) Deadline for contracts Not later than 180 days after the date of the enactment of this Act, the Secretary of each military department shall enter into at least one areawide contract with a public utility provider pursuant to the pilot program. (c) Public-private partnerships The Secretary shall carry out the pilot program by entering into one or more public-private partnerships through an areawide contract entered into under the pilot program. (d) Competition In carrying out the pilot program, the Secretary shall, in accordance with part 6.302 of the Federal Acquisition Regulation, develop - (1) a justification and approval template to be used by all acquisition commands of the military departments when entering into an areawide contract pursuant to the pilot program; and (2) a process for granting waivers with respect to the requirements of the Defense Federal Acquisition Regulation. (e) Termination date The authority of the Secretary of Defense to carry out the pilot program shall terminate on the date that is one year after the date on which the Secretary commences the pilot program. (f) Reporting requirement Not later than 90 days after the date on which the pilot program is terminated pursuant to subsection (e), the Secretary of Defense shall submit to the congressional defense committees a report that includes - (1) an analysis of the pilot program, including any efficiencies, benefits, and cost-savings associated with utilizing areawide contracts under the pilot program to procure utility services from a public utility",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006065283591548602,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2095,
+      "word_count": 329,
+      "token_length": 406
+    },
+    {
+      "text": " provider; and (2) proposed solutions, including recommended legislative text and modifications to the Federal Acquisition Regulation or policy guidance of the Department of Defense, to overcome any remaining legal and policy hurdles that the Secretary identifies as inhibiting adherence to and implementation of section 2811(b) of the Military Construction Authorization Act for Fiscal Year 2024 (division B of Public Law 118\u201331 ; 10 U.S.C. 2920 note). (g) Definitions In this section: (1) The terms areawide contract , energy resilience , and utility service have the meanings given such terms in section 2811(b)(3) of such Act. (2) The term military installation has the meaning given such term in section 2801 of title 10, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006654603251566489,
+      "confidence": "High",
+      "start_index": 2095,
+      "end_index": 2841,
+      "word_count": 115,
+      "token_length": 176
+    }
+  ],
+  "_submission_type": "solo"
+}

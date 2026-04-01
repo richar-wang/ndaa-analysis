@@ -1,0 +1,5 @@
+SEC. 317.  USE OF OPERATIONAL ENERGY COST SAVINGS OF DEPARTMENT OF DEFENSE.    Section 2912 of title 10, United States Code ,  is amended — (1)  in subsection (a), by  striking  “ subsection (b) ” and  inserting  “ subsection (b) or (c), as the case may be, ”; 
+ (2)  in subsection (b), in the matter preceding paragraph (1), by  striking  “ The Secretary of Defense ” and  inserting  “ Except as provided in subsection (c) with respect to operational energy cost savings, the Secretary of Defense ”; 133 STAT. 1305 
+ (3)  by  redesignating  subsection (c) as subsection (d); and 
+ (4)  by  inserting  after subsection (b) the following new subsection (c): “(c)  Use of Operational Energy Cost Savings .— The amount that remains available for obligation under subsection (a) that relates to operational energy cost savings realized by the Department shall be used for the implementation of additional operational energy resilience, efficiencies, mission assurance, energy conservation, or energy security within the department, agency, or instrumentality that realized that savings.” 
+ .

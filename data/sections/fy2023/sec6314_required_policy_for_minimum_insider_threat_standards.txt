@@ -1,0 +1,13 @@
+SEC. 6314.  REQUIRED POLICY FOR MINIMUM INSIDER THREAT STANDARDS. (a)  Requirement .— Section 102A(f) of the National Security Act of 1947 ( 50 U.S.C. 3024(f) )  is amended — (1)  by  redesignating  paragraphs (8) and (9) as paragraphs (9) and (10), respectively; and 
+ (2)  by  inserting  after paragraph (7) the following new paragraph: “(8)  The Director of National Intelligence shall ensure there is established a policy for minimum insider threat standards for the intelligence community and ensure compliance by the elements of the intelligence community with that policy.” 
+ . 
+ 
+ (b)  Compliance and Reporting .— Title III of such Act ( 50 U.S.C. 3071 et seq. )  is amended  by  adding  at the end the following new section: “SEC. 313.  50 USC 3079 . INSIDER THREAT POLICY COMPLIANCE AND REPORTING.   “The head of each element of the intelligence community shall— “(1)  implement the policy established in accordance with section 102A(f)(8); and 
+ “(2)  concurrent with the submission to Congress of budget justification materials in support of the budget of the President for a fiscal year that is submitted to Congress under  section 1105(a) of title 31, United States Code , submit to Congress a certification as to whether the element is in compliance with such policy.” 
+ 
+ . 
+ (c)  Conforming Amendment .— Section 102A(x)(3) of such Act ( 50 U.S.C. 3024(x)(3) )  is amended  by  inserting  “ , including the policy under subsection (f)(8), ” after “ policies of the intelligence community ”. 
+ (d)  Clerical Amendment .— The table of contents preceding section 2 of such Act  is amended  by  inserting  after the item relating to section 312 the following new item: 
+ 
+ “Sec. 313.  
+ Insider threat policy compliance and reporting.”.

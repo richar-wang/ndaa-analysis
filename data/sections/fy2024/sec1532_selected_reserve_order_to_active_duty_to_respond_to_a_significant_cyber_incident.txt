@@ -1,0 +1,21 @@
+SEC. 1532.  SELECTED RESERVE ORDER TO ACTIVE DUTY TO RESPOND TO A SIGNIFICANT CYBER INCIDENT.    Section 12304 of title 10, United States Code ,  is amended — (1)  in subsection (a), by  striking  “ for any named operational mission ”; 
+ (2)  by  redesignating  subsections (c) through (j) as subsections (d) through (k), respectively; 
+ (3)  by  inserting  after subsection (b) the following new subsection: “(c)  Authority Relating to Significant Cyber Incidents .— When  Determination. Time period. the Secretary of Defense or the Secretary of the department in which the Coast Guard is operating determines that it is necessary to augment the active armed forces for the response of the Department of Defense or other department under which the Coast Guard is operating, respectively, to a covered incident, such Secretary may, without the consent of the member affected, order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), under the respective jurisdiction of such Secretary, to active duty for not more than 365 consecutive days.” 
+ ; 
+ (4)  in paragraph (1) of subsection (d), as redesignated by paragraph (2), by  inserting  “ or subsection (c) ” after “ subsection (b) ”; 137 STAT. 564 
+ (5)  in subsection (g), as redesignated by paragraph (2), by  inserting  “ or subsection (c) ” after “ subsection (a) ”; 
+ (6)  by  amending  subsection (h), as redesignated by paragraph (2), to read as follows: “(h)  Termination of Duty .— (1)  Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by— “(A)  order of the President; or 
+ “(B)  law. 
+ 
+ “(2)  Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit is ordered to active duty under authority of subsection (c), the service of all units or members so ordered to active duty may be terminated by— “(A)  order of the Secretary of Defense or, with respect to the Coast Guard, the Secretary of the Department in which the Coast Guard is operating; or 
+ “(B)  law.” 
+ 
+ 
+ ; and 
+ (7)  in subsection (k), as redesignated by paragraph (2)— (A)  by  redesignating  paragraphs (1) and (2) as paragraphs (2) and (3), respectively; and 
+ (B)  by  inserting  after the matter preceding paragraph (2), as so redesignated, the following new paragraph: “(1)  Definition. Determinations. The term ‘ covered incident ’ means— “(A)  a cyber incident involving a Department of Defense information system, or a breach of a Department of Defense system that involves personally identifiable information, that the Secretary of Defense determines is likely to result in demonstrable harm to the national security interests, foreign relations, or the economy of the United States, or to the public confidence, civil liberties, or public health and safety of the people of the United States; 
+ “(B)  a cyber incident involving a Department of Homeland Security information system, or a breach of a Department of Homeland Security system that involves personally identifiable information, that the Secretary of Homeland Security determines is likely to result in demonstrable harm to the national security interests, foreign relations, or the economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States; 
+ “(C)  President. a cyber incident, or collection of related cyber incidents, that the President determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States; or 
+ “(D)  a significant incident declared pursuant to section 2233 of the Homeland Security Act of 2002 ( 6 U.S.C. 677b ).” 
+ 
+ . 137 STAT. 565

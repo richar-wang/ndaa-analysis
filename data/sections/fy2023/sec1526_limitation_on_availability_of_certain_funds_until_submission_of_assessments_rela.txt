@@ -1,0 +1,14 @@
+SEC. 1526.  LIMITATION ON AVAILABILITY OF CERTAIN FUNDS UNTIL SUBMISSION OF ASSESSMENTS RELATING TO CYBERSECURITY OF THE DEFENSE INDUSTRIAL BASE. (a)  Limitation .— Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2023 for operation and maintenance, Defense-wide, and available for the Office of the Secretary of Defense, not more than 75 percent may be obligated or expended until the Deputy Secretary of Defense— (1)  conducts the assessments under subsection (b); and 
+ (2)  provides to the congressional defense committees the briefing under subsection (c). 
+ 
+ (b)  Assessments .— The Deputy Secretary shall conduct the following assessments: (1)  Determination. An assessment of the framework for cybersecurity of the defense industrial base required by section 1648 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116-92 ;  10 U.S.C. 2224 note ) to determine whether— (A)  the current framework and plans for defense industrial base cybersecurity are sufficient; and 
+ (B)  alternative or additional courses of action should be considered or adopted, including— (i)  establishing a secure software development environment in a cloud environment inside the cybersecurity perimeter of the Department for contractors to perform their development work; 
+ (ii)  establishing a secure cloud environment through which contractors may access the data of the Department needed for their contract work; 
+ (iii)  enabling contractors to access cybersecurity-as-a-service offerings, including cybersecurity services provided by the Department; 
+ (iv)  limiting the amount of program information held at tiers of subcontractors to that which is necessary for contract performance; and 136 STAT. 2900 
+ (v)  mechanisms and processes to rationalize and integrate the many separately managed defense industrial base cybersecurity programs and activities conducted across the Department of Defense. 
+ 
+ 
+ (2)  An assessment of past and future planned activities of the Department of Defense in furtherance of section 1724 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  10 U.S.C. 2224 ), including a detailed review of roles and responsibilities, and supporting instructions and policy documents, for the Principal Cyber Advisor of the Department of Defense, the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Policy, and the Under Secretary of Defense for Intelligence and Security, and the Under Secretary of Defense (Comptroller). 
+ 
+ (c)  Briefing .— The Deputy Secretary shall provide to the congressional defense committees a briefing on the assessments conducted under subsection (b) and any decisions of and directions by the Deputy Secretary for improving the cybersecurity of the defense industrial base.

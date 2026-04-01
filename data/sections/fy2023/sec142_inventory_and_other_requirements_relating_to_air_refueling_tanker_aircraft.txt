@@ -1,0 +1,10 @@
+SEC. 142.  INVENTORY AND OTHER REQUIREMENTS RELATING TO AIR REFUELING TANKER AIRCRAFT. (a)  Minimum Inventory Requirement for Air Refueling Tanker Aircraft .— Section 9062(j) of title 10, United States Code ,  is amended — (1)  by  striking  “ effective October 1, 2019, ”; and 
+ (2)  by  striking  “ 479 ” each place it appears and  inserting  “ 466 ”. 
+ 
+ (b)  Repeal of Limitation on Retirement of KC–135 Aircraft .— Section 137 of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ;  135 Stat. 1576 )  is amended — (1)  by  striking  subsection (b); and 
+ (2)  by  redesignating  subsections (c) and (d) as subsections (b) and (c), respectively. 
+ 
+ (c)  Minimum Number of Air Refueling Tanker Aircraft in PMAI of the Air Force .— Section 135(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  134 Stat. 3431 )  is amended  by  striking  “ 412 ” and  inserting  “ 400 ”. 
+ (d)  Prohibition on Reduction of KC–135 Aircraft in PMAI of the Reserve Components .— (1)  In general .— None of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year  136 STAT. 2453 
+2023 for the Air Force may be obligated or expended to reduce, by more than 12 aircraft, the number of KC–135 aircraft designated as primary mission aircraft inventory within the reserve components of the Air Force. 
+ (2)  Primary mission aircraft inventory defined .— In this subsection, the term “ primary mission aircraft inventory ” has the meaning given that term in  section 9062(i)(2)(B) of title 10, United States Code .

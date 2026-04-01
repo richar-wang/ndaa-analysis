@@ -1,0 +1,46 @@
+SEC. 6711.  ADDITIONAL TRANSACTION AUTHORITY. (a)  Annual Reports; Feasibility and Advisability Study .— (1)  Reports .— Not later than 1 year after the date of the enactment of this Act, and annually thereafter for 5 years, the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report on the use of the authority under paragraph (5) of section 102A(n) of the National Security Act of 1947 ( 50 U.S.C. 3024(n) ), as added by subsection (b). 
+ (2)  Feasibility and advisability study .— (A)  Study .— The Director of National Intelligence shall conduct a feasibility and advisability study on whether to provide to the heads of the elements of the intelligence community an additional transaction authority that is not restricted only to basic, applied, and advanced research projects and prototype projects (similar to such less restrictive additional transaction authorities of the Transportation Security Administration and the National Aeronautics and Space Administration). 
+ (B)  Submission .— Not later than 1 year after the date of the enactment of this Act, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives the findings of the study conducted under subparagraph (A), including, if the Director determines a less restrictive additional transaction authority is advisable pursuant to such study, an identification of any legislative solutions or other actions necessary to implement such authority. 
+ 
+ 
+ (b)  Additional Transaction Authority .— Section 102A(n) of the National Security Act of 1947 ( 50 U.S.C. 3024(n) )  is amended  by  adding  at the end the following: “(5)  Other Transaction Authority .— “(A)  In general .— In addition to other acquisition authorities, the Director of National Intelligence may exercise the acquisition authorities referred to in sections 4021 and 4022 of  title 10, United States Code , subject to the provisions of this paragraph. 
+ “(B)  Delegation .— (i)  The Director shall delegate the authorities provided by subparagraph (A) to the heads of elements of the intelligence community. 
+ “(ii)  The heads of elements of the intelligence community shall, to the maximum extent practicable, delegate the authority delegated under clause (i) to the official of the respective element of the intelligence community responsible for  136 STAT. 3564 
+decisions with respect to basic, applied, or advanced research activities or the adoption of such activities within such element. 
+ 
+ “(C)  Intelligence community authority .— (i)  For purposes of this paragraph, the limitation in  section 4022(a)(1) of title 10, United States Code , shall not apply to elements of the intelligence community. 
+ “(ii)  Subject to section 4022(a)(2) of such title, the Director may enter into transactions and agreements (other than contracts, cooperative agreements, and grants) of amounts not to exceed $75,000,000 under this paragraph to carry out basic, applied, and advanced research projects and prototype projects in support of intelligence activities. 
+ “(iii)  Applicability. For purposes of this paragraph, the limitations specified in section 4022(a)(2) of such title shall apply to the intelligence community in lieu of the Department of Defense, and the Director shall— “(I)  identify appropriate officials who can make the determinations required in subparagraph (B)(i) of such section for the intelligence community; and 
+ “(II)  Briefing. brief the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives in lieu of the congressional defense committees, as specified in subparagraph (B)(ii) of such section. 
+ 
+ “(iv)  For purposes of this paragraph, the limitation in section 4022(a)(3) of such title shall not apply to elements of the intelligence community. 
+ “(v)  Applicability. In carrying out this paragraph, section 4022(d)(1) of such title shall be applied by substituting ‘Director of National Intelligence’ for ‘Secretary of Defense’. 
+ “(vi)  For purposes of this paragraph, the limitations in section 4022(d)(2) of such title shall not apply to elements of the intelligence community. 
+ “(vii)  Criteria. Applicability. In addition to the follow-on production contract criteria in section 4022(f)(2) of such title, the following additional criteria shall apply: “(I)  The authorizing official of the relevant element of the intelligence community determines that Government users of the proposed production product or production service have been consulted. 
+ “(II)  In the case of a proposed production product that is software, there are mechanisms in place for Government users to provide ongoing feedback to participants to the follow-on production contract. 
+ “(III)  In the case of a proposed production product that is software, there are mechanisms in place to promote the interoperability and accessibility with and between Government and commercial software providers, including by the promotion of open application programming interfaces and requirement of appropriate software documentation. 
+ “(IV)  The award follows a documented market analysis as mandated by the Federal Acquisition Regulations surveying available and comparable products. 
+ “(V)  In the case of a proposed production product that is software, the follow-on production contract includes a  136 STAT. 3565 
+requirement that, for the duration of such contract (or such other period of time as may be agreed to as a term of such contract)— “(aa)  the participants provide the most up-to-date version of the product that is available in the commercial marketplace and is consistent with security requirements; 
+ “(bb)  there are mechanisms in place for the participants to provide timely updates to the production product; and 
+ “(cc)  the authority specified in section 4022(f)(5) of such title shall be exercised by the Director in lieu of the Secretary of Defense. 
+ 
+ 
+ 
+ “(D)  Implementation policy .— The Director, in consultation with the heads of the elements of the intelligence community, shall— “(i)  Deadline. not later than 180 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, establish and implement an intelligence community-wide policy prescribing the use and limitations of the authority under this paragraph, particularly with respect to the application of subparagraphs (B) and (C); 
+ “(ii)  Review. Update. periodically review and update the policy established under clause (i); and 
+ “(iii)  submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives the policy when established under clause (i) or updated under clause (ii). 
+ 
+ “(E)  Annual report .— “(i)  In general .— Not less frequently than annually, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report detailing the use by the intelligence community of the authority provided by this paragraph. 
+ “(ii)  Elements .— “(I)  Required elements .— Each report required by clause (i) shall detail the following: “(aa)  The number of transactions. 
+ “(bb)  The participants to such transactions. 
+ “(cc)  The purpose of the transaction. 
+ “(dd)  The amount of each transaction. 
+ “(ee)  Concerns with the efficiency of the policy. 
+ “(ff)  Any recommendations for how to improve the process. 
+ 
+ “(II)  Other elements .— Each report required by clause (i) may describe such transactions which have been awarded follow-on production contracts either pursuant to the authority provided by this paragraph or another acquisition authority available to the intelligence community.” 
+ 
+ 
+ 
+ .

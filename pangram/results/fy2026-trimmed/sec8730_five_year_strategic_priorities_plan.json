@@ -1,0 +1,36 @@
+{
+  "text": "Five-year strategic priorities plan (a) In general Section 1413 of the Better Utilization of Investments Leading to Development Act of 2018 ( 22 U.S.C. 9613 ), as amended by this title, is further amended by adding at the end the following new subsection: (l) Strategic priorities plan (1) Plan required Based upon guidance received from the Group established pursuant to section 1413(k), the Chief Executive Officer shall develop a Strategic Priorities Plan, which shall provide - (A) guidance for the Corporation\u2019s strategic investments portfolio and the identification and engagement of priority strategic investment sectors and regions of importance to the United States; and (B) justifications for the certifications of such investments in accordance with section 1412(c). (2) Evaluations The Strategic Priorities Plan should determine the objectives and goals of the Corporation\u2019s strategic investment portfolio by evaluating economic, security, and geopolitical dynamics affecting United States strategic interests, including - (A) determining priority countries, regions, sectors, and related administrative actions; (B) plans for the establishment of regional offices outside of the United States; (C) identifying countries where the Corporation\u2019s support - (i) is necessary; (ii) would be the preferred alternative to state-directed investments by foreign countries of concern; or (iii) otherwise furthers the strategic interests of the United States to counter or limit the influence of foreign countries of concern; (D) evaluating the interest and willingness of potential private finance institutions and private sector project implementers to partner with the Corporation on strategic investment projects; and (E) identifying bilateral and multilateral project finance partnership opportunities for the Corporation to pursue with United States partner and ally countries. (3) Revisions At any time during the relevant period, the Chief Executive Officer may request to convene a meeting of the Congressional Strategic Advisory Group for the purpose of discussing revisions to the Strategic Priorities Plan. (4) Transparency The Chief Executive Officer shall publish, on a website of the Corporation - (A) procedures for applying for products offered by the Corporation; and (B) any other appropriate guidelines and compliance restrictions with respect to designated strategic priorities. . (b) Sense of Congress It is the sense of the Congress that the Corporation, during the 2-year period beginning on October 1, 2025, should consider - (1) advancing secure supply chains to meet the critical minerals needs of the United States and its allies and partners; (2) making investments to promote and secure the telecommunications sector, particularly undersea cables; and (3) establishing, maintaining, and supporting regional offices outside the United States for the purpose of identifying and supporting priority investment opportunities.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Five-year strategic priorities plan (a) In general Section 1413 of the Better Utilization of Investments Leading to Development Act of 2018 ( 22 U.S.C. 9613 ), as amended by this title, is further amended by adding at the end the following new subsection: (l) Strategic priorities plan (1) Plan required Based upon guidance received from the Group established pursuant to section 1413(k), the Chief Executive Officer shall develop a Strategic Priorities Plan, which shall provide - (A) guidance for the Corporation\u2019s strategic investments portfolio and the identification and engagement of priority strategic investment sectors and regions of importance to the United States; and (B) justifications for the certifications of such investments in accordance with section 1412(c). (2) Evaluations The Strategic Priorities Plan should determine the objectives and goals of the Corporation\u2019s strategic investment portfolio by evaluating economic, security, and geopolitical dynamics affecting United States strategic interests, including - (A) determining priority countries, regions, sectors, and related administrative actions; (B) plans for the establishment of regional offices outside of the United States; (C) identifying countries where the Corporation\u2019s support - (i) is necessary; (ii) would be the preferred alternative to state-directed investments by foreign countries of concern; or (iii) otherwise furthers the strategic interests of the United States to counter or limit the influence of foreign countries of concern; (D) evaluating the interest and willingness of potential private finance institutions and private sector project implementers to partner with the Corporation on strategic investment projects; and (E) identifying bilateral and multilateral project finance partnership opportunities for the Corporation to pursue with United States partner and ally countries. (3) Revisions At any time during the relevant period, the Chief Executive Officer may request to convene a meeting of the Congressional Strategic Advisory Group for the purpose of discussing revisions to the Strategic Priorities Plan. (4) Transparency The Chief Executive Officer shall publish, on a website of the Corporation - (A) procedures for applying for products offered by the Corporation; and (B) any other appropriate guidelines and compliance restrictions with respect to designated strategic priorities. . (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005745734282148381,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2405,
+      "word_count": 343,
+      "token_length": 452
+    },
+    {
+      "text": "b) Sense of Congress It is the sense of the Congress that the Corporation, during the 2-year period beginning on October 1, 2025, should consider - (1) advancing secure supply chains to meet the critical minerals needs of the United States and its allies and partners; (2) making investments to promote and secure the telecommunications sector, particularly undersea cables; and (3) establishing, maintaining, and supporting regional offices outside the United States for the purpose of identifying and supporting priority investment opportunities.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005843986524268985,
+      "confidence": "High",
+      "start_index": 2405,
+      "end_index": 2953,
+      "word_count": 81,
+      "token_length": 105
+    }
+  ],
+  "_submission_type": "solo"
+}

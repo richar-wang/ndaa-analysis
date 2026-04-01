@@ -1,0 +1,19 @@
+SEC. 11255.  MODIFICATION OF PROHIBITION ON OPERATION OR PROCUREMENT OF FOREIGN-MADE UNMANNED AIRCRAFT SYSTEMS.   Section 8414 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  14 U.S.C. 1156 note )  is amended — (1)  by  amending  subsection (b) to read as follows: “(b)  Exemption .— The Commandant is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of— “(1)  counter-UAS system surrogate testing and training; or 
+ “(2)  intelligence, electronic warfare, and information warfare operations, testing, analysis, and training.” 
+ 
+ ; 
+ (2)  by  amending  subsection (c) to read as follows: “(c)  Certification. Deadline. Waiver .— The Commandant may waive the restriction under subsection (a) on a case-by-case basis by certifying in writing not later than 15 days after exercising such waiver to the Department of Homeland Security, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that the operation or procurement of a covered unmanned aircraft system is required in the national interest of the United States.” 
+ ; 
+ (3)  in subsection (d)— (A)  by  amending  paragraph (1) to read as follows: “(1)  Definition. Covered foreign country .— The term ‘ covered foreign country ’ means any of the following: “(A)  The People’s Republic of China. 
+ “(B)  The Russian Federation. 
+ “(C)  The Islamic Republic of Iran. 
+ “(D)  The Democratic People’s Republic of Korea.” 
+ 
+ ; 
+ (B)  by  redesignating  paragraphs (2) and (3) as paragraphs (3) and (4), respectively; 
+ (C)  by  inserting  after paragraph (1) the following: “(2)  Definition. Covered unmanned aircraft system .— The term ‘ covered unmanned aircraft system ’ means an unmanned aircraft system described in paragraph (1) of subsection (a).” 
+ ; and 
+ (D)  in paragraph (4), as so redesignated, by  inserting  “ , and any related services and equipment ” after “ United States Code ”; and 
+ 
+ (4)  by  adding  at the end the following: “(e)  Deadline. Replacement .— Not later than 90 days after the date of the enactment of the Don Young Coast Guard Authorization Act of 2022, the Commandant shall replace covered unmanned aircraft systems of the Coast Guard with unmanned aircraft systems manufactured in the United States or an allied country (as that term is defined in  section 2350f(d)(1) of title 10, United States Code ).” 
+ .

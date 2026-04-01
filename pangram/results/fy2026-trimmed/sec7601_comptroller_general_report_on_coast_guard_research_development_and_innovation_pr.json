@@ -1,0 +1,36 @@
+{
+  "text": "Comptroller General report on Coast Guard research, development, and innovation program (a) In general Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the state of the research, development, and innovation program of the Coast Guard during the 5-year period ending on such date of enactment. (b) Elements The report required by subsection (a) shall include the following: (1) An evaluation and description of the process for selecting projects to be carried out under the research, development, and innovation program of the Coast Guard. (2) An analysis of the manner in which funding needs are determined and requested for such program, and for the activities and projects of such program, in alignment with the appropriate fiscal year. (3) An assessment of the manner in which the Coast Guard determines desired outcomes, and measures the impact, of successful projects on the execution of the operations and mission of the Coast Guard. (4) An assessment of the manner in which the Coast Guard evaluates impacts and benefits of partnerships between the Coast Guard and the Department of Defense and other entities, and a description of the extent to which and manner in which the Coast Guard is leveraging such benefits and identifying and managing any potential challenge. (5) An analysis of the manner in which the Commandant is working with partners to accelerate project transition from research, testing, evaluation, and prototype to production. (6) An assessment of the manner in which the authority to enter into transactions other than contracts and grants pursuant to sections 719 and 1158 of title 14, United States Code, has been exercised by the Commandant, and a description of any training or resources necessary (including additional agreements for officers and training) to more fully exercise such authority. (7) An evaluation of the role of the Blue Tech Center of Expertise established in section 302 of the Coast Guard Blue Technology Center of Expertise Act ( Public Law 115\u2013265 ). (8) Recommendations regarding authorization, personnel, infrastructure, and other requirements necessary for the expeditious transition of technologies developed under such program from prototype to production in the field. (c) Consultation In developing the report required under subsection (a), the Comptroller General may consult with - (1) the maritime and aviation industries; (2) the Secretary of Defense; (3) the intelligence community; and (4) any relevant - (A) federally funded research institutions; (B) nongovernmental organizations; and (C) institutions of higher education.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Comptroller General report on Coast Guard research, development, and innovation program (a) In general Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the state of the research, development, and innovation program of the Coast Guard during the 5-year period ending on such date of enactment. (b) Elements The report required by subsection (a) shall include the following: (1) An evaluation and description of the process for selecting projects to be carried out under the research, development, and innovation program of the Coast Guard. (2) An analysis of the manner in which funding needs are determined and requested for such program, and for the activities and projects of such program, in alignment with the appropriate fiscal year. (3) An assessment of the manner in which the Coast Guard determines desired outcomes, and measures the impact, of successful projects on the execution of the operations and mission of the Coast Guard. (4) An assessment of the manner in which the Coast Guard evaluates impacts and benefits of partnerships between the Coast Guard and the Department of Defense and other entities, and a description of the extent to which and manner in which the Coast Guard is leveraging such benefits and identifying and managing any potential challenge. (5) An analysis of the manner in which the Commandant is working with partners to accelerate project transition from research, testing, evaluation, and prototype to production. (6) An assessment of the manner in which the authority to enter into transactions other than contracts and grants pursuant to sections 719 and 1158 of title 14, United States Code, has been exercised by the Commandant, and a description of any training or resources necessary (including additional agreements for officers and training) to more fully exercise such authority. (7) An evaluation of the role of the Blue Tech Center of Expertise established in section 302 of the Coast Guard Blue Technology Center of Expertise Act ( Public Law 115\u2013265 ). (8) Recommendations regarding authorization, personnel, infrastructure, and other requirements necessary for the expeditious transition of technologies developed under such program from prototype to production in the field. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004848453811266356,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2477,
+      "word_count": 389,
+      "token_length": 483
+    },
+    {
+      "text": "c) Consultation In developing the report required under subsection (a), the Comptroller General may consult with - (1) the maritime and aviation industries; (2) the Secretary of Defense; (3) the intelligence community; and (4) any relevant - (A) federally funded research institutions; (B) nongovernmental organizations; and (C) institutions of higher education.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004796155961230397,
+      "confidence": "High",
+      "start_index": 2477,
+      "end_index": 2839,
+      "word_count": 51,
+      "token_length": 81
+    }
+  ],
+  "_submission_type": "solo"
+}

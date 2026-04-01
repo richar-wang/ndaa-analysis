@@ -1,0 +1,18 @@
+SEC. 902.  CONFORMING AMENDMENTS RELATING TO REPEAL OF POSITION OF CHIEF MANAGEMENT OFFICER.    Section 2222 of title 10, United States Code ,  is amended — 136 STAT. 2749 (1)  in subsection (c)(2), by  striking  “ the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer ” and  inserting  “ the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Information Officer ”; 
+ (2)  in subsection (e)— (A)  in paragraph (1), by  striking  “ the Chief Management Officer ” and  inserting  “ the Chief Information Officer ”; and 
+ (B)  in paragraph (6)— (i)  in subparagraph (A), in the matter preceding clause (i)— (I)  in the first sentence, by  striking  “ The Chief Management Officer of the Department of Defense ” and  inserting  “ The Chief Information Officer of the Department of Defense, in coordination with the Chief Data and Artificial Intelligence Officer, ”; and 
+ (II)  in the second sentence, by  striking  “ the Chief Management Officer shall ” and  inserting  “ the Chief Information Officer shall ”; and 
+ 
+ (ii)  in subparagraph (B), in the matter preceding clause (i), by  striking  “ The Chief Management Officer ” and  inserting  “ The Chief Information Officer ”; 
+ 
+ 
+ (3)  in subsection (f)— (A)  in paragraph (1), in the second sentence, by  striking  “ the Chief Management Officer and ”; and 
+ (B)  in paragraph (2)— (i)  by  redesignating  subparagraphs (A) and (B) as subparagraphs (B) and (C), respectively; 
+ (ii)  by  inserting  before subparagraph (B), as redesignated by clause (i), the following new subparagraph (A): “(A)  The Chief Information Officers of the military departments, or their designees.” 
+ ; and 
+ (iii)  in subparagraph (C), as so redesignated, by  adding  at the end the following new clause: “(iv)  The Chief Data and Artificial Intelligence Officer of the Department of Defense.” 
+ ; 
+ 
+ 
+ (4)  in subsection (g)(2), by  striking  “ the Chief Management Officer ” each place it appears and  inserting  “ the Chief Information Officer ”; and 
+ (5)  in subsection (i)(5)(B), by  striking  “ the Chief Management Officer ” and  inserting  “ the Chief Information Officer ”.

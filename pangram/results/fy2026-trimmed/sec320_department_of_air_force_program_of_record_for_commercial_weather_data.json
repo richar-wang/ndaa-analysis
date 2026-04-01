@@ -1,0 +1,26 @@
+{
+  "text": "Department of Air Force program of record for commercial weather data (a) Establishment Not later than September 30, 2027, the Secretary of the Air Force shall establish a program of record of the Department of the Air Force to - (1) acquire and use non-space based commercial weather data to - (A) support operational weather forecasting; and (B) enhance mission planning and execution in data-sparse and contested environments; and (2) integrate such commercial weather data and related systems into meteorological and decision support frameworks of the Air Force. (b) Submission to Congress Not later than March 1, 2026, the Secretary of the Air Force shall submit to the congressional defense committees, with respect to the program of record to be established under subsection (a), the following: (1) A transition plan for the adoption of such program of record, including projected costs and funding requirements over the period covered by the program objective memorandum process for fiscal years 2027 through 2031. (2) An acquisition strategy for such program of record, including an outline of potential middle tier of acquisition pathways or major capability acquisition pathways (as such term is defined in Department of Defense Instruction 5000.85, titled Major Capability Acquisition and issued on August 6, 2020 (or successor instruction)). (3) A budget justification for inclusion of such program of record in the budget materials submitted by the Secretary of Defense to Congress in support of the President\u2019s annual budget request (submitted to Congress pursuant to section 1105 of title 31, United States Code) for fiscal year 2027, to secure sustained funding.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Department of Air Force program of record for commercial weather data (a) Establishment Not later than September 30, 2027, the Secretary of the Air Force shall establish a program of record of the Department of the Air Force to - (1) acquire and use non-space based commercial weather data to - (A) support operational weather forecasting; and (B) enhance mission planning and execution in data-sparse and contested environments; and (2) integrate such commercial weather data and related systems into meteorological and decision support frameworks of the Air Force. (b) Submission to Congress Not later than March 1, 2026, the Secretary of the Air Force shall submit to the congressional defense committees, with respect to the program of record to be established under subsection (a), the following: (1) A transition plan for the adoption of such program of record, including projected costs and funding requirements over the period covered by the program objective memorandum process for fiscal years 2027 through 2031. (2) An acquisition strategy for such program of record, including an outline of potential middle tier of acquisition pathways or major capability acquisition pathways (as such term is defined in Department of Defense Instruction 5000.85, titled Major Capability Acquisition and issued on August 6, 2020 (or successor instruction)). (3) A budget justification for inclusion of such program of record in the budget materials submitted by the Secretary of Defense to Congress in support of the President\u2019s annual budget request (submitted to Congress pursuant to section 1105 of title 31, United States Code) for fiscal year 2027, to secure sustained funding.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.10904894769191742,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1679,
+      "word_count": 260,
+      "token_length": 352
+    }
+  ],
+  "_submission_type": "solo"
+}

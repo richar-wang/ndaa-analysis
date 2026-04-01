@@ -1,0 +1,36 @@
+{
+  "text": "Travel allowance for members of Coast Guard assigned to Alaska (a) Establishment The Commandant shall implement a policy that provides for reimbursement to eligible members of the Coast Guard for the cost of airfare for such members to travel to a place within the United States or the territories of the United States at the request of such member during the period specified in subsection (h). (b) Eligible members A member of the Coast Guard is eligible for a reimbursement under subsection (a) if - (1) the member is assigned to a duty location in Alaska; and (2) an officer in a grade above O\u20135 in the chain of command of the member authorizes the travel of the member. (c) Treatment of time as leave The time during which an eligible member is absent from duty for travel reimbursable under subsection (a) shall be treated as leave for purposes of section 704 of title 10, United States Code. (d) Restriction The Commandant shall not deny reimbursement for travel authorized under subsection (b)(2) to the respective member. (e) Justification If a member requests to travel to a place that is not the home of record, or state of legal residence, of such member, the approving official under subsection (b)(2) may require a justification of the request by such member and shall not unreasonably deny such request. (f) Reimbursement limitation The rate of reimbursement for travel to a place that is not the member\u2019s home of record or state of legal residence shall be limited to the cost of travel to the member\u2019s home of record or state of legal residence using the amounts determined by the GSA City Pairs Program. (g) Briefing required Not later than February 1, 2027, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on - (1) the use and effectiveness of reimbursements under subsection (a); (2) the calculation and use of the cost of living allowance for a member assigned to a duty location in Alaska; and (3) the use of special pays and other allowances as incentives for cold weather proficiency or duty locations. (h) Period specified The period specified in this subsection is the period - (1) beginning on the date of enactment of this Act; and (2) ending on the later of - (A) December 31, 2029; or (B) the date on which the authority under section 352 of title 37, United States Code, to grant assignment or special duty pay to members of the uniform services terminates under subsection (g) of such section.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Travel allowance for members of Coast Guard assigned to Alaska (a) Establishment The Commandant shall implement a policy that provides for reimbursement to eligible members of the Coast Guard for the cost of airfare for such members to travel to a place within the United States or the territories of the United States at the request of such member during the period specified in subsection (h). (b) Eligible members A member of the Coast Guard is eligible for a reimbursement under subsection (a) if - (1) the member is assigned to a duty location in Alaska; and (2) an officer in a grade above O\u20135 in the chain of command of the member authorizes the travel of the member. (c) Treatment of time as leave The time during which an eligible member is absent from duty for travel reimbursable under subsection (a) shall be treated as leave for purposes of section 704 of title 10, United States Code. (d) Restriction The Commandant shall not deny reimbursement for travel authorized under subsection (b)(2) to the respective member. (e) Justification If a member requests to travel to a place that is not the home of record, or state of legal residence, of such member, the approving official under subsection (b)(2) may require a justification of the request by such member and shall not unreasonably deny such request. (f) Reimbursement limitation The rate of reimbursement for travel to a place that is not the member\u2019s home of record or state of legal residence shall be limited to the cost of travel to the member\u2019s home of record or state of legal residence using the amounts determined by the GSA City Pairs Program. (g) Briefing required Not later than February 1, 2027, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on - (1) the use and effectiveness of reimbursements under subsection (a); (2) the calculation and use of the cost of living allowance for a member assigned to a duty location in Alaska; and (3) the use of special pays and other allowances as incentives for cold weather proficiency or duty locations. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007497198114703808,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2179,
+      "word_count": 370,
+      "token_length": 463
+    },
+    {
+      "text": "h) Period specified The period specified in this subsection is the period - (1) beginning on the date of enactment of this Act; and (2) ending on the later of - (A) December 31, 2029; or (B) the date on which the authority under section 352 of title 37, United States Code, to grant assignment or special duty pay to members of the uniform services terminates under subsection (g) of such section.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007904634112492204,
+      "confidence": "High",
+      "start_index": 2179,
+      "end_index": 2576,
+      "word_count": 72,
+      "token_length": 101
+    }
+  ],
+  "_submission_type": "solo"
+}

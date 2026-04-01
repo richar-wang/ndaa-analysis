@@ -1,0 +1,13 @@
+SEC. 11257.  California. REPORT ON SAN DIEGO MARITIME DOMAIN AWARENESS.   Not later than 180 days after the date of enactment of this Act, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing— (1)  Overview. an overview of the maritime domain awareness in the area of responsibility of the Coast Guard sector responsible for San Diego, California, including— (A)  the average volume of known maritime traffic that transited the area during fiscal years 2020 through 2022; 
+ (B)  current sensor platforms deployed by such sector to monitor illicit activity occurring at sea in such area; 
+ (C)  the number of illicit activity incidents at sea in such area that the sector responded to during fiscal years 2020 through 2022; 
+ (D)  Estimate. an estimate of the volume of traffic engaged in illicit activity at sea in such area and the type and description of any vessels used to carry out illicit activities that such sector responded to during fiscal years 2020 through 2022; and 
+ (E)  the maritime domain awareness requirements to effectively meet the mission of such sector; 
+ 
+ (2)  a description of current actions taken by the Coast Guard to partner with Federal, regional, State, and local entities to meet the maritime domain awareness needs of such area; 
+ (3)  a description of any gaps in maritime domain awareness within the area of responsibility of such sector resulting from  136 STAT. 4057 
+an inability to meet the enduring maritime domain awareness requirements of the sector or adequately respond to maritime disorder; 
+ (4)  an identification of current technology and assets the Coast Guard has to mitigate the gaps identified in paragraph (3); 
+ (5)  an identification of capabilities needed to mitigate such gaps, including any capabilities the Coast Guard currently possesses that can be deployed to the sector; 
+ (6)  an identification of technology and assets the Coast Guard does not currently possess and are needed to acquire in order to address such gaps; and 
+ (7)  an identification of any financial obstacles that prevent the Coast Guard from deploying existing commercially available sensor technology to address such gaps.

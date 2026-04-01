@@ -1,0 +1,36 @@
+{
+  "text": "Establishment of Project Spectrum (a) In general The Director of the Office of Small Business Programs of the Department of Defense shall establish and maintain a program to be known as Project Spectrum to provide to covered entities an online platform of digital resources, training, and services that increase awareness of, and facilitate compliance with, the requirements of the defense acquisition system established pursuant to section 3102 of title 10, United States Code. (b) Requirement for coordination In carrying out the requirements of subsection (a), the Director of Small Business Programs shall coordinate with other elements of the Department of Defense to ensure resources, training, or services made available through Project Spectrum are aligned with Department-wide policies and guidance related to the defense acquisition system, including coordination with - (1) the Chief Information Officer of the Department of Defense, particularly regarding cybersecurity resources and alignment with the Cybersecurity Maturity Model Certification program or successor program; (2) the Under Secretary of Defense for Acquisition and Sustainment; (3) the Under Secretary of Defense for Research and Engineering; (4) the Deputy Assistant Secretary of Defense for International and Industry Engagement; (5) the President of the Defense Acquisition University; (6) the Director of the Defense Logistics Agency; (7) the Director of the Defense Counterintelligence and Security Agency; and (8) the Executive Director of the Department of Defense Cyber Crime Center. (c) Performance Metrics Not later than April 1, 2026, the Director of Small Business Programs, in coordination with elements and individuals in subsection (b), shall establish performance metrics to measure the outcomes associated with Project Spectrum. Such metrics shall include - (1) cybersecurity-related activities and tools, to be evaluated in coordination with Chief Information Officer of the Department of Defense; (2) foreign ownership, control, or influence activities and tools, to be evaluated in coordination with the Under Secretary of Defense for Acquisition and Sustainment; and (3) any additional performance metrics the Director determines necessary. (d) Briefing required Not later than May 1, 2026, the Director of Small Business Programs shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the performance metrics required by subsection (c). (e) Sunset The authority for Project Spectrum, and the requirements of the section, shall terminate on December 31, 2031. (f) Covered entity defined In this section, the term covered entity means an entity that is a small business or a medium business that contracts with, or seeks to enter into a contract with, the Department of Defense that is registered to access the online platform of Project Spectrum.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Establishment of Project Spectrum (a) In general The Director of the Office of Small Business Programs of the Department of Defense shall establish and maintain a program to be known as Project Spectrum to provide to covered entities an online platform of digital resources, training, and services that increase awareness of, and facilitate compliance with, the requirements of the defense acquisition system established pursuant to section 3102 of title 10, United States Code. (b) Requirement for coordination In carrying out the requirements of subsection (a), the Director of Small Business Programs shall coordinate with other elements of the Department of Defense to ensure resources, training, or services made available through Project Spectrum are aligned with Department-wide policies and guidance related to the defense acquisition system, including coordination with - (1) the Chief Information Officer of the Department of Defense, particularly regarding cybersecurity resources and alignment with the Cybersecurity Maturity Model Certification program or successor program; (2) the Under Secretary of Defense for Acquisition and Sustainment; (3) the Under Secretary of Defense for Research and Engineering; (4) the Deputy Assistant Secretary of Defense for International and Industry Engagement; (5) the President of the Defense Acquisition University; (6) the Director of the Defense Logistics Agency; (7) the Director of the Defense Counterintelligence and Security Agency; and (8) the Executive Director of the Department of Defense Cyber Crime Center. (c) Performance Metrics Not later than April 1, 2026, the Director of Small Business Programs, in coordination with elements and individuals in subsection (b), shall establish performance metrics to measure the outcomes associated with Project Spectrum. Such metrics shall include - (1) cybersecurity-related activities and tools, to be evaluated in coordination with Chief Information Officer of the Department of Defense; (2) foreign ownership, control, or influence activities and tools, to be evaluated in coordination with the Under Secretary of Defense for Acquisition and Sustainment; and (3) any additional performance metrics the Director determines necessary. (d) Briefing required Not later than May 1, 2026, the Director of Small Business Programs shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the performance metrics required by subsection (c). (e) Sunset The authority for Project Spectrum, and the requirements of the section, shall terminate on December 31, 2031. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.014428525032209498,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2612,
+      "word_count": 380,
+      "token_length": 496
+    },
+    {
+      "text": "f) Covered entity defined In this section, the term covered entity means an entity that is a small business or a medium business that contracts with, or seeks to enter into a contract with, the Department of Defense that is registered to access the online platform of Project Spectrum.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007649736944586039,
+      "confidence": "High",
+      "start_index": 2612,
+      "end_index": 2897,
+      "word_count": 49,
+      "token_length": 55
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Comptroller General study on Coast Guard training facility infrastructure (a) In general Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall commence a study on Coast Guard training facility infrastructure, including the specific needs of the Coast Guard training facilities described in subsection (c). (b) Elements The study required under subsection (a) shall include the following: (1) With respect to each Coast Guard training facility described in subsection (c) - (A) a summary of capital needs, including construction and repair; (B) a summary of equipment upgrade backlogs; (C) an assessment of necessary improvements, including improvements to essential training equipment (including swimming pools, operational simulators, and marksmanship training ranges) to enable the Coast Guard to achieve all operational training objectives; (D) a description of the resources necessary to fully address all training needs; (E) an assessment of any security deficiency, including with respect to base access, training facility access, and trainee berthing area access; (F) an identification of any exposed hazard that does not serve a training purpose; (G) an identification of the presence of hazardous or toxic materials, including - (i) lead-based paint; (ii) asbestos or products that contain asbestos; (iii) black mold; (iv) radon; and (v) contaminated drinking water; and (H) an assessment of the need for, and estimated cost of, remediation of such toxic materials. (2) An evaluation of the process used by the Coast Guard to identify, monitor, and construct Coast Guard training facilities. (c) Coast Guard training facilities described The Coast Guard training facilities described in this subsection are the following: (1) The Coast Guard Academy in New London, Connecticut. (2) The Leadership Development Center in New London, Connecticut. (3) Training Center Cape May, New Jersey. (4) Training Center Petaluma, California. (5) Training Center Yorktown, Virginia. (6) The Maritime Law Enforcement Academy in Charleston, South Carolina. (7) The Special Missions Training Center at Camp Lejeune in North Carolina. (8) The Gulf Regional Fisheries Training Center (GRFTC) in New Orleans, Louisiana. (9) The North Pacific Regional Fisheries Training Center (NPRFTC) in Kodiak, Alaska. (10) The Northeast Regional Fisheries Training Center (NRFTC) at Cape Cod, Massachusetts. (11) The Southeast Regional Fisheries Training Center (SRFTC) in Charleston, South Carolina. (12) The Pacific Regional Fisheries Training Center (PRFTC) in Alameda, California. (13) The National Motor Lifeboat School at Cape Disappointment, Washington. (14) The Aviation Technical Training Center in Elizabeth City, North Carolina. (15) The Aviation Training Center in Mobile, Alabama. (d) Report Not later than 1 year after commencing the study required under subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Comptroller General study on Coast Guard training facility infrastructure (a) In general Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall commence a study on Coast Guard training facility infrastructure, including the specific needs of the Coast Guard training facilities described in subsection (c). (b) Elements The study required under subsection (a) shall include the following: (1) With respect to each Coast Guard training facility described in subsection (c) - (A) a summary of capital needs, including construction and repair; (B) a summary of equipment upgrade backlogs; (C) an assessment of necessary improvements, including improvements to essential training equipment (including swimming pools, operational simulators, and marksmanship training ranges) to enable the Coast Guard to achieve all operational training objectives; (D) a description of the resources necessary to fully address all training needs; (E) an assessment of any security deficiency, including with respect to base access, training facility access, and trainee berthing area access; (F) an identification of any exposed hazard that does not serve a training purpose; (G) an identification of the presence of hazardous or toxic materials, including - (i) lead-based paint; (ii) asbestos or products that contain asbestos; (iii) black mold; (iv) radon; and (v) contaminated drinking water; and (H) an assessment of the need for, and estimated cost of, remediation of such toxic materials. (2) An evaluation of the process used by the Coast Guard to identify, monitor, and construct Coast Guard training facilities. (c) Coast Guard training facilities described The Coast Guard training facilities described in this subsection are the following: (1) The Coast Guard Academy in New London, Connecticut. (2) The Leadership Development Center in New London, Connecticut. (3) Training Center Cape May, New Jersey. (4) Training Center Petaluma, California. (5) Training Center Yorktown, Virginia. (6) The Maritime Law Enforcement Academy in Charleston, South Carolina. (7) The Special Missions Training Center at Camp Lejeune in North Carolina. (8) The Gulf Regional Fisheries Training Center (GRFTC) in New Orleans, Louisiana. (9) The North Pacific Regional Fisheries Training Center (NPRFTC) in Kodiak, Alaska. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013170673655202756,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2356,
+      "word_count": 349,
+      "token_length": 495
+    },
+    {
+      "text": "10) The Northeast Regional Fisheries Training Center (NRFTC) at Cape Cod, Massachusetts. (11) The Southeast Regional Fisheries Training Center (SRFTC) in Charleston, South Carolina. (12) The Pacific Regional Fisheries Training Center (PRFTC) in Alameda, California. (13) The National Motor Lifeboat School at Cape Disappointment, Washington. (14) The Aviation Technical Training Center in Elizabeth City, North Carolina. (15) The Aviation Training Center in Mobile, Alabama. (d) Report Not later than 1 year after commencing the study required under subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013346231542527676,
+      "confidence": "High",
+      "start_index": 2356,
+      "end_index": 3156,
+      "word_count": 115,
+      "token_length": 176
+    }
+  ],
+  "_submission_type": "solo"
+}

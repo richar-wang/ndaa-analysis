@@ -1,0 +1,3 @@
+SEC. 152.  PROCUREMENT AUTHORITY FOR DIGITAL MISSION OPERATIONS PLATFORM FOR THE SPACE FORCE. (a)  Procurement Authority .— The Secretary of the Air Force is authorized to enter into one or more contracts for the procurement of a digital mission operations platform for the Space Force. 
+ (b)  Required Capabilities .— A digital mission operations platform procured under subsection (a) shall include the following capabilities: (1)  The platform shall be capable of providing systems operators with the ability to analyze system performance in a simulated mission environment. 
+ (2)  The platform shall enable collaboration among such operators in an integrated, physics-based environment.

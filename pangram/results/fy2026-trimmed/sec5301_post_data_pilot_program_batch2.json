@@ -1,0 +1,54 @@
+{
+  "text": "Post Data Pilot Program (a) Post Data and AI Pilot Program (1) Establishment The Secretary is authorized to establish a program, which shall be known as the Post Data Program (referred to in this section as the Program ), that shall be overseen by the Department\u2019s Chief Data and Artificial Intelligence Officer. (2) Goals The goals of the Program shall include the following: (A) Cultivating a data and artificial intelligence culture at diplomatic posts globally, including data fluency and data collaboration. (B) Promoting data integration with Department of State Headquarters. (C) Creating operational efficiencies, supporting innovation, and enhancing mission impact. (b) Implementation plan (1) In general Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees an implementation plan that outlines strategies for - (A) advancing the goals described in subsection (a)(2); (B) hiring data and artificial intelligence officers at United States diplomatic posts; and (C) allocation of necessary resources to sustain the Program. (2) Annual reporting requirement Not later than 180 days after the date of the enactment of this Act, and annually thereafter for the following three years, the Secretary shall submit a report to the appropriate congressional committees regarding the status of the implementation plan required under paragraph (1). (c) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and (2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.\n\nCommercial spyware (a) Sense of Congress It is the sense of Congress that - (1) there is a national security need for the legitimate and responsible procurement and application of cyber intrusion capabilities, including efforts related to counterterrorism, counternarcotics, and countertrafficking; (2) the growing commercial market for sophisticated cyber intrusion capabilities has enhanced state and non-state actors\u2019 abilities to target and track for nefarious purposes individuals, such as journalists, defenders of internationally recognized human rights, members of civil society groups, members of ethnic or religious minority groups, and others for exercising their internationally recognized human rights and fundamental freedoms, or the family members of these targeted individuals; (3) the proliferation of commercial spyware presents significant and growing risks to United States national security, including to the safety and security of United States Government personnel; and (4) ease of access into and lack of transparency in the commercial spyware market raises the probability of spreading potentially destructive or disruptive cyber capabilities to a wider range of malicious actors. (b) Statement of policy It is the policy of the United States - (1) to oppose the misuse of commercial spyware to target individuals, including journalists, defenders of internationally recognized human rights, and members of civil society groups, members of ethnic or religious minority groups, and others for exercising their internationally recognized human rights and fundamental freedoms, or the family members of these targeted individuals; (2) to coordinate with allies and partners to prevent the export of commercial spyware tools to end-users likely to use them for malicious activities; (3) to maintain robust information-sharing with trusted allies and partners on commercial spyware proliferation and misuse, including to better identify and track these tools; (4) to work with private industry to identify and counter the abuse and misuse of commercial spyware technology; and (5) to work with allies and partners to establish robust guardrails to ensure that the use of commercial spyware tools are consistent with respect for internationally recognized human rights, and the rule of law.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Post Data Pilot Program (a) Post Data and AI Pilot Program (1) Establishment The Secretary is authorized to establish a program, which shall be known as the Post Data Program (referred to in this section as the Program ), that shall be overseen by the Department\u2019s Chief Data and Artificial Intelligence Officer. (2) Goals The goals of the Program shall include the following: (A) Cultivating a data and artificial intelligence culture at diplomatic posts globally, including data fluency and data collaboration. (B) Promoting data integration with Department of State Headquarters. (C) Creating operational efficiencies, supporting innovation, and enhancing mission impact. (b) Implementation plan (1) In general Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees an implementation plan that outlines strategies for - (A) advancing the goals described in subsection (a)(2); (B) hiring data and artificial intelligence officers at United States diplomatic posts; and (C) allocation of necessary resources to sustain the Program. (2) Annual reporting requirement Not later than 180 days after the date of the enactment of this Act, and annually thereafter for the following three years, the Secretary shall submit a report to the appropriate congressional committees regarding the status of the implementation plan required under paragraph (1). (c) Appropriate congressional committees defined In this section, the term appropriate congressional committees means - (1) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and (2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.\n\nCommercial spyware (a) Sense of Congress It is the sense of Congress that - (1) there is a national security need for the legitimate and responsible procurement and application of cyber intrusion capabilities, including efforts related to counterterrorism, counternarcotics, and countertrafficking; (2) the growing commercial market for sophisticated cyber intrusion capabilities has enhanced state and non-state actors\u2019 abilities to target and track for nefarious purposes individuals, such as journalists, defenders of internationally recognized human rights, members of civil society groups, members",
+      "label": "Human Written",
+      "ai_assistance_score": 0.03834493077980976,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2356,
+      "word_count": 342,
+      "token_length": 444
+    },
+    {
+      "text": " of ethnic or religious minority groups, and others for exercising their internationally recognized human rights and fundamental freedoms, or the family members of these targeted individuals; (3) the proliferation of commercial spyware presents significant and growing risks to United States national security, including to the safety and security of United States Government personnel; and (4) ease of access into and lack of transparency in the commercial spyware market raises the probability of spreading potentially destructive or disruptive cyber capabilities to a wider range of malicious actors. (b) Statement of policy It is the policy of the United States - (1) to oppose the misuse of commercial spyware to target individuals, including journalists, defenders of internationally recognized human rights, and members of civil society groups, members of ethnic or religious minority groups, and others for exercising their internationally recognized human rights and fundamental freedoms, or the family members of these targeted individuals; (2) to coordinate with allies and partners to prevent the export of commercial spyware tools to end-users likely to use them for malicious activities; (3) to maintain robust information-sharing with trusted allies and partners on commercial spyware proliferation and misuse, including to better identify and track these tools; (4) to work with private industry to identify and counter the abuse and misuse of commercial spyware technology; and (5) to work with allies and partners to establish robust guardrails to ensure that the use of commercial spyware tools are consistent with respect for internationally recognized human rights, and the rule of law.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01854245602670643,
+      "confidence": "High",
+      "start_index": 2356,
+      "end_index": 4063,
+      "word_count": 252,
+      "token_length": 299
+    }
+  ],
+  "_submission_type": "batch",
+  "_batch_files": [
+    "sec5301_post_data_pilot_program.txt",
+    "sec5304_commercial_spyware.txt"
+  ],
+  "_batch_mapping": [
+    {
+      "filename": "sec5301_post_data_pilot_program.txt",
+      "start_index": 0,
+      "end_index": 1752,
+      "word_count": 261
+    },
+    {
+      "filename": "sec5304_commercial_spyware.txt",
+      "start_index": 1754,
+      "end_index": 4063,
+      "word_count": 333
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Consultation requirement with respect to transfer to private entities of plutonium or plutonium materials; report (a) Consultation required (1) In general The Secretary of Energy shall, on an ongoing basis, consult with the Secretary of Defense with respect to any plans of the Secretary of Energy relating to the transfer to a private entity from Federal stockpiles or storage of any plutonium or plutonium materials. (2) Consultation prior to transfer The Secretary of Energy may not carry out any such transfer before the date on which such Secretary consults, pursuant to paragraph (1), with the Secretary of Defense with respect to the transfer. (b) Congressional notification; report Not later than 30 days before any date on which the Secretary of Energy carries out a transfer to a private entity of plutonium or plutonium materials, such Secretary shall submit to the appropriate congressional committees the following: (1) A notification of the transfer. (2) A report that includes - (A) a description of - (i) the plutonium and plutonium materials to be transferred that includes the - (I) amount; (II) type; (III) age; (IV) relative condition; and (V) current location; (ii) the private entity to which such plutonium and plutonium materials will be transferred; and (iii) the destination location to which such plutonium and plutonium materials will be transferred. (B) A summary of the purpose of the transfer. (C) An identification of any direct costs to the United States Government associated with the transfer. (3) Except as provided in subsection (c), a written certification, prepared in coordination with the Under Secretary of Energy for Nuclear Security and the Secretary of Defense, that such transfer does not negatively impact the needs of the nuclear weapons stockpile, including such needs related to stockpile stewardship. (c) Exception A written certification under subsection (b)(3) shall not be required for the transfer of materials from the 34 metric tons of defense plutonium or defense plutonium materials at the Savannah River Site previously declared excess to defense needs and designated for disposal. (d) Definitions In this section: (1) The term appropriate congressional committees means - (A) the Committees on Armed Services of the House of Representatives and the Senate; (B) the Committee on Energy and Commerce of the House of Representatives; and (C) the Committee on Natural Resources of the Senate. (2) The term private entity means any individual or organization other than - (A) a department or agency of the Federal Government; or (B) a contractor or subcontractor for management and operations, site cleanup, or site management activities at facilities owned by the Department of Energy.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Consultation requirement with respect to transfer to private entities of plutonium or plutonium materials; report (a) Consultation required (1) In general The Secretary of Energy shall, on an ongoing basis, consult with the Secretary of Defense with respect to any plans of the Secretary of Energy relating to the transfer to a private entity from Federal stockpiles or storage of any plutonium or plutonium materials. (2) Consultation prior to transfer The Secretary of Energy may not carry out any such transfer before the date on which such Secretary consults, pursuant to paragraph (1), with the Secretary of Defense with respect to the transfer. (b) Congressional notification; report Not later than 30 days before any date on which the Secretary of Energy carries out a transfer to a private entity of plutonium or plutonium materials, such Secretary shall submit to the appropriate congressional committees the following: (1) A notification of the transfer. (2) A report that includes - (A) a description of - (i) the plutonium and plutonium materials to be transferred that includes the - (I) amount; (II) type; (III) age; (IV) relative condition; and (V) current location; (ii) the private entity to which such plutonium and plutonium materials will be transferred; and (iii) the destination location to which such plutonium and plutonium materials will be transferred. (B) A summary of the purpose of the transfer. (C) An identification of any direct costs to the United States Government associated with the transfer. (3) Except as provided in subsection (c), a written certification, prepared in coordination with the Under Secretary of Energy for Nuclear Security and the Secretary of Defense, that such transfer does not negatively impact the needs of the nuclear weapons stockpile, including such needs related to stockpile stewardship. (c) Exception A written certification under subsection (b)(3) shall not be required for the transfer of materials from the 34 metric tons of defense plutonium or defense plutonium materials at the Savannah River Site previously declared excess to defense needs and designated for disposal. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010355224832892418,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2143,
+      "word_count": 335,
+      "token_length": 436
+    },
+    {
+      "text": "d) Definitions In this section: (1) The term appropriate congressional committees means - (A) the Committees on Armed Services of the House of Representatives and the Senate; (B) the Committee on Energy and Commerce of the House of Representatives; and (C) the Committee on Natural Resources of the Senate. (2) The term private entity means any individual or organization other than - (A) a department or agency of the Federal Government; or (B) a contractor or subcontractor for management and operations, site cleanup, or site management activities at facilities owned by the Department of Energy.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010772107169032097,
+      "confidence": "High",
+      "start_index": 2143,
+      "end_index": 2742,
+      "word_count": 95,
+      "token_length": 122
+    }
+  ],
+  "_submission_type": "solo"
+}

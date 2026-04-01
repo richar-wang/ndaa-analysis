@@ -1,0 +1,3 @@
+SEC. 315.  DEPARTMENT OF DEFENSE IMPROVEMENT OF PREVIOUSLY CONVEYED UTILITY SYSTEMS SERVING MILITARY INSTALLATIONS.    Section 2688 of title 10, United States Code ,  is amended — (1)  by  redesignating  subsection (k) as subsection (l); and 
+ (2)  by  inserting  after subsection (j) the following new subsection (k): “(k)  Improvement of Conveyed Utility Systems .— In the case of a utility system that is conveyed under this section and that only provides utility services to a military installation, the Secretary concerned may use amounts authorized to be appropriated for military construction to improve the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.” 
+ .

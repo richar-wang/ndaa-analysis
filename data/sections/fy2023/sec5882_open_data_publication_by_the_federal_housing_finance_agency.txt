@@ -1,0 +1,6 @@
+SEC. 5882.  OPEN DATA PUBLICATION BY THE FEDERAL HOUSING FINANCE AGENCY.   Part 1 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 ( 12 U.S.C. 4511 et seq. ), as amended by section 5801, is further amended by  adding  at the end the following: “SEC. 1319I.  12 USC 4528 . OPEN DATA PUBLICATION.   “All public data assets published by the Agency shall be— “(1)  made available as an open Government data asset (as defined in  section 3502 of title 44, United States Code ); 
+ “(2)  freely available for download; 
+ “(3)  rendered in a human-readable format; and 
+ “(4)  accessible via application programming interface where appropriate.” 
+ 
+ .

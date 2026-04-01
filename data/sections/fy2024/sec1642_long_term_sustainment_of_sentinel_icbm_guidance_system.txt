@@ -1,0 +1,7 @@
+SEC. 1642.  LONG-TERM SUSTAINMENT OF SENTINEL ICBM GUIDANCE SYSTEM. (a)  Certification. In General .— Prior to issuing a Milestone C decision for the program to develop the LGM–35A Sentinel intercontinental ballistic missile system (referred to in this section as the “Sentinel”), the Under Secretary of Defense for Acquisition and Sustainment shall certify to the congressional defense committees that there is a long-term capability in place to maintain and modernize the guidance system of the Sentinel over the full life cycle of the Sentinel. 
+ (b)  Certification Elements .— The certification described in subsection (a) shall include a list of capabilities to maintain and advance— (1)  accelerometers; 
+ (2)  gyroscopes; 
+ (3)  guidance computers; 
+ (4)  specialized mechanical and retaining assemblies; 
+ (5)  test equipment; and 
+ (6)  such other components to ensure the guidance system will be maintained and modernized over the life of the Sentinel.

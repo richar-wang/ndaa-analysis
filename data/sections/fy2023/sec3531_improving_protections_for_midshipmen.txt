@@ -1,0 +1,97 @@
+SEC. 3531.  IMPROVING PROTECTIONS FOR MIDSHIPMEN. (a)  Supporting the United States Merchant Marine Academy .— Chapter 513 of title 46, United States Code ,  is amended  by  adding  at the end the following: “§ 51325. 46 USC 51325 .  Sexual assault and sexual harassment prevention information management system “(a)  Information Management System .— “(1)  Deadline. In general .— Not later than January 1, 2023, the Maritime Administrator shall establish within the United States Merchant Marine Academy Sexual Assault prevention and Response Program, an information management system to track and maintain, in such a manner that patterns can be reasonably identified, information regarding claims and incidents involving cadets that are reportable pursuant to subsection (d) of section 51318 of this chapter. 136 STAT. 3084 
+ “(2)  Information maintained in the system .— Information maintained in the system established under paragraph (1) shall include the following information, to the extent that information is available: “(A)  The overall number of sexual assault or sexual harassment incidents per fiscal year. 
+ “(B)  The location of each such incident, including vessel name and the name of the company operating the vessel, if applicable. 
+ “(C)  The standardized job title or position of the individuals involved in each such incident. 
+ “(D)  The general nature of each such incident, to include copies of any associated reports completed on the incidents. 
+ “(E)  The type of inquiry made into each such incident. 
+ “(F)  Records. A record of whether each such incident was substantiated by the relevant investigative process. 
+ 
+ “(3)  Data. Past information included .— The information management system under this section shall include the relevant data listed in this subsection related to sexual assault and sexual harassment that the Maritime Administrator possesses, and shall not be limited to data collected after January 1, 2023. 
+ “(4)  Privacy protections .— The Maritime Administrator and the Chief Information Officer of the Department of Transportation shall coordinate to ensure that the information management system under this section shall— “(A)  be established and maintained in a secure fashion to ensure the protection of the privacy of any individuals whose information is entered in such system; and 
+ “(B)  Data. be free of personally identifiable information and maintain only the data required to satisfy the statistical purpose of such system. 
+ 
+ “(5)  Reports. Cybersecurity audit .— Ninety days after the implementation of the information management system, the Office of Inspector General of the Department of Transportation shall commence an audit of the cybersecurity of the system and shall submit a report containing the results of that audit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. 
+ “(6)  Reports. Process. Correcting records .— In establishing the information management system, the Maritime Administrator shall create a process to ensure that if any incident report results in a final agency action or final judgement that acquits an individual of wrongdoing, all personally identifiable information about the acquitted individual is removed from that incident report in the system. 
+ 
+ “(b)  Sea Year Program .— The Maritime Administrator shall provide for the establishment of in-person and virtual confidential exit interviews, to be conducted by personnel who are not involved in the assignment of the midshipmen to a Sea Year vessel, for midshipmen from the Academy upon completion of Sea Year and following completion by the midshipmen of the survey under section 51322(d). 
+ “(c)  Data-informed Decisionmaking .— The data maintained in the data management system under subsection (a) and through  136 STAT. 3085 
+the exit interviews under subsection (b) shall be affirmatively referenced and used to inform the creation of new policy or regulation, or changes to any existing policy or regulation, in the areas of sexual harassment, dating violence, domestic violence, sexual assault, and stalking. 
+ 
+ “§ 51326. Establishment. 46 USC 51326 .  Student advisory board at the United States Merchant Marine Academy “(a)  In General .— The Maritime Administrator shall establish at the United States Merchant Marine Academy an advisory board to be known as the Advisory Board to the Secretary of Transportation (referred to in this section as the ‘Advisory Board’). 
+ “(b)  Membership .— The Advisory Board shall be composed of not fewer than 12 midshipmen of the Merchant Marine Academy who are enrolled at the Merchant Marine Academy at the time of the appointment, including not fewer than 3 cadets from each class. 
+ “(c)  Deadline. Appointment; Term .— Midshipmen shall serve on the Advisory Board pursuant to appointment by the Maritime Administrator. Appointments shall be made not later than 60 days after the date of the swearing in of a new class of midshipmen at the Academy. The term of membership of a midshipmen on the Advisory Board shall be 1 academic year. 
+ “(d)  Determination. Reappointment .— The Maritime Administrator may reappoint not more than 6 cadets from the previous term to serve on the Advisory Board for an additional academic year if the Maritime Administrator determines such reappointment to be in the best interests of the Merchant Marine Academy. 
+ “(e)  Meetings .— The Advisory Board shall meet with the Secretary of Transportation not less than once each academic year to discuss the activities of the Advisory Board. The Advisory Board shall meet in person with the Maritime Administrator not less than 2 times each academic year to discuss the activities of the Advisory Board. 
+ “(f)  Duties .— The Advisory Board shall— “(1)  identify health and wellbeing, diversity, and sexual assault and harassment challenges and other topics considered important by the Advisory Board facing midshipmen at the Merchant Marine Academy, off campus, and while aboard ships during Sea Year or other training opportunities; 
+ “(2)  discuss and propose possible solutions, including improvements to culture and leadership development at the Merchant Marine Academy; and 
+ “(3)  periodically review the efficacy of the program in section 51325(b), as appropriate, and provide recommendations to the Maritime Administrator for improvement. 
+ 
+ “(g)  Working Groups .— The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of midshipmen at the Merchant Marine Academy who are not current members of the Advisory Board. 
+ “(h)  Reports and Briefings .— The Advisory Board shall regularly provide the Secretary of Transportation and the Maritime Administrator reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both. 136 STAT. 3086 
+ 
+ “§ 51327. 46 USC 51327 .  Sexual Assault Advisory Council “(a)  Establishment .— The Secretary of Transportation shall establish a Sexual Assault Advisory Council (in this section referred to as the ‘Council’). 
+ “(b)  Membership .— “(1)  In general .— The Council shall be composed of not fewer than 8 and not more than 14 individuals selected by the Secretary of Transportation who are alumni that have graduated within the last 4 years or current midshipmen of the United States Merchant Marine Academy (including midshipmen or alumni who were victims of sexual assault, to the maximum extent practicable, and midshipmen or alumni who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. 
+ “(2)  Experts included .— The Council shall include— “(A)  not less than 1 member who is licensed in the field of mental health and has prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization; and 
+ “(B)  not less than 1 member who has prior experience developing or implementing sexual assault or sexual harassment prevention and response policies in an academic setting. 
+ 
+ “(3)  Rules regarding membership .— No employee of the Department of Transportation shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts. 
+ 
+ “(c)  Duties; Authorized Activities .— “(1)  In general .— The Council shall meet not less often than semiannually to— “(A)  review— “(i)  the policies on sexual harassment, dating violence, domestic violence, sexual assault, and stalking under section 51318 of this title; 
+ “(ii)  the trends and patterns of data contained in the system described under section 51325 of this title; and 
+ “(iii)  related matters the Council views as appropriate; and 
+ 
+ “(B)  develop recommendations designed to ensure that such policies and such matters conform, to the extent practicable, to best practices in the field of sexual assault and sexual harassment response and prevention. 
+ 
+ “(2)  Authorized activities .— To carry out this subsection, the Council may— “(A)  interview current and former midshipmen of the United States Merchant Marine Academy (to the extent that such midshipmen provide the Department of Transportation express consent to be interviewed by the Council); and 
+ “(B)  review surveys under section 51322(d). 
+ 
+ “(3)  Compliance. Personally identifiable information .— In carrying out this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information. 136 STAT. 3087 
+ 
+ “(d)  Reports .— On an annual basis for each of the 5 years after the date of enactment of this section, and at the discretion of the Council thereafter, the Council shall submit, to the President and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, a report on the Council’s findings based on the reviews conducted pursuant to subsection (c) and related recommendations. 
+ “(e)  Employee Status .— Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5. 
+ “(f)  Nonapplicability of FACA .— The Federal Advisory Committee Act ( 5 U.S.C. App. ) shall not apply to the Council. 
+ 
+ “§ 51328. 46 USC 51328 .  Student support   “The Requirements.  Maritime Administrator shall— “(1)  require a biannual survey of midshipmen, faculty, and staff of the Academy assessing the environment of the Academy; and 
+ “(2)  require an annual survey of faculty and staff of the Academy assessing the Sea Year program.” 
+ 
+ . 
+ (b)  Report to Congress .— Not later than 30 days after the date of enactment of this section, the Maritime Administrator shall provide Congress with a briefing on the resources necessary to properly implement  section 51328 of title 46, United States Code , as added by this section. 
+ (c)  Conforming Amendments .— The chapter analysis for  chapter 513 of title 46, United States Code , 46 USC prec. 51301.   is amended  by  adding  at the end the following: 
+ 
+ “51325.  
+ Sexual assault and sexual harassment prevention information management system. 
+ 
+ “51326.  
+ Student advisory board at the United States Merchant Marine Academy. 
+ 
+ “51327.  
+ Sexual Assault Advisory Council. 
+ 
+ “51328.  
+ Student support.”. 
+ 
+ 
+ (d)  46 USC 51328 note . United States Merchant Marine Academy Student Support Plan .— (1)  Deadline. Student support plan .— Not later than January 1, 2023, the Maritime Administrator shall issue a Student Support Plan for the United States Merchant Marine Academy, in consultation with relevant mental health professionals in the Federal Government or experienced with the maritime industry or related industries. Such plan shall— (A)  address the mental health resources available to midshipmen, both on-campus and during Sea Year; 
+ (B)  establish a tracking system for suicidal ideations and suicide attempts of midshipmen, which excludes personally identifiable information; 
+ (C)  create an option for midshipmen to obtain assistance from a professional care provider virtually; and 
+ (D)  Requirement. require an annual survey of faculty and staff assessing the adequacy of mental health resources for midshipmen of the Academy, both on campus and during Sea Year. 136 STAT. 3088 
+ 
+ (2)  Report to congress .— Not later than 30 days after the date of enactment of this section, the Maritime Administrator shall provide Congress with a report on the resources necessary to properly implement this subsection. 
+ 
+ (e)  Special Victims Advisor .— Section 51319 of title 46, United States Code ,  is amended — (1)  by  redesignating  subsection (c) as subsection (d); 
+ (2)  by  inserting  after subsection (b) the following: “(c)  Special Victims Advisor .— “(1)  Designation. In general .— The Secretary shall designate an attorney (to be known as the ‘Special Victims Advisor’) for the purpose of providing legal assistance to any cadet of the Academy who is the victim of an alleged sex-related offense regarding administrative and criminal proceedings related to such offense, regardless of whether the report of that offense is restricted or unrestricted. 
+ “(2)  Special victims advisory .— The Secretary shall ensure that the attorney designated as the Special Victims Advisor has knowledge of the Uniform Code of Military Justice, as well as criminal and civil law. 
+ “(3)  Privileged communications .— Any communications between a victim of an alleged sex-related offense and the Special Victim Advisor, when acting in their capacity as such, shall have the same protection that applicable law provides for confidential attorney-client communications.” 
+ 
+ ; and 
+ (3)  by  adding  at the end the following: “(e)  Unfilled Vacancies .— The Administrator of the Maritime Administration may appoint qualified candidates to positions under subsections (a) and (d) of this section without regard to sections 3309 through 3319 of title 5.” 
+ . 
+ 
+ (f)  Catch a Serial Offender Assessment .— (1)  Deadline. Assessment .— Not later than one year after the date of enactment of this section, the Commandant of the Coast Guard, in coordination with the Maritime Administrator, shall conduct an assessment of the feasibility and process necessary, and appropriate responsible entities to establish a program for the United States Merchant Marine Academy and United States Merchant Marine modeled on the Catch a Serial Offender program of the Department of Defense using the information management system required under subsection (a) of  section 51325 of title 46, United States Code , and the exit interviews under subsection (b) of such section. 
+ (2)  Determination. Legislative change proposals .— If, as a result of the assessment required by paragraph (1), the Commandant or the Administrator determines that additional authority is necessary to implement the program described in paragraph (1), the Commandant or the Administrator, as applicable, shall provide appropriate legislative change proposals to Congress. 
+ 
+ (g)  Shipboard Training .— Section 51322(a) of title 46, United States Code ,  is amended  by  adding  at the end the following: “(3)  Training .— “(A)  In general .— As part of training that shall be provided not less than semiannually to all midshipmen of the Academy, pursuant to section 51318, the Maritime Administrator shall develop and implement comprehensive in-person sexual assault risk-reduction and response training that, to the extent practicable, conforms to best  136 STAT. 3089 
+practices in the sexual assault prevention and response field and includes appropriate scenario-based training. 
+ “(B)  Development and consultation with experts .— In developing the sexual assault risk-reduction and response training under subparagraph (A), the Maritime Administrator shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.” 
+ 
+ .

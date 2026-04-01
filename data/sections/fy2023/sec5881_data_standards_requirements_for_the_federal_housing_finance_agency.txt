@@ -1,0 +1,4 @@
+SEC. 5881.  DATA STANDARDS REQUIREMENTS FOR THE FEDERAL HOUSING FINANCE AGENCY.   Part 1 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 ( 12 U.S.C. 4511 et seq. )  is amended  by  adding  at the end the following: “SEC. 1319H.  12 USC 4527 . DATA STANDARDS. “(a)  Regulations. Requirement .— The Agency shall, by rule, adopt data standards for all collections of information that are regularly filed with or submitted to the Agency. 
+ “(b)  Consistency .— The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 124 of the Financial Stability Act of 2010, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 124.” 
+ 
+ .

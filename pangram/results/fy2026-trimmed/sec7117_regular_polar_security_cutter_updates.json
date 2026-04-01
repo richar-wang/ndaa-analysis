@@ -1,0 +1,36 @@
+{
+  "text": "Regular polar security cutter updates (a) Report (1) Report to Congress Not later than 120 days after the date of enactment of this Act, the Commandant and the Chief of Naval Operations shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the Senate and the House of Representatives a report on the status of acquisition of Polar Security Cutters. (2) Elements The report under paragraph (1) shall include - (A) a detailed timeline for the acquisition process of Polar Security Cutters, including expected milestones and a projected commissioning date for the first 3 Polar Security Cutters; (B) an accounting of the previously appropriated funds spent to date on the Polar Security Cutter Program, updated cost projections for Polar Security Cutters, and projections for when additional funds will be required; (C) potential factors and risks that could further delay or imperil the completion of Polar Security Cutters; and (D) a review of the acquisition of Polar Security Cutters to date, including factors that led to substantial cost overruns and delivery delays. (b) Briefings (1) Provision to Congress Not later than 90 days after the submission of the report under subsection (a), and not less frequently than every 90 days thereafter until the final Polar Security Cutter achieves full operational capability, the Commandant and the Chief of Naval Operations shall provide to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the Senate and the House of Representatives a detailed briefing in person and in writing on the status of the Polar Security Cutter acquisition process. (2) Timeline The briefings under paragraph (1) shall occur after any key milestone in the Polar Security Cutter acquisition process, but not less frequently than every 90 days. (3) Elements Each briefing under paragraph (1) shall include - (A) a summary of acquisition progress since the most recent previous briefing conducted pursuant to paragraph (1); (B) an updated timeline and budget estimate for acquisition and building of pending Polar Security Cutters; and (C) an explanation of any delays or additional costs incurred in the acquisition progress. (c) Notifications In addition to the briefings required under subsection (b), the Commandant and the Chief of Naval Operations shall notify the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the Senate and the House of Representatives within 3 business days of any significant change to the scope or funding level of the Polar Security Cutter acquisition strategy of such change.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Regular polar security cutter updates (a) Report (1) Report to Congress Not later than 120 days after the date of enactment of this Act, the Commandant and the Chief of Naval Operations shall submit to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the Senate and the House of Representatives a report on the status of acquisition of Polar Security Cutters. (2) Elements The report under paragraph (1) shall include - (A) a detailed timeline for the acquisition process of Polar Security Cutters, including expected milestones and a projected commissioning date for the first 3 Polar Security Cutters; (B) an accounting of the previously appropriated funds spent to date on the Polar Security Cutter Program, updated cost projections for Polar Security Cutters, and projections for when additional funds will be required; (C) potential factors and risks that could further delay or imperil the completion of Polar Security Cutters; and (D) a review of the acquisition of Polar Security Cutters to date, including factors that led to substantial cost overruns and delivery delays. (b) Briefings (1) Provision to Congress Not later than 90 days after the submission of the report under subsection (a), and not less frequently than every 90 days thereafter until the final Polar Security Cutter achieves full operational capability, the Commandant and the Chief of Naval Operations shall provide to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the Senate and the House of Representatives a detailed briefing in person and in writing on the status of the Polar Security Cutter acquisition process. (2) Timeline The briefings under paragraph (1) shall occur after any key milestone in the Polar Security Cutter acquisition process, but not less frequently than every 90 days. (3) Elements Each briefing under paragraph (1) shall include - (A) a summary of acquisition progress since the most recent previous briefing conducted pursuant to paragraph (1); (B) an updated timeline and budget estimate for acquisition and building of pending Polar Security Cutters; and (C) an explanation of any delays or additional costs incurred in the acquisition progress. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.038160931691527365,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2449,
+      "word_count": 382,
+      "token_length": 483
+    },
+    {
+      "text": "c) Notifications In addition to the briefings required under subsection (b), the Commandant and the Chief of Naval Operations shall notify the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committees on Armed Services of the Senate and the House of Representatives within 3 business days of any significant change to the scope or funding level of the Polar Security Cutter acquisition strategy of such change.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013141862116754055,
+      "confidence": "High",
+      "start_index": 2449,
+      "end_index": 2970,
+      "word_count": 80,
+      "token_length": 94
+    }
+  ],
+  "_submission_type": "solo"
+}

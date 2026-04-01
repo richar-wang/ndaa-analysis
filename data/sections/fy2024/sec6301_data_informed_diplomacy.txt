@@ -1,0 +1,9 @@
+SEC. 6301.  DATA-INFORMED DIPLOMACY. (a)  Findings .— Congress makes the following findings: (1)  In a rapidly evolving and digitally interconnected global landscape, access to and maintenance of reliable, readily available data is key to informed decisionmaking and diplomacy and therefore should be considered a strategic asset. 
+ (2)  In order to achieve its mission in the 21st century, the Department must adapt to these trends by maintaining  137 STAT. 985 
+and providing timely access to high-quality data at the time and place needed, while simultaneously cultivating a data-savvy workforce. 
+ (3)  Leveraging data science and data analytics has the potential to improve the performance of the Department’s workforce by providing otherwise unknown insights into program deficiencies, shortcomings, or other gaps in analysis. 
+ (4)  While innovative technologies such as artificial intelligence and machine learning have the potential to empower the Department to analyze and act upon data at scale, systematized, sustainable data management and information synthesis remain a core competency necessary for data-driven decisionmaking. 
+ (5)  The goals set out by the Department’s Enterprise Data Council (EDC) as the areas of most critical need for the Department, including Cultivating a Data Culture, Accelerating Decisions through Analytics, Establishing Mission-Driven Data Management, and Enhancing Enterprise Data Governance, are laudable and will remain critical as the Department develops into a data-driven agency. 
+ 
+ (b)  Sense of Congress .— It is the sense of Congress that— (1)  the Department should prioritize the recruitment and retainment of top data science talent in support of its data-informed diplomacy efforts as well as its broader modernization agenda; and 
+ (2)  the Department should strengthen data fluency among its workforce, promote data collaboration across and within its bureaus, and enhance its enterprise data oversight.

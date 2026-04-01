@@ -1,0 +1,19 @@
+SEC. 320.  TECHNICAL AND GRAMMATICAL CORRECTIONS AND REPEAL OF OBSOLETE PROVISIONS RELATING TO ENERGY. (a)  Technical and Grammatical Corrections .— (1)  Technical corrections .— Title 10, United States Code ,  is amended — (A)  in section 2913(c), by  striking  “ government ” and  inserting  “ government or ”; and 
+ (B)  in section 2926(d)(1), in the second sentence, by  striking  “ Defense Agencies ” and  inserting  “ the Defense Agencies ”. 
+ 
+ (2)  Grammatical corrections .— Such title is further amended— (A)  in section 2922a(d), by  striking  “ resilience are prioritized and included ” and  inserting  “ energy resilience are included as critical factors ”; and 
+ (B)  in section 2925(a)(3), by  striking  “ impacting energy ” and all that follows through the period at the end and  inserting  “ degrading energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number of outages and their locations, the duration of each outage, the financial effect of each outage, whether or not the mission was affected, the downtimes (in minutes or hours) the mission can afford  133 STAT. 1307 
+based on mission requirements and risk tolerances, the responsible authority managing the utility, and measures taken to mitigate the outage by the responsible authority. ”. 
+ 
+ 
+ (b)  Clarification of Applicability of Conflicting Amendments Made by 2018 Defense Authorization Act .— Section 2911(e) of such title  is amended — (1)  by  striking  paragraphs (1) and (2) and  inserting  the following new paragraphs: “(1)  Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy. 
+ “(2)  Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that affect mission assurance on military installations.” 
+ ; and 
+ (2)  by  striking  the second paragraph (13). 
+ 
+ (c)  Conforming and Clerical Amendments .— (1)  Heading amendment .— The heading of section 2926 of such title  is amended  to read as follows: “§ 2926.  Operational energy” 
+ . 
+ (2)  Clerical amendment .— The table of sections at the beginning of chapter 173 of such title 10 USC 2924  prec.   is amended  by  striking  the item relating to section 2926 and  inserting  the following new item: 
+ 
+ “2926.  
+ Operational energy.”.

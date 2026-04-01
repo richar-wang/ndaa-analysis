@@ -1,0 +1,36 @@
+{
+  "text": "Tuition assistance and advanced education assistance pilot program (a) Establishment Not later than 120 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, shall establish a tuition assistance pilot program for active-duty members of the Coast Guard, to be known as the Tuition Assistance and Advanced Education Assistance Pilot Program for Sea Duty (referred to in this section as the pilot program ). (b) Formal agreement A member of the Coast Guard participating in the pilot program shall enter into a formal agreement with the Secretary of the department in which the Coast Guard is operating that provides that, upon the successful completion of a sea duty tour by such member and beginning on the date on which the sea duty tour concludes, the Secretary of the department in which the Coast Guard is operating shall - (1) reduce by one half the service obligation incurred by such member as a result of participation in the advanced education assistance program under section 2005 of title 10, United States Code, or the tuition assistance program under section 2007 of such title; and (2) for a period equal to the length of the sea duty tour, increase the tuition assistance cost cap for such member to not more than double the amount of the standard tuition assistance cost cap set by the Commandant for the applicable fiscal year. (c) Report Not later than 1 year after the date on which the pilot program is established, and annually thereafter through the date on which the pilot program is terminated under subsection (d), the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that - (1) evaluates and compares - (A) the Coast Guard\u2019s retention, recruitment, and filling of sea duty billets for all members of the Coast Guard; and (B) the Coast Guard\u2019s retention, recruitment, and filling of sea duty billets for all members of the Coast Guard participating in the pilot program; (2) includes the number of participants in the pilot program as of the date of the report, disaggregated by officer and enlisted billet type; and (3) assesses the progress made by such participants in their respective voluntary education programs, in accordance with their degree plans, during the period described in subsection (b). (d) Termination The pilot program shall terminate on the date that is 6 years after the date on which the pilot program is established.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Tuition assistance and advanced education assistance pilot program (a) Establishment Not later than 120 days after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, shall establish a tuition assistance pilot program for active-duty members of the Coast Guard, to be known as the Tuition Assistance and Advanced Education Assistance Pilot Program for Sea Duty (referred to in this section as the pilot program ). (b) Formal agreement A member of the Coast Guard participating in the pilot program shall enter into a formal agreement with the Secretary of the department in which the Coast Guard is operating that provides that, upon the successful completion of a sea duty tour by such member and beginning on the date on which the sea duty tour concludes, the Secretary of the department in which the Coast Guard is operating shall - (1) reduce by one half the service obligation incurred by such member as a result of participation in the advanced education assistance program under section 2005 of title 10, United States Code, or the tuition assistance program under section 2007 of such title; and (2) for a period equal to the length of the sea duty tour, increase the tuition assistance cost cap for such member to not more than double the amount of the standard tuition assistance cost cap set by the Commandant for the applicable fiscal year. (c) Report Not later than 1 year after the date on which the pilot program is established, and annually thereafter through the date on which the pilot program is terminated under subsection (d), the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that - (1) evaluates and compares - (A) the Coast Guard\u2019s retention, recruitment, and filling of sea duty billets for all members of the Coast Guard; and (B) the Coast Guard\u2019s retention, recruitment, and filling of sea duty billets for all members of the Coast Guard participating in the pilot program; (2) includes the number of participants in the pilot program as of the date of the report, disaggregated by officer and enlisted billet type; and (3) assesses the progress made by such participants in their respective voluntary education programs, in accordance with their degree plans, during the period described in subsection (b). (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0068177348002791405,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2467,
+      "word_count": 408,
+      "token_length": 485
+    },
+    {
+      "text": "d) Termination The pilot program shall terminate on the date that is 6 years after the date on which the pilot program is established.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007988164201378822,
+      "confidence": "High",
+      "start_index": 2467,
+      "end_index": 2601,
+      "word_count": 24,
+      "token_length": 28
+    }
+  ],
+  "_submission_type": "solo"
+}

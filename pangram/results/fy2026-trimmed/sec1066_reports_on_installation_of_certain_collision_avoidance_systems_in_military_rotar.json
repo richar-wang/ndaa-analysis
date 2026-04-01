@@ -1,0 +1,36 @@
+{
+  "text": "Reports on installation of certain collision avoidance systems in military rotary-wing aircraft (a) Report on feasibility of installing traffic alert and collision avoidance systems in all military rotary-wing aircraft (1) In general Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the feasibility of installing a traffic alert and collision avoidance system in each military rotary-wing aircraft. Such report shall include - (A) an analysis of the cost associated with installing a traffic alert and collision avoidance system in each military rotary-wing aircraft; (B) an analysis of the effect of installing such systems in such aircraft on the safety of civilian airspace; (C) an identification of any changes to the configuration of the cockpit of such aircraft that would be necessary in order to install such systems; (D) any implications the installation of such systems would have for combat, training, or domestic security operations; and (E) if the Secretary determines that the installation of such systems in such aircraft is not feasible, recommendations regarding similar systems or capabilities that could be installed instead. (2) Traffic alert and collision avoidance system defined In this subsection, the term traffic alert and collision avoidance system means a collision avoidance system in compliance with section 121.356 of title 14, Code of Federal Regulations, or any successor regulation. (b) Report on feasibility of installing automatic dependent surveillance\u2013broadcast in capabilities in all military rotary-wing aircraft Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the feasibility of installing automatic dependent surveillance\u2013broadcast IN capability in each military rotary-wing aircraft. Such report shall include - (1) an analysis of the cost associated with installing automatic dependent surveillance\u2013broadcast IN capability in each military rotary-wing aircraft; (2) an analysis of the effect of installing such capabilities in such aircraft on the safety of civilian airspace; (3) an identification of any changes to the configuration of the cockpit of such aircraft that would be necessary in order to install such capabilities; (4) any implications the installation of such capabilities would have for combat, training, or domestic security operations; and (5) if the Secretary determines that the installation of such capabilities in such aircraft is not feasible, recommendations regarding similar systems or capabilities that could be installed instead.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Reports on installation of certain collision avoidance systems in military rotary-wing aircraft (a) Report on feasibility of installing traffic alert and collision avoidance systems in all military rotary-wing aircraft (1) In general Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the feasibility of installing a traffic alert and collision avoidance system in each military rotary-wing aircraft. Such report shall include - (A) an analysis of the cost associated with installing a traffic alert and collision avoidance system in each military rotary-wing aircraft; (B) an analysis of the effect of installing such systems in such aircraft on the safety of civilian airspace; (C) an identification of any changes to the configuration of the cockpit of such aircraft that would be necessary in order to install such systems; (D) any implications the installation of such systems would have for combat, training, or domestic security operations; and (E) if the Secretary determines that the installation of such systems in such aircraft is not feasible, recommendations regarding similar systems or capabilities that could be installed instead. (2) Traffic alert and collision avoidance system defined In this subsection, the term traffic alert and collision avoidance system means a collision avoidance system in compliance with section 121.356 of title 14, Code of Federal Regulations, or any successor regulation. (b) Report on feasibility of installing automatic dependent surveillance\u2013broadcast in capabilities in all military rotary-wing aircraft Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the feasibility of installing automatic dependent surveillance\u2013broadcast IN capability in each military rotary-wing aircraft.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008718912373296916,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2025,
+      "word_count": 306,
+      "token_length": 374
+    },
+    {
+      "text": " Such report shall include - (1) an analysis of the cost associated with installing automatic dependent surveillance\u2013broadcast IN capability in each military rotary-wing aircraft; (2) an analysis of the effect of installing such capabilities in such aircraft on the safety of civilian airspace; (3) an identification of any changes to the configuration of the cockpit of such aircraft that would be necessary in order to install such capabilities; (4) any implications the installation of such capabilities would have for combat, training, or domestic security operations; and (5) if the Secretary determines that the installation of such capabilities in such aircraft is not feasible, recommendations regarding similar systems or capabilities that could be installed instead.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008436182048171759,
+      "confidence": "High",
+      "start_index": 2025,
+      "end_index": 2801,
+      "word_count": 114,
+      "token_length": 138
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,36 @@
+{
+  "text": "Policy relating to care and support of victims of covered misconduct (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall issue Coast Guard policy relating to the care and support of members of the Coast Guard who are alleged victims covered misconduct. (b) Elements The policy required by subsection (a) shall require, to the maximum extent practicable, that - (1) a member of the Coast Guard who is an alleged victim of covered misconduct and discloses such covered misconduct to the appropriate individual of the Coast Guard responsible for providing victim care and support - (A) shall receive care and support from such individual; and (B) such individual shall not deny or unreasonably delay providing care and support; and (2) in the case of such an alleged victim to whom care and support cannot be provided by the appropriate individual contacted by the alleged victim based on programmatic eligibility criteria or any other reason that affects the ability of such appropriate individual to provide care and support (such as being stationed at a remote unit or serving on a vessel currently underway) the alleged victim shall receive, with the permission of the alleged victim - (A) an in-person introduction to appropriate service providers, for which the alleged victim is physically present, which shall occur at the discretion of the alleged victim; and (B) access to follow-up services from the appropriate 1 or more service providers. (c) Applicability The policy issued under subsection (a) shall apply to - (1) all Coast Guard personnel responsible for the care and support of victims of covered misconduct; and (2) any other Coast Guard personnel the Commandant considers appropriate. (d) Revision of policy relating to domestic abuse (1) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall issue or revise any Coast Guard policy or process described in paragraph (2) so as to define the term intimate partner to have the meaning given such term in section 930 of title 10, United States Code. (2) Policy or process described A policy or process referred to in paragraph (1) is a policy or process which is - (A) related to domestic abuse; (B) written; and (C) publicly available. (e) Training (1) In general All Coast Guard personnel responsible for the care and support of members of the Coast Guard who are alleged victims of covered misconduct shall receive training in accordance with professional standards of practice to ensure that such alleged victims receive adequate care that is consistent with the policy issued under subsection (a). (2) Elements The training required by paragraph (1) - (A) shall include - (i) instructions on specific procedures for implementing the policy issued under subsection (a); and (ii) information on resources and personnel critical for the implementation of such policy; and (B) to the maximum extent practicable, shall be provided in person. (f) Covered misconduct In this section, the term covered misconduct shall have the meaning given such term in section 2539 of title 14, United States Code.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Policy relating to care and support of victims of covered misconduct (a) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall issue Coast Guard policy relating to the care and support of members of the Coast Guard who are alleged victims covered misconduct. (b) Elements The policy required by subsection (a) shall require, to the maximum extent practicable, that - (1) a member of the Coast Guard who is an alleged victim of covered misconduct and discloses such covered misconduct to the appropriate individual of the Coast Guard responsible for providing victim care and support - (A) shall receive care and support from such individual; and (B) such individual shall not deny or unreasonably delay providing care and support; and (2) in the case of such an alleged victim to whom care and support cannot be provided by the appropriate individual contacted by the alleged victim based on programmatic eligibility criteria or any other reason that affects the ability of such appropriate individual to provide care and support (such as being stationed at a remote unit or serving on a vessel currently underway) the alleged victim shall receive, with the permission of the alleged victim - (A) an in-person introduction to appropriate service providers, for which the alleged victim is physically present, which shall occur at the discretion of the alleged victim; and (B) access to follow-up services from the appropriate 1 or more service providers. (c) Applicability The policy issued under subsection (a) shall apply to - (1) all Coast Guard personnel responsible for the care and support of victims of covered misconduct; and (2) any other Coast Guard personnel the Commandant considers appropriate. (d) Revision of policy relating to domestic abuse (1) In general Not later than 180 days after the date of enactment of this Act, the Commandant shall issue or revise any Coast Guard policy or process described in paragraph (2) so as to define the term intimate partner to have the meaning given such term in section 930 of title 10, United States Code. (2) Policy or process described A policy or process referred to in paragraph (1) is a policy or process which is - (A) related to domestic abuse; (B) written; and (C) publicly available. (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005723452195525169,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2293,
+      "word_count": 382,
+      "token_length": 475
+    },
+    {
+      "text": "e) Training (1) In general All Coast Guard personnel responsible for the care and support of members of the Coast Guard who are alleged victims of covered misconduct shall receive training in accordance with professional standards of practice to ensure that such alleged victims receive adequate care that is consistent with the policy issued under subsection (a). (2) Elements The training required by paragraph (1) - (A) shall include - (i) instructions on specific procedures for implementing the policy issued under subsection (a); and (ii) information on resources and personnel critical for the implementation of such policy; and (B) to the maximum extent practicable, shall be provided in person. (f) Covered misconduct In this section, the term covered misconduct shall have the meaning given such term in section 2539 of title 14, United States Code.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005712835118174553,
+      "confidence": "High",
+      "start_index": 2293,
+      "end_index": 3152,
+      "word_count": 135,
+      "token_length": 173
+    }
+  ],
+  "_submission_type": "solo"
+}

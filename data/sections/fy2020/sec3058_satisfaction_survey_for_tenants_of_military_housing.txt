@@ -1,0 +1,5 @@
+SEC. 3058.  10 USC 2821 note . SATISFACTION SURVEY FOR TENANTS OF MILITARY HOUSING. (a)  Deadline. Survey Required .— Not later than March 1, 2020, the Secretary of Defense shall require that each installation of the  133 STAT. 1946 
+Department of Defense use the same satisfaction survey for tenants of military housing, including privatized military housing. 
+ (b)  Form of Survey .— The satisfaction survey required by subsection (a) shall be an electronic survey with embedded privacy and security mechanisms. 
+ (c)  Privacy and Security Mechanisms .— The privacy and security mechanisms used in the satisfaction survey required by subsection (a)— (1)  may include a code unique to the tenant to be surveyed that is sent to the cell phone number of the tenant and required to be entered to access the survey; and 
+ (2)  in the case of privatized military housing, shall ensure the survey is not shared with the landlord providing the privatized military housing until the survey is reviewed and the results are tallied by Department of Defense personnel.

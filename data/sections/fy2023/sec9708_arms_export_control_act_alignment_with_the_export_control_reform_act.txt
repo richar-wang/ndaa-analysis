@@ -1,0 +1,5 @@
+SEC. 9708.  ARMS EXPORT CONTROL ACT ALIGNMENT WITH THE EXPORT CONTROL REFORM ACT.   Section 38(e) of the Arms Export Control Act ( 22 U.S.C. 2778(e) )  is amended — (1)  by  striking  “ subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979, and by subsections  136 STAT. 3919 
+(a) and (c) of section 12 of such Act ” and  inserting  “ subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 ( 50 U.S.C. 4819 ), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act ( 50 U.S.C. 4820 ) ”; 
+ (2)  by  striking  “ 11(c)(2)(B) of such Act ” and  inserting  “ 1760(c)(2) of such Act ( 50 U.S.C. 4819(c)(2) ) ”; 
+ (3)  by  striking  “ 11(c) of the Export Administration Act of 1979 ” and  inserting  “ section 1760(c) of the Export Control Reform Act of 2018 ( 50 U.S.C. 4819(c) ) ”; and 
+ (4)  by  striking  “ $500,000 ” and  inserting  “ the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed. ”.

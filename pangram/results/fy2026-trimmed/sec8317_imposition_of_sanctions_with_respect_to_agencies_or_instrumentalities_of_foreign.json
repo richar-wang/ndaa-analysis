@@ -1,0 +1,26 @@
+{
+  "text": "Imposition of sanctions with respect to agencies or instrumentalities of foreign states (a) Definitions In this section, the terms knowingly and opioid trafficking have the meanings given such terms in section 7203 of the Fentanyl Sanctions Act ( 21 U.S.C. 2302 ). (b) In general The President may - (1) impose one or more of the sanctions described in section 7213 of the Fentanyl Sanctions Act ( 21 U.S.C. 2313 ) with respect to any political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act - (A) engaged in a significant activity that has materially contributed to opioid trafficking; or (B) provided financial, material, or technological support for (including through the provision of goods or services in support of) any significant activity described in subclause (A); and (2) impose one or more of the sanctions described in section 7213(a)(6) of the Fentanyl Sanctions Act ( 21 U.S.C. 2313(a)(6) ) with respect to any senior official of a political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act engaged in a significant activity described in paragraph (1). (c) Sunset The provisions of this section shall have no force or effect beginning on the date that is 5 years after the date of the enactment of this Act.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Imposition of sanctions with respect to agencies or instrumentalities of foreign states (a) Definitions In this section, the terms knowingly and opioid trafficking have the meanings given such terms in section 7203 of the Fentanyl Sanctions Act ( 21 U.S.C. 2302 ). (b) In general The President may - (1) impose one or more of the sanctions described in section 7213 of the Fentanyl Sanctions Act ( 21 U.S.C. 2313 ) with respect to any political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act - (A) engaged in a significant activity that has materially contributed to opioid trafficking; or (B) provided financial, material, or technological support for (including through the provision of goods or services in support of) any significant activity described in subclause (A); and (2) impose one or more of the sanctions described in section 7213(a)(6) of the Fentanyl Sanctions Act ( 21 U.S.C. 2313(a)(6) ) with respect to any senior official of a political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act engaged in a significant activity described in paragraph (1). (c) Sunset The provisions of this section shall have no force or effect beginning on the date that is 5 years after the date of the enactment of this Act.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006042153108865023,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1444,
+      "word_count": 238,
+      "token_length": 340
+    }
+  ],
+  "_submission_type": "solo"
+}

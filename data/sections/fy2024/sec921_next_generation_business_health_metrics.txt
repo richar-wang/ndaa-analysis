@@ -1,0 +1,12 @@
+SEC. 921.  10 USC 2222 note . NEXT GENERATION BUSINESS HEALTH METRICS. (a)  Metrics Required .— The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop an updated set of business health metrics to inform decision-making by senior leaders of the Department of Defense. 
+ (b)  Elements .— In developing the metrics required by subsection (a), the Secretary of Defense shall— (1)  Determination. using the latest literature on performance measurement, determine what additional new metrics should be implemented, or current metrics should be adapted, to reduce output-based measures and emphasize objective, measurable indicators aligned to enduring strategic goals of the Department of Defense; 
+ (2)  Assessment. Recommenda- tions. Determination. assess the current business processes of the Department and provide recommendations to align the metrics with available data sources to determine what gaps might exist in such processes; 
+ (3)  ensure that data can be collected automatically and, on a long-term basis, in a manner that provides for longitudinal analysis; 
+ (4)  link the metrics with the Strategic Management Plan and other performance documents guiding the Department; 
+ (5)  identify any shortfalls in resources, data, training, policy, or law that could be an impediment to implementing the metrics; 
+ (6)  Revision. Assessment. revise leading and lagging indicators associated with each such metric to provide a benchmark against which to assess progress; 
+ (7)  improve visualization of and comprehension for the use of the metrics in data-driven decision-making, including adoption of new policies and training as needed; 
+ (8)  incorporate the ability to aggregate and disaggregate data to provide the ability to focus on functional, component-level metrics; and 
+ (9)  increase standardization of the use and collection of business health metrics across the Department. 
+ 
+ (c)  Additional Support . Contracts. — The Secretary of Defense may enter into a contract or other agreement with a federally funded research and development center or university-affiliated research center to support the development of the metrics required under subsection (a).

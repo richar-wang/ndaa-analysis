@@ -1,0 +1,26 @@
+{
+  "text": "Plan for open mission systems of F\u201335 aircraft (a) In general The Secretary of Defense shall develop a plan to establish an open mission systems computing environment that is controlled by the Federal Government on the F\u201335 aircraft of the Department of Defense. (b) Elements The plan required under subsection (a) shall do the following: (1) Enable the portability of software applications between the F\u201335 aircraft, the F\u201322 aircraft, and the Next Generation Air Dominance initiative of the Air Force. (2) Enable the integration of new open mission system software, or changes to existing open mission system software, with minimal integration work required by the prime contractor of the air vehicle. (3) Eliminate or minimize aircraft airworthiness impacts due to software changes within the open mission systems computing environment. (4) Enable the rapid upgrade of onboard processors. (5) Leverage a Federal Government reference architecture. (6) Ensure control by the Federal Government over the airworthiness and security processes, as well as ownership by the Federal Government of the open mission system technical documentation and data rights. (7) Be capable of connection to all relevant aircraft apertures sufficient to meet current and future combat requirements, including cockpit connectivity via ethernet. (8) Leverage modern commercial software languages and techniques necessary to support reliable, high-throughput, and low-latency use-cases. (9) Be applicable across all blocks and variants of the F\u201335 aircraft. (c) Report (1) In general Not later than July 1, 2026, the Secretary of Defense shall submit to the congressional defense committees a report that includes the plan required under subsection (a). (2) Form The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 1,
+  "windows": [
+    {
+      "text": "Plan for open mission systems of F\u201335 aircraft (a) In general The Secretary of Defense shall develop a plan to establish an open mission systems computing environment that is controlled by the Federal Government on the F\u201335 aircraft of the Department of Defense. (b) Elements The plan required under subsection (a) shall do the following: (1) Enable the portability of software applications between the F\u201335 aircraft, the F\u201322 aircraft, and the Next Generation Air Dominance initiative of the Air Force. (2) Enable the integration of new open mission system software, or changes to existing open mission system software, with minimal integration work required by the prime contractor of the air vehicle. (3) Eliminate or minimize aircraft airworthiness impacts due to software changes within the open mission systems computing environment. (4) Enable the rapid upgrade of onboard processors. (5) Leverage a Federal Government reference architecture. (6) Ensure control by the Federal Government over the airworthiness and security processes, as well as ownership by the Federal Government of the open mission system technical documentation and data rights. (7) Be capable of connection to all relevant aircraft apertures sufficient to meet current and future combat requirements, including cockpit connectivity via ethernet. (8) Leverage modern commercial software languages and techniques necessary to support reliable, high-throughput, and low-latency use-cases. (9) Be applicable across all blocks and variants of the F\u201335 aircraft. (c) Report (1) In general Not later than July 1, 2026, the Secretary of Defense shall submit to the congressional defense committees a report that includes the plan required under subsection (a). (2) Form The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.041094373911619186,
+      "confidence": "Medium",
+      "start_index": 0,
+      "end_index": 1857,
+      "word_count": 278,
+      "token_length": 372
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,42 @@
+SEC. 7226.  RAPID PILOT, DEPLOYMENT AND SCALE OF APPLIED ARTIFICIAL INTELLIGENCE CAPABILITIES TO DEMONSTRATE MODERNIZATION ACTIVITIES RELATED TO USE CASES. (a)  Deadline. Identification of Use Cases .— Not later than 270 days after the date of enactment of this Act, the Director, in consultation with the Chief Information Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, and other interagency bodies as determined to be appropriate by the Director, shall identify 4 new use cases for the application of artificial intelligence-enabled systems to support interagency or intra-agency modernization initiatives that require linking multiple siloed internal and external data sources, consistent with applicable laws and policies, including those relating to the protection of privacy and of sensitive law enforcement, national security, and other protected information. 
+ (b)  Pilot Program .— (1)  Purposes .— The purposes of the pilot program under this subsection include— (A)  to enable agencies to operate across organizational boundaries, coordinating between existing established programs and silos to improve delivery of the agency mission; 136 STAT. 3673 
+ (B)  to demonstrate the circumstances under which artificial intelligence can be used to modernize or assist in modernizing legacy agency systems; and 
+ (C)  to leverage commercially available artificial intelligence technologies that— (i)  operate in secure cloud environments that can deploy rapidly without the need to replace existing systems; and 
+ (ii)  do not require extensive staff or training to build. 
+ 
+ 
+ (2)  Deadline. Deployment and pilot .— Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and Federal entities, including the Administrator of General Services, the Bureau of Fiscal Service of the Department of the Treasury, the Council of the Inspectors General on Integrity and Efficiency, and the Pandemic Response Accountability Committee, and other officials as the Director determines to be appropriate, shall ensure the initiation of the piloting of the 4 new artificial intelligence use case applications identified under subsection (a), leveraging commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a). 
+ (3)  Requirements. Risk evaluation and mitigation plan .— In carrying out paragraph (2), the Director shall require the heads of agencies to— (A)  evaluate risks in utilizing artificial intelligence systems; and 
+ (B)  develop a risk mitigation plan to address those risks, including consideration of— (i)  the artificial intelligence system not performing as expected or as designed; 
+ (ii)  the quality and relevancy of the data resources used in the training of the algorithms used in an artificial intelligence system; 
+ (iii)  the processes for training and testing, evaluating, validating, and modifying an artificial intelligence system; and 
+ (iv)  the vulnerability of a utilized artificial intelligence system to unauthorized manipulation or misuse, including the use of data resources that substantially differ from the training data. 
+ 
+ 
+ (4)  Prioritization .— In carrying out paragraph (2), the Director shall prioritize modernization projects that— (A)  would benefit from commercially available privacy-preserving techniques, such as use of differential privacy, federated learning, and secure multiparty computing; and 
+ (B)  otherwise take into account considerations of civil rights and civil liberties. 
+ 
+ (5)  Requirements. Privacy protections .— In carrying out paragraph (2), the Director shall require the heads of agencies to use privacy-preserving techniques when feasible, such as differential privacy, federated learning, and secure multiparty computing, to mitigate any risks to individual privacy or national security created by a project or data linkage. 
+ (6)  Use case modernization application areas .— Use case modernization application areas described in paragraph  136 STAT. 3674 
+(2) shall include not less than 1 from each of the following categories: (A)  Applied artificial intelligence to drive agency productivity efficiencies in predictive supply chain and logistics, such as— (i)  predictive food demand and optimized supply; 
+ (ii)  predictive medical supplies and equipment demand and optimized supply; or 
+ (iii)  predictive logistics to accelerate disaster preparedness, response, and recovery. 
+ 
+ (B)  Applied artificial intelligence to accelerate agency investment return and address mission-oriented challenges, such as— (i)  applied artificial intelligence portfolio management for agencies; 
+ (ii)  workforce development and upskilling; 
+ (iii)  redundant and laborious analyses; 
+ (iv)  determining compliance with Government requirements, such as with Federal financial management and grants management, including implementation of chapter 64 of  subtitle V of title 31, United States Code ; 
+ (v)  addressing fraud, waste, and abuse in agency programs and mitigating improper payments; or 
+ (vi)  outcomes measurement to measure economic and social benefits. 
+ 
+ 
+ (7)  Deadline. Requirements .— Not later than 3 years after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and other officials as the Director determines to be appropriate, shall establish an artificial intelligence capability within each of the 4 use case pilots under this subsection that— (A)  solves data access and usability issues with automated technology and eliminates or minimizes the need for manual data cleansing and harmonization efforts; 
+ (B)  continuously and automatically ingests data and updates domain models in near real-time to help identify new patterns and predict trends, to the extent possible, to help agency personnel to make better decisions and take faster actions; 
+ (C)  organizes data for meaningful data visualization and analysis so the Government has predictive transparency for situational awareness to improve use case outcomes; 
+ (D)  is rapidly configurable to support multiple applications and automatically adapts to dynamic conditions and evolving use case requirements, to the extent possible; 
+ (E)  enables knowledge transfer and collaboration across agencies; and 
+ (F)  preserves intellectual property rights to the data and output for benefit of the Federal Government and agencies and protects sensitive personally identifiable information. 136 STAT. 3675 
+ 
+ 
+ (c)  Deadlines. Briefing .— Not earlier than 270 days but not later than 1 year after the date of enactment of this Act, and annually thereafter for 4 years, the Director shall brief the appropriate congressional committees on the activities carried out under this section and results of those activities. 
+ (d)  Sunset .— The section shall cease to be effective on the date that is 5 years after the date of enactment of this Act.
