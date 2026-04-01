@@ -109,9 +109,6 @@ These sections were classified based on only 1-2 analysis windows. Results shoul
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 3 | **Confidence:** medium | **Division:** Information security and cyber diplomacy
 
-<details><summary>Show full text (747 words)</summary>
-
-```
 5303. Reports on technology transformation projects at the Department
 
 (a) Definitions
@@ -203,19 +200,11 @@ Not later than 18 months after the date of the enactment of this Act, and bienni
 (D) the adequacy of oversight mechanisms in place to ensure the responsible deployment of artificial intelligence and other emerging technologies; and
 
 (2) including any recommendations to improve the Department’s management, implementation, or evaluation of technology transformation efforts.
-```
-
-</details>
-
----
 
 ### Section 1608 — Spaceport of the Future initiative and study on future space launch capacity
 
 **Classification:** AI | **AI Score:** 87.0% | **Segments:** 3 | **Confidence:** medium | **Division:** Space Activities, Strategic Programs, and Intelligence Matters
 
-<details><summary>Show full text (799 words)</summary>
-
-```
 1608. Spaceport of the Future initiative and study on future space launch capacity
 
 (a) Study
@@ -293,19 +282,11 @@ Not later than March 31, 2026, the Secretary shall submit to the congressional d
 (3) Annual updates
 
 Not later than March 31 of each of 2027 through 2031, the Secretary shall submit to the congressional defense committees on the Spaceport of the Future initiative, including with respect to project status, estimated completion dates, total costs, and any updated assessments of funding or infrastructure needs.
-```
-
-</details>
-
----
 
 ### Section 244 — Biotechnology supply chain resiliency program
 
 **Classification:** Mixed | **AI Score:** 74.5% | **Segments:** 3 | **Confidence:** medium | **Division:** Research, Development, Test, and Evaluation
 
-<details><summary>Show full text (785 words)</summary>
-
-```
 244. Biotechnology supply chain resiliency program
 
 (a) Authorization
@@ -395,19 +376,11 @@ In general Except as provided in paragraph
 (A) determines that continuation of the Program is necessary to meet national economic or national security needs; and
 
 (B) submits notice of such determination to the Committees on Armed Services of the Senate and the House of Representatives.
-```
-
-</details>
-
----
 
 ### Section 526 — Report on adequacy of reimbursement for costs of permanent change of station
 
 **Classification:** Mixed | **AI Score:** 70.9% | **Segments:** 3 | **Confidence:** medium | **Division:** Military Personnel Policy
 
-<details><summary>Show full text (939 words)</summary>
-
-```
 526. Report on adequacy of reimbursement for costs of permanent change of station
 
 (a) Report required
@@ -565,19 +538,11 @@ The Secretary shall prohibit any contractor supporting implementation of this se
 Not later than March 31, 2027, the Secretary of Defense shall provide the Committees on Armed Services of the Senate and the House of Representatives an interim briefing on preliminary findings and anticipated recommendations of the report required under subsection
 
 (a).
-```
-
-</details>
-
----
 
 ### Section 1253 — Partnership for Indo-Pacific Industrial Resilience
 
 **Classification:** Mixed | **AI Score:** 51.5% | **Segments:** 3 | **Confidence:** medium | **Division:** Matters relating to foreign nations
 
-<details><summary>Show full text (762 words)</summary>
-
-```
 1253. Partnership for Indo-Pacific Industrial Resilience
 
 (a) Establishment
@@ -673,19 +638,11 @@ Not later than December 1, 2026, and annually thereafter through 2030, the Secre
 (b).
 
 (g) Termination The authority under this section shall terminate on December 31, 2030.
-```
-
-</details>
-
----
 
 ### Section 6703 — Prohibition on intelligence community contracting with Chinese military companies engaged in biotechnology research, development, or manufacturing
 
 **Classification:** Mixed | **AI Score:** 48.7% | **Segments:** 3 | **Confidence:** medium | **Division:** Matters Relating to Foreign Countries
 
-<details><summary>Show full text (778 words)</summary>
-
-```
 6703. Prohibition on intelligence community contracting with Chinese military companies engaged in biotechnology research, development, or manufacturing
 
 (a) Definitions
@@ -785,19 +742,11 @@ The Director of National Intelligence may establish a waiver process for the hea
 (g) Sunset The provisions of this section shall terminate on the date that is 10 years after the date of the enactment of this Act.
 
 (h) Rule of construction This section shall only be construed to apply to activities of an element of the intelligence community.
-```
-
-</details>
-
----
 
 ### Section 7264 — Aids to navigation
 
 **Classification:** Mixed | **AI Score:** 46.6% | **Segments:** 4 | **Confidence:** medium | **Division:** Organization, Authorities, Acquisition, and Personnel of the Coast Guard
 
-<details><summary>Show full text (1181 words)</summary>
-
-```
 7264. Aids to navigation
 
 (a) Discontinuance of aid to navigation
@@ -939,19 +888,11 @@ Not later than 18 months after the date of enactment of this Act, the Executive 
 (A).
 
 (d) Repeal Section 210 of the Coast Guard Authorization Act of 2015 ( 14 U.S.C. 541  note) is repealed.
-```
-
-</details>
-
----
 
 ### Section 345 — Technology enhancement for surface ship maintenance
 
 **Classification:** Mixed | **AI Score:** 46.3% | **Segments:** 3 | **Confidence:** medium | **Division:** Operation and Maintenance
 
-<details><summary>Show full text (708 words)</summary>
-
-```
 345. Technology enhancement for surface ship maintenance
 
 (a)
@@ -1071,19 +1012,11 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 (b) and any additional advanced technologies or processes identified pursuant to the process established under subsection
 
 (c), including estimated implementation dates or justifications for non-pursuit.
-```
-
-</details>
-
----
 
 ### Section 218 — Alternative test and evaluation pathway for designated defense acquisition programs
 
 **Classification:** Mixed | **AI Score:** 37.6% | **Segments:** 3 | **Confidence:** medium | **Division:** Research, Development, Test, and Evaluation
 
-<details><summary>Show full text (937 words)</summary>
-
-```
 218. Alternative test and evaluation pathway for designated defense acquisition programs
 
 (a) Authority
@@ -1183,19 +1116,11 @@ In this section, the term  covered program  means the following:
 (d), for use of the alternative test and evaluation pathway under this section.
 
 (2) A defense acquisition program relating to software and covered hardware initiated on or after the date of the enactment of this Act.
-```
-
-</details>
-
----
 
 ### Section 1504 — Department of Defense Data Ontology Governance Working Group
 
 **Classification:** Mixed | **AI Score:** 35.0% | **Segments:** 4 | **Confidence:** medium | **Division:** Cyberspace-related Matters
 
-<details><summary>Show full text (1109 words)</summary>
-
-```
 1504. Department of Defense Data Ontology Governance Working Group
 
 (a) Establishment
@@ -1357,19 +1282,11 @@ In this section:
 (5) The term  functional area  means a specialized functional, operational, or subject-matter areas within the Department.
 
 (6) The terms  military department  and  service acquisition executive  have the meanings given such terms, respectively, in title 10, United States Code.
-```
-
-</details>
-
----
 
 ### Section 145 — Extension of requirements relating to Câ€“130 aircraft
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Procurement
 
-<details><summary>Show full text (231 words)</summary>
-
-```
 145. Extension of requirements relating to C–130 aircraft
 
 (a) Extension of minimum inventory requirement Section 146
@@ -1401,19 +1318,11 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 (3) Modernization and recapitalization efforts, including block upgrades and procurement schedules.
 
 (4) Planned basing actions for fielding C–130J aircraft to recapitalize C–130H aircraft.
-```
-
-</details>
-
----
 
 ### Section 5516 — Prohibition on privatized or subscription-based missile defense intercept capabilities
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Space Activities, Strategic Programs, and Intelligence Matters
 
-<details><summary>Show full text (315 words)</summary>
-
-```
 5516. Prohibition on privatized or subscription-based missile defense intercept capabilities
 
 (a) Prohibition
@@ -1441,19 +1350,11 @@ The Secretary of Defense may only develop, deploy, test, or operate a missile de
 (2) The term  kinetic missile defense capabilities  means any system or platform that is designed to be able to carry out kinetic missile defense activities.
 
 (3) The term  subscription-based service  means any arrangement in which a private entity provides ongoing or recurring operational access to missile defense capabilities in exchange for periodic payment.
-```
-
-</details>
-
----
 
 ### Section 1706 — Continual assessment of impact of international state arms embargoes on Israel and actions to address defense capability gaps
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Other Defense Matters
 
-<details><summary>Show full text (359 words)</summary>
-
-```
 1706. Continual assessment of impact of international state arms embargoes on Israel and actions to address defense capability gaps
 
 (a) Requirement for continuous assessment
@@ -1505,19 +1406,11 @@ Not later than 120 days after the date of enactment of this section, and annuall
 (1) shall be submitted in unclassified form and may contain a classified annex.
 
 (d) Sunset The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section.
-```
-
-</details>
-
----
 
 ### Section 214 — Modification to authority for acquisition, construction, or furnishing of test facilities and equipment
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 2 | **Confidence:** low | **Division:** Research, Development, Test, and Evaluation
 
-<details><summary>Show full text (454 words)</summary>
-
-```
 214. Modification to authority for acquisition, construction, or furnishing of test facilities and equipment
 
 (a) Jointly funded projects Section 4174 of title 10, United States Code, is amended—
@@ -1571,19 +1464,11 @@ In this section, the term  covered contract  means—
 Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection
 
 (a).
-```
-
-</details>
-
----
 
 ### Section 7715 — Army museum system
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Operation and Maintenance
 
-<details><summary>Show full text (293 words)</summary>
-
-```
 7715. Army museum system
 
 (a)
@@ -1623,19 +1508,11 @@ The Secretary of the Army shall establish criteria for closing museums within th
 (2) a period of 90 days has elapsed after the date on which such notice is received by such committees.
 
 (d) Funding and support Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Army museum system.
-```
-
-</details>
-
----
 
 ### Section 2809 — Authority to use accelerated design-build and progressive design-build procedures for military construction projects
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 2 | **Confidence:** low | **Division:** Military Construction General Provisions
 
-<details><summary>Show full text (710 words)</summary>
-
-```
 2809. Authority to use accelerated design-build and progressive design-build procedures for military construction projects Section 3241 of title 10, United States Code, is amended—
 
 (1) in subsection
@@ -1723,19 +1600,11 @@ Not later than March 1, 2028, and annually thereafter until March 1, 2033, the S
 (F) Any challenges encountered, and mitigation efforts made, in the use of such authority for the military construction project.
 
 (4) Each Secretary concerned may exercise the authority under this subsection using amounts appropriated for such purpose on or after the date of the enactment of this paragraph. .
-```
-
-</details>
-
----
 
 ### Section 2831 — Inspections by qualified home inspector of privatized and Government-owned military housing
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 2 | **Confidence:** low | **Division:** Military Construction General Provisions
 
-<details><summary>Show full text (377 words)</summary>
-
-```
 2831. Inspections by qualified home inspector of privatized and Government-owned military housing
 
 (a) Establishment of independent inspection protocol
@@ -1793,19 +1662,11 @@ In this section:
 (i) the Federal Government; or
 
 (ii) any entity that owns or manages privatized military housing or Government-owned military housing.
-```
-
-</details>
-
----
 
 ### Section 2851 — Annual report on cost premium for construction of certain facilities
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 2 | **Confidence:** low | **Division:** Military Construction General Provisions
 
-<details><summary>Show full text (425 words)</summary>
-
-```
 2851. Annual report on cost premium for construction of certain facilities
 
 (a) Report required
@@ -1871,19 +1732,11 @@ In this section, the term  cost premium , with respect to a facility, means the 
 (1) the cost to construct a new facility carried out by the Secretary of Defense; and
 
 (2) the estimated cost to construct a similar facility carried out by a private entity, as adjusted for size, geographic location, and function of such facility.
-```
-
-</details>
-
----
 
 ### Section 383 — Reserve mobilization exercise to assess the capability of the Armed Forces to respond to a high-intensity contingency in the Indo-Pacific region
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 2 | **Confidence:** low | **Division:** Operation and Maintenance
 
-<details><summary>Show full text (578 words)</summary>
-
-```
 383. Reserve mobilization exercise to assess the capability of the Armed Forces to respond to a high-intensity contingency in the Indo-Pacific region
 
 (a) Indo-pacific mobilization and readiness study required
@@ -1947,19 +1800,11 @@ Not later than two years after the date of the enactment of this Act, the Secret
 (A) the number of members of the reserve components who are likely to be available and required to reinforce forward-deployed active duty units during the first 30, 60, and 90 days of a major Indo-Pacific contingency; and
 
 (B) the number of members of the reserve components required to support full-scale mobilization and logistics surge operations within the United States, including domestic transportation nodes, sustainment hubs, ports of embarkation, mobilization training centers, and other homeland support functions necessary to enable and sustain global operations.
-```
-
-</details>
-
----
 
 ### Section 662 — Provision of information regarding relocation assistance programs for members receiving orders for a change of permanent station
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 2 | **Confidence:** low | **Division:** Compensation and Other Personnel Benefits
 
-<details><summary>Show full text (592 words)</summary>
-
-```
 662. Provision of information regarding relocation assistance programs for members receiving orders for a change of permanent station
 
 (a)
@@ -2033,19 +1878,11 @@ Not later than one year after the date of enactment of this Act, and annually th
 (2) an assessment of the awareness by members of the armed forces of available programs in support of a change of permanent station; and
 
 (3) any recommendations of the Secretary for improving the dissemination of information related to relocation and family assistance programs.
-```
-
-</details>
-
----
 
 ### Section 735 — Study on accreditation of military dental treatment facilities
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Health Care Provisions
 
-<details><summary>Show full text (231 words)</summary>
-
-```
 735. Study on accreditation of military dental treatment facilities
 
 (a) Study required The Inspector General of the Department of Defense shall conduct a study on the accreditation of military dental treatment facilities. Such study shall include the following:
@@ -2071,19 +1908,11 @@ Not later than one year after the date of the enactment of this Act, the Inspect
 (2) a plan to ensure the accreditation of military dental treatment facilities; and
 
 (3) any recommendations by the Inspector General for additional resources or legislative authority necessary to achieve full accreditation of military dental treatment facilities.
-```
-
-</details>
-
----
 
 ### Section 737 — Study on psychological effects of and mental health effects of unmanned aircraft systems in combat operations
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Health Care Provisions
 
-<details><summary>Show full text (361 words)</summary>
-
-```
 737. Study on psychological effects of and mental health effects of unmanned aircraft systems in combat operations
 
 (a) Study required
@@ -2139,19 +1968,11 @@ Not later than one year after the date of the enactment of this Act, the Secreta
 (b)
 
 (5).
-```
-
-</details>
-
----
 
 ### Section 9784 — Air Force and Space Force Museum System
 
 **Classification:** AI | **AI Score:** 100.0% | **Segments:** 1 | **Confidence:** low | **Division:** Operation and Maintenance
 
-<details><summary>Show full text (334 words)</summary>
-
-```
 9784. Air Force and Space Force Museum System
 
 (a)
@@ -2191,19 +2012,11 @@ The Secretary of the Air Force shall establish criteria for the closure of museu
 (2) a period of 90 days has elapsed after the date on which such notice is received by such committees.
 
 (d) Funding and support Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Air Force and Space Force museum system.
-```
-
-</details>
-
----
 
 ### Section 1110 — Amendments to title 5, United States Code
 
 **Classification:** Mixed | **AI Score:** 79.3% | **Segments:** 2 | **Confidence:** low | **Division:** Civilian Personnel
 
-<details><summary>Show full text (470 words)</summary>
-
-```
 1110. Amendments to title 5, United States Code
 
 (a) Modernizing competitive hiring authorities for Department of Defense Section 3301 of title 5, United States Code, is amended—
@@ -2243,19 +2056,11 @@ In general .—An individual ; and
 (e) Report
 
 Not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall submit a report to the congressional defense committees on the impact of this subtitle and the amendments made by this subtitle on hiring at the Department of Defense. Such report shall include an analysis on the impact on the length of the hiring process, the quality of applicants, the useability of the system for applicants and the Department, the total number of individuals appointed through alternative job postings, the total number of individuals appointed from a shared applicant pool, and any identified challenges to hiring.
-```
-
-</details>
-
----
 
 ### Section 1692 — Prohibition on access to Department of Defense cloud-based resources by certain individuals
 
 **Classification:** Mixed | **AI Score:** 72.7% | **Segments:** 2 | **Confidence:** low | **Division:** Space Activities, Strategic Programs, and Intelligence Matters
 
-<details><summary>Show full text (474 words)</summary>
-
-```
 1692. Prohibition on access to Department of Defense cloud-based resources by certain individuals
 
 (a) Access prohibition
@@ -2313,19 +2118,11 @@ Not later than June 1, 2027, and annually thereafter through 2028, briefings on 
 (b)
 
 (6) of title 44).
-```
-
-</details>
-
----
 
 ### Section 1607 — Study on establishing a tactical surveillance, reconnaissance, and tracking program of record
 
 **Classification:** Mixed | **AI Score:** 65.2% | **Segments:** 2 | **Confidence:** low | **Division:** Space Activities, Strategic Programs, and Intelligence Matters
 
-<details><summary>Show full text (376 words)</summary>
-
-```
 1607. Study on establishing a tactical surveillance, reconnaissance, and tracking program of record
 
 (a) Study
@@ -2377,19 +2174,11 @@ The Secretary may establish a program of record for tactical surveillance, recon
 (f) Tactical surveillance, reconnaissance, and tracking capabilities defined
 
 In this section, the term  tactical surveillance, reconnaissance, and tracking capabilities  means the capabilities provided under the pilot program carried out by the Space Force to use commercial data and analytics to provide surveillance, reconnaissance, and tracking information to the combatant commands.
-```
-
-</details>
-
----
 
 ### Section 346 — Oversight requirements for contracts relating to relocation logistics for household goods
 
 **Classification:** Mixed | **AI Score:** 53.3% | **Segments:** 2 | **Confidence:** low | **Division:** Operation and Maintenance
 
-<details><summary>Show full text (609 words)</summary>
-
-```
 346. Oversight requirements for contracts relating to relocation logistics for household goods
 
 (a) Requirements
@@ -2443,19 +2232,11 @@ In this section, the term  covered contract —
 (1) means a contract with an entity that provides relocation logistics for the household goods of members of the Armed Forces undergoing a permanent change of station (commonly referred to as a  single move manager ); and
 
 (2) does not include a contract or other agreement for the relocation of a private vehicle owned or leased by a member of the Armed Forces.
-```
-
-</details>
-
----
 
 ### Section 113 — Authorization to initiate early production of future long-range assault aircraft
 
 **Classification:** AI | **AI Score:** 50.0% | **Segments:** 2 | **Confidence:** low | **Division:** Procurement
 
-<details><summary>Show full text (330 words)</summary>
-
-```
 113. Authorization to initiate early production of future long-range assault aircraft
 
 (a) Authorization
@@ -2501,19 +2282,11 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 (2) the status of industrial base readiness and supply chain coordination in support of such early production effort; and
 
 (3) estimated long-term cost savings and operational benefits expected to be derived from such early production effort.
-```
-
-</details>
-
----
 
 ### Section 1703 — Temporary authority for nonimmigrant construction workers on Wake Island
 
 **Classification:** AI | **AI Score:** 50.0% | **Segments:** 2 | **Confidence:** low | **Division:** Other Defense Matters
 
-<details><summary>Show full text (342 words)</summary>
-
-```
 1703. Temporary authority for nonimmigrant construction workers on Wake Island
 
 (a) Authorization An alien, if otherwise qualified, may seek admission to the United States as a nonimmigrant under section 101
@@ -2573,19 +2346,11 @@ Not later than 180 days after the date of the enactment of this Act, the Secreta
 (e) Period of applicability An alien may seek admission to the United States pursuant to subsection
 
 (a) during the period beginning on the date of enactment of this section and ending on December 31, 2030.
-```
-
-</details>
-
----
 
 ### Section 522 — Womenâ€™s initiative teams
 
 **Classification:** AI | **AI Score:** 50.0% | **Segments:** 2 | **Confidence:** low | **Division:** Military Personnel Policy
 
-<details><summary>Show full text (350 words)</summary>
-
-```
 522. Women’s initiative teams
 
 (a)
@@ -2631,19 +2396,11 @@ Not later than one year after the date of the enactment of this Act, and annuall
 (3) An assessment of the impact of such activities on improving conditions for women, including measurable outcomes where available.
 
 (4) Recommendations for legislative or policy changes to further support the success of the teams.
-```
-
-</details>
-
----
 
 ### Section 2802 — Facility construction or repair: transactions other than contracts and grants
 
 **Classification:** Mixed | **AI Score:** 31.1% | **Segments:** 2 | **Confidence:** low | **Division:** Military Construction General Provisions
 
-<details><summary>Show full text (512 words)</summary>
-
-```
 2802. Facility construction or repair: transactions other than contracts and grants
 
 (a)
@@ -2707,19 +2464,11 @@ Not later than 180 days after the date of enactment of this section, and biannua
 (6) lessons learned and recommendations to improve the implementation, oversight, or scope of such authority. .
 
 (b) Applicability The amendments made by this section shall apply with respect to transactions entered into on or after the date of the enactment of this Act.
-```
-
-</details>
-
----
 
 ### Section 2808a — Facility construction or repair: transactions other than contracts and grants
 
 **Classification:** Mixed | **AI Score:** 29.8% | **Segments:** 2 | **Confidence:** low | **Division:** Military Construction General Provisions
 
-<details><summary>Show full text (448 words)</summary>
-
-```
 2808a. Facility construction or repair: transactions other than contracts and grants
 
 (a) Authority Subject to the requirements of section 2853 of this title, the Secretary concerned may enter into transactions (other than contracts, cooperative agreements, or grants) to carry out repair and construction projects for facilities, including the planning, design, engineering, prototyping, piloting, and execution of such repair and construction projects.
@@ -2777,19 +2526,11 @@ Not later than 180 days after the date of enactment of this section, and biannua
 (5) an assessment of cost savings, efficiencies, or risk reductions realized through the use of such authority; and
 
 (6) lessons learned and recommendations to improve the implementation, oversight, or scope of such authority.
-```
-
-</details>
-
----
 
 ### Section 907 — Defense Science Board study on optimal organizational structure for digital solution and software delivery
 
 **Classification:** Mixed | **AI Score:** 26.8% | **Segments:** 2 | **Confidence:** low | **Division:** Department of Defense Organization and Management
 
-<details><summary>Show full text (510 words)</summary>
-
-```
 907. Defense Science Board study on optimal organizational structure for digital solution and software delivery
 
 (a) Study required
@@ -2877,19 +2618,11 @@ In this section:
 (1) Digital solutions engineering The term  digital solutions engineering  means the development, deployment, and sustainment of artificial intelligence systems, software applications, data engineering solutions, data analytics platforms, and other digital technologies for operational and business purposes.
 
 (2) Software delivery organizations The term  software delivery organizations  means organizational units dedicated to the rapid development, deployment, and sustainment of software applications and digital solutions.
-```
-
-</details>
-
----
 
 ### Section 8617A — United States Navy Museum System
 
 **Classification:** Mixed | **AI Score:** 10.7% | **Segments:** 2 | **Confidence:** low | **Division:** Operation and Maintenance
 
-<details><summary>Show full text (384 words)</summary>
-
-```
 8617A. United States Navy Museum System
 
 (a)
@@ -2957,11 +2690,6 @@ The Secretary of the Navy shall establish criteria for the closure of museums wi
 (2) a period of 90 days has elapsed after the date on which such notice is received by such committees.
 
 (d) Funding and support Consistent with applicable law, the Secretary of the Navy may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the United States Museum System.
-```
-
-</details>
-
----
 
 ## Flags by Division
 

@@ -384,17 +384,9 @@ def generate_report(year):
                    f"| **Division:** {r['division']}")
         md.append(f"")
         if text:
-            md.append(f"<details><summary>Show full text ({r['word_count']} words)</summary>")
-            md.append(f"")
-            md.append(f"```")
             md.append(text)
-            md.append(f"```")
-            md.append(f"")
-            md.append(f"</details>")
         else:
             md.append(f"*Section text not found.*")
-        md.append(f"")
-        md.append(f"---")
         md.append(f"")
 
     # Division breakdown
