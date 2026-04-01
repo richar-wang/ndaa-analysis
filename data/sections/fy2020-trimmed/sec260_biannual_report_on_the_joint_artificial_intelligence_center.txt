@@ -1,0 +1,21 @@
+SEC. 260.  BIANNUAL REPORT ON THE JOINT ARTIFICIAL INTELLIGENCE CENTER. (a)  Reports Required .— Not later than 180 days after the date of the enactment of this Act and biannually thereafter through the end of 2023, the Secretary of Defense shall submit to the congressional defense committees a report on the Joint Artificial Intelligence Center (referred to in this section as the “Center”). 
+ (b)  Elements .— Each report under subsection (a) shall include the following: (1)  Information relating to the mission and objectives of the Center. 
+ (2)  A description of the National Mission Initiatives, Component Mission Initiatives, and any other initiatives of the Center, including a description of— (A)  the activities carried out under the initiatives; 
+ (B)  any investments made or contracts entered into under the initiatives; and 
+ (C)  the progress of the initiatives. 
+ 
+ (3)  A description of how the Center has sought to leverage lessons learned, share best practices, avoid duplication of  133 STAT. 1294 
+efforts, and transition artificial intelligence research efforts into operational capabilities by— (A)  collaborating with other organizations and elements of the Department of Defense, including the Defense Agencies and the military departments; and 
+ (B)  deconflicting the activities of the Center with the activities of other organizations and elements of the Department. 
+ 
+ (4)  A description of any collaboration between— (A)  the Center and the private sector, national laboratories, and academia; and 
+ (B)  the Center and international allies and partners. 
+ 
+ (5)  The total number of military, contractor, and civilian personnel who are employed by the Center, assigned to the Center, and performing functions in support of the Center. 
+ (6)  A description of the organizational structure and staffing of the Center. 
+ (7)  A detailed description of the frameworks, metrics, and capabilities established to measure the effectiveness of the Center and the Center’s investments in the National Mission Initiatives and Component Mission Initiatives. 
+ (8)  A description of any new policies, standards, or guidance relating to artificial intelligence that have been issued by the Chief Information Officer of the Department. 
+ (9)  Identification of any ethical guidelines applicable to the use of artificial intelligence by the Department. 
+ (10)  A description of any steps taken by the Center to protect systems that use artificial intelligence from any attempts to misrepresent or alter information used or provided by artificial intelligence. 
+ 
+ (c)  Joint Artificial Intelligence Center Defined .— In this section, the term “ Joint Artificial Intelligence Center ” means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  10 U.S.C. 2358 note ).

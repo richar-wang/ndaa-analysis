@@ -1,0 +1,8 @@
+SEC. 259.  COMMERCIAL EDGE COMPUTING TECHNOLOGIES AND BEST PRACTICES FOR DEPARTMENT OF DEFENSE WARFIGHTING SYSTEMS. (a)  Report Required .— Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on commercial edge computing technologies and best practices for Department of Defense warfighting systems. 
+ (b)  Plans. Contents .— The report submitted under subsection (a) shall include the following: (1)  Identification of initial warfighting system programs of record that will benefit most from accelerated insertion of commercial edge computing technologies and best practices, resulting in significant near-term improvement in system performance and mission capability. 
+ (2)  The plan of the Department of Defense to provide additional funding for the systems identified in paragraph (1) to achieve fielding of accelerated commercial edge computing technologies before or during fiscal year 2021. 
+ (3)  The plan of the Department to identify, manage, and provide additional funding for commercial edge computing technologies more broadly over the next four fiscal years where appropriate for— (A)  command, control, communications, and intelligence systems; 
+ (B)  logistics systems; and 
+ (C)  other mission-critical systems. 
+ 
+ (4)  A detailed description of the policies, procedures, budgets, and accelerated acquisition and contracting mechanisms of the Department for near-term insertion of commercial edge computing technologies and best practices into military mission-critical systems.

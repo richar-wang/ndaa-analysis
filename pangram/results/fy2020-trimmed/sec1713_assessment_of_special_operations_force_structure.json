@@ -1,0 +1,36 @@
+{
+  "text": "Deadline. Contracts. Assessment of special operations force structure. (a) Assessment . Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall seek to enter into an agreement with a federally funded research and development center for the conduct of an independent assessment of the force structure and roles and responsibilities of special operations forces. \n (b) Matters to Be Considered . In performing the assessment under this section, the federally funded research and development center shall consider the following matters: (1) The most recent national defense strategy under section 113(g) of title 10, United States Code . \n (2) Special operations activities, as described in section 167(k) of title 10, United States Code . \n (3) Potential future national security threats to the United States. \n (4) Ongoing counterterrorism and contingency operations of the United States. \n (5) The demand for special operations forces by geographic combatant commanders for security cooperation, exercises, and other missions that could be executed by conventional forces. \n (6) Other government and non-government analyses that would contribute to the assessment through variations in study assumptions or potential scenarios. \n (7) The role of emerging technology on special operations forces. \n (8) Opportunities for reduced operation and sustainment costs of special operations. \n (9) Current and projected capabilities of other United States Armed Forces that could affect force structure capability and capacity requirements of special operations forces. \n (10) The process by which United States Special Operations Command determines force size and structure. \n (11) The size, composition, and organizational structure of United States Special Operations Command headquarters and subordinate headquarters elements. \n (12) The readiness of special operations forces for assigned missions and future conflicts. \n (13) The adequacy of special operations force structure for meeting the goals of the National Military Strategy under section 153(b) of title 10, United States Code . \n (14) Any other matters deemed relevant. \n \n (c) Recommenda- tions. Assessment Results . The results of the assessment under this section shall include each of the following: (1) Considerations and recommendations for improving the readiness of special operations forces. \n (2) Alternative headquarters and force structure options to reduce administrative costs and enhance operational effectiveness. \n (3) Legislative recommendations with respect to section 167 of title 10, United States Code , and other relevant provisions of law. \n \n (d) Deadline. Records. Submission to Congress . Not later than July 1, 2020, the Secretary shall submit to the congressional defense committees an unaltered copy of the assessment required under subsection (a) together with the views of the Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict and the Commander of United States Special Operations Command on the assessment and the recommendations included in the assessment.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Deadline. Contracts. Assessment of special operations force structure. (a) Assessment . Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall seek to enter into an agreement with a federally funded research and development center for the conduct of an independent assessment of the force structure and roles and responsibilities of special operations forces. \n (b) Matters to Be Considered . In performing the assessment under this section, the federally funded research and development center shall consider the following matters: (1) The most recent national defense strategy under section 113(g) of title 10, United States Code . \n (2) Special operations activities, as described in section 167(k) of title 10, United States Code . \n (3) Potential future national security threats to the United States. \n (4) Ongoing counterterrorism and contingency operations of the United States. \n (5) The demand for special operations forces by geographic combatant commanders for security cooperation, exercises, and other missions that could be executed by conventional forces. \n (6) Other government and non-government analyses that would contribute to the assessment through variations in study assumptions or potential scenarios. \n (7) The role of emerging technology on special operations forces. \n (8) Opportunities for reduced operation and sustainment costs of special operations. \n (9) Current and projected capabilities of other United States Armed Forces that could affect force structure capability and capacity requirements of special operations forces. \n (10) The process by which United States Special Operations Command determines force size and structure. \n (11) The size, composition, and organizational structure of United States Special Operations Command headquarters and subordinate headquarters elements. \n (12) The readiness of special operations forces for assigned missions and future conflicts. \n (13) The adequacy of special operations force structure for meeting the goals of the National Military Strategy under section 153(b) of title 10, United States Code . \n (14) Any other matters deemed relevant. \n \n (c) Recommenda- tions. Assessment Results . The results of the assessment under this section shall include each of the following: (1) Considerations and recommendations for improving the readiness of special operations forces.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.01948064550953476,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2400,
+      "word_count": 342,
+      "token_length": 489
+    },
+    {
+      "text": " \n (2) Alternative headquarters and force structure options to reduce administrative costs and enhance operational effectiveness. \n (3) Legislative recommendations with respect to section 167 of title 10, United States Code , and other relevant provisions of law. \n \n (d) Deadline. Records. Submission to Congress . Not later than July 1, 2020, the Secretary shall submit to the congressional defense committees an unaltered copy of the assessment required under subsection (a) together with the views of the Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict and the Commander of United States Special Operations Command on the assessment and the recommendations included in the assessment.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.013841113774105906,
+      "confidence": "High",
+      "start_index": 2400,
+      "end_index": 3121,
+      "word_count": 103,
+      "token_length": 143
+    }
+  ],
+  "_submission_type": "solo"
+}

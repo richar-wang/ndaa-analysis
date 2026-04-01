@@ -1,0 +1,15 @@
+SEC. 6308.  50 USC 3334d . CYBER PROTECTION SUPPORT FOR THE PERSONNEL OF THE INTELLIGENCE COMMUNITY IN POSITIONS HIGHLY VULNERABLE TO CYBER ATTACK. (a)  Definitions .— In this section: (1)  Personal accounts .— The term “ personal accounts ” means accounts for online and telecommunications services, including telephone, residential internet access, email, text and multimedia messaging, cloud computing, social media, health  133 STAT. 2190 
+care, and financial services, used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community. 
+ (2)  Personal technology devices .— The term “ personal technology devices ” means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect. 
+ 
+ (b)  Authority To Provide Cyber Protection Support .— (1)  Determination. In general .— Subject to a determination by the Director of National Intelligence, the Director may provide cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2). 
+ (2)  At-risk personnel .— The personnel described in this paragraph are personnel of the intelligence community— (A)  who the Director determines to be highly vulnerable to cyber attacks and hostile information collection activities because of the positions occupied by such personnel in the intelligence community; and 
+ (B)  whose personal technology devices or personal accounts are highly vulnerable to cyber attacks and hostile information collection activities. 
+ 
+ 
+ (c)  Nature of Cyber Protection Support .— Subject to the availability of resources, the cyber protection support provided to personnel under subsection (b) may include training, advice, assistance, and other services relating to cyber attacks and hostile information collection activities. 
+ (d)  Limitation on Support .— Nothing in this section shall be construed— (1)  to encourage personnel of the intelligence community to use personal technology devices for official business; or 
+ (2)  to authorize cyber protection support for senior intelligence community personnel using personal devices, networks, and personal accounts in an official capacity. 
+ 
+ (e)  Report .— Not later than 180 days after the date of the enactment of this Act, the Director shall submit to the congressional intelligence committees a report on the provision of cyber protection support under subsection (b). The report shall include— (1)  a description of the methodology used to make the determination under subsection (b)(2); and 
+ (2)  guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (b).

@@ -1,0 +1,18 @@
+SEC. 1512.  10 USC 221 note . BUDGET DISPLAY FOR CRYPTOGRAPHIC MODERNIZATION ACTIVITIES FOR CERTAIN SYSTEMS OF THE DEPARTMENT OF DEFENSE. (a)  Effective date. Time periods. Display Required .— Beginning with fiscal year 2024, and for each fiscal year thereafter, the Secretary of Defense shall include with the budget justification materials submitted to Congress in support of the budget of the Department of Defense for that fiscal year (as submitted with the budget of the President under  section 1105(a) of title 31, United States Code ) a consolidated cryptographic modernization budget justification display for each Department of Defense system or asset that is protected by cryptography and subject to certification by the National Security Agency (in this section, referred to as “covered items”). 
+ (b)  Elements .— Each display included under subsection (a) for a fiscal year shall include the following: (1)  Cryptographic modernization activities .— (A)  Whether, in accordance with the schedule established under section 153(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  10 U.S.C. 142 note ), the cryptographic modernization for each covered item is pending, in progress, complete, or, pursuant to paragraph (2) of such section, extended. 
+ (B)  The funding required for the covered fiscal year and for each subsequent fiscal year of the Future Years Defense Program to complete the pending or in progress cryptographic modernization by the required replacement date of each covered item. 
+ (C) (i)  A description of deviations between the funding annually required to complete the modernization prior to the required replacement date and the funding requested and planned within the Future Years Defense Program. 
+ (ii)  An explanation— (I)  justifying the deviations; and 
+ (II)  of whether or how any delays resulting from a deviation shall be overcome to meet the required replacement date. 
+ 
+ 
+ (D)  A description of operational or security risks resulting from each deviation from the modernization schedule required to meet replacement dates, including a current intelligence assessment of adversary progress on exploiting the covered item. 
+ (E)  For any covered item that remains in service past its required replacement date, a description of the number of times the covered item has been extended and the circumstances attending each such extension. 
+ 
+ (2)  Mitigation activities for covered items .— (A)  Whether activities to mitigate the risks associated with projected failure to replace a covered item by the required replacement date are planned, in progress, or complete. 
+ (B)  The funding required for the covered fiscal year and for each subsequent fiscal year for required mitigation activities  136 STAT. 2894 
+to complete any planned, pending, or in progress mitigation activities for a covered item. 
+ (C)  A description of the activities planned in the covered fiscal year and each subsequent fiscal year to complete mitigation activities and an explanation of the efficacy of the mitigations. 
+ 
+ 
+ (c)  Form .— The display required by subsection (a) shall be included in unclassified form, but may include a classified annex.

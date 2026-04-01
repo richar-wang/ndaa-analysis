@@ -1,0 +1,36 @@
+{
+  "text": "Modification of authority to support a unified counterdrug and counterterrorism campaign in colombia. (a) Organizations With Respect to Which Assistance May Be Provided . Subsection (a) of section 1021 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( Public Law 108\u2013375 ; 118 Stat. 2042 ), as most recently amended \nby section 1011(1) of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1545 ), is further amended - (1) Colombia. Determination. in paragraph (1), by striking \u201c organizations designated as \u201d and all that follows and inserting \u201c the Revolutionary Armed Forces of Colombia (FARC), the National Liberation Army (ELN), the United Self-Defense Forces of Colombia (AUC), and any covered organization that the Secretary of Defense, with the concurrence of the Secretary of State, determines poses a threat to the national security interests of the United States. \u201d; \n (2) by redesignating paragraph (2) as paragraph (3); and \n (3) by inserting after paragraph (1) the following new paragraph (2): \u201c(2) For purposes of paragraph (1), a covered organization is any foreign terrorist organization, or other organization that is a non-state armed group, that - \u201c(A) promotes illicit economies; \n \u201c(B) employs violence to protect its interests; \n \u201c(C) has a military type structure, tactics, and weapons that provide it the ability to carry out large-scale violence; \n \u201c(D) challenges the security response capacity of Colombia; and \n \u201c(E) has the capability to control territory.\u201d \n \n . \n \n (b) Notice on Assistance . Such section is further amended - (1) by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and \n (2) by inserting after subsection (d) the following new subsection (e): \u201c(e) Notice on Assistance With Respect to Covered Organizations . (1) Deadline. Not later than 30 days before providing assistance pursuant to the authority in subsection (a) with respect to a covered organization, the Secretary of Defense shall submit to the appropriate committees of Congress a written notification of the intent to use such authority with respect to such organization, including the name of such organization, the characteristics of such organization, and threat posed by such organization. \n \u201c(2) Definitions. In this subsection, the term \u2018 appropriate committees of Congress \u2019 means - \u201c(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and \n \u201c(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.\u201d \n \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Modification of authority to support a unified counterdrug and counterterrorism campaign in colombia. (a) Organizations With Respect to Which Assistance May Be Provided . Subsection (a) of section 1021 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( Public Law 108\u2013375 ; 118 Stat. 2042 ), as most recently amended \nby section 1011(1) of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 131 Stat. 1545 ), is further amended - (1) Colombia. Determination. in paragraph (1), by striking \u201c organizations designated as \u201d and all that follows and inserting \u201c the Revolutionary Armed Forces of Colombia (FARC), the National Liberation Army (ELN), the United Self-Defense Forces of Colombia (AUC), and any covered organization that the Secretary of Defense, with the concurrence of the Secretary of State, determines poses a threat to the national security interests of the United States. \u201d; \n (2) by redesignating paragraph (2) as paragraph (3); and \n (3) by inserting after paragraph (1) the following new paragraph (2): \u201c(2) For purposes of paragraph (1), a covered organization is any foreign terrorist organization, or other organization that is a non-state armed group, that - \u201c(A) promotes illicit economies; \n \u201c(B) employs violence to protect its interests; \n \u201c(C) has a military type structure, tactics, and weapons that provide it the ability to carry out large-scale violence; \n \u201c(D) challenges the security response capacity of Colombia; and \n \u201c(E) has the capability to control territory.\u201d \n \n . \n \n (b) Notice on Assistance . Such section is further amended - (1) by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and \n (2) by inserting after subsection (d) the following new subsection (e): \u201c(e) Notice on Assistance With Respect to Covered Organizations . (",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008769880876772933,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1865,
+      "word_count": 290,
+      "token_length": 470
+    },
+    {
+      "text": "1) Deadline. Not later than 30 days before providing assistance pursuant to the authority in subsection (a) with respect to a covered organization, the Secretary of Defense shall submit to the appropriate committees of Congress a written notification of the intent to use such authority with respect to such organization, including the name of such organization, the characteristics of such organization, and threat posed by such organization. \n \u201c(2) Definitions. In this subsection, the term \u2018 appropriate committees of Congress \u2019 means - \u201c(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and \n \u201c(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.\u201d \n \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005290837104742725,
+      "confidence": "High",
+      "start_index": 1865,
+      "end_index": 2617,
+      "word_count": 116,
+      "token_length": 153
+    }
+  ],
+  "_submission_type": "solo"
+}

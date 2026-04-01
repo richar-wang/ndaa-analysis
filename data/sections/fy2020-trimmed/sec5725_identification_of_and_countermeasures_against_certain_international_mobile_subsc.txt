@@ -1,0 +1,15 @@
+SEC. 5725.  50 USC 3024 note . IDENTIFICATION OF AND COUNTERMEASURES AGAINST CERTAIN INTERNATIONAL MOBILE SUBSCRIBER IDENTITY-CATCHERS. (a)  In General .— The Director of National Intelligence and the Director of the Federal Bureau of Investigation, in collaboration with the Under Secretary of Homeland Security for Intelligence and Analysis, and the heads of such other Federal, State, or local agencies as the Directors determine appropriate, and in accordance with applicable law and policy, may— (1)  undertake an effort to identify International Mobile Subscriber Identity-catchers operated within the United States by— (A)  hostile foreign governments; and 
+ (B)  individuals who have violated a criminal law of the United States or of any State, or who have committed acts that would be a criminal violation if committed within the jurisdiction of the United States or any State; and 
+ 
+ (2)  when appropriate, develop countermeasures against such International Mobile Subscriber Identity-catchers, with prioritization given to such International Mobile Subscriber Identity-catchers identified in the National Capital Region. 
+ 
+ (b)  Briefing Required .— Prior to developing countermeasures under subsection (a)(2), the Director of National Intelligence and the Director of the Federal Bureau of Investigation shall provide a briefing to the appropriate congressional committees on— (1)  the use of International Mobile Subscriber Identity-catchers operated within the United States by the individuals and governments described in subsection (a)(1); 
+ (2)  potential countermeasures by the intelligence community against such International Mobile Subscriber Identity-catchers; and 
+ (3)  any legal or policy limitations with respect to the development or carrying out of such countermeasures. 
+ 
+ (c)  Definitions .— (1)  Appropriate congressional committees .— The term “ appropriate congressional committees ” means— (A)  the congressional intelligence committees; 
+ (B)  the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate; and 
+ (C)  the Committees on the Judiciary of the House of Representatives and the Senate. 
+ 
+ (2)  International mobile subscriber identity-catcher .— The term “International Mobile Subscriber Identity- 133 STAT. 2179 
+catcher” means a device used for intercepting mobile phone identifying information and location data.

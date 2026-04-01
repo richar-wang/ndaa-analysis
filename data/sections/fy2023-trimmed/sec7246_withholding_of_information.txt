@@ -1,0 +1,10 @@
+SEC. 7246.  WITHHOLDING OF INFORMATION. (a)  In General .— Nothing in this subtitle shall be construed to— (1)  require the disclosure of information, records, or reports that are exempt from public disclosure under  section 552 of title 5, United States Code , or that are required to be withheld under  section 552a of title 5, United States Code ; or 
+ (2)  impose any affirmative duty on the Director to review congressionally mandated reports submitted for publication to the reports online portal for the purpose of identifying and redacting such information or records. 
+ 
+ (b)  Withholding of Information .— (1)  In general .— Consistent with subsection (a)(1), the head of a Federal agency may withhold from the Director, and from publication on the reports online portal, any information, records, or reports that are exempt from public disclosure under  section 552 of title 5, United States Code , or that are required to be withheld under  section 552a of title 5, United States Code . 
+ (2)  National security .— Nothing in this subtitle shall be construed to require the publication, on the reports online portal or otherwise, of any report containing information that is classified, the public release of which could have a harmful effect on national security, or that is otherwise prohibited. 
+ (3)  Law enforcement sensitive .— Nothing in this subtitle shall be construed to require the publication on the reports online portal or otherwise of any congressionally mandated report— (A)  containing information that is law enforcement sensitive; or 
+ (B)  that describe information security policies, procedures, or activities of the executive branch. 
+ 
+ 
+ (c)  Responsibility for Withholding of Information .— In publishing congressionally mandated reports to the reports online portal in accordance with this subtitle, the head of each Federal agency shall be responsible for withholding information pursuant to the requirements of this section.

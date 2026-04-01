@@ -1,0 +1,71 @@
+SEC. 825.  46 USC 50309 note . COUNTERING ADVERSARY LOGISTICS INFORMATION TECHNOLOGIES. (a)  Countering the Spread of Covered Logistics Platforms .— (1)  Contracting prohibition .— (A)  In general .— The Secretary of Defense may not enter into a contract with an entity that provides data to covered logistics platforms. 
+ (B)  Effective date. Applicability .— This paragraph shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this subsection. 
+ 
+ (2)  Waiver .— The Secretary of Defense may waive the provisions of this subsection for a specific contract if the Secretary— (A)  Determination. makes a determination that such waiver is vital to the national security of the United States; and 
+ (B)  Reports. submits to Congress a report justifying the use of such waiver and the importance of such waiver to the national security of the United States. 
+ 
+ (3)  Report .— Not later than one year after the date of the enactment of this subsection, and annually for three subsequent years, the Secretary of Defense shall submit to Congress a report on the implementation of this subsection. 
+ 
+ (b)  Policy With Respect to Ports Accepting Federal Grant Money .— Time periods. (1)  In general .— Chapter 503 of title 46, United States Code ,  is amended  by  adding  at the end the following: “§ 50309. 46 USC 50309 .  Securing logistics information data of the United States “(a)  In General .— “(1)  Prohibition .— A covered entity shall not use a covered logistics platform. 
+ “(2)  Eligibility .— A covered entity that is found to use a covered logistics platform shall not be eligible to receive any Federal grant funding as long as the covered entity uses a covered logistics platform. 
+ 
+ “(b)  Guidance .— The Secretary of Transportation shall— 137 STAT. 333 “(1)  Notification. Notice. notify covered entities of the prohibition in subsection (a) as soon as practicable, including notice of funding opportunities for grant programs; and 
+ “(2)  Web posting. Updates. List. publish on a website of the Department of Transportation, and update regularly, a list of covered logistics platforms subject to the prohibition in subsection (a). 
+ 
+ “(c)  Consultation .— In carrying out this section, the Secretary shall consult with— “(1)  the Secretary of Defense; 
+ “(2)  the Secretary of the Department in which the Coast Guard is operating; 
+ “(3)  the Secretary of State; and 
+ “(4)  the Secretary of Commerce. 
+ 
+ “(d)  Waiver .— The Secretary of Transportation, in consultation with the Secretary of Defense, may waive the provisions of this section for a specific contract if the Secretary of Transportation— “(1)  Determination. makes a determination that such waiver is vital to the national security of the United States; and 
+ “(2)  Reports. submits to Congress a report justifying the use of such waiver and the importance of such waiver to the national security of the United States. 
+ 
+ “(e)  Definitions .— In this section: “(1)  China. Covered logistics platform .— The term ‘ covered logistics platform ’ means a data exchange platform that utilizes or provides, in part or whole— “(A)  the national transportation logistics public information platform (commonly referred to as ‘LOGINK’) provided by the People’s Republic of China, or departments, ministries, centers, agencies, or instrumentalities of the Government of the People’s Republic of China; 
+ “(B)  any national transportation logistics information platform provided by or sponsored by the People’s Republic of China, or a controlled commercial entity; or 
+ “(C)  a similar system provided by Chinese state-affiliated entities. 
+ 
+ “(2)  Covered entity .— The term ‘ covered entity ’ means— “(A)  a port authority that receives funding after the date of the enactment of this section under— “(i)  the port infrastructure development program under section 54301; 
+ “(ii)  the maritime transportation system emergency relief program under section 50308; or 
+ “(iii)  any Federal grant funding program; 
+ 
+ “(B)  any marine terminal operator located on property owned by a port authority as described in subparagraph (A) or at a seaport described in subparagraph (D); 
+ “(C)  any agency or instrumentality of the United States Government or that of a State; or 
+ “(D)  a commercial strategic seaport within the National Port Readiness Network.” 
+ 
+ 
+ 
+ . 
+ (2)  Clerical amendment .— The analysis for  chapter 503 of title 46, United States Code , 46 USC  prec. 50301.   is amended  by  adding  at the end the following new item: 
+ 
+ “50309.  
+ Securing logistics information data of the United States.”. 
+ 
+ 
+ (3)  Effective date. Applicability .— Section 50309 of title 46, United States Code , as added by paragraph (1), shall apply with respect  137 STAT. 334 
+to any contract entered into on or after the date that is 180 days after the date of the enactment of this subsection. 
+ (4)  Time periods. Reporting .— Not later than one year after the date of the enactment of this subsection, and annually for three subsequent years, the Secretary of Transportation shall submit to Congress a report on the implementation of  section 50309 of title 46, United States Code , as added by paragraph (1). 
+ 
+ (c)  President. Negotiations With Allies and Partners .— (1)  Determination. Negotiations required .— The Secretary of State shall seek to enter into negotiations with United States ally and partner countries, including those described in paragraph (3), if the President determines that ports or other entities operating within the jurisdiction of such ally or partner countries are using or are considering using a covered logistics platform. 
+ (2)  Elements .— As part of the negotiations described in paragraph (1), the President shall— (A)  urge governments of such ally and partner countries to require entities within the jurisdiction of such governments to terminate the use of a covered logistics platform; 
+ (B)  describe the threats posed by a covered logistics platform to United States military and strategic interests and the implications such threats may have for the presence of members of the Armed Forces of the United States in such countries; 
+ (C)  urge governments to use their voice, influence, and vote to align with the United States and to counter attempts by foreign adversaries at international standards-setting bodies to adopt standards that incorporate a covered logistics platform; and 
+ (D)  attempt to establish, through multilateral entities, bilateral or multilateral negotiations, military cooperation, and other relevant engagements or agreements, a prohibition on the use of a covered logistics platform. 
+ 
+ (3)  Allies and partners described .— The countries and entities with which the President shall conduct negotiations described in this subsection shall include— (A)  all countries party to a collective defense treaty or other collective defense arrangement with the United States; 
+ (B)  India. India; and 
+ (C)  Taiwan. Taiwan. 
+ 
+ (4)  Report .— Not later than one year after the date of the enactment of this subsection, the Secretary of State shall submit a report to the appropriate congressional committees describing— (A)  the efforts made by the United States Government as of the date of the submission of the report in the negotiations described in this subsection; and 
+ (B)  the actions taken by the governments of ally and partner countries pursuant to the negotiation priorities described in this subsection. 
+ 
+ 
+ (d)  Definitions .— In this section: (1)  Appropriate congressional committees .— The term “ appropriate congressional committees ” means— 137 STAT. 335 (A)  the Committees on Armed Services, Foreign Affairs, and Transportation and Infrastructure of the House of Representatives; and 
+ (B)  the Committees on Armed Services, Foreign Relations, and Commerce, Science, and Transportation of the Senate. 
+ 
+ (2)  Covered logistics platform .— The term “ covered logistics platform ” has the meaning given in  section 50309 of title 46, United States Code , as added by this section. 
+ (3)  Country listing. Foreign adversary .— The term “ foreign adversary ” means— (A)  the People’s Republic of China, including the Hong Kong and Macau Special Administrative Regions; 
+ (B)  the Republic of Cuba; 
+ (C)  the Islamic Republic of Iran; 
+ (D)  the Democratic People’s Republic of Korea; 
+ (E)  the Russian Federation; and 
+ (F)  Nicolás Maduro Moros. the Bolivarian Republic of Venezuela under the regime of Nicolás Maduro Moros.

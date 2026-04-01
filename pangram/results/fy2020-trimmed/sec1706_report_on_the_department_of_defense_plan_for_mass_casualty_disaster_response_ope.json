@@ -1,0 +1,36 @@
+{
+  "text": "Report on the department of defense plan for mass-casualty disaster response operations in the arctic. (a) Sense of Congress . It is the sense of Congress that - (1) the Department of Defense may be called upon to support the Coast Guard and other agencies of the Department of Homeland Security in responding to any mass-casualty disaster response operations in the Arctic; \n (2) coordination between the Department of Defense and the Coast Guard might be necessary for responding to a mass-casualty event in the Arctic; and \n (3) prior planning for Arctic mass-casualty disaster response operations will bolster the response of the Federal Government to a mass-casualty disaster in the Arctic environment. \n \n (b) Coordination. Report . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to the appropriate committees of Congress a report on the plan of the Department of Defense for assisting mass-casualty disaster response operations in the Arctic. \n (c) Elements . The report required by subsection (b) shall include the following: (1) A description of the assets that could be made available to support other agencies and departments of the Federal Government for mass-casualty disaster response operations in the Arctic. \n (2) Assessment. A description and assessment of the command, control, and coordination relationships that would be useful to integrate rescue forces for such operations from multiple agencies and departments of the Federal Government. \n (3) Assessment. A description and assessment of the communications assets that could be made available in support of other agencies and departments of the Federal Government for communication and coordination in such operations. \n (4) A description of any cooperative arrangements with Canada and other regional partners in providing rescue assets and infrastructure in connection with such operations. \n (5) A description of available medical infrastructure and assets that could be made available in support of other agencies and departments of the Federal Government for aeromedical evacuation in connection with such operations. \n (6) A description of available shelter locations that could be made available in support of other agencies and departments of the Federal Government for use in connection with such operations, including the number of people that can be sheltered per location. \n (7) Assessment. An assessment of logistical challenges that evacuations from the Arctic in connection with such operations entail, including potential rotary and fixed-wing aircraft trans-load locations and onward movement requirements. \n \n (d) Appropriate Committees of Congress Defined . In this section, the term \u201c appropriate committees of Congress \u201d means - (1) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and \n (2) the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on the department of defense plan for mass-casualty disaster response operations in the arctic. (a) Sense of Congress . It is the sense of Congress that - (1) the Department of Defense may be called upon to support the Coast Guard and other agencies of the Department of Homeland Security in responding to any mass-casualty disaster response operations in the Arctic; \n (2) coordination between the Department of Defense and the Coast Guard might be necessary for responding to a mass-casualty event in the Arctic; and \n (3) prior planning for Arctic mass-casualty disaster response operations will bolster the response of the Federal Government to a mass-casualty disaster in the Arctic environment. \n \n (b) Coordination. Report . Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to the appropriate committees of Congress a report on the plan of the Department of Defense for assisting mass-casualty disaster response operations in the Arctic. \n (c) Elements . The report required by subsection (b) shall include the following: (1) A description of the assets that could be made available to support other agencies and departments of the Federal Government for mass-casualty disaster response operations in the Arctic. \n (2) Assessment. A description and assessment of the command, control, and coordination relationships that would be useful to integrate rescue forces for such operations from multiple agencies and departments of the Federal Government. \n (3) Assessment. A description and assessment of the communications assets that could be made available in support of other agencies and departments of the Federal Government for communication and coordination in such operations. \n (4) A description of any cooperative arrangements with Canada and other regional partners in providing rescue assets and infrastructure in connection with such operations. \n (5) A description of available medical infrastructure and assets that could be made available in support of other agencies and departments of the Federal Government for aeromedical evacuation in connection with such operations. \n (6) A description of available shelter locations that could be made available in support of other agencies and departments of the Federal Government for use in connection with such operations, including the number of people that can be sheltered per location.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008488418906927109,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2476,
+      "word_count": 374,
+      "token_length": 480
+    },
+    {
+      "text": " \n (7) Assessment. An assessment of logistical challenges that evacuations from the Arctic in connection with such operations entail, including potential rotary and fixed-wing aircraft trans-load locations and onward movement requirements. \n \n (d) Appropriate Committees of Congress Defined . In this section, the term \u201c appropriate committees of Congress \u201d means - (1) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and \n (2) the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008807389376064142,
+      "confidence": "High",
+      "start_index": 2476,
+      "end_index": 3138,
+      "word_count": 94,
+      "token_length": 135
+    }
+  ],
+  "_submission_type": "solo"
+}

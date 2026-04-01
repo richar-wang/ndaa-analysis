@@ -1,0 +1,36 @@
+{
+  "text": "Report on treaties relating to nuclear arms control. (a) Findings . Congress finds the following: (1) On October 24, 2018, the House Committee on Armed Services and House Committee on Foreign Affairs wrote to the Secretary of Defense requesting information regarding the Administration\u2019s policies and strategies related to nuclear arms control. \n (2) The Committees did not receive the requested information from the Secretary of Defense. \n \n (b) Consultation. Assessment Required . Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall submit to the Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate an assessment that includes each of the following: (1) The implications, in terms of military threat to the United States or its allies in Europe, of Russian deployment of intermediate-range cruise and ballistic missiles without restriction. \n (2) What new capabilities the United States might need in order to pursue additional technologies or programs to offset \nsuch Russian capabilities, and the costs associated with such capabilities, technologies, and programs. \n (3) An assessment of the threat to the United States of Russia\u2019s strategic nuclear force in the event the New START Treaty lapses. \n (4) What measures could have been taken short of withdrawal, including economic, military, and diplomatic options, to increase pressure on Russia for violating the INF Treaty. \n (5) Consultations. The status of all consultations with allies pertaining to the INF Treaty and the threat posed by Russian forces that are noncompliant with the obligations of such treaty. \n (6) The impact that Russian withdrawal from the INF Treaty and the expiration of the New START Treaty could have on long-term United States-Russia strategic stability. \n \n (c) Withholding of Funds . Until the date of the submission of the assessment required by subsection (b), an amount that is equal to 20 percent of the total amount authorized to be appropriated to the Office of the Secretary of Defense under the Operations and Maintenance, Defense-Wide account for the travel of persons shall be withheld from obligation or expenditure. \n (d) Definitions . In this section: (1) New start treaty . The term \u201c New START Treaty \u201d means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed at Prague April 8, 2010, and entered into force February 5, 2011. \n (2) Inf treaty . The term \u201c INF Treaty \u201d means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, signed at Washington December 8, 1987, and entered into force June 1, 1988.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on treaties relating to nuclear arms control. (a) Findings . Congress finds the following: (1) On October 24, 2018, the House Committee on Armed Services and House Committee on Foreign Affairs wrote to the Secretary of Defense requesting information regarding the Administration\u2019s policies and strategies related to nuclear arms control. \n (2) The Committees did not receive the requested information from the Secretary of Defense. \n \n (b) Consultation. Assessment Required . Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall submit to the Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate an assessment that includes each of the following: (1) The implications, in terms of military threat to the United States or its allies in Europe, of Russian deployment of intermediate-range cruise and ballistic missiles without restriction. \n (2) What new capabilities the United States might need in order to pursue additional technologies or programs to offset \nsuch Russian capabilities, and the costs associated with such capabilities, technologies, and programs. \n (3) An assessment of the threat to the United States of Russia\u2019s strategic nuclear force in the event the New START Treaty lapses. \n (4) What measures could have been taken short of withdrawal, including economic, military, and diplomatic options, to increase pressure on Russia for violating the INF Treaty. \n (5) Consultations. The status of all consultations with allies pertaining to the INF Treaty and the threat posed by Russian forces that are noncompliant with the obligations of such treaty. \n (6) The impact that Russian withdrawal from the INF Treaty and the expiration of the New START Treaty could have on long-term United States-Russia strategic stability. \n \n (c) Withholding of Funds . Until the date of the submission of the assessment required by subsection (b), an amount that is equal to 20 percent of the total amount authorized to be appropriated to the Office of the Secretary of Defense under the Operations and Maintenance, Defense-Wide account for the travel of persons shall be withheld from obligation or expenditure.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005381416995078325,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2475,
+      "word_count": 380,
+      "token_length": 491
+    },
+    {
+      "text": " \n (d) Definitions . In this section: (1) New start treaty . The term \u201c New START Treaty \u201d means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed at Prague April 8, 2010, and entered into force February 5, 2011. \n (2) Inf treaty . The term \u201c INF Treaty \u201d means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, signed at Washington December 8, 1987, and entered into force June 1, 1988.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005157054401934147,
+      "confidence": "High",
+      "start_index": 2475,
+      "end_index": 3093,
+      "word_count": 104,
+      "token_length": 154
+    }
+  ],
+  "_submission_type": "solo"
+}

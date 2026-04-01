@@ -1,0 +1,18 @@
+SEC. 843.  OTHER TRANSACTION AUTHORITY CLARIFICATION.    Section 4022 of title 10, United States Code , as amended by section 842, is further amended— (1)  in subsection (a)(1), by  striking  “ military personnel and the supporting ” and  inserting  “ personnel of the Department of Defense or improving ”; 
+ (2)  Definition. in subsection (e), by  adding  at the end the following new paragraph: “(5)  The term ‘ prototype project ’ includes a project that addresses— “(A)  a proof of concept, model, or process, including a business process; 
+ “(B)  reverse engineering to address obsolescence; 
+ “(C)  a pilot or novel application of commercial technologies for defense purposes; 
+ “(D)  agile development activity; 
+ “(E)  the creation, design, development, or demonstration of operational utility; or 136 STAT. 2719 
+ “(F)  any combination of subparagraphs (A) through (E).” 
+ 
+ ; and 
+ (3)  by  adding  at the end the following new subsection: “(i)  Pilot Authority for Use of Other Transactions for Installation or Facility Prototyping .— “(1)  In general .— The Secretary of Defense or the Secretary of a military department may establish a pilot program under which the Secretary may, under the authority of this section, carry out prototype projects that are directly relevant to enhancing the ability of the Department of Defense to prototype the design, development, or demonstration of new construction techniques or technologies to improve military installations or facilities (as such terms are defined in section 2801 of this title). 
+ “(2)  Limits .— In carrying out prototype projects under the pilot program established under paragraph (1)— “(A)  not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and 
+ “(B)  the aggregate value of all transactions entered into under such pilot program may not exceed $200,000,000. 
+ 
+ “(3)  Sunset .— “(A)  In general .— Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2025. 
+ “(B)  Ongoing project exception .— Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).” 
+ 
+ 
+ .

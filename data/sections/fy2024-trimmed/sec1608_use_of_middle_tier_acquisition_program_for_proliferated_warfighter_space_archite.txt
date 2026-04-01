@@ -1,0 +1,15 @@
+SEC. 1608.  Deadlines. 10 USC 2271 note . USE OF MIDDLE TIER ACQUISITION PROGRAM FOR PROLIFERATED WARFIGHTER SPACE ARCHITECTURE OF THE SPACE DEVELOPMENT AGENCY. (a)  In General .— The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following  137 STAT. 588 
+tranches of the of the proliferated warfighter space architecture of the Agency: (1)  Tranch 1. 
+ (2)  Tranch 2. 
+ (3)  Tranch 3. 
+ 
+ (b)  Rapid Prototyping and Fielding .— Any tranche of satellites or associated systems developed and fielded under subsection (a) shall have a level of maturity that allows such satellites or systems to be rapidly prototyped within an acquisition program or rapidly fielded within five years of the development of an approved requirement for such satellites or systems. 
+ (c)  Designation as Major Capability Acquisition .— (1)  In general .— The Under Secretary of Defense for Acquisition and Sustainment may designate a tranche described in subsection (a) as a major capability acquisition program consistent with Department of Defense Instruction 5000.85, titled “Major Capability Acquisition” and issued on August 6, 2020 (or a successor instruction). 
+ (2)  Notice to congress .— Not later than 90 days before the date on which a designation under paragraph (1) is made, the Under Secretary of Defense for Acquisition and Sustainment shall notify the congressional defense committees of the intent of the Under Secretary to make such designation and include with such notice a justification for such designation. 
+ 
+ (d)  Space Acquisition Council Review and Waiver .— (1)  Review .— In accordance with  section 9021 of title 10, United States Code , the Space Acquisition Council shall review each tranch described subsection (a) to ensure integration across the national security space enterprise. 
+ (2)  Waiver .— The Space Acquisition Council may waive the requirements of subsection (a) with respect to a tranch or portion of a tranch described in such subsection if the Council— (A)  Determination. on the basis of the review conducted under paragraph (1), determines that the use of a middle tier acquisition program is not warranted for such tranch or portion thereof; and 
+ (B)  Notice. not later than 14 days after making such determination, submits to the congressional defense committees notice of the intent of the Council to issue such a waiver. 
+ 
+ 
+ (e)  Middle Tier Acquisition Program Defined .— In this section, the term “ middle tier acquisition program ” means an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ;  10 U.S.C. 3201 note  prec.) in a manner consistent with Department of Defense Instruction 5000.80, titled “Operation of the Middle Tier of Acquisition (MTA)” and issued on December 30, 2019 (or a successor instruction).

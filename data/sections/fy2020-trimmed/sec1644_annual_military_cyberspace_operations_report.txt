@@ -1,0 +1,11 @@
+SEC. 1644.  10 USC 394 note . ANNUAL MILITARY CYBERSPACE OPERATIONS REPORT. (a)  In General .— Not later than March 1 of each year, the Secretary of Defense shall provide to the congressional defense committees a written report summarizing all named military cyberspace operations conducted in the previous calendar year, including cyber effects, operations, cyber effects enabling operations, and cyber operations conducted as defensive operations. Each such summary should be organized by adversarial country and should include the following for each named operation: (1)  An identification of the objective and purpose. 
+ (2)  Descriptions of the impacted countries, organizations, or forces, and nature of the impact. 133 STAT. 1753 
+ (3)  A description of methodologies used for the cyber effects operation or cyber effects enabling operation. 
+ (4)  An identification of the Cyber Mission Force teams, or other Department of Defense entity or units, that conducted such operation, and supporting teams, entities, or units. 
+ (5)  An identification of the infrastructures on which such operations occurred. 
+ (6)  A description of relevant legal, operational, and funding authorities. 
+ (7)  Additional costs beyond baseline operations and maintenance and personnel costs directly associated with the conduct of the cyber effects operation or cyber effects enabling operation. 
+ (8)  Any other matters the Secretary determines relevant. 
+ 
+ (b)  Classification .— The Secretary of Defense shall provide each report required under subsection (a) at a classification level the Secretary determines appropriate. 
+ (c)  Limitation .— This section does not apply to cyber-enabled military information support operations or military deception operations.

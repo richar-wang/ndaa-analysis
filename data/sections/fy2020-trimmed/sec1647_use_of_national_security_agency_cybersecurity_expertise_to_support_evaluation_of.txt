@@ -1,0 +1,15 @@
+SEC. 1647.  10 USC 2224 note . USE OF NATIONAL SECURITY AGENCY CYBERSECURITY EXPERTISE TO SUPPORT EVALUATION OF COMMERCIAL CYBERSECURITY PRODUCTS. (a)  Advisory Mission .— The National Security Agency shall, as a mission in its role in securing the information systems of the Department of Defense, advise and assist the Department of Defense in its evaluation and adoption of cybersecurity products and services from industry, especially the commercial cybersecurity sector. 
+ (b)  Program to Improve Acquisition of Cybersecurity Products and Services .— (1)  Establishment .— Consistent with subsection (a), the Director of the National Security Agency shall establish a permanent program consisting of market research, testing, and expertise transmission, or augments to existing programs, to improve the evaluation by the Department of Defense of cybersecurity products and services. 133 STAT. 1755 
+ (2)  Requirements .— Under the program established pursuant to paragraph (1), the Director shall, independently and at the request of the components of the Department of Defense— (A)  Test. test and evaluate commercially available cybersecurity products and services using— (i)  generally known cyber operations techniques; and 
+ (ii)  tools and cyber operations techniques and advanced tools and techniques available to the National Security Agency; 
+ 
+ (B)  Procedures. develop and establish standard procedures, techniques, and threat-informed metrics to perform the testing and evaluation required by subparagraph (A); and 
+ (C)  advise the Chief Information Officer and the components of the Department of Defense on the merits and disadvantages of evaluated cybersecurity products, including with respect to— (i)  any synergies between products; 
+ (ii)  value; 
+ (iii)  matters relating to operation and maintenance; and 
+ (iv)  matters relating to customization requirements. 
+ 
+ 
+ (3)  Limitations .— The program established under paragraph (1) may not— (A)  by used to accredit cybersecurity products and services for use by the Department; 
+ (B)  create approved products lists; or 
+ (C)  be used for the procurement and fielding of cybersecurity products on behalf of the Department.

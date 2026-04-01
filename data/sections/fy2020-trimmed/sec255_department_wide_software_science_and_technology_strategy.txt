@@ -1,0 +1,23 @@
+SEC. 255.  10 USC 2223a note . DEPARTMENT-WIDE SOFTWARE SCIENCE AND TECHNOLOGY STRATEGY. (a)  Deadline. Consultation. Designation of Senior Official .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense,  133 STAT. 1289 
+acting through the Under Secretary of Defense for Research and Engineering and in consultation with the Under Secretary of Defense for Acquisition and Sustainment and appropriate public and private sector organizations, shall designate a single official or existing entity within the Department of Defense as the official or entity (as the case may be) with principal responsibility for guiding the development of science and technology activities related to next generation software and software reliant systems for the Department, including— (1)  research and development activities on new technologies for the creation of highly secure, scalable, reliable, time-sensitive, and mission-critical software; 
+ (2)  research and development activities on new approaches and tools to software development and deployment, testing, integration, and next generation software management tools to support the rapid insertion of such software into defense systems; 
+ (3)  foundational scientific research activities to support advances in software; 
+ (4)  technical workforce and infrastructure to support defense science and technology and software needs and mission requirements; 
+ (5)  providing capabilities, including technologies, systems, and technical expertise to support improved acquisition of software reliant business and warfighting systems; and 
+ (6)  providing capabilities, including technologies, systems, and technical expertise to support defense operational missions which are reliant on software. 
+ 
+ (b)  Development of Strategy .— The official or entity designated under subsection (a) shall develop a Department-wide strategy for the research and development of next generation software and software reliant systems for the Department of Defense, including strategies for— (1)  types of software-related activities within the science and technology portfolio of the Department; 
+ (2)  investment in new approaches to software development and deployment, and next generation management tools; 
+ (3)  ongoing research and other support of academic, commercial, and development community efforts to innovate the software development, engineering, and testing process, automated testing, assurance and certification for safety and mission critical systems, large scale deployment, and sustainment; 
+ (4)  to the extent practicable, implementing or continuing the implementation of the recommendations set forth in— (A)  the final report of the Defense Innovation Board submitted to the congressional defense committees under section 872 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 115–91 ;  131 Stat. 1497 ); 
+ (B)  the final report of the Defense Science Board Task Force on the Design and Acquisition of Software for Defense Systems described in section 868 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  10 U.S.C. 2223 note ); and 
+ (C)  other relevant studies on software research, development, and acquisition activities of the Department of Defense. 133 STAT. 1290 
+ 
+ (5)  supporting the acquisition, technology development, testing, assurance, and certification and operational needs of the Department through the development of capabilities, including personnel and research and production infrastructure, and programs in— (A)  the science and technology reinvention laboratories (as designated under section 1105 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111–84 ;  10 U.S.C. 2358 note )); 
+ (B)  the facilities of the Major Range and Test Facility Base (as defined in  section 2358a(f)(3) of title 10, United States Code ); 
+ (C)  the Defense Advanced Research Projects Agency; and 
+ (D)  universities, federally funded research and development centers, and service organizations with activities in software engineering; and 
+ 
+ (6)  the transition of relevant capabilities and technologies to relevant programs of the Department, including software-reliant cyber-physical systems, tactical systems, enterprise systems, and business systems. 
+ 
+ (c)  Deadline. Submittal to Congress .— Not later than one year after the date of the enactment of this Act, the official or entity designated under subsection (a) shall submit to the congressional defense committees the strategy developed under subsection (b).

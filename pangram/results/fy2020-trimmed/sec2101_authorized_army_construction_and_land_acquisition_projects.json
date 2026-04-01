@@ -1,0 +1,36 @@
+{
+  "text": "Authorized army construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2103(a) and available for military construction projects inside the United \nStates as specified in the funding table in section 4601, the Secretary of the Army may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n Army: Inside the United States \n \n \n \n \n State Installation Amount \n Alabama Redstone Arsenal $38,000,000 \n Colorado Fort Carson $71,000,000 \n Georgia Fort Gordon $107,000,000 \n Hunter Army Airfield $62,000,000 \n Kentucky Fort Campbell $61,300,000 \n Massachusetts U.S. Army Natick Soldier Systems Center $50,000,000 \n Michigan Detroit Arsenal $24,000,000 \n New York Fort Drum $44,000,000 \n North Carolina Fort Bragg $12,500,000 \n Oklahoma Fort Sill $73,000,000 \n Pennsylvania Carlisle Barracks $98,000,000 \n South Carolina Fort Jackson $88,000,000 \n Texas Corpus Christi Army Depot $86,000,000 \n Fort Hood $50,500,000 \n Virginia Fort Belvoir $60,000,000 \n Joint Base Langley-Eustis $55,000,000 \n Washington Joint Base Lewis-McChord $46,000,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2103(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of the Army may acquire real property and carry out the military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Army: Outside the United States \n \n \n \n \n Country Installation Amount \n Honduras Soto Cano Air Base $34,000,000 \n Kwajalein Kwajalein Atoll $40,000,000 \n \n (c) Study of Near-term Facility Alternatives to House High Value Detainees . (1) Study required . The Secretary of Defense shall conduct a study of alternatives to meet the near-term facility requirements to safely and humanely house high value detainees current detained at Naval Station Guantanamo Bay, Cuba. As part of the study, the Secretary shall consider the following alternatives: (A) The construction of new facilities. \n (B) The repair of current facilities. \n (C) The renovation and repurposing of other facilities at Naval Station Guantanamo Bay, Cuba. \n (D) Such other alternatives as the Secretary considers practicable. \n \n (2) Reports. Submission of results . Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report containing the results of the study conducted under paragraph (1). The report shall be unclassified, but may include a classified annex.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Authorized army construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2103(a) and available for military construction projects inside the United \nStates as specified in the funding table in section 4601, the Secretary of the Army may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n Army: Inside the United States \n \n \n \n \n State Installation Amount \n Alabama Redstone Arsenal $38,000,000 \n Colorado Fort Carson $71,000,000 \n Georgia Fort Gordon $107,000,000 \n Hunter Army Airfield $62,000,000 \n Kentucky Fort Campbell $61,300,000 \n Massachusetts U.S. Army Natick Soldier Systems Center $50,000,000 \n Michigan Detroit Arsenal $24,000,000 \n New York Fort Drum $44,000,000 \n North Carolina Fort Bragg $12,500,000 \n Oklahoma Fort Sill $73,000,000 \n Pennsylvania Carlisle Barracks $98,000,000 \n South Carolina Fort Jackson $88,000,000 \n Texas Corpus Christi Army Depot $86,000,000 \n Fort Hood $50,500,000 \n Virginia Fort Belvoir $60,000,000 \n Joint Base Langley-Eustis $55,000,000 \n Washington Joint Base Lewis-McChord $46,000,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2103(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of the Army may acquire real property and carry out the military construction projects for the installations",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005840460971618692,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1647,
+      "word_count": 219,
+      "token_length": 496
+    },
+    {
+      "text": " or locations outside the United States, and in the amounts, set forth in the following table: \n Army: Outside the United States \n \n \n \n \n Country Installation Amount \n Honduras Soto Cano Air Base $34,000,000 \n Kwajalein Kwajalein Atoll $40,000,000 \n \n (c) Study of Near-term Facility Alternatives to House High Value Detainees . (1) Study required . The Secretary of Defense shall conduct a study of alternatives to meet the near-term facility requirements to safely and humanely house high value detainees current detained at Naval Station Guantanamo Bay, Cuba. As part of the study, the Secretary shall consider the following alternatives: (A) The construction of new facilities. \n (B) The repair of current facilities. \n (C) The renovation and repurposing of other facilities at Naval Station Guantanamo Bay, Cuba. \n (D) Such other alternatives as the Secretary considers practicable. \n \n (2) Reports. Submission of results . Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report containing the results of the study conducted under paragraph (1). The report shall be unclassified, but may include a classified annex.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004782518337446231,
+      "confidence": "High",
+      "start_index": 1647,
+      "end_index": 2868,
+      "word_count": 183,
+      "token_length": 292
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,13 @@
+SEC. 6743.  BUG BOUNTY PROGRAMS. (a)  Definitions .— In this section: (1)  Appropriate committees of congress .— The term “ appropriate committees of Congress ” means— (A)  the congressional intelligence committees; 
+ (B)  the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and 
+ (C)  the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives. 
+ 
+ (2)  Bug bounty program .— The term “ bug bounty program ” means a program under which an approved computer security specialist or security researcher is temporarily authorized to identify and report vulnerabilities within the information system of an agency or department of the United States in exchange for compensation. 
+ (3)  Information system .— The term “ information system ” has the meaning given that term in  section 3502 of title 44, United States Code . 
+ 
+ (b)  Bug Bounty Program Plan .— 133 STAT. 2241 
+ (1)  Deadline. Consultation. Requirement .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit to appropriate committees of Congress a strategic plan for appropriate agencies and departments of the United States to implement bug bounty programs. 
+ (2)  Contents .— The plan required by paragraph (1) shall include— (A)  Assessment. an assessment of— (i)  the “Hack the Pentagon” pilot program carried out by the Department of Defense in 2016 and subsequent bug bounty programs in identifying and reporting vulnerabilities within the information systems of the Department of Defense; and 
+ (ii)  private sector bug bounty programs, including such programs implemented by leading technology companies in the United States; and 
+ 
+ (B)  Recommenda- tions. recommendations on the feasibility of initiating bug bounty programs at appropriate agencies and departments of the United States.

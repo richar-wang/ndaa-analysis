@@ -1,0 +1,36 @@
+{
+  "text": "Deadlines. Independent study on policy of no-first-use of nuclear weapons. (a) Contracts. Study . Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall seek to enter into a contract with a federally funded research and development center to conduct a study on the United States adopting a policy to not use nuclear weapons first. \n (b) Assessments. Matters Included . The study under subsection (a) shall include the following: (1) An assessment of the benefits and risks of adopting a policy to not use nuclear weapons first to reduce the risk of miscalculation in a crisis. \n (2) An assessment of the views of the allies of the United States with respect to the United States adopting such a policy, including whether, and if so how, any concerns regarding such a policy could be mitigated, including the value of engaging such allies to offer credible extended deterrence assurances. \n (3) An assessment of which foreign countries have stated or adopted such a policy, including the credibility of any such policies and how they affect planning and operations. \n (4) An assessment of how adversaries of the United States might view a declaration of such a policy. \n (5) An assessment of the benefits and risks of such a policy with respect to nuclear nonproliferation. \n (6) An assessment of changes in force posture and force requirements, if any, and costs or savings, that such a policy would require or allow. \n (7) Any other matters the Secretary determines appropriate. \n \n (c) Submission to DOD . Not later than 240 days after the date of the enactment of this Act, the federally funded research and development center shall submit to the Secretary the study under subsection (a). \n (d) Submission to Congress . (1) Interim briefing . Not later than 120 days after the date of the enactment of this Act, the Secretary shall provide to the appropriate congressional committees an interim briefing on the study under subsection (a). \n (2) Study . Not later than 270 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees the study under subsection (a), without change. \n \n (e) Form . The study under subsection (a) shall be submitted under subsections (c) and (d)(2) in unclassified form, but may include a classified annex. \n (f) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the congressional defense committees; and \n (2) the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Deadlines. Independent study on policy of no-first-use of nuclear weapons. (a) Contracts. Study . Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall seek to enter into a contract with a federally funded research and development center to conduct a study on the United States adopting a policy to not use nuclear weapons first. \n (b) Assessments. Matters Included . The study under subsection (a) shall include the following: (1) An assessment of the benefits and risks of adopting a policy to not use nuclear weapons first to reduce the risk of miscalculation in a crisis. \n (2) An assessment of the views of the allies of the United States with respect to the United States adopting such a policy, including whether, and if so how, any concerns regarding such a policy could be mitigated, including the value of engaging such allies to offer credible extended deterrence assurances. \n (3) An assessment of which foreign countries have stated or adopted such a policy, including the credibility of any such policies and how they affect planning and operations. \n (4) An assessment of how adversaries of the United States might view a declaration of such a policy. \n (5) An assessment of the benefits and risks of such a policy with respect to nuclear nonproliferation. \n (6) An assessment of changes in force posture and force requirements, if any, and costs or savings, that such a policy would require or allow. \n (7) Any other matters the Secretary determines appropriate. \n \n (c) Submission to DOD . Not later than 240 days after the date of the enactment of this Act, the federally funded research and development center shall submit to the Secretary the study under subsection (a). \n (d) Submission to Congress . (1) Interim briefing . Not later than 120 days after the date of the enactment of this Act, the Secretary shall provide to the appropriate congressional committees an interim briefing on the study under subsection (a). \n (2) Study . Not later than 270 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees the study under subsection (a), without change. \n \n (e) Form . ",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006601288740057498,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2203,
+      "word_count": 365,
+      "token_length": 492
+    },
+    {
+      "text": "The study under subsection (a) shall be submitted under subsections (c) and (d)(2) in unclassified form, but may include a classified annex. \n (f) Appropriate Congressional Committees Defined . In this section, the term \u201c appropriate congressional committees \u201d means - (1) the congressional defense committees; and \n (2) the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.00594010545561711,
+      "confidence": "High",
+      "start_index": 2203,
+      "end_index": 2642,
+      "word_count": 66,
+      "token_length": 95
+    }
+  ],
+  "_submission_type": "solo"
+}

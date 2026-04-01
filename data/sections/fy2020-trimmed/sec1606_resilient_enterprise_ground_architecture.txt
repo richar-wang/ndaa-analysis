@@ -1,0 +1,9 @@
+SEC. 1606.  10 USC 2271 note . RESILIENT ENTERPRISE GROUND ARCHITECTURE. (a)  Sense of Congress .— It is the sense of Congress that the Secretary of the Air Force, to advance the security of the space assets of the Department of Defense, should— (1)  expand on complementary efforts within the Air Force that promote the adoption of a resilient enterprise ground architecture that is responsive to new and changing threats and can rapidly integrate new capabilities to make the warfighting force of the United States more resilient in a contested battlespace; and 
+ (2)  prioritize the swift transition of space ground architecture to a common platform and leverage commercial capabilities in concurrence with the 2015 intent memorandum of the Commander of the Air Force Space Command. 
+ 
+ (b)  Future Architecture .— The Secretary of Defense shall, to the extent practicable— (1)  develop future satellite ground architectures of the Department of Defense to be compatible with complementary commercial systems that can support uplink and downlink capabilities with dual-band spacecraft; and 
+ (2)  emphasize that future ground architecture transition away from stove-piped systems to a service-based platform that provides members of the Armed Forces with flexible and adaptable capabilities that— (A)  use, as applicable, commercially available capabilities and technologies for increased resiliency and cost savings; and 
+ (B)  build commercial opportunity and integration across the range of resilient space systems. 
+ 
+ 
+ (c)  Report .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the future architecture described in subsection (b).

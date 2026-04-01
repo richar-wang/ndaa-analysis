@@ -1,0 +1,15 @@
+SEC. 232.  10 USC 2358 note . PROCESS TO ALIGN POLICY FORMULATION AND EMERGING TECHNOLOGY DEVELOPMENT. (a)  Alignment of Policy and Technological Development .— Not later Deadline.  than 180 days after the date of the enactment of this Act, the Secretary of Defense shall establish a process to ensure that the policies of the Department of Defense relating to emerging technology are formulated and updated continuously as such technology is developed by the Department. 
+ (b)  Elements .— As part of the process established under subsection (a), the Secretary shall— (1)  specify the role of each covered official in ensuring that the formulation of policies relating to emerging technology is carried out concurrently with the development of such technology; and 
+ (2)  Procedures. incorporate procedures for the continuous legal review of— (A)  weapons and other defense systems that incorporate or use emerging technology; and 
+ (B)  treaties that may be affected by such technology. 
+ 
+ 
+ (c)  Deadline. Briefing Required .— Not later than 30 days after the date on which the Secretary of Defense establishes the process required under subsection (a), the Secretary shall provide to the congressional defense committees a briefing on such process. 
+ (d)  Definitions .— In this section: (1)  The term “ covered official ” means the following: (A)  The Chairman of the Joint Chiefs of Staff. 
+ (B)  The Under Secretary of Defense for Research and Engineering. 
+ (C)  The Under Secretary of Defense for Acquisition and Sustainment. 
+ (D)  The Under Secretary of Defense for Policy. 
+ (E)  The commanders of combatant commands with responsibilities involving the use of weapons or other defense systems that incorporate or use emerging technology, as determined by the Secretary of Defense. 
+ (F)  The Secretaries of the military departments. 
+ 
+ (2)  The term “ emerging technology ” means technology determined to be in an emerging phase of development by the Secretary of Defense, including quantum computing, technology for the analysis of large and diverse sets of data (commonly known as “big data analytics”), artificial intelligence, autonomous technology, robotics, directed energy, hypersonics, biotechnology, and such other technology as may be identified by the Secretary.

@@ -1,0 +1,11 @@
+SEC. 11228.  14 USC 504 note . CYBER DATA MANAGEMENT. (a)  In General .— The Commandant and the Director of the Cybersecurity and Infrastructure Security Agency shall— (1)  Procedures. develop policies, processes, and operating procedures governing— (A)  access to and the ingestion, structure, storage, and analysis of information and data relevant to the Coast Guard Cyber Mission, including— (i)  intelligence data relevant to Coast Guard missions; 
+ (ii)  internet traffic, topology, and activity data relevant to such missions; and 
+ (iii)  cyber threat information relevant to such missions; and 
+ 
+ (B)  data management and analytic platforms relating to such missions; and 
+ 
+ (2)  Evaluation. evaluate data management platforms referred to in paragraph (1)(B) to ensure that such platforms operate consistently with the Coast Guard Data Strategy. 
+ 
+ (b)  Report .— Not later than 1 year after the date of enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and  136 STAT. 4029 
+the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives a report that includes— (1)  Assessment. an assessment of the progress on the activities required by subsection (a); and 
+ (2)  Recommenda- tions. any recommendation with respect to funding or additional authorities necessary, including proposals for legislative change, to improve Coast Guard cyber data management.

@@ -1,0 +1,37 @@
+SEC. 223.  10 USC 4841 note . CONSORTIUM ON USE OF ADDITIVE MANUFACTURING FOR DEFENSE CAPABILITY DEVELOPMENT. (a)  Deadline. Establishment .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall establish a consortium to facilitate the use of additive manufacturing for the development of capabilities for the Department of Defense. The consortium shall be known as the “Consortium on Additive Manufacturing for Defense Capability Development” (referred to in this section as the “Consortium”). 
+ (b)  Composition .— The Consortium shall be composed of qualified organizations, selected by the Secretary of Defense, that have functions and expertise relevant to additive manufacturing. At a minimum, the Consortium shall include the following: (1)  Representation from one or more science and technology reinvention laboratories (as designated under  section 4121 of title 10, United States Code ) from each of the military departments, which may include— (A)  from the Department of the Army— (i)  the Combat Capabilities Development Command, Army Research Laboratory; 
+ (ii)  the Combat Capabilities Development Command, Aviation and Missile Center; 
+ (iii)  the Combat Capabilities Development Command, Armaments Center; 
+ (iv)  the Combat Capabilities Development Command, Ground Vehicle Systems Center; 
+ (v)  the Combat Capabilities Development Command, Soldier Center; 
+ (vi)  the Combat Capabilities Development Command, Chemical Biological Center; 
+ (vii)  the Combat Capabilities Development Command, Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance, and Reconnaissance Center; and 
+ (viii)  the Space and Missile Defense Command, Technical Center; 
+ (ix)  the Engineer Research and Development Center; 
+ (x)  the Medical Research and Development Command; and 
+ (xi)  the Army Research Institute for the Behavioral and Social Sciences; 
+ 
+ (B)  from the Department of the Navy— (i)  the Naval Research Laboratory; 
+ (ii)  the Office of Naval Research; 
+ (iii)  the Naval Air Systems Command Warfare Centers; 137 STAT. 192 
+ (iv)  the Naval Sea Systems Command Warfare Centers; 
+ (v)  the Naval Facilities Engineering Command, Engineering and Expeditionary Warfare Center; 
+ (vi)  the Naval Medical Research Center; and 
+ (vii)  the Naval Information Warfare Centers, Atlantic and Pacific; and 
+ 
+ (C)  from the Department of the Air Force— (i)  the Air Force Research Laboratory; and 
+ (ii)  the Joint Warfighting Analysis Center. 
+ 
+ 
+ (2)  Representation from one or more maintenance, logistics, or sustainment organizations from each of the military departments. 
+ (3)  One or more organizations from private sector industry. 
+ (4)  One or more institutions of higher education or other research institutions. 
+ 
+ (c)  Activities .— The Consortium shall— (1)  facilitate the use of additive manufacturing— (A)  to significantly reduce logistic footprints, material costs, and delivery lead-times; and 
+ (B)  to extended logistical supply chain dependencies that often challenge weapon system readiness for forward deployed warfighters; 
+ 
+ (2)  Standards. Certification process. develop standards and a certification process for the use of additive manufacturing in safety-critical applications, including additive material and part certification requirements for additive manufactured items intended for use in military vehicles; 
+ (3)  Evaluation. evaluate, adapt, or apply the standards developed in the commercial sector, or new process approaches for additive manufacturing that may be of use to the Department of Defense; 
+ (4)  as directed by an organization of the Department of Defense included in the Consortium, conduct reverse engineering (including testing and certification) for critical parts which may have limited sources of supply; 
+ (5)  use data standards, common repositories, and information security to track, store, and secure technical data relating to additive manufacturing and ensure the interoperability of such data; and 
+ (6)  Analyses. Assessments. conduct comparative cost analyses for new and emerging additive manufacturing approaches, including assessments of life-cycle costs for tooling, training, and intellectual property needed to sustain such approaches.

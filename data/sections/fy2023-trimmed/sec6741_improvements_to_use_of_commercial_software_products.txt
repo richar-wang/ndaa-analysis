@@ -1,0 +1,14 @@
+SEC. 6741.  50 USC 3024 note . IMPROVEMENTS TO USE OF COMMERCIAL SOFTWARE PRODUCTS. (a)  Policy Regarding Procurement of Commercial Software Products .— Deadline. Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community and appropriate nongovernmental experts that the Director determines relevant, shall issue an intelligence community-wide policy to ensure the procurement of commercial software products by the intelligence community is carried out— (1)  using, to the extent practicable, standardized terminology; and 
+ (2)  in accordance with acquisition and operation best practices reflecting modern software as a service capabilities. 
+ 
+ (b)  Guidelines. Timelines. Elements .— The policy issued under subsection (a) shall include the following: (1)  Guidelines for the heads of the elements of the intelligence community to determine which contracts for commercial software products are covered by the policy, including with  136 STAT. 3585 
+respect to agreements, authorizations to operate, and other acquisition activities. 
+ (2)  Procedures. Guidelines for using standardized terms in such contracts, modeled after commercial best practices, including common procedures and language regarding— (A)  terms for the responsible party and timelines for system integration under the contract; 
+ (B)  a mechanism included in each contract to ensure the ability of the vendor to provide, and the United States Government to receive, continuous updates and version control for the software, subject to appropriate security considerations; 
+ (C)  automatic technological mechanisms for security and data validation, including security protocols that are predicated on commercial best practices; and 
+ (D)  procedures to provide incentives, and a technical framework, for system integration for new commercial software solutions to fit within existing workflows and information technology infrastructure. 
+ 
+ (3)  Guidelines and a timeline for enforcing the policy. 
+ 
+ (c)  Time period. Report .— Not later than January 1, 2025, and annually thereafter through 2028, the Director of National Intelligence, in coordination with the heads of the elements of the intelligence community, shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a report on the policy issued under subsection (a), including the following with respect to the period covered by the report: (1)  Evaluation. An evaluation of compliance with such policy by each of the elements of the intelligence community. 
+ (2)  Recommenda- tions. Additional recommendations to better coordinate system integration throughout the intelligence community using best practices.

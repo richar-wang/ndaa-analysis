@@ -1,0 +1,11 @@
+SEC. 319.  10 USC note prec. 2661. REQUIRED INFRASTRUCTURE PLAN PRIOR TO DEPLOYMENT OF CERTAIN NON-TACTICAL VEHICLES AT MILITARY INSTALLATIONS. (a)  Time periods. Requirement .— No Secretary concerned may deploy covered non-tactical vehicles to a military installation until, for each such prospective deployment— (1)  the Secretary concerned— (A)  ensures there is completed an infrastructure plan for that military installation relating to the prospective deployment; and 
+ (B)  Determination. determines such plan is sufficient to ensure the satisfaction of the conditions described in subsection (b); and 
+ 
+ (2)  in the case of the first prospective deployment to that military installation, a period of 180 days has elapsed since such determination; or 
+ (3)  in the case of any subsequent prospective deployment to that military installation, a period of 60 days has elapsed since such determination. 
+ 
+ (b)  Conditions Described .— The conditions described in this subsection are, with respect to a prospective deployment of covered non-tactical vehicles to a military installation, the following: (1)  Military logistics and operational requirements of that military installation would not be substantially affected as a result of a lack of infrastructure to support the kind and quantity of such vehicles proposed to be deployed. 
+ (2)  Adequate support facilities for the kind and quantity of such vehicles proposed to be deployed exist at that military installation. 
+ 
+ (c)  Definitions .— In this section: 137 STAT. 220 (1)  The term “ covered non-tactical vehicle ” means a non-tactical vehicle that is an electric vehicle, hydrogen-powered vehicle, or advanced biofuel-powered vehicle, as such terms are defined in section 328 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ;  136 Stat. 2519 ). 
+ (2)  The term “ Secretary concerned ” has the meaning given that term in  section 101 of title 10, United States Code .

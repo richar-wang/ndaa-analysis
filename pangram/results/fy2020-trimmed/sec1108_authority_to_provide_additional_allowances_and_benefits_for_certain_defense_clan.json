@@ -1,0 +1,36 @@
+{
+  "text": "Authority to provide additional allowances and benefits for certain defense clandestine service employees. Section 1603 of title 10, United States Code , is amended by adding at the end the following new subsection: \u201c(c) Additional Allowances and Benefits for Certain Employees of the Defense Clandestine Service . (1) Effective date. Beginning on the date on which the Secretary of Defense submits the report under paragraph (3)(A), in addition to the authority to provide compensation under subsection (a), the Secretary may provide a covered employee allowances and benefits under paragraph (1) of section 9904 of title 5 without regard to the limitations in that section - \u201c(A) that the employee be assigned to activities outside the United States; or \n \u201c(B) that the activities to which the employee is assigned be in support of Department of Defense activities abroad. \n \n \u201c(2) The Secretary may not provide allowances and benefits under paragraph (1) to more than 125 covered employees per year. \n \u201c(3) (A) Reports. Strategy. The Secretary shall submit to the appropriate congressional committees a report containing a strategy addressing the mission of the Defense Clandestine Service during the period covered by the most recent future-years defense program submitted under section 221 of this title, including - \u201c(i) how such mission will evolve during such period; \n \u201c(ii) how the authority provided by paragraph (1) will assist the Secretary in carrying out such mission; and \n \u201c(iii) Implementation plan. an implementation plan for carrying out paragraph (1), including a projection of how much the amount of the allowances and benefits provided under such paragraph compare with the amount of the allowances and benefits provided before the date of the report. \n \n \u201c(B) Not later than December 31, 2020, and each year thereafter, the Secretary shall submit to the appropriate congressional committees a report, with respect to the fiscal year preceding the date on which the report is submitted - \u201c(i) identifying the number of covered employees for whom the Secretary provided allowances and benefits under paragraph (1); and \n \u201c(ii) Evaluation. evaluating the efficacy of such allowances and benefits in enabling the execution of the objectives of the Defense Intelligence Agency. \n \n \u201c(C) The reports under subparagraphs (A) and (B) may be submitted in classified form. \n \n \u201c(4) Definitions. In this subsection: \u201c(A) The term \u2018 appropriate congressional committees \u2019 means - \u201c(i) the congressional defense committees; and \n \u201c(ii) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. \n \n \u201c(B) The term \u2018 covered employee \u2019 means an employee in a defense intelligence position who is assigned to the Defense Clandestine Service at a location in the United States that the Secretary determines has living costs equal to or higher than the District of Columbia.\u201d \n \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Authority to provide additional allowances and benefits for certain defense clandestine service employees. Section 1603 of title 10, United States Code , is amended by adding at the end the following new subsection: \u201c(c) Additional Allowances and Benefits for Certain Employees of the Defense Clandestine Service . (1) Effective date. Beginning on the date on which the Secretary of Defense submits the report under paragraph (3)(A), in addition to the authority to provide compensation under subsection (a), the Secretary may provide a covered employee allowances and benefits under paragraph (1) of section 9904 of title 5 without regard to the limitations in that section - \u201c(A) that the employee be assigned to activities outside the United States; or \n \u201c(B) that the activities to which the employee is assigned be in support of Department of Defense activities abroad. \n \n \u201c(2) The Secretary may not provide allowances and benefits under paragraph (1) to more than 125 covered employees per year. \n \u201c(3) (A) Reports. Strategy. The Secretary shall submit to the appropriate congressional committees a report containing a strategy addressing the mission of the Defense Clandestine Service during the period covered by the most recent future-years defense program submitted under section 221 of this title, including - \u201c(i) how such mission will evolve during such period; \n \u201c(ii) how the authority provided by paragraph (1) will assist the Secretary in carrying out such mission; and \n \u201c(iii) Implementation plan. an implementation plan for carrying out paragraph (1), including a projection of how much the amount of the allowances and benefits provided under such paragraph compare with the amount of the allowances and benefits provided before the date of the report. \n \n \u201c(B) Not later than December 31, 2020, and each year thereafter, the Secretary shall submit to the appropriate congressional committees a report, with respect to the fiscal year preceding the date on which the report is submitted - \u201c(i) identifying the number of covered employees for whom the Secretary provided allowances and benefits under paragraph (1); and \n \u201c(ii) Evaluation. evaluating the efficacy of such allowances and benefits in enabling the execution of the objectives of the Defense Intelligence Agency.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004662189736134476,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2296,
+      "word_count": 353,
+      "token_length": 484
+    },
+    {
+      "text": " \n \n \u201c(C) The reports under subparagraphs (A) and (B) may be submitted in classified form. \n \n \u201c(4) Definitions. In this subsection: \u201c(A) The term \u2018 appropriate congressional committees \u2019 means - \u201c(i) the congressional defense committees; and \n \u201c(ii) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. \n \n \u201c(B) The term \u2018 covered employee \u2019 means an employee in a defense intelligence position who is assigned to the Defense Clandestine Service at a location in the United States that the Secretary determines has living costs equal to or higher than the District of Columbia.\u201d \n \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0041730900993570685,
+      "confidence": "High",
+      "start_index": 2296,
+      "end_index": 2965,
+      "word_count": 103,
+      "token_length": 157
+    }
+  ],
+  "_submission_type": "solo"
+}

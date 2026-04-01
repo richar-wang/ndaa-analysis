@@ -1,0 +1,36 @@
+{
+  "text": "Joint hypersonics transition office. Section 218 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109\u2013364 ; 10 U.S.C. 2358 note ) is amended - (1) in subsection (a), by striking \u201c the program required under subsection (b), and shall \u201d and inserting \u201c the program and activities described in subsections (b) through (f), and shall \u201d; \n (2) by redesignating subsections (c) through (e) as subsections (d) through (f), respectively; \n (3) by inserting after subsection (b) the following new subsection (c): \u201c(c) University Expertise . \u201c(1) Arrangement with institutions of higher education . Using the authority specified in section 217 of the \nNational Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 10 U.S.C. 2358 note ) or another similar authority, the Office shall seek to enter into an arrangement with one or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 )) under which such institutions may provide the Office with - \u201c(A) access to research, technology development, and workforce development expertise to support the mission of the Office; and \n \u201c(B) foundational and applied hypersonic research, development, and workforce support in areas that the Office determines to be relevant for the Department of Defense. \n \n \u201c(2) Availability of information . The Office shall ensure that the results of any research and reports produced pursuant to an arrangement under paragraph (1) are made available to the Federal Government, the private sector, academia, and international partners consistent with appropriate security classification guidance.\u201d \n \n ; \n (4) in subsection (d), as so redesignated - (A) in paragraph (4), by striking the comma before the period; and \n (B) in paragraph (5), by striking \u201c certified under subsection (e) as being consistent with the roadmap under subsection (d) \u201d and inserting \u201c certified under subsection (f) as being consistent with the roadmap under subsection (e) \u201d; \n \n (5) in subsection (e), as so redesignated, by adding at the end the following new paragraph: \u201c(4) Submittal to congress . \u201c(A) Deadline. Initial submission . Not later than 180 days after the date of the enactment of this paragraph, the Secretary of Defense shall submit to the congressional defense committees the most recent roadmap developed under paragraph (1). \n \u201c(B) Subsequent submissions . The Secretary of Defense shall submit to the congressional defense committees each roadmap revised under paragraph (1) together with the budget submitted to Congress under section 1105 of title 31, United States Code , for the fiscal year concerned.\u201d \n \n ; and \n (6) in subsection (f), as so redesignated - (A) by striking \u201c subsection (d) \u201d each place it appears and inserting \u201c subsection (e) \u201d; and \n (B) in paragraph (3), by striking \u201c 2016 \u201d and inserting \u201c 2026 \u201d.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Joint hypersonics transition office. Section 218 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ( Public Law 109\u2013364 ; 10 U.S.C. 2358 note ) is amended - (1) in subsection (a), by striking \u201c the program required under subsection (b), and shall \u201d and inserting \u201c the program and activities described in subsections (b) through (f), and shall \u201d; \n (2) by redesignating subsections (c) through (e) as subsections (d) through (f), respectively; \n (3) by inserting after subsection (b) the following new subsection (c): \u201c(c) University Expertise . \u201c(1) Arrangement with institutions of higher education . Using the authority specified in section 217 of the \nNational Defense Authorization Act for Fiscal Year 2018 ( Public Law 115\u201391 ; 10 U.S.C. 2358 note ) or another similar authority, the Office shall seek to enter into an arrangement with one or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 )) under which such institutions may provide the Office with - \u201c(A) access to research, technology development, and workforce development expertise to support the mission of the Office; and \n \u201c(B) foundational and applied hypersonic research, development, and workforce support in areas that the Office determines to be relevant for the Department of Defense. \n \n \u201c(2) Availability of information . The Office shall ensure that the results of any research and reports produced pursuant to an arrangement under paragraph (1) are made available to the Federal Government, the private sector, academia, and international partners consistent with appropriate security classification guidance.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.009425267311079162,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1681,
+      "word_count": 261,
+      "token_length": 404
+    },
+    {
+      "text": " \n \n ; \n (4) in subsection (d), as so redesignated - (A) in paragraph (4), by striking the comma before the period; and \n (B) in paragraph (5), by striking \u201c certified under subsection (e) as being consistent with the roadmap under subsection (d) \u201d and inserting \u201c certified under subsection (f) as being consistent with the roadmap under subsection (e) \u201d; \n \n (5) in subsection (e), as so redesignated, by adding at the end the following new paragraph: \u201c(4) Submittal to congress . \u201c(A) Deadline. Initial submission . Not later than 180 days after the date of the enactment of this paragraph, the Secretary of Defense shall submit to the congressional defense committees the most recent roadmap developed under paragraph (1). \n \u201c(B) Subsequent submissions . The Secretary of Defense shall submit to the congressional defense committees each roadmap revised under paragraph (1) together with the budget submitted to Congress under section 1105 of title 31, United States Code , for the fiscal year concerned.\u201d \n \n ; and \n (6) in subsection (f), as so redesignated - (A) by striking \u201c subsection (d) \u201d each place it appears and inserting \u201c subsection (e) \u201d; and \n (B) in paragraph (3), by striking \u201c 2016 \u201d and inserting \u201c 2026 \u201d.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.010063485708087683,
+      "confidence": "High",
+      "start_index": 1681,
+      "end_index": 2910,
+      "word_count": 203,
+      "token_length": 314
+    }
+  ],
+  "_submission_type": "solo"
+}

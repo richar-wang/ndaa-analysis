@@ -1,0 +1,35 @@
+SEC. 322.  10 USC 2661 note  prec. REPLACEMENT OF FLUORINATED AQUEOUS FILM-FORMING FOAM WITH FLUORINE-FREE FIRE-FIGHTING AGENT. (a)  Use of Fluorine-free Foam at Military Installations .— (1)  Deadlines. Publication. Military specification .— Not later than January 31, 2023, the Secretary of the Navy shall publish a military specification for a fluorine-free fire-fighting agent for use at all military installations and ensure that such agent is available for use by not later than October 1, 2023. 
+ (2)  Implementation plan. Report to congress .— Concurrent with publication of the military specification under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees a report containing a detailed plan for implementing the transition to a fluorine-free fire-fighting agent by not later than October 1, 2023. The report shall include— (A)  a detailed description of the progress of the Department of Defense to identify a fluorine-free fire-fighting agent for use as a replacement fire-fighting agent at military installations; 133 STAT. 1308 
+ (B)  a description of any technology and equipment required to implement the replacement fire-fighting agent; 
+ (C)  funding requirements, by fiscal year, to implement the replacement fire-fighting agent, including funding for the procurement of a replacement fire-fighting agent, required equipment, and infrastructure improvements; 
+ (D)  Timeline. a detailed timeline of remaining required actions to implement such replacement. 
+ 
+ 
+ (b)  Expiration date. Limitation .— No amount authorized to be appropriated or otherwise made available for the Department of Defense may be obligated or expended after October 1, 2023, to procure fire-fighting foam that contains in excess of one part per billion of perfluoroalkyl substances and polyfluoroalkyl substances. 
+ (c)  Expiration date. Prohibition on Use .— Fluorinated aqueous film-forming foam may not be used at any military installation on or after the earlier of the following dates: (1)  October 1, 2024. 
+ (2)  The date on which the Secretary determines that compliance with the prohibition under this subsection is possible. 
+ 
+ (d)  Exemption for Shipboard Use .— Subsections (b) and (c) shall not apply to firefighting foam for use solely onboard ocean-going vessels. 
+ (e)  Waiver .— (1)  Deadline. In general .— Subject to the limitations under paragraph (2), the Secretary of Defense may waive the prohibition under subsection (c) with respect to the use of fluorinated aqueous film-forming foam, if, by not later than 60 days prior to issuing the waiver, the Secretary— (A)  Briefing. provides to the congressional defense committees a briefing on the basis for the waiver and the progress to develop and field a fluorine-free fire-fighting agent that meets the military specifications issued pursuant to subsection (a), which includes— (i)  detailed data on the progress made to identify a replacement fluorine-free fire-fighting agent; 
+ (ii)  a description of the range of technology and equipment-based solutions analyzed to implement replacement; 
+ (iii)  a description of the funding, by fiscal year, applied towards research, development, test, and evaluation of replacement firefighting agents and equipment-based solutions; 
+ (iv)  a description of any completed and projected infrastructure changes; 
+ (v)  a description of acquisition actions made in support of developing and fielding the fluorine-free fire-fighting agent; 
+ (vi)  Timeline. an updated timeline for the completion of the transition to use of the fluorine-free fire-fighting agent; and 
+ (vii)  List. a list of the categories of installation infrastructure or specific mobile firefighting equipment sets that require the waiver along with the justification; 
+ 
+ (B)  Certification. submits to the congressional defense committees certification in writing, that— (i)  the waiver is necessary for either installation infrastructure, mobile firefighting equipment, or both; 133 STAT. 1309 
+ (ii)  the waiver is necessary for the protection of life and safety; 
+ (iii)  no agent or equipment solutions are available that meet the military specific issued pursuant to subsection (a); 
+ (iv)  the military specification issued pursuant to subsection (a) is still valid and does not require revision; and 
+ (v)  includes details of the measures in place to minimize the release of and exposure to fluorinated compounds in fluorinated aqueous film-forming foam; and 
+ 
+ (C)  Public notice. provides for public notice of the waiver. 
+ 
+ (2)  Limitation .— The following limitations apply to a waiver issued under this subsection: (A)  Applicability. Time period. Such a waiver shall apply for a period that does not exceed one year. 
+ (B)  Extension. Time period. The Secretary may extend such a waiver once for an additional period that does not exceed one year, if the requirements under paragraph (1) are met as of the date of the extension of the waiver. 
+ (C)  The authority to grant a waiver under this subsection may not be delegated below the level of the Secretary of Defense. 
+ 
+ 
+ (f)  Definitions .— In this section: (1)  The term “ perfluoroalkyl substances ” means aliphatic substances for which all of the H atoms attached to C atoms in the nonfluorinated substance from which they are notionally derived have been replaced by F atoms, except those H atoms whose substitution would modify the nature of any functional groups present. 
+ (2)  The term “ polyfluoroalkyl substances ” means aliphatic substances for which all H atoms attached to at least one (but not all) C atoms have been replaced by F atoms, in such a manner that they contain the perfluoroalkyl moiety CnF2n+1＿ (for example, C8F17CH2CH2OH).

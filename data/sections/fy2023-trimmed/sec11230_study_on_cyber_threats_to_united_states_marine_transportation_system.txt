@@ -1,0 +1,10 @@
+SEC. 11230.  STUDY ON CYBER THREATS TO UNITED STATES MARINE TRANSPORTATION SYSTEM. (a)  In General .— Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall commence a study on cyber threats to the United States marine transportation system. 
+ (b)  Elements .— The study required under paragraph (1) shall assess the following: (1)  The extent to which the Coast Guard, in collaboration with other Federal agencies, sets standards for the cybersecurity of facilities and vessels regulated under part 104, 105, or 106 of  title 33, Code of Federal Regulations , as in effect on the date of enactment of this Act. 
+ (2)  The manner in which the Coast Guard ensures cybersecurity standards are followed by port, vessel, and facility owners and operators. 
+ (3)  The extent to which maritime sector-specific planning addresses cybersecurity, particularly for vessels and offshore platforms. 
+ (4)  The manner in which the Coast Guard, other Federal agencies, and vessel and offshore platform operators exchange information regarding cyber risks. 
+ (5)  The extent to which the Coast Guard is developing and deploying cybersecurity specialists in port and vessel systems and collaborating with the private sector to increase the expertise of the Coast Guard with respect to cybersecurity. 
+ (6)  The cyber resource and workforce needs of the Coast Guard necessary to meet future mission demands. 
+ 
+ (c)  Report .— Not later than 1 year after commencing the study required under subsection (a), the Comptroller General shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the findings of the study. 
+ (d)  Facility Defined .— In this section, the term “ facility ” has the meaning given the term in  section 70101 of title 46, United States Code . 136 STAT. 4030

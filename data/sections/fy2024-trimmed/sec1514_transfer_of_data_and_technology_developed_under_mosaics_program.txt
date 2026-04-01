@@ -1,0 +1,13 @@
+SEC. 1514.  10 USC 2224 note . TRANSFER OF DATA AND TECHNOLOGY DEVELOPED UNDER MOSAICS PROGRAM. (a)  Transfers Authorized .— The Secretary of Defense may transfer to eligible private sector entities data and technology developed under the MOSAICS program to enhance cyber threat detection and protection of critical industrial control system assets used for electricity distribution. 
+ (b)  Agreements .— In carrying out subsection (a), the Secretary of Defense may— (1)  enter into cooperative research and development agreements under  section 4026 of title 10, United States Code ; and 
+ (2)  use such other mechanisms for the transfer of technology and data as are authorized by law. 
+ 
+ (c)  Deadline. Determination. Notification .— Not later than 15 days after any date on which the Secretary determines to transfer data or technology to an eligible private sector entity under subsection (a), the Secretary shall submit to the congressional defense committees a written notification of such determination. Such notification shall include the following: (1)  An identification of the data or technology to be transferred. 
+ (2)  An identification of the eligible private sector entity, including an identification of the specific individual employed by or otherwise associated with such entity responsible for the security and integrity of the data or technology to be received. 
+ (3)  A detailed description of any special security handling instructions required pursuant to an agreement entered into between the Secretary and the eligible private sector entity for such transfer. 
+ (4)  Timelines. Timelines associated with such transfer. 
+ 
+ (c)  Definitions .— In this section: (1)  The term “ eligible private sector entity ” means a private sector entity that— (A)  has functions relevant to the civil electricity sector; and 
+ (B)  is determined by the Secretary of Defense to be eligible to receive data and technology transferred under subsection (a). 
+ 
+ (2)  The term “ MOSAICS program ” means the program of the Department of Defense known as the “More Situational Awareness for Industrial Control Systems Joint Capabilities Technology Demonstration program”, or successor program. 137 STAT. 546

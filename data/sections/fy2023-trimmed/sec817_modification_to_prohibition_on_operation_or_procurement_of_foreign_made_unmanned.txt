@@ -1,0 +1,25 @@
+SEC. 817.  MODIFICATION TO PROHIBITION ON OPERATION OR PROCUREMENT OF FOREIGN-MADE UNMANNED AIRCRAFT SYSTEMS. (a)  In General .— Section 848 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 4871 note )  is amended — (1)  by  redesignating  subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively; 
+ (2)  by  inserting  after subsection (a) the following new subsection: “(b)  Effective date. Determination. Prohibition on Certain Contracts .— The Secretary of Defense may not enter into a contract (or extend or renew a contract) on or after October 1, 2024, with an entity that operates (as determined by the Secretary or the Secretary’s designee) equipment from a covered unmanned aircraft system company in the performance of a Department of Defense contract.” 
+ ; 
+ (3)  in subsection (c) (as so redesignated), by  striking  “ the restriction under subsection (a) if the operation or procurement ” and  inserting  “ any restrictions under subsection (a) or (b) if the operation, procurement, or contracting action ”; 
+ (4)  in subsection (d) (as so redesignated)— 136 STAT. 2708 (A)  by  inserting  “ (or the Secretary’s designee) ” after “ The Secretary of Defense ”; 
+ (B)  by  striking  “ the restriction ” and all that follows through “ basis ”  inserting  “ any restrictions under subsections (a) or (b) ”; and 
+ (C)  by  striking  “ operation or procurement ” and  inserting  “ operation, procurement, or contracting action ”; and 
+ 
+ (5)  Definitions. in subsection (e) (as so redesignated)— (A)  by  amending  paragraph (1) to read as follows: “(1)  Covered foreign country .— The term ‘ covered foreign country ’ means any of the following: “(A)  the People’s Republic of China. 
+ “(B)  The Russian Federation. 
+ “(C)  The Islamic Republic of Iran. 
+ “(D)  The Democratic People’s Republic of Korea.” 
+ 
+ ; and 
+ (B)  by  adding  at the end the following new paragraph: “(3)  Covered unmanned aircraft system company .— The term ‘ covered unmanned aircraft system company ’ means any of the following: “(A)  Da-Jiang Innovations. Da-Jiang Innovations (or any subsidiary or affiliate of Da-Jiang Innovations). 
+ “(B)  Any entity that produces or provides unmanned aircraft systems and is included on Consolidated Screening List maintained by the International Trade Administration of the Department of Commerce. 
+ “(C)  Any entity that produces or provides unmanned aircraft systems and— “(i)  is domiciled in a covered foreign country; or 
+ “(ii)  Determination. is subject to unmitigated foreign ownership, control or influence by a covered foreign country, as determined by the Secretary of Defense unmitigated foreign ownership, control or influence in accordance with the National Industrial Security Program (or any successor to such program).” 
+ 
+ 
+ . 
+ 
+ 
+ (b)  Deadline. 10 USC 4871 note . Policy Required .— Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue policy to— (1)  implement the requirements of section 848 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ;  10 U.S.C. 4871 note ), as amended by this section, including by establishing a due diligence process for the Department of Defense to make determinations required by subsection (b) of such section 848 (as amended by this section); and 
+ (2)  establish an appeal process for any offerors or awardees with which the Secretary has not entered into a contract or has not extended or renewed a contract pursuant to subsection (b) of such section 848 (as amended by this section).

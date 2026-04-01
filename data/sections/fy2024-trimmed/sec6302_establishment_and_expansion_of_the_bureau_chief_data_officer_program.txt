@@ -1,0 +1,19 @@
+SEC. 6302.  22 USC 2651a note . ESTABLISHMENT AND EXPANSION OF THE BUREAU CHIEF DATA OFFICER PROGRAM. (a)  Bureau Chief Data Officer Program .— (1)  Establishment .— The Secretary shall establish a program, which shall be known as the “Bureau Chief Data Officer Program” (referred to in this section as the “Program”), overseen by the Department’s Chief Data Officer. The Bureau Chief Data Officers hired under this program shall report to their respective Bureau leadership. 
+ (2)  Goals .— The goals of the Program shall include the following: (A)  Cultivating a data culture by promoting data fluency and data collaboration across the Department. 
+ (B)  Promoting increased data analytics use in critical decisionmaking areas. 
+ (C)  Promoting data integration and standardization. 
+ (D)  Increasing efficiencies across the Department by incentivizing acquisition of enterprise data solutions and subscription data services to be shared across bureaus and offices and within bureaus. 
+ 
+ 
+ (b)  Implementation Plan .— (1)  Deadline. Strategies. In general .— Not later than 180 days after the date of the enactment of this division, the Secretary shall submit to the appropriate committees of Congress an implementation plan that outlines strategies for— (A)  advancing the goals described in subsection (a)(2); 
+ (B)  hiring Bureau Chief Data Officers at the GS-14 or GS-15 grade or a similar rank; 137 STAT. 986 
+ (C)  assigning at least one Bureau Chief Data Officer to each bureau of the Department; and 
+ (D)  allocation of necessary resources to sustain the Program. 
+ 
+ (2)  Appropriate committees of congress defined .— In this subsection, the term “ appropriate committees of Congress ” means— (A)  the appropriate congressional committees; 
+ (B)  the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and 
+ (C)  the Committee on Oversight and Accountability and the Committee on Appropriations of the House of Representatives. 
+ 
+ 
+ (c)  Assignment .— In implementing the Bureau Chief Data Officer Program, bureaus may not dual-hat currently employed personnel as Bureau Chief Data Officers. 
+ (d)  Time period. Annual Reporting Requirement .— Not later than 180 days after the date of the enactment of this division, and annually thereafter for the following 3 years, the Secretary shall submit a report to the appropriate congressional committees regarding the status of the implementation plan required under subsection (b).

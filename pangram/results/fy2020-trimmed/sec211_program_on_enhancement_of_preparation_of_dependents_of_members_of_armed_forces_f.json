@@ -1,0 +1,36 @@
+{
+  "text": "Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics. (a) Program Required . Chapter 111 of title 10, United States Code , is amended by inserting after section 2192a the following new section: \u201c\u00a7\u202f2192b. 10 USC 2192b . Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics \u201c(a) Program Required . The Secretary of Defense shall carry out a program to - \u201c(1) enhance the preparation of students at covered schools for careers in science, technology, engineering, and mathematics; and \n \u201c(2) provide assistance to teachers at covered schools to enhance preparation described in paragraph (1). \n \n \u201c(b) Coordination . In carrying out the program, the Secretary shall coordinate with the following: \u201c(1) The Secretaries of the military departments. \n \u201c(2) The Secretary of Education. \n \u201c(3) The National Science Foundation. \n \u201c(4) Other organizations as the Secretary of Defense considers appropriate. \n \n \u201c(c) Activities . Activities under the program may include the following: \u201c(1) Establishment of targeted internships and cooperative research opportunities at defense laboratories and other technical centers for students and teachers at covered schools. \n \u201c(2) Establishment of scholarships and fellowships for students at covered schools. \n \u201c(3) Efforts and activities that improve the quality of science, technology, engineering, and mathematics educational and training opportunities for students and teachers at covered schools, including with respect to improving the development of curricula at covered schools. \n \u201c(4) Development of travel opportunities, demonstrations, mentoring programs, and informal science education for students and teachers at covered schools. \n \n \u201c(d) Assessments. Evaluation. Metrics . The Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of activities conducted under the program with respect to the needs of the Department of Defense. \n \u201c(e) Covered Schools Defined . In this section, the term \u2018 covered schools \u2019 means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the armed forces are enrolled.\u201d \n \n . \n (b) Clerical Amendment . The table of sections at the beginning of such chapter 10 USC 2191 prec. is amended by inserting after the item relating to section 2192a the following new item: \n \n \u201c2192b. \n Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics.\u201d. \n \n \n (c) Conforming Repeal . Section 233 of the Carl Levin and Howard P. \u201cBuck\u201d McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 10 U.S.C. 2193a note ) is repealed .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics. (a) Program Required . Chapter 111 of title 10, United States Code , is amended by inserting after section 2192a the following new section: \u201c\u00a7\u202f2192b. 10 USC 2192b . Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics \u201c(a) Program Required . The Secretary of Defense shall carry out a program to - \u201c(1) enhance the preparation of students at covered schools for careers in science, technology, engineering, and mathematics; and \n \u201c(2) provide assistance to teachers at covered schools to enhance preparation described in paragraph (1). \n \n \u201c(b) Coordination . In carrying out the program, the Secretary shall coordinate with the following: \u201c(1) The Secretaries of the military departments. \n \u201c(2) The Secretary of Education. \n \u201c(3) The National Science Foundation. \n \u201c(4) Other organizations as the Secretary of Defense considers appropriate. \n \n \u201c(c) Activities . Activities under the program may include the following: \u201c(1) Establishment of targeted internships and cooperative research opportunities at defense laboratories and other technical centers for students and teachers at covered schools. \n \u201c(2) Establishment of scholarships and fellowships for students at covered schools. \n \u201c(3) Efforts and activities that improve the quality of science, technology, engineering, and mathematics educational and training opportunities for students and teachers at covered schools, including with respect to improving the development of curricula at covered schools. \n \u201c(4) Development of travel opportunities, demonstrations, mentoring programs, and informal science education for students and teachers at covered schools. \n \n \u201c(d) Assessments. Evaluation. Metrics . The Secretary shall establish outcome-based metrics and internal and external assessments to evaluate the merits and benefits of activities conducted under the program with respect to the needs of the Department of Defense. \n \u201c(e) Covered Schools Defined . In this section, the term \u2018 covered schools \u2019 means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the armed forces are enrolled.\u201d",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004391223780418697,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2357,
+      "word_count": 336,
+      "token_length": 490
+    },
+    {
+      "text": " \n \n . \n (b) Clerical Amendment . The table of sections at the beginning of such chapter 10 USC 2191 prec. is amended by inserting after the item relating to section 2192a the following new item: \n \n \u201c2192b. \n Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics.\u201d. \n \n \n (c) Conforming Repeal . Section 233 of the Carl Levin and Howard P. \u201cBuck\u201d McKeon National Defense Authorization Act for Fiscal Year 2015 ( Public Law 113\u2013291 ; 10 U.S.C. 2193a note ) is repealed .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.004669208506432672,
+      "confidence": "High",
+      "start_index": 2357,
+      "end_index": 2917,
+      "word_count": 91,
+      "token_length": 171
+    }
+  ],
+  "_submission_type": "solo"
+}

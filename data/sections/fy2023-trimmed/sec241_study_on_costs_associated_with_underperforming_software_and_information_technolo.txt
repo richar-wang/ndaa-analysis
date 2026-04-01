@@ -1,0 +1,30 @@
+SEC. 241.  STUDY ON COSTS ASSOCIATED WITH UNDERPERFORMING SOFTWARE AND INFORMATION TECHNOLOGY. (a)  Contracts. Study Required .— The Secretary of Defense shall seek to enter into a contract or other agreement with an eligible entity to conduct an independent study on the challenges associated with the use of software and information technology in the Department of Defense, the effects of such challenges, and potential solutions to such challenges. 
+ (b)  Elements .— The independent study conducted under subsection (a) shall include the following: (1)  Survey. A survey of members of each Armed Force under the jurisdiction of a Secretary of a military department to identify the most important software and information technology challenges that result in lost working hours, including— (A)  Estimate. an estimate of the number of working hours lost due to each challenge and the cost of such lost working hours; 
+ (B)  the effects of each challenge on servicemember and employee retention; and 
+ (C)  any negative effects of each challenge on a mission of the Armed Force or military department concerned. 
+ 
+ (2)  Summary. Determination. A summary of the policy or technical challenges that limit the ability of each Secretary of a military department to implement needed software and information technology reforms, which shall be determined based on interviews conducted with individuals who serve as a chief information officer (or an equivalent position) in a military department. 
+ (3)  Development of a framework for assessing underperforming software and information technology, with an emphasis on foundational information technology to standardize the measurement and comparison of programs across the Department of Defense and its component organizations.  Assessment. Such a framework shall enable the assessment of underperforming software and information technology based on— (A)  designs, interfaces, and functionality which prioritize user experience and efficacy; 
+ (B)  costs due to lost productivity; 
+ (C)  reliability and sustainability; 136 STAT. 2497 
+ (D)  comparisons between— (i)  outdated or outmoded information technologies, software, and applications; and 
+ (ii)  modern information technologies, software, and applications; 
+ 
+ (E)  overhead costs for software and information technology in the Department compared to the overhead costs for comparable software and information technology in the private sector; 
+ (F)  comparison of the amounts the Department planned to expend on software and information technology services versus the amounts actually spent for such software and services; 
+ (G)  the mean amount of time it takes to resolve technical problems reported by users; 
+ (H)  the average rate, expressed in time, for remediating or patching weaknesses or flaws in information technologies, software, and applications; 
+ (I)  workforce training time; and 
+ (J)  customer satisfaction. 
+ 
+ (4)  Recommenda- tions. The development of recommendations— (A)  to address the challenges identified under paragraph (1); and 
+ (B)  to improve the processes through which the Secretary provides software and information technology throughout the Department, including through— (i)  business processes reengineering; 
+ (ii)  improvement of procurement or sustainment processes; 
+ (iii)  remediation of hardware and software technology gaps; and 
+ (iv)  the development of more detailed and effective cost estimates. 
+ 
+ 
+ 
+ (c)  Report Required .— Not later than one year after the date of the enactment of this Act, the eligible entity that conducts the study under subsection (a) shall submit to the Secretary of Defense and the congressional defense committees a report on the results of such study. 
+ (d)  Definitions .— In this section: (1)  The term “ eligible entity ” means an independent entity not under the direction or control of the Secretary of Defense, which may include a department or agency of the Federal Government outside the Department of Defense. 
+ (2)  The term “ software and information technology ” does not include embedded software and information technology used for weapon systems.

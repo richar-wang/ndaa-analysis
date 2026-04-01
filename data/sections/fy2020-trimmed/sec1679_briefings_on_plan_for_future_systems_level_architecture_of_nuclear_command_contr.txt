@@ -1,0 +1,12 @@
+SEC. 1679.  BRIEFINGS ON PLAN FOR FUTURE-SYSTEMS-LEVEL ARCHITECTURE OF NUCLEAR COMMAND, CONTROL, AND COMMUNICATIONS SYSTEMS. (a)  In Deadline. Time periods. Coordination.  General.— Not later than February 15, 2020, and every 180 days thereafter through fiscal year 2025, the Commander of the United States Strategic Command, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall provide to the congressional defense committees a briefing on the plan of the Department of Defense for the future-systems-level architecture of the nuclear command, control, and communications systems. 
+ (b)  Elements .— Each briefing required by subsection (a) shall address the following: (1)  Plans. Determination. Near- and long-term plans and options considered as of the date of the briefing in determining the future-systems-level architecture of the nuclear command, control, and communications systems, including options to maximize resilience of such systems. 
+ (2)  Requirements. Requirements, including with respect to cybersecurity, survivability, and reliability, including levels of redundancy. 
+ (3)  The risks and benefits of replicating the legacy architecture for such systems. 
+ (4)  The risks and benefits of using different architectures for such systems, including using hosted payloads in space payloads. 
+ (5)  Security considerations for such systems, including classification and requirements and plans to ensure supply chain security. 
+ (6)  Classification options and decisions with respect to such architecture and systems to deter attacks on such systems. 
+ (7)  Timelines. Cost estimates. Timelines and general cost estimates for long-term investments in such systems, to the extent possible at the time of the briefing. 
+ (8)  Risks and benefits of pursuing agreements with adversaries of the United States, including potential agreements  133 STAT. 1781 
+not to target nuclear command, control, and communications systems through kinetic, nonkinetic, or cyber attacks. 
+ (9)  Required leve Evaluation. Estimate. ls of civilian and military staffing within the United States Strategic Command, the Office of the Secretary of Defense, and any other relevant component of the Department of Defense to evaluate or execute such architecture, and an estimate of when such levels of staffing will be achieved. 
+ (10)  Any other matters the Secretary considers appropriate.

@@ -1,0 +1,69 @@
+SEC. 1509.  10 USC 167b note . MANAGEMENT AND OVERSIGHT OF JOINT CYBER WARFIGHTING ARCHITECTURE. (a)  Establishment of Offices .— (1)  Requirement .— The Secretary of Defense, in consultation with the Commander of the United States Cyber Command, shall establish within the United States Cyber Command— (A)  a program executive office; and 
+ (B)  one or more subordinate program management offices under the program executive office. 
+ 
+ (2)  Responsibilities .— The offices established pursuant to paragraph (1) shall— (A)  oversee, manage, and execute the Joint Cyber Warfighting Architecture; 
+ (B)  oversee, manage, and execute the programs designated, or to be designated, as part of the Joint Cyber Warfighting Architecture; 
+ (C)  conduct mission engineering, architecting, and design of the Joint Cyber Warfighting Architecture system of systems, and any successor effort; 
+ (D)  maintain a validated Joint Cyber Warfighting Architecture system of systems mission architecture, updated regularly to inform the current and future constituent programs of the Joint Cyber Warfighting Architecture, and the continuous delivery pipelines of such programs; 
+ (E)  ensure that the Joint Cyber Warfighting Architecture component solution architectures align with and support the Joint Cyber Warfighting Architecture system of systems mission architecture; 
+ (F)  support integration of mission-specific capabilities, including mission-specific data, analytics, defensive tools, offensive tools, and intelligence systems, acquired through non-Joint Cyber Warfighting Architecture programs; and 
+ (G)  carry out any other responsibilities determined appropriate by the Secretary of Defense, including the acquisition of cyber operations capabilities beyond the Joint Cyber Warfighting Architecture. 136 STAT. 2887 
+ 
+ (3)  Apportionment of responsibilities .— The Commander shall apportion the responsibilities under paragraph (2) across the offices established pursuant to paragraph (1). 
+ (4)  Authority .— The Secretary shall ensure that the offices established pursuant to paragraph (1) are empowered with the authority necessary to compel and enforce compliance with decisions and directives issued pursuant to the responsibilities under paragraph (2). 
+ 
+ (b)  Architecture Components .— The Commander shall serve as the sole sponsor and requirements manager for the Joint Cyber Warfighting Architecture and the constituent programs of such architecture, as determined by the Commander. 
+ (c)  Organization of Program Executive Office .— (1)  Head .— (A)  Reporting .— The head of the program executive office established under subsection (a)(1)(A) shall report to the Command Acquisition Executive of the United States Cyber Command. 
+ (B)  Additional oversight .— In addition to the oversight of the head of the program executive office provided by the Command Acquisition Executive under subparagraph (A), the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Principal Cyber Advisor of the Department of Defense shall provide oversight of the head. 
+ 
+ (2)  Responsibilities .— The head of the program executive office shall— (A)  exercise central technical authority for the Joint Cyber Warfighting Architecture; 
+ (B)  manage and provide oversight of the implementation and integration of the Architecture; and 
+ (C)  provide direction to subordinate program offices, as determined appropriate by the Commander. 
+ 
+ 
+ (d)  Personnel .— (1)  Necessary positions .— The Commander of the United States Cyber Command shall ensure that the program executive office or any subordinate program management office established pursuant to subsection (a)(1) includes in the staff of the respective office a chief architect, a systems engineer, and a chief talent officer to— (A)  develop a mission-driven Joint Cyber Warfighting Architecture optimized for execution of missions of the United States Cyber Command; 
+ (B)  ensure the office is properly and effectively staffed; and 
+ (C)  advise the head of the office with respect to the execution of— (i)  the central technical authority for the Joint Cyber Warfighting Architecture; 
+ (ii)  the management of the implementation and integration of the Joint Cyber Warfighting Architecture; and 
+ (iii)  technical direction provided to subordinates responsible for individual Joint Cyber Warfighting Architecture programs. 
+ 
+ 
+ (2)  Staffing .— 136 STAT. 2888 
+ (A)  In general .— The Secretary of Defense, in coordination with the Commander of the United States Cyber Command, shall ensure that the offices established pursuant to subsection (a)(1) are appropriately staffed with expert talent, including from the following organizations, as appropriate: (i)  The headquarters staff of the United States Cyber Command, the Cyber National Mission Force, the Joint Force Headquarters-Cyber, and the Cyber Mission Force. 
+ (ii)  The Capabilities Directorate of the National Security Agency. 
+ (iii)  The military departments. 
+ (iv)  The Cyber Capabilities Support Office of the Air Force. 
+ (v)  The Defense Advanced Research Projects Agency. 
+ (vi)  The Strategic Capabilities Office. 
+ (vii)  Research laboratories of the military departments. 
+ (viii)  The Defense Information Systems Agency. 
+ 
+ (B)  Technical talent .— In addition to the requirement under subparagraph (A), to support the permanent staffing of the offices established pursuant to subsection (a)(1), the Commander of the United States Cyber Command shall ensure that the offices deliberately hire and use technical talent resident in the defense industrial base, commercial technology industry, federally funded research and development centers, university affiliated research centers, and the rest of the Federal Government. 
+ 
+ 
+ (e)  Budget Execution Control .— The Secretary shall provide to the United States Cyber Command the resources necessary to support the program executive office established under subsection (a)(1)(A) and the Commander of the United States Cyber Command shall exercise budget execution control over component programs of the Joint Cyber Warfighting Architecture that are subject to the responsibilities assigned to the Commander by section 1507 of the National Defense Authorization Act for Fiscal Year 2022 ( Public Law 117–81 ;  10 U.S.C. 167b note ). 
+ (f)  Plan. Constellation Program .— The Director of the Defense Advanced Research Projects Agency and the head of the program executive office established under subsection (a)(1)(A) shall plan and carry out the Constellation program by entering into transactions under  section 4021 of title 10, United States Code . In carrying out the preceding sentence, the Secretary shall establish an effective framework and pipeline system for maturing cyber operations-relevant technologies developed by the Agency, integrating the technologies into Joint Cyber Warfighting Architecture capabilities, and transitioning the technologies into operational use by the United States Cyber Command. 
+ (g)  Deadlines. Transition .— The Secretary of Defense, in coordination with the Commander of the United States Cyber Command, shall transition responsibilities for the management and execution of Joint Cyber Warfighting Architecture programs from the military departments to the offices established pursuant to subsection (a)(1) by the earlier of the following: (1)  The date on which— 136 STAT. 2889 
+ (A)  the offices are appropriately staffed and resourced; and 
+ (B)  Determination. the Commander determines that the transition is appropriate. 
+ 
+ (2)  The date that is five years after the date of the enactment of this Act. 
+ 
+ (h)  Deadline. Determination. Review .— Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment and the Commander of the United States Cyber Command, in coordination with the Under Secretary of Defense for Research and Engineering, the Principal Cyber Advisor of the Department of Defense, the Secretaries of the military departments, the Director of the Defense Advanced Research Projects Agency, and the Director of the National Security Agency, shall submit to the congressional defense committees an integrated review of the Joint Cyber Warfighting Architecture and all other capabilities required for the execution of the missions of the United States Cyber Command to determine the following: (1)  The extent to which capabilities of the United States Cyber Command and the National Security Agency should be joint, mutually available, integrated, or interoperable. 
+ (2)  Whether each of the Joint Cyber Warfighting Architecture capabilities has been effectively designed and architected to enable each of the missions of the United States Cyber Command. 
+ (3)  How the Joint Cyber Warfighting Architecture will support defense of the Department of Defense Information Network and its relation to existing datasets, sensors, tools, firewalls, and capabilities deployed at each echelon of the Department of Defense Information Network. 
+ (4)  What data, capabilities, and technologies external to the current Joint Cyber Warfighting Architecture programs, as of the date of the review, should be acquired as part of the Joint Cyber Warfighting Architecture and under the control of the offices established pursuant to subsection (a)(1). 
+ (5)  What mission-specific data, capabilities, and technologies external to the current Joint Cyber Warfighting Architecture programs should integrate with or be interoperable with the Joint Cyber Warfighting Architecture system of systems. 
+ (6)  The organization and staffing of such offices, including— (A)  whether the program executive office should be responsible for overseeing the acquisition of the cyber operations capabilities of the United States Cyber Command generally or the Joint Cyber Warfighting Architecture specifically; 
+ (B)  what subordinate program management offices should be established under the program executive office; 
+ (C)  whether the Joint Cyber Warfighting Architecture programs should be consolidated within a single program management office; and 
+ (D)  which personnel should be appointed to such offices pursuant to subsection (d)(1). 
+ 
+ (7)  Timeline. The timeline for the execution of the transition under subsection (g). 136 STAT. 2890 
+ (8)  Contracts. The acquisition strategy of the Department for procuring the Joint Cyber Warfighting Architecture and related capabilities, including relevant enterprise strategic initiatives and contracting strategies. 
+ (9)  The responsibilities of the United States Cyber Command J2, J3, J5, J6, J8, and J9 in acquiring, authorizing, and managing cyber capabilities. 
+ (10)  The physical locations of the offices established pursuant to subsection (a)(1). 
+ 
+ (i)  Deadline. Briefing Required .— Not later than 540 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment and the Commander of the United States Cyber Command shall jointly provide to the congressional defense committees a briefing on the status of the implementation of this section. 
+ (j)  Repeal .— Section 1645 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ;  10 U.S.C. 4571 note  prec.) is  repealed . 
+ (k)  Joint Cyber Warfighting Architecture Defined .— In this section, the term “ Joint Cyber Warfighting Architecture ” means the range of joint cyber warfighting systems and capabilities that support the full spectrum of military cyber operations, as designated by the Commander of the United States Cyber Command, and includes any such successor effort.

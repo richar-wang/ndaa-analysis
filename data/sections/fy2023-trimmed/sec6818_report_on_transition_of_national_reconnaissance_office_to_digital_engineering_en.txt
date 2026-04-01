@@ -1,0 +1,17 @@
+SEC. 6818.  REPORT ON TRANSITION OF NATIONAL RECONNAISSANCE OFFICE TO DIGITAL ENGINEERING ENVIRONMENT. (a)  Findings .— Congress finds the following: (1)  Potential foreign adversaries are outpacing the United States in the fielding of new generations of space systems that dull the edge the United States has enjoyed in space. 
+ (2)  A digital engineering environment, also known as digital systems engineering, reduces the time to field new space systems. 
+ (3)  Digital engineering environment tools enable the rapid iterations of requirements and architectures into digital system depictions capable of use by private industry to further the design and development of space systems. 
+ 
+ (b)  Sense of Congress .— It is the sense of Congress that, to maintain a competitive advantage in space, the National Reconnaissance Office should transition to a digital engineering environment by not later than 3 years after the date of the enactment of this Act. 
+ (c)  Report .— (1)  Submission .— Not later than 180 days after the date of the enactment of this Act, the Director of the National Reconnaissance Office shall submit to the appropriate congressional committees a report that contains the following: (A)  Transition plan. A plan for the transition of the National Reconnaissance Office to a digital engineering environment. 
+ (B)  An identification of the date by which such transition shall be completed. 
+ (C)  A description of the metrics the Director plans to use to measure progress made with respect to such transition and resulting efficiencies gained. 
+ (D)  A description of the initial pilot programs of the National Reconnaissance Office relating to digital  136 STAT. 3611 
+engineering and the plans to expand such pilot programs in scale and scope with respect to acquisition carried out under such pilot programs. 
+ (E)  A description of any training requirements or certifications necessary to advance a digital engineering environment within the National Reconnaissance Office. 
+ (F)  A description of how the Director plans to incorporate input and best practices from private industry to facilitate and accelerate the transition of the National Reconnaissance Office to a digital engineering environment. 
+ 
+ (2)  Form .— The report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex. 
+ 
+ (d)  Appropriate Congressional Committees Defined .— In this section, the term “ appropriate congressional committees ” means— (1)  the congressional intelligence committees; and 
+ (2)  the congressional defense committees (as defined in  section 101(a)(16) of title 10, United States Code ).

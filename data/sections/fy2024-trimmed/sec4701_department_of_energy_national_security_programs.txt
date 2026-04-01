@@ -1,0 +1,343 @@
+SEC. 4701.  DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS. 
+ 
+ 
+ 
+ SEC. 4701. DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS (In Thousands of Dollars) 
+ 
+ Program FY 2024  Request Conference  Authorized 
+ Discretionary Summary by Appropriation 
+ Energy and Water Development and Related Agencies 
+ Appropriation Summary: 
+ Energy Programs 
+ Nuclear Energy 177,733 160,000 
+ 
+ Atomic Energy Defense Activities 
+ National Nuclear Security Administration: 137 STAT. 924 
+ Weapons Activities 18,832,947 19,121,676 
+ Defense Nuclear Nonproliferation 2,508,959 2,444,252 
+ Naval Reactors 1,964,100 1,964,100 
+ Federal Salaries and Expenses 538,994 518,994 
+ Total, National Nuclear Security Administration 23,845,000 24,049,022 
+ 
+ Defense Environmental Cleanup 7,073,587 7,043,763 
+ 
+ Defense Uranium Enrichment D&D 427,000 0 
+ 
+ Other Defense Activities 1,075,197 1,075,197 
+ 
+ Total, Atomic Energy Defense Activities 32,420,784 32,167,982 
+ 
+ Total, Discretionary Funding 32,598,517 32,327,982 
+ 
+ 
+ Nuclear Energy 
+ Safeguards and security 177,733 160,000 
+ Program decrease [–17,733] 
+ Total, Nuclear Energy 177,733 160,000 
+ 
+ National Nuclear Security Administration  
+ 
+ Weapons Activities 
+ Stockpile management 
+ Stockpile major modernization 
+ B61 Life extension program 449,850 449,850 
+ W88 Alteration program 178,823 178,823 
+ W80–4 Life extension program 1,009,929 1,009,929 
+ W80–4 ALT Nuclear-armed sea-launched cruise missile 0 70,000 
+ Program increase [70,000] 
+ W87–1 Modification Program 1,068,909 1,068,909 
+ W93 389,656 389,656 
+ B61–13 52,000 52,000 
+ Subtotal, Stockpile major modernization 3,097,167 3,219,167 
+ Stockpile sustainment 1,276,578 1,276,578 
+ Weapons dismantlement and disposition 53,718 53,718 
+ Production operations 710,822 710,822 
+ Nuclear enterprise assurance 66,614 66,614 
+ Total, Stockpile management 5,256,899 5,326,899 
+ 
+ Production Modernization 
+ Primary Capability Modernization 
+ Plutonium Modernization 
+ Los Alamos Plutonium Modernization 
+ Los Alamos Plutonium Operations 833,100 833,100 
+ 21–D–512 Plutonium Pit Production Project, LANL 670,000 670,000 
+ 15–D–302 TA–55 Reinvestments Project, Phase 3, LANL 30,000 30,000 
+ 07–D–220-04 Transuranic Liquid Waste Facility, LANL 0 0 
+ 04–D–125 Chemistry and Metallurgy Research Replacement Project, LANL 227,122 227,122 
+ Subtotal, Los Alamos Plutonium Modernization 1,760,222 1,760,222 137 STAT. 925 
+ Savannah River Plutonium Modernization 
+ Savannah River Plutonium Operations 62,764 62,764 
+ 21–D–511 Savannah River Plutonium Processing Facility, SRS 858,235 1,000,235 
+ Program increase [142,000] 
+ Subtotal, Savannah River Plutonium Modernization 920,999 1,062,999 
+ Enterprise Plutonium Support 87,779 87,779 
+ Total, Plutonium Modernization 2,769,000 2,911,000 
+ High Explosives & Energetics 
+ High Explosives & Energetics 93,558 93,558 
+ 23–D–516 Energetic Materials Characterization Facility, LANL 0 0 
+ 21–D–510 HE Synthesis, Formulation, and Production, PX 0 80,000 
+ Program increase [80,000] 
+ 15–D–301 HE Science & Engineering Facility, PX 101,356 101,356 
+ Subtotal, High Explosives & Energetics 194,914 274,914 
+ Total, Primary Capability Modernization 2,963,914 3,185,914 
+ Secondary Capability Modernization 
+ Secondary Capability Modernization 666,914 666,914 
+ 18–D–690 Lithium Processing Facility, Y–12 210,770 210,770 
+ 06–D–141 Uranium Processing Facility, Y–12 760,000 760,000 
+ Total, Secondary Capability Modernization 1,637,684 1,637,684 
+ Tritium and Domestic Uranium Enrichment 
+ Tritium and Domestic Uranium Enrichment 592,992 592,992 
+ 18–D–650 Tritium Finishing Facility, SRS 0 37,000 
+ Program increase [37,000] 
+ Total, Tritium and Domestic Uranium Enrichment 0 629,992 
+ Non-Nuclear Capability Modernization 
+ Non-Nuclear Capability Modernization 166,990 166,990 
+ 22–D–513 Power Sources Capability, SNL 37,886 37,886 
+ Total, Non-Nuclear Capability Modernization 204,876 204,876 
+ Capability Based Investments 156,462 156,462 
+ Total, Production Modernization 5,555,928 5,814,928 
+ 
+ Stockpile research, technology, and engineering 
+ Assessment Science 
+ Assessment Science 917,751 917,751 
+ 17–D–640 U1a Complex Enhancements Project, NNSS 126,570 126,570 
+ Total, Assessment Science 1,044,321 1,044,321 
+ Engineering and integrated assessments 440,456 440,456 
+ Inertial confinement fusion 601,650 641,650 
+ Program increase [40,000] 
+ Advanced simulation and computing 782,472 782,472 
+ Weapon technology and manufacturing maturation 327,745 307,745 
+ Program decrease [–20,000] 
+ Academic programs 152,271 112,000 
+ Community Capacity Building Program [–30,000] 
+ Program decrease [–10,271] 
+ Total, Stockpile research, technology, and engineering 3,348,915 3,328,644 
+ 
+ Infrastructure and operations 
+ Operating 
+ Operations of facilities 1,053,000 1,053,000 
+ Safety and Environmental Operations 139,114 139,114 
+ Maintenance and Repair of Facilities 718,000 700,000 137 STAT. 926 
+ Program decrease [–18,000] 
+ Recapitalization 
+ Infrastructure and Safety 650,012 638,012 
+ Program decrease [–12,000] 
+ Subtotal, Recapitalization 650,012 638,012 
+ Total, Operating 2,560,126 2,530,126 
+ Mission enabling construction: 
+ 22–D–510 Analytic Gas Laboratory, PX 35,000 35,000 
+ 22–D–511 Plutonium Production Building, LANL 48,500 48,500 
+ 22–D–512 TA–46 Protective Force Facility, LANL 48,500 48,500 
+ 22–D–517 Electrical Power Capacity Upgrade, LANL 75,000 75,000 
+ 22–D–518 Plutonium Modernization Ops & Waste Mngmt Office Bldg, LANL 0 0 
+ 23–D–519 Special Material Facility, Y–12 0 0 
+ Total, Mission enabling construction 207,000 207,000 
+ Total, Infrastructure and operations 2,767,126 2,737,126 
+ 
+ Secure transportation asset 
+ Operations and equipment 239,008 239,008 
+ Program direction 118,056 118,056 
+ Total, Secure transportation asset 357,064 357,064 
+ 
+ Defense nuclear security 
+ Operations and maintenance 988,756 988,756 
+ Construction: 
+ 17–D–710 West End Protected Area Reduction Project, Y–12 28,000 38,000 
+ Program increase [10,000] 
+ Subtotal, Construction 28,000 38,000 
+ Total, Defense nuclear security 1,016,756 1,026,756 
+ 
+ Information technology and cybersecurity 578,379 578,379 
+ Legacy contractor pensions 65,452 65,452 
+ Total, Weapons Activities 18,946,519 19,235,248 
+ 
+ Adjustments 
+ Use of prior year balances –113,572 –113,572 
+ Total, Adjustments –113,572 –133,572 
+ Total, Weapons Activities 18,832,947 19,121,676 
+ 
+ 
+ Defense Nuclear Nonproliferation 
+ Material Management and Minimization 
+ Conversion (formerly HEU Reactor Conversion) 116,675 116,675 
+ Nuclear material removal 47,100 47,100 
+ Material disposition 282,250 282,250 
+ Total, Material Management and Minimization 446,025 446,025 
+ Global Material Security 
+ International nuclear security 84,707 75,000 
+ Program decrease [–9,707] 
+ Radiological security 258,033 258,033 
+ Nuclear smuggling detection and deterrence 181,308 181,308 
+ Total, Global Material Security 524,048 514,341 
+ Nonproliferation and Arms Control 212,358 192,358 
+ Program decrease [–20,000] 
+ Defense Nuclear Nonproliferation R&D 
+ Proliferation detection 290,388 280,388 
+ Program decrease [–10,000] 
+ Nonproliferation stewardship program 107,437 107,437 137 STAT. 927 
+ Nuclear detonation detection 285,603 285,603 
+ Forensics R&D 44,759 44,759 
+ Nonproliferation fuels development 0 0 
+ Total, Defense Nuclear Nonproliferation R&D 728,187 718,187 
+ Nonproliferation Construction: 
+ 18–D–150 Surplus Plutonium Disposition Project, SRS 77,211 77,211 
+ Total, Nonproliferation Construction 77,211 77,211 
+ NNSA Bioassurance Program 25,000 0 
+ Program decrease [–25,000] 
+ Legacy contractor pensions 22,587 22,587 
+ Nuclear Counterterrorism and Incident Response Program 
+ Emergency Operations 19,123 19,123 
+ Counterterrorism and Counterproliferation 474,420 474,420 
+ Total, Nuclear Counterterrorism and Incident Response Program 493,543 493,543 
+ Subtotal, Defense Nuclear Nonproliferation 2,528,959 2,464,252 
+ 
+ Adjustments 
+ Use of prior year balances –20,000 –20,000 
+ Total, Adjustments –20,000 –20,000 
+ 
+ Total, Defense Nuclear Nonproliferation 2,508,959 2,444,252 
+ 
+ 
+ Naval Reactors 
+ Naval reactors development 838,340 838,340 
+ Columbia-Class reactor systems development 52,900 52,900 
+ S8G Prototype refueling 0 0 
+ Naval reactors operations and infrastructure 712,036 712,036 
+ Program direction 61,540 61,540 
+ Construction: 
+ 22–D–533 BL Component Test Complex 0 0 
+ 22–D–531 KL Chemistry & Radiological Health Building 10,400 10,400 
+ 21–D–530 KL Steam and Condensate Upgrade 53,000 53,000 
+ 14–D–901 Spent Fuel Handling Recapitalization Project, NRF 199,300 199,300 
+ 24–D–530 NRF Medical Science Complex 36,584 36,584 
+ Total, Construction 299,284 299,284 
+ Total, Naval Reactors 1,964,100 1,964,100 
+ 
+ 
+ Federal Salaries and Expenses 
+ Program direction 538,994 518,994 
+ Use of prior year balances 0 0 
+ Total, Federal Salaries and Expenses 538,994 518,994 
+ 
+ TOTAL, National Nuclear Security Administration 23,845,000 24,049,022 
+ 
+ Defense Environmental Cleanup 
+ Closure sites administration 3,023 3,023 
+ Richland 
+ River corridor and other cleanup operations 180,000 180,000 
+ Central plateau remediation 684,289 684,289 
+ Richland community and regulatory support 10,100 10,100 
+ 18–D–404 Modification of Waste Encapsulation and Storage Facility 0 0 
+ 22–D–401 L–888 Eastern Plateau Fire Station 7,000 7,000 
+ 22–D–402 L–897 200 Area Water Treatment Facility 11,200 11,200 137 STAT. 928 
+ 23–D–404 181D Export Water System Reconfiguration and Upgrade 27,149 27,149 
+ 23–D–405 181B Export Water System Reconfiguration and Upgrade 462 462 
+ 24–D–401 Environmental Restoration Disposal Facility Supercell 11 Expans Proj 1,000 1,000 
+ Total, Richland 921,200 921,200 
+ 
+ Office of River Protection: 
+ Waste Treatment Immobilization Plant Commissioning 466,000 430,000 
+ Program decrease [–36,000] 
+ Rad liquid tank waste stabilization and disposition 813,625 813,625 
+ Construction: 
+ 23–D–403 Hanford 200 West Area Tank Farms Risk Management Project 15,309 15,309 
+ 15–D–409 Low Activity Waste Pretreatment System 60,000 60,000 
+ 18–D–16 Waste Treatment and Immobilization Plant—LBL/Direct feed LAW 0 0 
+ 01–D–16D High-Level Waste Facility 600,000 600,000 
+ 01–D–16E Pretreatment Facility 20,000 20,000 
+ Subtotal, Construction 695,309 695,309 
+ ORP Low-level waste offsite disposal 0 0 
+ Total, Office of River Protection 1,974,934 1,938,934 
+ 
+ Idaho National Laboratory: 
+ Idaho cleanup and waste disposition 377,623 377,623 
+ Idaho community and regulatory support 2,759 2,759 
+ Construction: 
+ 22–D–403 Idaho Spent Nuclear Fuel Staging Facility 10,159 10,159 
+ 22–D–404 Addl ICDF Landfill Disposal Cell and Evaporation Ponds Project 46,500 46,500 
+ 22–D–402 Calcine Construction 10,000 10,000 
+ Subtotal, Construction 66,659 66,659 
+ Total, Idaho National Laboratory 447,041 447,041 
+ 
+ NNSA sites and Nevada off-sites 
+ Lawrence Livermore National Laboratory 1,879 1,879 
+ LLNL Excess Facilities D&D 20,195 20,195 
+ Separations Processing Research Unit 15,300 15,300 
+ Nevada Test Site 61,952 61,952 
+ Sandia National Laboratory 2,264 2,264 
+ Los Alamos National Laboratory 273,831 273,831 
+ Los Alamos Excess Facilities D&D 13,648 13,648 
+ Total, NNSA sites and Nevada off-sites 389,069 389,069 
+ 
+ Oak Ridge Reservation: 
+ OR Nuclear Facility D&D 335,000 335,000 
+ U233 Disposition Program 55,000 55,000 
+ OR cleanup and waste disposition 72,000 72,000 
+ Construction: 
+ 14–D–403 Outfall 200 Mercury Treatment Facility 10,000 10,000 
+ 17–D–401 On-site Waste Disposal Facility 24,500 24,500 
+ Subtotal, Construction 34,500 34,500 
+ OR community & regulatory support 5,500 5,500 
+ OR technology development and deployment 3,000 3,000 
+ Total, Oak Ridge Reservation 505,000 505,000 137 STAT. 929 
+ 
+ Savannah River Site: 
+ Savannah River risk management operations 453,109 460,241 
+ Program increase [7,132] 
+ Savannah River legacy pensions 65,898 65,898 
+ Savannah River community and regulatory support 12,389 12,389 
+ Savannah River National Laboratory O&M 42,000 42,000 
+ Construction: 
+ 20-D–401 Saltstone Disposal Unit #10, 11, 12 56,250 56,250 
+ 19–D–701 SR Security Systems Replacement 0 0 
+ 18–D–401 Saltstone Disposal Unit #8, 9 31,250 31,250 
+ 18–D–402 Emergency Operations Center Replacement, SR 34,733 34,733 
+ Subtotal, Construction 122,233 122,233 
+ Radioactive liquid tank waste stabilization 880,323 900,323 
+ Program increase [20,000] 
+ Total, Savannah River Site 1,575,952 1,603,084 
+ 
+ Waste Isolation Pilot Plant 
+ Waste Isolation Pilot Plant 369,961 369,961 
+ Construction: 
+ 15–D–411 Safety Significant Confinement Ventilation System, WIPP 44,365 44,365 
+ 15–D–412 Utility Shaft, WIPP 50,000 50,000 
+ Total, Construction 94,365 94,365 
+ Total, Waste Isolation Pilot Plant 464,326 464,326 
+ 
+ Program direction—Defense Environmental Cleanup 326,893 326,893 
+ Program support—Defense Environmental Cleanup 103,504 82,548 
+ Program decrease [–20,956] 
+ Safeguards and Security—Defense Environmental Cleanup 332,645 332,645 
+ Technology development and deployment 30,000 30,000 
+ Subtotal, Defense Environmental Cleanup 7,073,587 7,043,763 
+ 
+ TOTAL, Defense Environmental Cleanup 7,073,587 7,043,763 
+ 
+ Defense Uranium Enrichment D&D 427,000 0 
+ Program decrease [–427,000] 
+ 
+ Other Defense Activities 
+ Environment, health, safety and security 
+ Environment, health, safety and security mission support 144,705 144,705 
+ Program direction 86,558 86,558 
+ Total, Environment, health, safety and security 231,263 231,263 
+ 
+ Office of Enterprise Assessments 
+ Enterprise assessments 30,022 30,022 
+ Program direction 64,132 64,132 
+ Total, Office of Enterprise Assessments 94,154 94,154 
+ 
+ Specialized security activities 345,330 345,330 
+ 
+ Legacy Management 
+ Legacy Management Activities—Defense 173,681 173,681 
+ Program Direction 22,621 22,621 
+ Total, Legacy Management 196,302 196,302 
+ 
+ Defense-Related Administrative Support 203,649 203,649 
+ 137 STAT. 930 
+ Office of Hearings and Appeals 4,499 4,499 
+ Subtotal, Other Defense Activities 1,075,197 1,075,197 
+ Use of prior year balances 0 0 
+ Total, Other Defense Activities 1,075,197 1,075,197

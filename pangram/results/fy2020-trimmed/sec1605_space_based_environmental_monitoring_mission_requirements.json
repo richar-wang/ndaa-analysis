@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 2271 note . Space-based environmental monitoring mission requirements. (a) Procurement of Modernized Pathfinder Program Satellite . (1) In general . The Secretary of the Air Force shall procure a modernized pathfinder program satellite that - (A) addresses space-based environmental monitoring mission requirements; \n (B) Time period. reduces the risk that the Department of Defense experiences a gap in meeting such requirements during the period beginning January 1, 2023, and ending December 31, 2025; and \n (C) is Deadline. launched not later than January 1, 2023. \n \n (2) Type of satellite . The satellite described in paragraph (1) may be a free-flyer or a hosted payload satellite. \n (3) Deadline. Plan . Not later than 60 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the appropriate congressional committees a plan to procure and launch the satellite described in paragraph (1), including with respect to - (A) the requirements for such satellite, including operational requirements; \n (B) Timelines. timelines for such procurement and launch; \n (C) costs for such procurement and launch; and \n (D) the launch plan. \n \n (4) Procedures . The Secretary of the Air Force shall ensure that the satellite described in paragraph (1) is procured using full and open competition through the use of competitive procedures. \n (5) Withholding of funds . The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Force for the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1). \n \n (b) Weather System Satellite . The Secretary of the Air Force shall ensure that the electro-optical/infrared weather system satellite - (1) meets space-based environmental monitoring mission requirements; \n (2) is procured using full and open competition through the use of competitive procedures; and \n (3) Deadline. is launched not later than September 30, 2025. \n \n (c) Definitions . In this section: (1) The term \u201c appropriate congressional committees \u201d means - (A) the congressional defense committees; and \n (B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. \n \n (2) The term \u201c space-based environmental monitoring mission requirements \u201d means the national security requirements for cloud characterization and theater weather imagery.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 2271 note . Space-based environmental monitoring mission requirements. (a) Procurement of Modernized Pathfinder Program Satellite . (1) In general . The Secretary of the Air Force shall procure a modernized pathfinder program satellite that - (A) addresses space-based environmental monitoring mission requirements; \n (B) Time period. reduces the risk that the Department of Defense experiences a gap in meeting such requirements during the period beginning January 1, 2023, and ending December 31, 2025; and \n (C) is Deadline. launched not later than January 1, 2023. \n \n (2) Type of satellite . The satellite described in paragraph (1) may be a free-flyer or a hosted payload satellite. \n (3) Deadline. Plan . Not later than 60 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the appropriate congressional committees a plan to procure and launch the satellite described in paragraph (1), including with respect to - (A) the requirements for such satellite, including operational requirements; \n (B) Timelines. timelines for such procurement and launch; \n (C) costs for such procurement and launch; and \n (D) the launch plan. \n \n (4) Procedures . The Secretary of the Air Force shall ensure that the satellite described in paragraph (1) is procured using full and open competition through the use of competitive procedures. \n (5) Withholding of funds . The amount equal to 10 percent of the total amount authorized to be appropriated to the Office of the Secretary of Air Force for the travel of persons under the Operations and Maintenance, Defense-Wide account shall be withheld from obligation or expenditure until the date on which a contract is awarded for the procurement of the satellite described in paragraph (1). \n \n (b) Weather System Satellite . The Secretary of the Air Force shall ensure that the electro-optical/infrared weather system satellite - (1) meets space-based environmental monitoring mission requirements; \n (2) is procured using full and open competition through the use of competitive procedures; and \n (3) Deadline. is launched not later than September 30, 2025. \n \n (c) Definitions .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007196607585582469,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2170,
+      "word_count": 334,
+      "token_length": 500
+    },
+    {
+      "text": " In this section: (1) The term \u201c appropriate congressional committees \u201d means - (A) the congressional defense committees; and \n (B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. \n \n (2) The term \u201c space-based environmental monitoring mission requirements \u201d means the national security requirements for cloud characterization and theater weather imagery.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005190789699554443,
+      "confidence": "High",
+      "start_index": 2170,
+      "end_index": 2612,
+      "word_count": 62,
+      "token_length": 81
+    }
+  ],
+  "_submission_type": "solo"
+}

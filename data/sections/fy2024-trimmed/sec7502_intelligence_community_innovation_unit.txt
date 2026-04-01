@@ -1,0 +1,46 @@
+SEC. 7502.  INTELLIGENCE COMMUNITY INNOVATION UNIT. (a)  Establishment .— Title I of the National Security Act of 1947 (  50 U.S.C. 3021 et seq. )  is amended  by  inserting  after section 103K the following new section (and conforming the table of contents at the beginning of such Act accordingly): “§ 103L. 50 USC 3034c .  Intelligence Community Innovation Unit “(a)  Definitions .— In this section: “(1)  Emerging technology .— the term ‘ emerging technology ’ has the meaning given that term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ;  50 U.S.C. 3024 note ). 
+ “(2)  Unit .— The term ‘ Unit ’ means the Intelligence Community Innovation Unit. 
+ 
+ “(b)  Plan for Implementation of Intelligence Community Innovation Unit .— “(1)  Deadline. Plan required .— Not later than 180 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2024, the Director of National Intelligence shall develop a plan for how to implement the Intelligence Community Innovation Unit within the intelligence community. 
+ “(2)  Matters covered .— The plan developed pursuant to paragraph (1) shall cover how the Unit will— 137 STAT. 1080 
+ “(A)  benefit heads of the elements of the intelligence community in identifying commercial emerging technologies and associated capabilities to address critical mission needs of elements of the intelligence community; 
+ “(B)  provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies. 
+ “(C)  facilitate the transition of potential prototypes and solutions to critical mission needs of the intelligence community from research and prototype projects to production; and 
+ “(D)  serve as a liaison between the intelligence community and the private sector, in which capacity such liaison shall focus on small- and medium-sized companies and other organizations that do not have significant experience engaging with the intelligence community. 
+ 
+ “(3)  Requirements .— The plan developed pursuant to paragraph (1) shall— “(A)  plan for not more than 50 full-time equivalent personnel; and 
+ “(B)  Assessment. Evaluation. include an assessment as to how the establishment of the Unit would benefit the identification and evaluation of commercial emerging technologies for prototyping and potential adoption by the intelligence community to fulfill critical mission needs. 
+ 
+ “(4)  Submission to congress .— Upon completing development of the plan pursuant to paragraph (1), the Director shall— “(A)  Records. submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a copy of the plan; and 
+ “(B)  Briefing. provide such committees and subcommittees a briefing on the plan. 
+ 
+ 
+ “(c)  Establishment . Deadline. — To the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes detailed in this section, not later than 180 days after the date on which the Director of National Intelligence submits the plan pursuant to subsection (b)(4)(A), the Director of National Intelligence shall establish the Unit within the Office of the Director of National Intelligence. 
+ “(d)  Limitation .— The Unit shall not abrogate or otherwise constrain any element of the intelligence community from conducting authorized activities. 
+ “(e)  Director of the Intelligence Community Innovation Unit .— “(1)  Appointment; reporting .— The head of the Unit is the Director of the Intelligence Community Innovation Unit, who shall be appointed by the Director of National Intelligence and shall report directly to the Director of National Intelligence. 
+ “(2)  Qualifications . Determination. — In selecting an individual for appointment as the Director of the Intelligence Community Innovation Unit, the Director of National Intelligence shall give preference to individuals who the Director of National Intelligence determines have— 137 STAT. 1081 
+ “(A)  significant relevant experience involving commercial emerging technology within the private sector; and 
+ “(B)  a demonstrated history of fostering the adoption of commercial emerging technologies by the United States Government or the private sector. 
+ 
+ 
+ “(f)  Staff .— “(1)  In general .— In addition to the Director of the Intelligence Community Innovation Unit, the Unit shall be composed of not more than 50 full- time equivalent positions. 
+ “(2)  Staff with certain expertise .— The Director of National Intelligence shall ensure that there is a sufficient number of staff of the Unit, as determined by the Director, with expertise in— “(A)  other transaction authorities and nontraditional and rapid acquisition pathways for emerging technology; 
+ “(B)  engaging and evaluating small- and medium-sized emerging technology companies; 
+ “(C)  the mission needs of the intelligence community; and 
+ “(D)  such other skills or experiences as the Director determines necessary. 
+ 
+ 
+ “(g)  Authority Relating to Detailees .— Upon request of the Unit, each head of an element of the intelligence community may detail to the Unit any of the personnel of that element to assist in carrying out the duties under subsection (b) on a reimbursable or a nonreimbursable basis. 
+ “(h)  Ensuring Transition From Prototyping to Production .— The Director of the Intelligence Community Innovation Unit shall transition research and prototype projects to products in a production stage upon identifying a demonstrated critical mission need of one or more elements of the intelligence community and a potential mission partner likely to field and further fund upon maturation, including by designating projects as Emerging Technology Transition Projects under the pilot program required by section 6713 of the Intelligence Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ;  50 U.S.C. 3024 note ). 
+ “(i)  Encouragement of Use by Elements .— The Director of National Intelligence shall take such steps as may be necessary to encourage the use of the Unit by the heads of the other elements of the intelligence community. 
+ “(j)  Rules of Construction .— “(1)  No preferential treatment for private sector .— Nothing in this section shall be construed to require any element of the intelligence community to provide preferential treatment for any private sector entity with regard to procurement of technology construed as restricting or preempting any activities of the intelligence community. 
+ “(2)  No additional authority .— The Unit established pursuant to subsection (c) will be limited to the existing authorities possessed by the Director of National Intelligence. 
+ 
+ “(k)  Sunset .— The authorities and requirements of this section shall terminate on the date that is 5 years after the date of the establishment of the Unit.” 
+ 
+ . 
+ (b)  Clarification of Emerging Technology Definition .— Section 6701(8)(A) of the Intelligence Authorization Act for Fiscal Year 2023 ( Public Law 117 – 263;  50 U.S.C. 3024 note )  is amended   137 STAT. 1082 
+by  striking  “ during the 10-year period beginning on January 1, 2022 ” and  inserting  “ during the subsequent 10-year period ”. 
+ (c)  Briefings . Deadline. — Not later than 180 days after the date of the establishment of the Intelligence Community Innovation Unit pursuant to section 103L of the National Security Act of 1947, as added by subsection (a), and on a semiannual basis thereafter for 5 years, the Director of National Intelligence shall provide to the appropriate congressional committees a briefing on the status of the Intelligence Community Innovation Unit, the staffing levels of such Unit, and the progress of such Unit in identifying and facilitating the adoption of commercial emerging technologies capable of advancing the mission needs of the intelligence community. 
+ (d)  Definitions .— In this section: (1)  Appropriate congressional committees .— The term “ appropriate congressional committees ” means the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives. 
+ (2)  Emerging technology .— The term “ emerging technology ” has the meaning given such term in section 103L of the National Security Act of 1947, as added by subsection (a).

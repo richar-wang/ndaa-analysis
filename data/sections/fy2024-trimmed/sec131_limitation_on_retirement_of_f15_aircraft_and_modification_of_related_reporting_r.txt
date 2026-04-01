@@ -1,0 +1,25 @@
+SEC. 131.  LIMITATION ON RETIREMENT OF F–15 AIRCRAFT AND MODIFICATION OF RELATED REPORTING REQUIREMENT. (a)  Limitation .— Section 9062 of title 10, United States Code ,  is amended  by  adding  at the end the following new subsection: “(l) (1)  Time period. During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2029, the Secretary of the Air Force may not— “(A)  retire more than 68 F–15E aircraft; 
+ “(B)  reduce funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft in a manner that presumes future congressional authority to divest such aircraft; or 
+ “(C)  keep an F–15E aircraft (other than an aircraft identified for retirement under subparagraph (A)) in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as ‘XJ’ status). 
+ 
+ “(2)  Determination. The prohibition under paragraph (1) shall not apply to individual F–15E aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.” 
+ 
+ . 
+ (b)  Modification to Report Required Before Divestment .— Section 150 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ;  136 Stat. 2456 )  is amended — (1)  in subsection (b)(1)— 137 STAT. 172 (A)  in subparagraph (C)(ii), by  striking  “ and ” at the end; 
+ (B)  in subparagraph (D), by  striking  the period at the end and  inserting  “ ; and ”; and 
+ (C)  by  adding  at the end the following new subparagraph: “(E)  for each F–15E aircraft that the Secretary plans to divest, a description of— “(i)  each upgrade and modification made to such aircraft, including— “(I)  the date of the upgrade or modification; and 
+ “(II)  the cost of such upgrade or modification in current year dollars; and 
+ 
+ “(ii)  the estimated remaining service-life (expressed as equivalent flight hours and years) of— “(I)  the aircraft; and 
+ “(II)  the onboard systems of the aircraft.” 
+ 
+ 
+ ; 
+ 
+ (2)  by  redesignating  subsection (c) as subsection (d); and 
+ (3)  by  inserting  after subsection (b) the following new subsection (c): “(c)  Deadlines. Time period. Annual Updates .— Not later than October 1, 2024, and not later than October 1 of each year thereafter through 2029, the Secretary of the Air Force shall— “(1)  update the report required under subsection (b); and 
+ “(2)  submit the updated report to the congressional defense committees.” 
+ 
+ . 
+ 
+ (c)  Clarification of Relationship Between Limitations .— The Compliance. 10 USC 9062 note .  authority of the Secretary of the Air Force to retire F–15E aircraft to the extent allowed under subsection (l)(1)(A) of  section 9062 of title 10, United States Code  (as added by subsection (a) of this section) shall not apply until the Secretary complies with the requirements of section 150 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 ( Public Law 117–263 ;  136 Stat. 2456 ) (as amended by subsection (b) of this section).

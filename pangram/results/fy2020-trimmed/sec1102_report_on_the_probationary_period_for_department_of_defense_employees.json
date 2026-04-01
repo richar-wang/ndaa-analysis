@@ -1,0 +1,36 @@
+{
+  "text": "Report on the probationary period for department of defense employees. (a) Report . Not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall - (1) Review. conduct an independent review on the probationary periods applicable to Department of Defense employees under section 1599e of title 10, United States Code ; and \n (2) submit a report on such review to the Committees on Armed Services and Oversight and Reform of the House of Representatives and the Committees on Armed Services and Homeland Security and Governmental Affairs of the Senate. \n \n (b) Time period. Assessments. Contents . The review and report under subsection (a) shall cover the period beginning on the date of the enactment of such section 1599e and ending on December 31, 2018, and include the following: (1) An assessment and identification of the demographics of each Department of Defense employee who, during such period, was on a probationary period and who was removed from the civil service, subject to any disciplinary action (up to and including removal), or who filed a claim or appeal with the Office of Special Counsel or the Equal Employment Opportunity Commission. \n (2) A statistical assessment of the distribution patterns with respect to any removal from the civil service during such period of, or any disciplinary action (up to and including a removal) taken during such period against, any Department employee while the employee was on a probationary period. \n (3) Analysis. An analysis of the best practices and abuses of discretion by supervisors and managers of the Department with respect to probationary periods. \n (4) Recommenda- tions. Determination. An assessment of the utility of the probationary period prescribed by such section 1599e on the successful recruitment, retention, and professional development of civilian employees of the Department, including any recommendation for regulatory or statutory changes the Secretary determines to be appropriate. \n (5) Determination. A discussion of the cases where the Department made a determination to remove a Department employee during the second year of such employee\u2019s probationary period. \n (6) Summary. A summary of how the Department has implemented the authority provided in such section 1599e with respect to probationary periods, including the number, and a demographic summary, of each Department employee removed from the civil service, subject to any disciplinary action (up to and including removal), or who filed a claim or appeal with the Office of Special Counsel or the Equal Employment Opportunity Commission during the second year of any such employee\u2019s probationary period. \n \n (c) Consultation . The analysis and recommendations in the report required under subsection (a) shall be prepared in consultation with Department of Defense employees and managers, labor organizations representing such employees, staff of the Office of Special Counsel and the Equal Employment Opportunity Commission, and attorneys representing Department employees in wrongful termination actions.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Report on the probationary period for department of defense employees. (a) Report . Not later than 1 year after the date of the enactment of this Act, the Secretary of Defense shall - (1) Review. conduct an independent review on the probationary periods applicable to Department of Defense employees under section 1599e of title 10, United States Code ; and \n (2) submit a report on such review to the Committees on Armed Services and Oversight and Reform of the House of Representatives and the Committees on Armed Services and Homeland Security and Governmental Affairs of the Senate. \n \n (b) Time period. Assessments. Contents . The review and report under subsection (a) shall cover the period beginning on the date of the enactment of such section 1599e and ending on December 31, 2018, and include the following: (1) An assessment and identification of the demographics of each Department of Defense employee who, during such period, was on a probationary period and who was removed from the civil service, subject to any disciplinary action (up to and including removal), or who filed a claim or appeal with the Office of Special Counsel or the Equal Employment Opportunity Commission. \n (2) A statistical assessment of the distribution patterns with respect to any removal from the civil service during such period of, or any disciplinary action (up to and including a removal) taken during such period against, any Department employee while the employee was on a probationary period. \n (3) Analysis. An analysis of the best practices and abuses of discretion by supervisors and managers of the Department with respect to probationary periods. \n (4) Recommenda- tions. Determination. An assessment of the utility of the probationary period prescribed by such section 1599e on the successful recruitment, retention, and professional development of civilian employees of the Department, including any recommendation for regulatory or statutory changes the Secretary determines to be appropriate. \n (5) Determination. A discussion of the cases where the Department made a determination to remove a Department employee during the second year of such employee\u2019s probationary period.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005413590045645833,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2185,
+      "word_count": 339,
+      "token_length": 450
+    },
+    {
+      "text": " \n (6) Summary. A summary of how the Department has implemented the authority provided in such section 1599e with respect to probationary periods, including the number, and a demographic summary, of each Department employee removed from the civil service, subject to any disciplinary action (up to and including removal), or who filed a claim or appeal with the Office of Special Counsel or the Equal Employment Opportunity Commission during the second year of any such employee\u2019s probationary period. \n \n (c) Consultation . The analysis and recommendations in the report required under subsection (a) shall be prepared in consultation with Department of Defense employees and managers, labor organizations representing such employees, staff of the Office of Special Counsel and the Equal Employment Opportunity Commission, and attorneys representing Department employees in wrongful termination actions.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005076341253394882,
+      "confidence": "High",
+      "start_index": 2185,
+      "end_index": 3089,
+      "word_count": 130,
+      "token_length": 164
+    }
+  ],
+  "_submission_type": "solo"
+}

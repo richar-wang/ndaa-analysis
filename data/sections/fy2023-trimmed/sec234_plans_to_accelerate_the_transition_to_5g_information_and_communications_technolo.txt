@@ -1,0 +1,35 @@
+SEC. 234.  PLANS TO ACCELERATE THE TRANSITION TO 5G INFORMATION AND COMMUNICATIONS TECHNOLOGY WITHIN THE MILITARY DEPARTMENTS. (a)  Three-year Transition Plan Required .— (1)  Deadline. In general .— Not later than 120 days after the date of the enactment of this Act, each Assistant Secretary concerned shall develop and submit to the congressional defense committees a plan that specifies— (A)  the extent to which fifth generation information and communications technology (5G) infrastructure is expected to be implemented in the military department of the Assistant Secretary by the end of the three-year period following the date of the enactment of this Act; and 
+ (B)  how the implementation of such technology is expected to be achieved during such period. 
+ 
+ (2)  Elements .— Each plan required under paragraph (1) shall include— (A)  Assessment. an operational needs assessment that identifies the highest priority areas in which the Assistant Secretary intends to implement fifth generation information and communications technologies during the three-year period described in paragraph (1); 
+ (B)  an explanation of— (i)  whether and to what extent the Assistant Secretary intends to use an open radio access network approach in implementing fifth generation information and communications technologies in the areas identified under subparagraph (A); and 136 STAT. 2488 
+ (ii)  if the Assistant Secretary does not intend to use such an open radio access network approach, an explanation of the reasons for such determination; 
+ 
+ (C)  Funding estimates. an investment plan that includes funding estimates, by fiscal year and appropriation account, to accelerate— (i)  the maturation and acquisition of fifth generation information and communications capabilities that use the open radio access network approach; and 
+ (ii)  the deployment of such capabilities in the facilities and systems of the military department concerned; 
+ 
+ (D)  metrics and reporting mechanisms to ensure progress in achieving the objectives of the plan within the three-year period described in paragraph (1); 
+ (E)  identification and designation of a single point of contact at each military installation and within each armed force under the jurisdiction of the military department concerned to facilitate the deployment of fifth generation information and communications technologies; 
+ (F)  actions the Assistant Secretary intends to carry out to streamline the process for establishing fifth generation wireless coverage at military installations, including actions to reduce delays caused by policies and processes relating to contracting, communications, and the use of real property; 
+ (G)  identification of investments that are required to support the transition to fifth generation information and communications technology that uses an open radio access network approach; and 
+ (H)  such other matters as the Assistant Secretary considers appropriate. 
+ 
+ (3)  Coordination .— In developing the plans required under paragraph (1), each Assistant Secretary concerned shall coordinate with— (A)  the Chief Information Officer of the Department of Defense; 
+ (B)  and the Under Secretary of Defense for Acquisition and Sustainment; and 
+ (C)  the Under Secretary of Defense for Research and Engineering. 
+ 
+ (4)  Form of plan .— Each plan required under paragraph (1) shall be submitted in unclassified form. 
+ 
+ (b)  Cross-functional Team Assessment .— (1)  Deadline. Assessment and briefing required .— After all of the plans required by subsection (a)(1) have been submitted in accordance with such subsection and not later than 150 days after the date of the enactment of this Act, the cross-functional team established pursuant to section 224(c)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  10 U.S.C. 4571 note ) shall assess such plans and provide to the congressional defense committees a briefing on the findings of the team with respect to such assessment. 
+ (2)  Recommenda- tions. Elements .— The briefing provided under paragraph (1) shall include the following: (A)  Recommendations to further accelerate the deployment of fifth-generation information and communications  136 STAT. 2489 
+technologies that use the open radio access network approach across the Department of Defense. 
+ (B)  Recommendations to standardize and streamline the process for establishing fifth generation wireless coverage at military installations, including recommendations for reducing delays caused by policies and processes relating to contracting, communications, and the use of real property. 
+ (C)  A plan for the inclusion of representatives of the Department of Defense in international wireless standards-setting bodies. 
+ (D)  Such other matters as the cross-functional team described in paragraph (1) considers appropriate. 
+ 
+ 
+ (c)  Definitions .— In this section: (1)  The term “ Assistant Secretary concerned ” means— (A)  the Assistant Secretary of the Army for Acquisition, Logistics, and Technology, with respect to matters concerning the Department of the Army; 
+ (B)  the Assistant Secretary of the Navy for Research, Development, and Acquisition, with respect to matters concerning the Department of the Navy; and 
+ (C)  the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, with respect to matters concerning the Department of the Air Force. 
+ 
+ (2)  The term “ open radio access network approach ” means an approach to networking, such as the Open Radio Access Network (commonly known as “Open RAN”), that uses open protocols and interfaces within a network so that components provided by different vendors can be interoperable.

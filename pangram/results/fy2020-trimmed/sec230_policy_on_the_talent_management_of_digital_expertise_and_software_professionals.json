@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 501 note prec. Deadlines. Policy on the talent management of digital expertise and software professionals. (a) Policy . (1) In general . It shall be a policy of the Department of Defense to promote and maintain digital expertise and software development as core competencies of civilian and military workforces of the Department, and as a capability to support the National Defense Strategy, which policy shall be achieved by - (A) the recruitment, development, and incentivization of retention in and to the civilian and military workforce of the Department of individuals with aptitude, experience, proficient expertise, or a combination thereof in digital expertise and software development; \n (B) at the discretion of the Secretaries of the military departments, the development and maintenance of civilian and military career tracks related to digital expertise, and related digital competencies for members of the Armed Forces, including the development and maintenance of training, education, talent management, incentives, and promotion policies in support of members at all levels of such career tracks; and \n (C) the development and application of appropriate readiness standards and metrics to measure and report on the overall capability, capacity, utilization, and readiness of digital engineering professionals to develop and deliver operational capabilities and employ modern business practices. \n \n (2) Digital engineering defined . For purposes of this section, the term \u201c digital engineering \u201d means the discipline and set of skills involved in the creation, processing, transmission, integration, and storage of digital data, including data science, machine learning, software engineering, software product management, and artificial intelligence product management. \n \n (b) Implementation Plan . Not later than May 1, 2020, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan that describes how the Department of Defense will execute the policy described in subsection (a). \n (c) Responsibility . (1) Appointment of officer . Not later than 270 days after the date of enactment of this Act, the Secretary of Defense may appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the \u201cChief Digital Engineering Recruitment and Management Officer of the Department of Defense\u201d. \n (2) Expiration of appointment . The appointment of the Officer under paragraph (1) shall expire on September 30, 2024.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 501 note prec. Deadlines. Policy on the talent management of digital expertise and software professionals. (a) Policy . (1) In general . It shall be a policy of the Department of Defense to promote and maintain digital expertise and software development as core competencies of civilian and military workforces of the Department, and as a capability to support the National Defense Strategy, which policy shall be achieved by - (A) the recruitment, development, and incentivization of retention in and to the civilian and military workforce of the Department of individuals with aptitude, experience, proficient expertise, or a combination thereof in digital expertise and software development; \n (B) at the discretion of the Secretaries of the military departments, the development and maintenance of civilian and military career tracks related to digital expertise, and related digital competencies for members of the Armed Forces, including the development and maintenance of training, education, talent management, incentives, and promotion policies in support of members at all levels of such career tracks; and \n (C) the development and application of appropriate readiness standards and metrics to measure and report on the overall capability, capacity, utilization, and readiness of digital engineering professionals to develop and deliver operational capabilities and employ modern business practices. \n \n (2) Digital engineering defined . For purposes of this section, the term \u201c digital engineering \u201d means the discipline and set of skills involved in the creation, processing, transmission, integration, and storage of digital data, including data science, machine learning, software engineering, software product management, and artificial intelligence product management. \n \n (b) Implementation Plan . Not later than May 1, 2020, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan that describes how the Department of Defense will execute the policy described in subsection (a). \n (c) Responsibility . (1) Appointment of officer . Not later than 270 days after the date of enactment of this Act, the Secretary of Defense may appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the \u201cChief Digital Engineering Recruitment and Management Officer of the Department of Defense\u201d. \n (2) Expiration of appointment .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006334301424570954,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2553,
+      "word_count": 377,
+      "token_length": 488
+    },
+    {
+      "text": " The appointment of the Officer under paragraph (1) shall expire on September 30, 2024.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008152157068252563,
+      "confidence": "High",
+      "start_index": 2553,
+      "end_index": 2640,
+      "word_count": 14,
+      "token_length": 24
+    }
+  ],
+  "_submission_type": "solo"
+}

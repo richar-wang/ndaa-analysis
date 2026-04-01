@@ -1,0 +1,36 @@
+{
+  "text": "Limitation on availability of funds for rc\u201326B AIRCRAFT. (a) Limitation . Except as provided in subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Air Force may be obligated or expended to retire, divest, realign, or place in storage or on backup aircraft inventory status, or prepare to retire, divest, realign, or place in storage or backup inventory status, any RC\u201326B aircraft until the date on which the Secretary of the Air Force submits to the congressional defense committees - (1) the report required under subsection (c); and \n (2) the certification required under subsection (d). \n \n (b) Determination. Exception . The limitation in subsection (a) shall not apply to individual RC\u201326B aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable because of mishaps or other damage. \n (c) Report Required . Not later than 90 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report that includes the following: (1) Survey. A survey of any requirements for the Air Force to provide intelligence, surveillance, and reconnaissance support to other military forces and civil authorities that the Air Force and the Air National Guard meet using the RC\u201326B aircraft. \n (2) Assessment. An assessment of the extent to which such requirements are appropriate for the Air Force to fulfill. \n (3) The manner in which the Secretary would meet such requirements if the RC\u201326B aircraft were to be retired. \n (4) A comparison of costs and effectiveness of alternative means of providing intelligence, surveillance, and reconnaissance support to other military forces and civil authorities. \n (5) Assessment. An assessment of the utility of entering into one or more memoranda of agreement with other military forces and civil authorities to govern the process for providing intelligence, surveillance, and reconnaissance support to those forces and authorities. \n \n (d) Deadline. Certification Required . Not later than 60 days after the date on which the Secretary of the Air Force submits the report required under subsection (c), the Secretary shall certify to the congressional defense committees - (1) whether there are requirements for the Air Force to provide intelligence, surveillance, and reconnaissance support to other military forces and civil authorities that the Air Force meets using the RC\u201326B aircraft; and \n (2) whether the Secretary has identified methods of meeting such requirements that are more effective and more efficient than meeting such requirements through the use of the RC\u201326B aircraft.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Limitation on availability of funds for rc\u201326B AIRCRAFT. (a) Limitation . Except as provided in subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Air Force may be obligated or expended to retire, divest, realign, or place in storage or on backup aircraft inventory status, or prepare to retire, divest, realign, or place in storage or backup inventory status, any RC\u201326B aircraft until the date on which the Secretary of the Air Force submits to the congressional defense committees - (1) the report required under subsection (c); and \n (2) the certification required under subsection (d). \n \n (b) Determination. Exception . The limitation in subsection (a) shall not apply to individual RC\u201326B aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable because of mishaps or other damage. \n (c) Report Required . Not later than 90 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report that includes the following: (1) Survey. A survey of any requirements for the Air Force to provide intelligence, surveillance, and reconnaissance support to other military forces and civil authorities that the Air Force and the Air National Guard meet using the RC\u201326B aircraft. \n (2) Assessment. An assessment of the extent to which such requirements are appropriate for the Air Force to fulfill. \n (3) The manner in which the Secretary would meet such requirements if the RC\u201326B aircraft were to be retired. \n (4) A comparison of costs and effectiveness of alternative means of providing intelligence, surveillance, and reconnaissance support to other military forces and civil authorities. \n (5) Assessment. An assessment of the utility of entering into one or more memoranda of agreement with other military forces and civil authorities to govern the process for providing intelligence, surveillance, and reconnaissance support to those forces and authorities. \n \n (d) Deadline.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008937529753893614,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2095,
+      "word_count": 328,
+      "token_length": 455
+    },
+    {
+      "text": " Certification Required . Not later than 60 days after the date on which the Secretary of the Air Force submits the report required under subsection (c), the Secretary shall certify to the congressional defense committees - (1) whether there are requirements for the Air Force to provide intelligence, surveillance, and reconnaissance support to other military forces and civil authorities that the Air Force meets using the RC\u201326B aircraft; and \n (2) whether the Secretary has identified methods of meeting such requirements that are more effective and more efficient than meeting such requirements through the use of the RC\u201326B aircraft.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008557783905416727,
+      "confidence": "High",
+      "start_index": 2095,
+      "end_index": 2734,
+      "word_count": 98,
+      "token_length": 122
+    }
+  ],
+  "_submission_type": "solo"
+}

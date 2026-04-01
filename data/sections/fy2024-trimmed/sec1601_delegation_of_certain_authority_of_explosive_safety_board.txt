@@ -1,0 +1,16 @@
+SEC. 1601.  DELEGATION OF CERTAIN AUTHORITY OF EXPLOSIVE SAFETY BOARD. (a)  Delegation of Responsibilities .— Section 172 of title 10, United States Code ,  is amended — (1)  in subsection (c), by  striking  “ The chair ” and  inserting  “ Except as provided in subsection (h), the chair ”; and 
+ (2)  by  adding  at the end the following new subsection: “(h)  Explosives Used by Space Launch Vehicles .— (1)  The Secretary of Defense shall delegate to the Secretary of the Air Force, who may further delegate to the Commanders of the Space Launch Deltas, the responsibilities under subsection (c) with respect to explosives used by space launch vehicles. 
+ “(2)  Definition. In this subsection, the term ‘ launch vehicle ’ has the meaning given such term in section 50902(11) of title 51.” 
+ 
+ . 
+ 
+ (b)  Deadline. Assessments. 51 USC 20301 note . Improved Process for Yield Determination .— Not later than one year after the date of the enactment of this Act, the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration shall jointly establish a process through which scientifically-valid yield determinations can be assessed for space launch vehicles while in flight. 
+ (c)  Report .— Not later than 90 days after the completion of the LOX-Methane Assessment working group process, the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration shall submit to the appropriate congressional committees a report that includes a description of the effects of the LOX-Methane Assessment on existing and future maximum credible event analyses and any resulting effects on commercial space launch, civil space activities, and national security. 
+ (d)  Definitions .— In this section: (1)  The term “ appropriate congressional committees ” means the following: (A)  The congressional defense committees. 
+ (B)  The Committee on Commerce, Science, and Transportation of the Senate. 
+ (C)  The Committee on Science, Space, and Technology of the House of Representatives. 
+ (D)  The Committee on Transportation and Infrastructure of the House of Representatives. 
+ 
+ (2)  The term “ LOX-Methane Assessment working group ” means the ongoing interagency working group studying the explosive characteristics of liquid oxygen and methane and  137 STAT. 584 
+comprised of representatives from the Department of Defense, the Department of Transportation, and the National Aeronautics and Space Administration. 
+ (3)  The term “ launch vehicle ” has the meaning given such term in  section 50902(11) of title 51, United States Code .

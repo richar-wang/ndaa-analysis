@@ -7,6 +7,7 @@ Usage:
 """
 
 import os
+import re
 import sys
 import csv
 import json
@@ -191,6 +192,30 @@ def chart_division_breakdown(rows, year, out_dir):
     return os.path.basename(path)
 
 
+def _format_legal_text(text):
+    """Break wall-of-text legal prose into readable paragraphs.
+
+    Inserts line breaks before subsection markers like (a), (1), (A), (i),
+    and before common structural phrases.
+    """
+    # Break before subsection/paragraph markers: (a), (b), (1), (2), (A), (B), (i), (ii)
+    text = re.sub(r"\s*(\([a-z]\))", r"\n\n\1", text)      # (a), (b), ...
+    text = re.sub(r"\s*(\([0-9]+\))", r"\n\n\1", text)     # (1), (2), ...
+    text = re.sub(r"\s*(\([A-Z]\))", r"\n\n\1", text)      # (A), (B), ...
+    text = re.sub(r"\s*(\([ivxl]+\))", r"\n\n\1", text)    # (i), (ii), ...
+
+    # Break before common structural phrases
+    text = re.sub(r"\s+(Not later than)", r"\n\n\1", text)
+    text = re.sub(r"\s+(The Secretary)", r"\n\n\1", text)
+    text = re.sub(r"\s+(The Director)", r"\n\n\1", text)
+    text = re.sub(r"\s+(In this section)", r"\n\n\1", text)
+    text = re.sub(r"\s+(In general)", r"\n\n\1", text)
+
+    # Clean up excessive blank lines
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
 def _read_section_text(sections_dir, section_number, title):
     """Find and read the .txt file for a given section number."""
     prefix = f"sec{section_number}_"
@@ -198,13 +223,13 @@ def _read_section_text(sections_dir, section_number, title):
         if f.startswith(prefix) and f.endswith(".txt"):
             path = os.path.join(sections_dir, f)
             with open(path, "r", encoding="utf-8") as fh:
-                return fh.read().strip()
+                return _format_legal_text(fh.read())
     # Fallback: try matching with lowercase 'a' suffix variants (e.g., sec2808a)
     for f in os.listdir(sections_dir):
         if f.endswith(".txt") and f.startswith(f"sec{section_number}"):
             path = os.path.join(sections_dir, f)
             with open(path, "r", encoding="utf-8") as fh:
-                return fh.read().strip()
+                return _format_legal_text(fh.read())
     return None
 
 

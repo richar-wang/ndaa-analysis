@@ -1,0 +1,36 @@
+{
+  "text": "Air force plan for combat rescue helicopter fielding. (a) Sense of Congress . It is the sense of Congress that, given delays to Operational Loss Replacement (OLR) program fielding and the on-time fielding of Combat Rescue Helicopter (CRH), the Air National Guard should retain additional HH\u201360G helicopters at Air National Guard locations to meet their recommended primary aircraft authorized (PAA) per the Air Force\u2019s June 2018 report on Air National Guard HH\u201360 requirements. \n (b) Report on Fielding Plan . (1) In general . Not later than 45 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report on its fielding plan for the CRH program. \n (2) Elements . The report required under paragraph (1) shall include the following elements: (A) A description of the differences in capabilities between the HH\u201360G, OLR, and CRH helicopters. \n (B) A description of the costs and risks associated with changing the CRH fielding plan to reduce or eliminate inventory shortfalls. \n (C) A description of the measures for accelerating the program available within the current contract. \n (D) A description of the operational risks and benefits associated with fielding the CRH to the active component first, including - (i) how the differing fielding plan may affect deployment schedules; \n (ii) what capabilities active-component units deploying with the CRH will have that reserve component units deploying with OLR will not; and \n (iii) Analysis. an analysis of the potential costs and benefits that could result from accelerating CRH fielding to all units through additional funding in the future years defense program. \n \n \n \n (c) Report on Training Plan . (1) In general . Not later than 45 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report on the plan to sustain training for initial-entry reserve component HH\u201360G pilots once the active component of the Air Force has received all of its CRH helicopters. \n (2) Elements . The report required under paragraph (1) shall include the following elements: (A) Projected reserve component aircrew initial HH\u201360G/OLR qualification training requirements, by year. \n (B) The number of legacy HH\u201360G/OLR helicopters required to continue providing initial HH\u201360G qualification \ntraining through the 150th Special Operations Wing at Kirtland Air Force Base. \n (C) The number of personnel required to continue providing initial HH\u201360G/OLR qualification training through the 150th Special Operations Wing at Kirtland Air Force Base. \n (D) The number of flying hours required per pilot to perform \u201cdifferences training\u201d at home station for initial entry HH\u201360 pilots receiving CRH training at Kirtland Air Force Base to become qualified in the HH\u201360G/OLR at their home station. \n (E) The projected effect of using local flying training hours at reserve component units on overall unit training readiness and ability to meet Ready Aircrew Program requirements.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Air force plan for combat rescue helicopter fielding. (a) Sense of Congress . It is the sense of Congress that, given delays to Operational Loss Replacement (OLR) program fielding and the on-time fielding of Combat Rescue Helicopter (CRH), the Air National Guard should retain additional HH\u201360G helicopters at Air National Guard locations to meet their recommended primary aircraft authorized (PAA) per the Air Force\u2019s June 2018 report on Air National Guard HH\u201360 requirements. \n (b) Report on Fielding Plan . (1) In general . Not later than 45 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report on its fielding plan for the CRH program. \n (2) Elements . The report required under paragraph (1) shall include the following elements: (A) A description of the differences in capabilities between the HH\u201360G, OLR, and CRH helicopters. \n (B) A description of the costs and risks associated with changing the CRH fielding plan to reduce or eliminate inventory shortfalls. \n (C) A description of the measures for accelerating the program available within the current contract. \n (D) A description of the operational risks and benefits associated with fielding the CRH to the active component first, including - (i) how the differing fielding plan may affect deployment schedules; \n (ii) what capabilities active-component units deploying with the CRH will have that reserve component units deploying with OLR will not; and \n (iii) Analysis. an analysis of the potential costs and benefits that could result from accelerating CRH fielding to all units through additional funding in the future years defense program. \n \n \n \n (c) Report on Training Plan . (1) In general . Not later than 45 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report on the plan to sustain training for initial-entry reserve component HH\u201360G pilots once the active component of the Air Force has received all of its CRH helicopters.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.018041497773744843,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2082,
+      "word_count": 332,
+      "token_length": 459
+    },
+    {
+      "text": " \n (2) Elements . The report required under paragraph (1) shall include the following elements: (A) Projected reserve component aircrew initial HH\u201360G/OLR qualification training requirements, by year. \n (B) The number of legacy HH\u201360G/OLR helicopters required to continue providing initial HH\u201360G qualification \ntraining through the 150th Special Operations Wing at Kirtland Air Force Base. \n (C) The number of personnel required to continue providing initial HH\u201360G/OLR qualification training through the 150th Special Operations Wing at Kirtland Air Force Base. \n (D) The number of flying hours required per pilot to perform \u201cdifferences training\u201d at home station for initial entry HH\u201360 pilots receiving CRH training at Kirtland Air Force Base to become qualified in the HH\u201360G/OLR at their home station. \n (E) The projected effect of using local flying training hours at reserve component units on overall unit training readiness and ability to meet Ready Aircrew Program requirements.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011873451620340347,
+      "confidence": "High",
+      "start_index": 2082,
+      "end_index": 3071,
+      "word_count": 142,
+      "token_length": 232
+    }
+  ],
+  "_submission_type": "solo"
+}

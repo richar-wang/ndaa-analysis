@@ -1,0 +1,46 @@
+{
+  "text": "Authorized navy construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2204(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of the Navy may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n Navy: Inside the United States \n \n \n \n \n State Installation or Location Amount \n Arizona Marine Corps Air Station Yuma $189,760,000 \n California Camp Pendleton $185,569,000 \n Marine Corps Air Station Miramar $37,400,000 \n Naval Air Weapons Station China Lake $64,500,000 \n Navel Base Coronado $165,830,000 \n Naval Base San Diego $9,900,000 \n Naval Weapons Station Seal Beach $123,310,000 \n Travis Air Force Base $64,000,000 \n Connecticut Naval Submarine Base New London $72,260,000 \n Florida Blount Island $18,700,000 \n Naval Air Station Jacksonville $32,420,000 \n Guam Joint Region Marianas $226,000,000 \n Hawaii Marine Corps Air Station Kaneohe Bay $134,050,000 \n Naval Ammunition Depot West Loch $53,790,000 \n Maryland Saint Inigoes $15,000,000 \n North Carolina Camp Lejeune $229,010,000 \n Marine Corps Air Station Cherry Point $114,570,000 \n Marine Corps Air Station New River $11,320,000 \n Pennsylvania Philadelphia $74,630,000 \n South Carolina Parris Island $37,200,000 \n Virginia Marine Corps Base Quantico $143,350,000 \n Naval Station Norfolk $139,100,000 \n Portsmouth Naval Shipyard $48,930,000 \n Yorktown Naval Weapons Station $59,000,000 \n Washington Bremerton $51,010,000 \n Keyport $25,050,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2204(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of the Navy may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Navy: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Australia Darwin $211,500,000 \n Japan Fleet Activities Yokosuka $174,692,000 \n Marine Corps Air Station Iwakuni $15,870,000 \n \n (c) Report Required as Condition of Authorization . (1) Report . At the same time that the budget of the President is submitted to Congress under section 1105(a) of title 31, United States Code , for fiscal year 2021, the Secretary of the Navy shall submit to the congressional defense committees a report describing, for each project authorized in the first item in the table in subsection (b) for Darwin that is required to support the full complement of the Marine Rotational Force\u2013Darwin - (A) the required infrastructure investments for the project; \n (B) Australia. the source of funding, including funds provided by the Government of Australia, for the project; and \n (C) the proposed year for implementation of the project. \n \n (2) Condition . The Secretary of the Navy may not commence a project authorized in the first item in the table in subsection (b) for Darwin until the report under paragraph (1) has been submitted.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 3,
+  "windows": [
+    {
+      "text": "Authorized navy construction and land acquisition projects. (a) Inside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2204(a) and available for military construction projects inside the United States as specified in the funding table in section 4601, the Secretary of the Navy may acquire real property and carry out military construction projects for the installations or locations inside the United States, and in the amounts, set forth in the following table: \n Navy: Inside the United States \n \n \n \n \n State Installation or Location Amount \n Arizona Marine Corps Air Station Yuma $189,760,000 \n California Camp Pendleton $185,569,000 \n Marine Corps Air Station Miramar $37,400,000 \n Naval Air Weapons Station China Lake $64,500,000 \n Navel Base Coronado $165,830,000 \n Naval Base San Diego $9,900,000 \n Naval Weapons Station Seal Beach $123,310,000 \n Travis Air Force Base $64,000,000 \n Connecticut Naval Submarine Base New London $72,260,000 \n Florida Blount Island $18,700,000 \n Naval Air Station Jacksonville $32,420,000 \n Guam Joint Region Marianas $226,000,000 \n Hawaii Marine Corps Air Station Kaneohe Bay $134,050,000 \n Naval Ammunition Depot West Loch $53,790,000 \n Maryland Saint Inigoes $15,000,000 \n North Carolina Camp Lejeune $229,010,000 \n Marine Corps Air Station",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011337417850477828,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 1341,
+      "word_count": 180,
+      "token_length": 431
+    },
+    {
+      "text": " Cherry Point $114,570,000 \n Marine Corps Air Station New River $11,320,000 \n Pennsylvania Philadelphia $74,630,000 \n South Carolina Parris Island $37,200,000 \n Virginia Marine Corps Base Quantico $143,350,000 \n Naval Station Norfolk $139,100,000 \n Portsmouth Naval Shipyard $48,930,000 \n Yorktown Naval Weapons Station $59,000,000 \n Washington Bremerton $51,010,000 \n Keyport $25,050,000 \n \n (b) Outside the United States . Using amounts appropriated pursuant to the authorization of appropriations in section 2204(a) and available for military construction projects outside the United States as specified in the funding table in section 4601, the Secretary of the Navy may acquire real property and carry out military construction projects for the installations or locations outside the United States, and in the amounts, set forth in the following table: \n Navy: Outside the United States \n \n \n \n \n Country Installation or Location Amount \n Australia Darwin $211,500,000 \n Japan Fleet Activities Yokosuka $174,692,000 \n Marine Corps Air Station Iwakuni $15,870,000 \n \n (c) Report Required as Condition of Authorization . (1) Report . At the same time that the budget of the President is submitted to Congress under section 1105(a) of title 31, United States Code , for fiscal year 2021, the Secretary of the Navy shall submit to the congressional defense committees a report describing, for each project authorized in the first item in the table in subsection (b) for Darwin that is required to support the full complement of the Marine Rotational Force\u2013Darwin - (A) the required infrastructure investments for the project; \n (B) Australia.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006885080326658984,
+      "confidence": "High",
+      "start_index": 1341,
+      "end_index": 2984,
+      "word_count": 231,
+      "token_length": 475
+    },
+    {
+      "text": " the source of funding, including funds provided by the Government of Australia, for the project; and \n (C) the proposed year for implementation of the project. \n \n (2) Condition . The Secretary of the Navy may not commence a project authorized in the first item in the table in subsection (b) for Darwin until the report under paragraph (1) has been submitted.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005685589276254177,
+      "confidence": "High",
+      "start_index": 2984,
+      "end_index": 3345,
+      "word_count": 60,
+      "token_length": 79
+    }
+  ],
+  "_submission_type": "solo"
+}

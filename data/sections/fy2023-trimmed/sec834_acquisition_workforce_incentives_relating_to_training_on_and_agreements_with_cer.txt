@@ -1,0 +1,26 @@
+SEC. 834.  10 USC 1701 note . ACQUISITION WORKFORCE INCENTIVES RELATING TO TRAINING ON, AND AGREEMENTS WITH, CERTAIN START-UP BUSINESSES. (a)  Training .— (1)  Deadline. Recommenda- tions. Curricula .— Not later than one year after the date of the enactment of this Act, the Director of the Acquisition Innovation Research Center shall make recommendations on one or more curricula for members of the acquisition workforce on financing and operations of start-up businesses, which may include the development of new curricula, the modification of existing curricula, or the adoption of curricula from another agency, academia, or the private sector. 
+ (2)  Elements .— Courses under curricula recommended under paragraph (1) shall be offered with varying course lengths and level of study. 
+ (3)  Incentives .— The Secretary of Defense shall develop a program to offer incentives to a member of the acquisition workforce that completes a curriculum developed, modified, or adopted under paragraph (1). 
+ (4)  Additional training materials .— In recommending curricula under paragraph (1), the Director of the Acquisition Innovation Research Center shall consider and incorporate appropriate training materials from university, college, trade-school, or private-sector curricula in business, law, or public policy. 136 STAT. 2714 
+ 
+ (b)  Exchanges .— (1)  In general .— The Secretary of Defense shall establish a pilot program under which the Secretary shall, in accordance with  section 1599g of title 10, United States Code , arrange for the temporary assignment of— (A)  one or more members of the acquisition workforce to a start-up business; or 
+ (B)  an employee of a start-up business to an office of the Department of Defense. 
+ 
+ (2)  Priority .— The Secretary shall prioritize for participation in the pilot program described under paragraph (1)(A) members of the acquisition workforce who have completed a curriculum required under paragraph (1). 
+ (3)  Termination .— The Secretary may not carry out the pilot program authorized by this subsection after the date that is three years after the date of the enactment of this Act. 
+ 
+ (c)  Conferences .— The Secretary of Defense shall identify existing conferences sponsored by the Department of Defense that might be expanded to include opportunities for sharing knowledge and best practices on software acquisition issues. Such opportunities shall maximize participation between members of the acquisition workforce, employees of start-up businesses, and investors in start-up businesses. 
+ (d)  Pilot Program .— (1)  Deadline. Establishment .— Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall establish a pilot program to test the feasibility of innovative approaches to negotiating and establishing intellectual property and data rights in agreements with start-up businesses for the procurement of software and software-embedded systems. 
+ (2)  Authority .— To the maximum extent practicable, the Secretary shall— (A)  ensure that a member of the acquisition workforce who has completed a curriculum required under subsection (a) is able to exercise authority to apply an approach described in paragraph (1); and 
+ (B)  provide incentives to such member to exercise such authority. 
+ 
+ (3)  Elements .— An approach described in paragraph (1) shall include the following: (A)  Flexible and tailored requirements relating to the acquisition and licensing of intellectual property and data rights in the software and software-embedded systems to be acquired under the agreement. 
+ (B)  An identification and definition of the technical interoperability standards required for such software and software-embedded systems. 
+ (C)  Flexible mechanisms for access and delivery of code for such software, including documentation of the costs and benefits of each such mechanism. 
+ 
+ (4)  Termination .— The Secretary may not carry out the pilot program authorized by this subsection after the date that is 5 years after the date of the enactment of this Act. 
+ 
+ (e)  Definitions .— In this section: (1)  The term “ Acquisition Innovation Research Center ” means the acquisition research organization within a civilian  136 STAT. 2715 
+college or university that is described under  section 4142(a) of title 10, United States Code . 
+ (2)  The term “ acquisition workforce ” has the meaning given in  section 101 of title 10, United States Code . 
+ (3)  The term “ start-up business ” means a small business that has been in existence for 5 years or less.

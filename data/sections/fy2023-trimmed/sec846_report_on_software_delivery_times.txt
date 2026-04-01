@@ -1,0 +1,16 @@
+SEC. 846.  REPORT ON SOFTWARE DELIVERY TIMES. (a)  Termination date. Time periods. Report .— Not later than one year after the date of the enactment of this Act, and annually thereafter until December 31, 2028, the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Chief Information Officer of the Department of Defense and the Chief Digital and Artificial Intelligence Officer, shall submit to the congressional defense committees a report on the following: (1)  A description of covered software delivered during the fiscal year preceding the date of the report that is being developed using iterative development, including a description of the capabilities delivered for operational use. 
+ (2)  For such covered software not developed using iterative development, an explanation for not using iterative development and a description of the development method used. 
+ (3)  For such covered software being developed using iterative development, the frequency with which capabilities of such covered software were delivered, disaggregated as follows: (A)  Covered software for which capabilities were delivered during period of less than three months. 
+ (B)  Covered software for which capabilities were delivered during period of more than three months and less than six months. 
+ (C)  Covered software for which capabilities were delivered during period of more than six months and less than nine months. 
+ (D)  Covered software for which capabilities were delivered during period of more than nine months and less than 12 months. 136 STAT. 2721 
+ 
+ (4)  With respect to covered software described in paragraph (3) for which capabilities of such covered software were not delivered in fewer than 12 months, an explanation of why such delivery was not possible. 
+ 
+ (b)  Definitions .— In this section: (1)  The term “ Chief Digital and Artificial Intelligence Officer ” means— (A)  the official designated as the Chief Digital and Artificial Intelligence Officer of the Department of Defense pursuant to the memorandum of the Secretary of Defense titled “Establishment of the Chief Digital and Artificial Intelligence Officer” dated December 8, 2021; or 
+ (B)  if there is no official designated as such Officer, the official within the Office of the Secretary of Defense with primary responsibility for digital and artificial intelligence matters. 
+ 
+ (2)  The term “ covered software ” means software that is being developed that— (A)  was acquired using a software acquisition pathway established under section 800 of the National Defense Authorization Act for Fiscal Year 2020 ( Public Law 116–92 ); or 
+ (B)  is a covered defense business system, as defined in  section 2222(i) of title 10, United States Code . 
+ 
+ (3)  The term “ iterative development ” has the meaning given the term “ agile or iterative development ” in section 891 of the National Defense Authorization Act for Fiscal Year 2018 ( Public Law 10  115–91;  131 Stat. 1509 ;  10 U.S.C. 1746 note ).

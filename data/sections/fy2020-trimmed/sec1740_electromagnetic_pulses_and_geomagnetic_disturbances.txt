@@ -1,0 +1,76 @@
+SEC. 1740.  ELECTROMAGNETIC PULSES AND GEOMAGNETIC DISTURBANCES. (a)  EMP and GMD Mitigation Research and Development .— (1)  Threat assessment, response, and recovery .— Section 320 of the Homeland Security Act of 2002 ( 6 U.S.C. 195f )  is amended — (A)  in the section heading, by  inserting  “ and threat assessment, response, and recovery ” after “ development ”; and 
+ (B)  by  adding  at the end the following: “(d)  Threat Assessment, Response, and Recovery .— “(1)  Roles and responsibilities .— “(A)  Distribution of information .— “(i)  Deadline. In general .— Beginning not later than June 19, 2020, the Secretary shall provide timely distribution of information on EMPs and GMDs to Federal, State, and local governments, owners and operators of critical infrastructure, and other persons determined appropriate by the Secretary. 
+ “(ii)  Briefing .— The Secretary shall brief the appropriate congressional committees on the effectiveness of the distribution of information under clause (i). 
+ 
+ “(B)  Coordination. Response and recovery .— “(i)  In general .— The Administrator of the Federal Emergency Management Agency shall— “(I)  Consultation. coordinate the response to and recovery from the effects of EMPs and GMDs on critical infrastructure, in coordination with the heads of appropriate Sector-Specific Agencies, and on matters related to the bulk power system, in consultation with the Secretary of Energy and the Federal Energy Regulatory Commission; and 
+ “(II)  to the extent practicable, incorporate events that include EMPs and extreme GMDs as a factor in preparedness scenarios and exercises. 
+ 
+ “(ii)  Deadlines. Implementation .— The Administrator of the Federal Emergency Management Agency, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, and on matters related to the bulk power system, the Secretary of Energy and the Federal Energy Regulatory Commission, shall— “(I)  Plans. Procedures. not later than June 19, 2020, develop plans and procedures to coordinate the response to and recovery from EMP and GMD events; and 
+ “(II)  not later than December 21, 2020, conduct a national exercise to test the preparedness and response of the Nation to the effect of an EMP or extreme GMD event. 
+ 
+ 
+ “(C)  Coordination. Research and development .— “(i)  In general .— The Secretary, in coordination with the heads of relevant Sector-Specific Agencies, shall— “(I)  without duplication of existing or ongoing efforts, conduct research and development to better understand and more effectively model the effects  133 STAT. 1822 
+of EMPs and GMDs on critical infrastructure (which shall not include any system or infrastructure of the Department of Defense or any system or infrastructure of the Department of Energy associated with nuclear weapons activities); and 
+ “(II)  develop technologies to enhance the resilience of and better protect critical infrastructure. 
+ 
+ “(ii)  Deadline. Plan .— Not later than March 26, 2020, and in coordination with the heads of relevant Sector-Specific Agencies, the Secretary shall submit to the appropriate congressional committees a research and development action plan to rapidly address modeling shortfall and technology development. 
+ 
+ “(D)  Emergency information system .— “(i)  Coordination. In general .— The Administrator of the Federal Emergency Management Agency, in coordination with relevant stakeholders, shall maintain a network of systems, such as the alerting capabilities of the integrated public alert and warning system authorized under section 526, that are capable of providing appropriate emergency information to the public before (if possible), during, and in the aftermath of an EMP or GMD. 
+ “(ii)  Deadline. Briefing .— Not later than December 21, 2020, the Administrator of the Federal Emergency Management Agency, shall brief the appropriate congressional committees regarding the maintenance of systems, including the alerting capabilities of the integrated public alert and warning system authorized under section 526. 
+ 
+ “(E)  Coordination. Quadrennial risk assessments .— “(i)  In general .— The Secretary, in coordination with the Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce, and informed by intelligence-based threat assessments, shall conduct a quadrennial EMP and GMD risk assessment. 
+ “(ii)  Deadline. Briefings .— Not later than March 26, 2020, and every four years thereafter until 2032, the Secretary, the Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall provide a briefing to the appropriate congressional committees regarding the quadrennial EMP and GMD risk assessment. 
+ “(iii)  Enhancing resilience .— The Secretary, in coordination with the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the heads of other relevant Sector-Specific Agencies, shall use the results of the quadrennial EMP and GMD risk assessments to better understand and to improve resilience to the effects of EMPs and GMDs across all critical infrastructure sectors, including coordinating the prioritization of critical infrastructure at greatest risk to the effects of EMPs and GMDs. 
+ 
+ 
+ “(2)  Coordination .— “(A)  Report on technological options .— Not later than December 21, 2020, and every four years thereafter until 2032, the Secretary, in coordination with the Secretary of Defense, the Secretary of Energy, the heads of  133 STAT. 1823 
+other appropriate agencies, and, as appropriate, private-sector partners, shall submit to the appropriate congressional committees, a report that— “(i)  Assessment. assesses the technological options available to improve the resilience of critical infrastructure to the effects of EMPs and GMDs; and 
+ “(ii)  identifies gaps in available technologies and opportunities for technological developments to inform research and development activities. 
+ 
+ “(B)  Test data .— “(i)  Deadline. In general .— Not later than December 20, 2020, the Secretary, in coordination with the heads of Sector-Specific Agencies, the Secretary of Defense, and the Secretary of Energy, shall— “(I)  Review. review test data regarding the effects of EMPs and GMDs on critical infrastructure systems, networks, and assets representative of those throughout the Nation; and 
+ “(II)  identify any gaps in the test data. 
+ 
+ “(ii)  Deadline. Consultation. Plan .— Not later than 180 days after identifying gaps in test data under clause (i), the Secretary, in coordination with the heads of Sector-Specific Agencies and in consultation with the Secretary of Defense and the Secretary of Energy, shall use the sector partnership structure identified in the National Infrastructure Protection Plan to develop an integrated cross-sector plan to address the identified gaps. 
+ “(iii)  Collaboration. Implementation .— The heads of each agency identified in the plan developed under clause (ii) shall implement the plan in collaboration with the voluntary efforts of the private sector, as appropriate. 
+ 
+ 
+ “(3)  Definitions .— In this subsection: “(A)  The term ‘ appropriate congressional committees ’ means— “(i)  the Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Committee on Commerce, Science, and Transportation of the Senate; and 
+ “(ii)  the Committee on Transportation and Infrastructure, the Committee on Homeland Security, the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Science, Space and Technology of the House of Representatives. 
+ 
+ “(B)  The terms ‘prepare’ and ‘preparedness’ mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs. 
+ “(C)  The term ‘ Sector-Specific Agency ’ has the meaning given that term in section 2201. 
+ 
+ 
+ “(e)  Rule of Construction .— Nothing in this section may be construe— “(1)  to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26,  133 STAT. 1824 
+2019, and entitled ‘Coordinating National Resilience to Electromagnetic Pulses’, or any other authority existing on the day before the date of enactment of this subsection of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America’s Surface Transportation Act ( 6 U.S.C. 121 note ), including the authority under section 215 of the Federal Power Act ( 16 U.S.C. 824o ), and including the authority of independent agencies to be independent; or 
+ “(2)  as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to the date of the enactment of this subsection.” 
+ 
+ . 
+ 
+ (2)  Technical and conforming amendment .— The table of sections in section 1(b) of the Homeland Security Act of 2002  is amended  by  striking  the item relating to section 320 and  inserting  the following: 
+ 
+ 
+ “Sec. 320.  
+ EMP and GMD mitigation research and development and threat assessment, response, and recovery.”. 
+ 
+ 
+ 
+ (b)  Consultation With Secretary of Energy in Preparation of Quadrennial Homeland Security Review .— Section 707 of the Homeland Security Act of 2002 ( 6 U.S.C. 347 )  is amended — (1)  in subsection (a)(3)(A), by  inserting  “ the Secretary of Energy, ” after “ the Secretary of Agriculture ”; and 
+ (2)  in subsection (c)(2)(B), by  inserting  after review the following “ or for purposes of the quadrennial EMP and GMD risk assessment under section 320(d)(1)(E) ”. 
+ 
+ (c)  National Essential Functions .— (1)  Deadline. Updated operational plans .— Not later than March 20, 2020, each agency that supports a national essential function shall prepare updated operational plans documenting the procedures and responsibilities of the agency relating to preparing for, protecting against, and mitigating the effects of EMPs and GMDs. 
+ (2)  Definition of national essential function .— In this subsection, the term “ national essential functions ” means the overarching responsibilities of the Federal Government to lead and sustain the Nation before, during, and in the aftermath of a catastrophic emergency, such as an EMP or GMD that adversely affects the performance of the Federal Government. 
+ 
+ (d)  Deadline. Consultation. 6 USC 195f note . Benchmarks .— Not later than March 26, 2020, and as appropriate thereafter, the Secretary of Energy, in consultation with the Secretary of Defense, the Secretary of Homeland Security, and, as appropriate, the private sector, may develop or update, as necessary, quantitative and voluntary benchmarks that sufficiently describe the physical characteristics of EMPs, including waveform and intensity, in a form that is useful to and can be shared with owners and operators of critical infrastructure. Nothing in this subsection shall affect the authority of the Electric Reliability Organization to develop and enforce, or the authority of the Federal Energy Regulatory Commission to approve, reliability standards. 
+ (e)  Deadlines. Coordination. Pilot Test by DHS to Evaluate Engineering Approaches .— (1)  Consultation. In general .— Not later than September 22, 2020, the Secretary of Homeland Security, acting through the Under  133 STAT. 1825 
+Secretary for Science and Technology of the Department of Homeland Security, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency and the Administrator of the Federal Emergency Management Agency, the Secretary of Defense, and the Secretary of Energy, and in consultation with the private sector, as appropriate, shall develop and implement a pilot test to evaluate available engineering approaches for mitigating the effects of EMPs and GMDs on the most vulnerable critical infrastructure systems, networks, and assets. 
+ (2)  Briefing .— Not later than 90 days after the date on which the pilot test described in paragraph (1) is completed, the Secretary of Homeland Security, acting through the Under Secretary for Science and Technology of the Department of Homeland Security, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency and the Administrator of the Federal Emergency Management Agency, the Secretary of Defense, and the Secretary of Energy, shall jointly brief the appropriate congressional committees on the cost and effectiveness of the evaluated approaches. 
+ 
+ (f)  Pilot Test by DOD to Evaluate Engineering Approaches .— (1)  Deadline. Consultation. In general .— Not later than September 22, 2020, the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Energy, shall conduct a pilot test to evaluate engineering approaches for hardening a strategic military installation, including infrastructure that is critical to supporting that installation, against the effects of EMPs and GMDs. 
+ (2)  Report .— Not later than 180 days after completing the pilot test described in paragraph (1), the Secretary of Defense shall submit to the appropriate congressional committees a report regarding the cost and effectiveness of the evaluated approaches. 
+ 
+ (g)  Communications Operational Plans .— Not later than December 21, 2020, the Secretary of Homeland Security, after holding a series of joint meetings with the Administrator of the Federal Emergency Management Agency, the Director of the Cybersecurity and Infrastructure Security Agency, the Secretary of Defense, the Under Secretary of Commerce for Standards and Technology, the Assistant Secretary of Commerce for Communications and Information, the Federal Communications Commission, and the Secretary of Transportation, shall submit to the appropriate congressional committees a report— (1)  Assessment. assessing the effects of EMPs and GMDs on critical communications infrastructure; and 
+ (2)  Recommenda- tions. recommending any necessary changes to operational plans to enhance national response and recovery efforts after an EMP or GMD. 
+ 
+ (h)  6 USC 195f note . Definitions .— In this section: (1)  The term “ appropriate congressional committees ” has the meaning given that term in subsection (d) of section 320 of the Homeland Security Act of 2002, as added by subsection (a) of this section; and 
+ (2)  The terms “critical infrastructure”, “EMP”, and “GMD” have the meanings given such terms in section 2 of the Homeland Security Act of 2002 ( 6 U.S.C. 101 ). 133 STAT. 1826

@@ -1,0 +1,12 @@
+SEC. 7355.  COMMERCIAL CLOUD ENTERPRISE SOLE SOURCE TASK ORDER NOTIFICATION REQUIREMENT. (a)  Notification Requirement . Deadline. — Not later than 90 days after the date of the enactment of this Act, and on a semiannual basis thereafter, the head of each element of the intelligence community shall submit to the appropriate committees of Congress a notification with respect to any sole source task order awarded by such head under the contract relating to the Commercial Cloud Enterprise entered into by the Director of the Central Intelligence Agency in November 2020 for commercial cloud services for the intelligence community. 
+ (b)  Contents .— Each notification required under subsection (a) shall include, with respect to the task order concerned— (1)  a description of the order; 
+ (2)  the duration of the order; 
+ (3)  Summary. a summary of services provided under the order; 
+ (4)  the value of the order; 
+ (5)  the justification for awarding the order on a sole source basis; and 
+ (6)  an identification of the vendor awarded the order. 
+ 
+ (c)  Sunset .— The requirement to submit the notification under subsection (a) shall terminate on the date that is 3 years after the date of the enactment of this Act. 
+ (d)  Definition of Appropriate Committees of Congress .— In this section, the term “ appropriate committees of Congress ” means— (1)  the congressional intelligence committees; 
+ (2)  the Committee on Appropriations of the Senate; and 
+ (3)  the Committee on Appropriations of the House of Representatives.

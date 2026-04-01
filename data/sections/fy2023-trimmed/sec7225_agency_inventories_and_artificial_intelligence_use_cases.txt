@@ -1,0 +1,10 @@
+SEC. 7225.  AGENCY INVENTORIES AND ARTIFICIAL INTELLIGENCE USE CASES. (a)  Deadline. Time period. Requirements. Inventory .— Not later than 60 days after the date of enactment of this Act, and continuously thereafter for a period of 5  136 STAT. 3672 
+years, the Director, in consultation with the Chief Information Officers Council, the Chief Data Officers Council, and other interagency bodies as determined to be appropriate by the Director, shall require the head of each agency to— (1)  prepare and maintain an inventory of the artificial intelligence use cases of the agency, including current and planned uses; 
+ (2)  share agency inventories with other agencies, to the extent practicable and consistent with applicable law and policy, including those concerning protection of privacy and of sensitive law enforcement, national security, and other protected information; and 
+ (3)  Public information. make agency inventories available to the public, in a manner determined by the Director, and to the extent practicable and in accordance with applicable law and policy, including those concerning the protection of privacy and of sensitive law enforcement, national security, and other protected information. 
+ 
+ (b)  Public information. Website. Central Inventory .— The Director is encouraged to designate a host entity and ensure the creation and maintenance of an online public directory to— (1)  make agency artificial intelligence use case information available to the public and those wishing to do business with the Federal Government; and 
+ (2)  identify common use cases across agencies. 
+ 
+ (c)  Sharing .— The sharing of agency inventories described in subsection (a)(2) may be coordinated through the Chief Information Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, the Chief Acquisition Officers Council, or other interagency bodies to improve interagency coordination and information sharing for common use cases. 
+ (d)  Department of Defense .— Nothing in this section shall apply to the Department of Defense.

@@ -1,0 +1,35 @@
+SEC. 257.  CYBER SCIENCE AND TECHNOLOGY ACTIVITIES ROADMAP AND REPORTS. (a)  Roadmap for Science and Technology Activities to Support Development of Cyber Capabilities .— (1)  Roadmap required .— The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall develop a roadmap for science and technology activities of the Department of Defense to support development of cyber capabilities to meet Department needs and missions. 
+ (2)  Goal of consistency .— The Secretary shall develop the roadmap required by paragraph (1) to ensure consistency with appropriate Federal interagency, industry, and academic activities. 
+ (3)  Scope .— The roadmap required by paragraph (1) shall— (A)  cover the development of capabilities that will likely see operational use within the next 25 years or earlier; and 
+ (B)  address cyber operations and cybersecurity. 
+ 
+ (4)  Consultation .— The Secretary shall develop the roadmap required by paragraph (1) in consultation with the following: (A)  The Chief Information Officer of the Department. 
+ (B)  The secretaries and chiefs of the military departments. 
+ (C)  The Director of Operational Test and Evaluation. 
+ (D)  The Commander of the United States Cyber Command. 
+ (E)  The Director of the National Security Agency. 
+ (F)  The Director of the Defense Information Systems Agency. 
+ (G)  The Director of the Defense Advanced Research Projects Agency. 
+ (H)  The Director of the Defense Digital Service. 
+ (I)  Such interagency partners as the Secretary considers appropriate. 
+ 
+ (5)  Form .— The Secretary shall develop the roadmap required by paragraph (1) in unclassified form, but may include a classified annex. 
+ (6)  Public information. Publication .— The Secretary shall make available to the public the unclassified form of the roadmap developed pursuant to paragraph (1). 
+ 
+ (b)  Annual Report on Cyber Science and Technology Activities .— (1)  Annual reports required .— In fiscal years 2021, 2022, and 2023, the Under Secretary of Defense for Research and Engineering shall submit to the congressional defense committees a report on the science and technology activities within the Department of Defense relating to cyber matters during the previous fiscal year, the current fiscal year, and the following fiscal year. 
+ (2)  Contents .— Each report submitted pursuant to paragraph (1) shall include, for the period covered by the report, a description and listing of the science and technology activities  133 STAT. 1292 
+of the Department relating to cyber matters, including the following: (A)  Extramural science and technology activities. 
+ (B)  Intramural science and technology activities. 
+ (C)  Major and minor military construction activities. 
+ (D)  Major prototyping and demonstration programs. 
+ (E)  List. A list of agreements and activities to transition capabilities to acquisition activities, including— (i)  national security systems; 
+ (ii)  business systems; and 
+ (iii)  enterprise and network systems. 
+ 
+ (F)  Efforts to enhance the national technical cybersecurity workforce, including specific programs to support education, training, internships, and hiring. 
+ (G)  Efforts to perform cooperative activities with international partners. 
+ (H)  Efforts under the Small Business Innovation Research and the Small Business Technology Transfer Program, including estimated amounts to be expected in the following fiscal year. 
+ (I)  Efforts to encourage partnerships between the Department of Defense and universities participating in the National Centers of Academic Excellence in Cyber Operations and Cyber Defense. 
+ 
+ (3)  Timing .— Each report submitted pursuant to paragraph (1) shall be submitted concurrently with the annual budget request of the President submitted pursuant to  section 1105 of title 31, United States Code . 
+ (4)  Form .— The report submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.

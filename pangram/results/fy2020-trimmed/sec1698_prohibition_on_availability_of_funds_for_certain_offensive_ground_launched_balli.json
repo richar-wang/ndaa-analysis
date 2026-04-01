@@ -1,0 +1,36 @@
+{
+  "text": "Prohibition on availability of funds for certain offensive ground-launched ballistic or cruise missile systems. (a) Prohibition . None of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Department of Defense may be obligated or expended for the procurement or deployment of an offensive ground-launched ballistic or cruise missile system with a range between 500 and 5,500 kilometers. \n (b) Briefing. Evaluations. Report . Not later than January 31, 2020, the Secretary of Defense shall submit to the congressional defense committees a report, and provide a briefing, that includes the following: (1) An evaluation of the capabilities required to execute contingency plans in the areas of responsibility of the United States European Command and the United States Indo-Pacific Command using offensive ground-launched missile systems of ranges in excess of 500 kilometers. \n (2) An evaluation of what types of systems (including the range and flight profile of such systems), if any, could be used to meet the required capabilities identified under paragraph (1). \n (3) Analysis. The results of an analysis of alternatives conducted by the Chairman of the Joint Chiefs of Staff and the Director of Cost Assessment and Program Evaluation that considers - (A) conventional missile systems, including ground-, sea-, and air-launched missiles, that could be deployed to meet the required capabilities identified under paragraph (1); \n (B) the cost, schedule, and feasibility of tailored acquisition strategies for each such system considered; \n (C) simulations and games that were performed to inform the analysis of alternatives; \n (D) benefits and risks of such different types of systems, including operational considerations in contested environments; and \n (E) any other operational or programmatic considerations determined relevant by the Chairman or the Director. \n \n (4) Options for basing any such missile system in, or deploying any such missile system to, Europe or the Indo-Pacific region, including any agreements required for such options and potential timelines to implement such options. \n (5) List. A list of any governments of a foreign country consulted about such possible deployments, and a summary of the reaction of each such government. \n (6) A discussion of whether deploying such missile systems on the territory of a NATO ally would require a consensus decision by NATO. \n \n (c) Form . The report under subsection (b) shall be submitted in unclassified form, but may contain a classified annex.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Prohibition on availability of funds for certain offensive ground-launched ballistic or cruise missile systems. (a) Prohibition . None of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Department of Defense may be obligated or expended for the procurement or deployment of an offensive ground-launched ballistic or cruise missile system with a range between 500 and 5,500 kilometers. \n (b) Briefing. Evaluations. Report . Not later than January 31, 2020, the Secretary of Defense shall submit to the congressional defense committees a report, and provide a briefing, that includes the following: (1) An evaluation of the capabilities required to execute contingency plans in the areas of responsibility of the United States European Command and the United States Indo-Pacific Command using offensive ground-launched missile systems of ranges in excess of 500 kilometers. \n (2) An evaluation of what types of systems (including the range and flight profile of such systems), if any, could be used to meet the required capabilities identified under paragraph (1). \n (3) Analysis. The results of an analysis of alternatives conducted by the Chairman of the Joint Chiefs of Staff and the Director of Cost Assessment and Program Evaluation that considers - (A) conventional missile systems, including ground-, sea-, and air-launched missiles, that could be deployed to meet the required capabilities identified under paragraph (1); \n (B) the cost, schedule, and feasibility of tailored acquisition strategies for each such system considered; \n (C) simulations and games that were performed to inform the analysis of alternatives; \n (D) benefits and risks of such different types of systems, including operational considerations in contested environments; and \n (E) any other operational or programmatic considerations determined relevant by the Chairman or the Director. \n \n (4) Options for basing any such missile system in, or deploying any such missile system to, Europe or the Indo-Pacific region, including any agreements required for such options and potential timelines to implement such options. \n (5) List. A list of any governments of a foreign country consulted about such possible deployments, and a summary of the reaction of each such government.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007219217096765836,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2317,
+      "word_count": 346,
+      "token_length": 473
+    },
+    {
+      "text": " \n (6) A discussion of whether deploying such missile systems on the territory of a NATO ally would require a consensus decision by NATO. \n \n (c) Form . The report under subsection (b) shall be submitted in unclassified form, but may contain a classified annex.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006256091097990672,
+      "confidence": "High",
+      "start_index": 2317,
+      "end_index": 2578,
+      "word_count": 43,
+      "token_length": 59
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,15 @@
+SEC. 1641.  10 USC 2224 note . ROLE OF CHIEF INFORMATION OFFICER IN IMPROVING ENTERPRISE-WIDE CYBERSECURITY. (a)  In General .— In carrying out the responsibilities established in  section 142 of title 10, United States Code , the Chief Information Officer of the Department of Defense shall, to the maximum extent practicable, ensure that the cybersecurity programs and capabilities of the Department— (1)  fit into an enterprise-wide cybersecurity architecture; 
+ (2)  are maximally interoperable with each other, including those programs and capabilities deployed by the components of the Department; 
+ (3)  enhance enterprise-level visibility and responsiveness to threats; and 
+ (4)  are developed, procured, instituted, and managed in a cost-efficient manner, exploiting economies of scale and enterprise-wide services and discouraging unnecessary customization and piecemeal acquisition. 
+ 
+ (b)  Requirements .— In carrying out subsection (a), the Chief Information Officer shall— (1)  manage and modernize the cybersecurity architecture of the Department, including— (A)  ensuring the cybersecurity architecture of the Department maximizes cybersecurity capability, network, and endpoint activity data sharing across Department components; 133 STAT. 1751 
+ (B)  ensuring the cybersecurity architecture of the Department supports improved automaticity of cybersecurity detection and response; and 
+ (C)  modernizing and configuring the Department’s standardized deployed perimeter, network-level, and endpoint capabilities to improve interoperability, meet pressing capability needs, and negate common adversary tactics, techniques, and procedures; 
+ 
+ (2)  establish mechanisms to enable and mandate, as necessary, cybersecurity capability and network and endpoint activity data-sharing across Department components; 
+ (3)  make mission data, through data tagging, automatic transmission, and other means, accessible and discoverable by Department components other than owners of such mission data; 
+ (4)  incorporate into the cybersecurity architecture of the Department emerging cybersecurity technologies from the Defense Advanced Research Projects Agency, the Strategic Capabilities Office, the Defense Innovation Unit, the laboratories of the military departments, and the commercial sector; 
+ (5)  ensure that the Department possesses the necessary computing infrastructure, through technology refresh, installation or acquisition of bandwidth, and the use of cloud computing power, to host and enable necessary cybersecurity capabilities; and 
+ (6)  utilize the Department’s cybersecurity expertise to improve cybersecurity performance, operations, and acquisition, including— (A)  the cybersecurity testing, architecting, and engineering expertise of the National Security Agency; and 
+ (B)  the technology policy, workforce, and engineering expertise of the Defense Digital Service.

@@ -1,0 +1,36 @@
+{
+  "text": "Extension and modification of nato special operations headquarters. (a) Authorization . Subsection (a) of section 1244 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111\u201384 ; 123 Stat. 2541 ) is amended by striking \u201c 2020 \u201d and inserting \u201c 2024 \u201d. \n (b) Repeal of Certification; Limitation . Such section is amended - (1) by striking subsection (c); and \n (2) by inserting after subsection (b) the following new subsection: \u201c(c) Reports. Limitation . Of the amounts made available under subsection (a) for fiscal year 2020, not more than 90 percent of such amounts may be obligated or expended until the Secretary of Defense, acting through the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, submits to the congressional defense committees a report on the decision to realign responsibilities for overseeing and supporting NSHQ from U.S. Special Operations Command to U.S. European Command, including - \u201c(1) a justification and description of the impact of such realignment; and \n \u201c(2) a description of how such realignment will strengthen the role of the NSHQ in fostering special operations capabilities within NATO.\u201d \n \n . \n \n (c) Annual Report . Such section, as so amended, is further amended by adding at the end the following new subsection: \u201c(d) Annual Report . Not later than March 1 of each year until 2024, the Secretary of Defense shall submit to the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report regarding support for the NSHQ. Each report shall include the following: \u201c(1) The total amount of funding provided by the United States and other NATO nations to the NSHQ for operating costs of the NSHQ. \n \u201c(2) A description of the activities carried out with such funding, including - \u201c(A) the amount of funding allocated for each such activity; \n \u201c(B) the extent to which other NATO nations participate in each such activity; \n \u201c(C) the extent to which each such activity is carried out in coordination or cooperation with the Joint Special Operations University; \n \u201c(D) the extent to which each such activity is carried out in relation to other security cooperation activities, exercises, or operations of the Department of Defense; \n \u201c(E) the extent to which each such activity is designed to meet the purposes set forth in paragraphs (1) through (5) of subsection (b); and \n \u201c(F) Assessment. an assessment of the extent to which each such activity will promote the mission of the NSHQ. \n \n \u201c(3) Other contributions, financial or in kind, provided by the United States and other NATO nations in support of the NSHQ. \n \u201c(4) Any other matters that the Secretary of Defense considers appropriate.\u201d \n \n .",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Extension and modification of nato special operations headquarters. (a) Authorization . Subsection (a) of section 1244 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111\u201384 ; 123 Stat. 2541 ) is amended by striking \u201c 2020 \u201d and inserting \u201c 2024 \u201d. \n (b) Repeal of Certification; Limitation . Such section is amended - (1) by striking subsection (c); and \n (2) by inserting after subsection (b) the following new subsection: \u201c(c) Reports. Limitation . Of the amounts made available under subsection (a) for fiscal year 2020, not more than 90 percent of such amounts may be obligated or expended until the Secretary of Defense, acting through the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, submits to the congressional defense committees a report on the decision to realign responsibilities for overseeing and supporting NSHQ from U.S. Special Operations Command to U.S. European Command, including - \u201c(1) a justification and description of the impact of such realignment; and \n \u201c(2) a description of how such realignment will strengthen the role of the NSHQ in fostering special operations capabilities within NATO.\u201d \n \n . \n \n (c) Annual Report . Such section, as so amended, is further amended by adding at the end the following new subsection: \u201c(d) Annual Report . Not later than March 1 of each year until 2024, the Secretary of Defense shall submit to the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report regarding support for the NSHQ. Each report shall include the following: \u201c(1) The total amount of funding provided by the United States and other NATO nations to the NSHQ for operating costs of the NSHQ. \n \u201c(2) A description of the activities carried out with such funding, including - \u201c(A) the amount of funding allocated for each such activity; \n \u201c(B) the extent to which other NATO nations participate in each such activity; \n \u201c(C) the extent to which each such activity is carried out in coordination or cooperation with the Joint Special Operations",
+      "label": "Human Written",
+      "ai_assistance_score": 0.008319263812154531,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2144,
+      "word_count": 345,
+      "token_length": 499
+    },
+    {
+      "text": " University; \n \u201c(D) the extent to which each such activity is carried out in relation to other security cooperation activities, exercises, or operations of the Department of Defense; \n \u201c(E) the extent to which each such activity is designed to meet the purposes set forth in paragraphs (1) through (5) of subsection (b); and \n \u201c(F) Assessment. an assessment of the extent to which each such activity will promote the mission of the NSHQ. \n \n \u201c(3) Other contributions, financial or in kind, provided by the United States and other NATO nations in support of the NSHQ. \n \u201c(4) Any other matters that the Secretary of Defense considers appropriate.\u201d \n \n .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.006150137458462268,
+      "confidence": "High",
+      "start_index": 2144,
+      "end_index": 2795,
+      "word_count": 104,
+      "token_length": 155
+    }
+  ],
+  "_submission_type": "solo"
+}

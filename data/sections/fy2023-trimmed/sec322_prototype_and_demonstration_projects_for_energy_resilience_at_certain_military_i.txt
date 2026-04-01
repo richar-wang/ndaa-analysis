@@ -1,0 +1,45 @@
+SEC. 322.  10 USC 2911 note . PROTOTYPE AND DEMONSTRATION PROJECTS FOR ENERGY RESILIENCE AT CERTAIN MILITARY INSTALLATIONS. (a)  In General .— Subject to the availability of appropriations for such purpose, each Secretary of a military department shall ensure that covered prototype and demonstration projects are conducted at each military installation under the jurisdiction of that Secretary that is designated by the Secretary of Defense as an “Energy Resilience Testbed” pursuant to subsection (b). 
+ (b)  Selection of Military Installations .— (1)  List. Nomination .— Each Secretary of a military department shall nominate military installations under the jurisdiction of that Secretary for selection under paragraph (2), and submit to the Secretary of Defense a list of such nominations. 
+ (2)  Deadline. Selection .— Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall select, from among the lists of nominated military installations provided by the Secretaries of the military departments under paragraph (1), at least one such nominated military installation per military department for designation pursuant to paragraph (4). 
+ (3)  Considerations .— In selecting military installations under paragraph (2), the Secretary of Defense shall, to the extent practicable, take into consideration the following: (A)  The mission of the installation. 
+ (B)  The geographic terrain of the installation and of the community surrounding the installation. 
+ (C)  The energy resources available to support the installation. 
+ (D)  An assessment of any extreme weather risks or vulnerabilities at the installation and the community surrounding the installation. 
+ 
+ (4)  Designation as energy resilience testbed .— Each military installation selected under paragraph (2) shall be known as an “Energy Resilience Testbed”. 
+ 
+ (c)  Covered Technologies .— Covered prototype and demonstration projects conducted at military installations designated pursuant to subsection (b) shall include the prototype and demonstration of technologies in the following areas: (1)  Energy storage technologies, including long-duration energy storage systems. 
+ (2)  Technologies to improve building energy efficiency in a cyber-secure manner, such as advanced lighting controls, high-performance cooling systems, and technologies for waste heat recovery. 
+ (3)  Technologies to improve building energy management and control in a cyber-secure manner. 
+ (4)  Tools and processes for design, assessment, and decision making on the installation with respect to all hazards resilience and hazard analysis, energy use, management, and the construction of resilient buildings and infrastructure. 
+ (5)  Carbon sequestration technologies. 
+ (6)  Technologies relating to on-site resilient energy generation, including the following: (A)  Advanced geothermal technologies. 
+ (B)  Advanced nuclear technologies, including small modular reactors. 136 STAT. 2512 
+ 
+ (7)  Port electrification and surrounding defense community infrastructure. 
+ (8)  Tidal and wave power technologies. 
+ (9)  Distributed ledger technologies. 
+ 
+ (d)  Deadlines. Briefing .— Not later than one year after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall provide to the appropriate congressional committees a briefing on the conduct of covered prototype and demonstration projects at each military installation designated pursuant to subsection (b). Such briefing shall include the following: (1)  An identification of each military installation so designated. 
+ (2)  A justification as to why each military installation so designated was selected for such designation. 
+ (3)  Strategy. A strategy for commencing the conduct of such projects at each military installation so designated by not later than one year after the date of the enactment of this Act. 
+ 
+ (e)  Deadline for Commencement of Projects .— Beginning not later than one year after the date of the enactment of this Act, covered prototype and demonstration projects shall be conducted at, and such conduct shall be incorporated into the mission of, each military installation designated pursuant to subsection (b). 
+ (f)  Responsibility for Administration and Oversight .— Notwithstanding the responsibility of the Secretary of Defense to select each military installation for designation pursuant to subsection (b)(2), the administration and oversight of the conduct of covered prototype and demonstration projects at a military installation so designated, as required under subsection (a), shall be the responsibility of the Secretary of the military department with jurisdiction over that military installation. 
+ (g)  Consortiums .— (1)  In general .— Each Secretary of a military department may enter into a partnership with, or seek to establish, a consortium of industry, academia, and other entities described in paragraph (2) to conduct covered prototype and demonstration projects at a military installation that is under the jurisdiction of that Secretary and designated by the Secretary of Defense pursuant to subsection (b). 
+ (2)  Consortium entities .— The entities described in this paragraph are as follows: (A)  National laboratories. 
+ (B)  Industry entities the primary work of which relates to technologies and business models relating to energy resilience and all hazards resilience. 
+ 
+ 
+ (h)  Authorities .— (1)  In general .— Covered prototype and demonstration projects required under this section may be conducted as part of the program for operational energy prototyping established under section 324(c) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ;  134 Stat. 3523 ;  10 U.S.C. 2911 note ) (including by using funds available under the Operational Energy Prototyping Fund established pursuant to such section), using the other transactions authority under section 4021 or 4022 of  title 10, United States Code , or using any other available  136 STAT. 2513 
+authority or funding source the Secretary of Defense determines appropriate. 
+ (2)  Follow-on production contracts or transactions .— Each Secretary of a military department shall ensure that, to the extent practicable, any transaction entered into under the other transactions authority under  section 4022 of title 10, United States Code , for the conduct of a covered prototype and demonstration project under this section shall provide for the award of a follow-on production contract or transaction pursuant to subsection (f) of such section 4022. 
+ 
+ (i)  Memorandums. Interagency Collaboration .— In carrying out this section, to the extent practicable, the Secretary of Defense shall collaborate with the Secretary of Energy and the heads of such other Federal departments and agencies as the Secretary of Defense may determine appropriate, including by entering into relevant memoranda of understanding. 
+ (j)  Rule of Construction .— Nothing in this section shall be construed as precluding any Secretary of a military department from carrying out any activity, including conducting a project or making an investment, relating to the improvement of energy resilience or all hazards resilience under an authority other than this section. 
+ (k)  Definitions .— In this section: (1)  The term “ appropriate congressional committees ” means— (A)  the Committee on Armed Services and the Committee on Energy and Commerce of the House of Representatives; and 
+ (B)  the Committee on Armed Services and the Committee on Energy and Natural Resources of the Senate. 
+ 
+ (2)  The term “ community infrastructure ” has the meaning given that term in  section 2391(e) of title 10, United States Code . 
+ (3)  The term “ covered prototype and demonstration project ” means a project to prototype and demonstrate advanced technologies to enhance energy resilience, including with respect to energy supply disruptions, and all hazards resilience at a military installation. 
+ (4)  The term “ military installation ” has the meaning given that term in  section 2867 of title 10, United States Code .

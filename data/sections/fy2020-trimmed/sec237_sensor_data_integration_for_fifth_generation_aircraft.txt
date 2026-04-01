@@ -1,0 +1,11 @@
+SEC. 237.  SENSOR DATA INTEGRATION FOR FIFTH GENERATION AIRCRAFT. (a)  F–35 Sensor Data .— The Secretary of Defense shall ensure that— (1)  information collected by the passive and active on-board sensors of the F–35 Joint Strike Fighter aircraft is capable of being shared, in real time, with joint service users in cases in which the Joint Force Commander determines that sharing such information would be operationally advantageous; and 
+ (2)  the Secretary has developed achievable, effective, and suitable concepts and supporting technical architectures to collect, store, manage, and disseminate information collected by such sensors. 
+ 
+ (b)  GAO Study and Report .— 133 STAT. 1282 
+ (1)  Study .— The Comptroller General of the United States shall conduct a study of the sensor data collection and dissemination capability of fifth generation aircraft of the Department of Defense. 
+ (2)  Assessments. Elements .— The study required by paragraph (1) shall include an assessment of the following— (A)  the extent to which the Department has established doctrinal, organizational, or technological methods of managing the large amount of sensor data that is currently collected and which may be collected by existing and planned advanced fifth generation aircraft; 
+ (B)  the status of the existing sensor data collection, storage, dissemination, and management capability and capacity of fifth generation aircraft, including the F–35, the F–22, and the B–21; and 
+ (C)  the ability of the F–35 aircraft and other fifth generation aircraft to share information collected by the aircraft in real-time with other joint service users as described in subsection (a)(1). 
+ 
+ (3)  Study results .— (A)  Deadline. Interim briefing .— Not later than 180 days after the date of the enactment of this Act, the Comptroller General shall provide to the congressional defense committees a briefing on the preliminary findings of the study conducted under this subsection. 
+ (B)  Final results .— The Comptroller General shall provide the final results of the study conducted under this subsection to the congressional defense committees at such time and in such format as is mutually agreed upon by the committees and the Comptroller General at the time of the briefing under subparagraph (A).

@@ -1,0 +1,33 @@
+SEC. 846.  REPORT REQUIREMENTS FOR THE NATIONAL TECHNOLOGY AND INDUSTRIAL BASE. (a)  National Security Strategy for National Technology and Industrial Base .— Deadline. Section 2501(a) of title 10, United States Code ,  is amended  by  inserting  after the first sentence the following new sentence: “ The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 ( 50 U.S.C. 3043 ). ”. 
+ (b)  Annual Report to Congress .— Section 2504(3) of title 10, United States Code ,  is amended — 133 STAT. 1504 (1)  in the matter preceding subparagraph (A), by  inserting  “ Executive order or ” after “ pursuant to ”; 
+ (2)  by  amending  subparagraph (A) to read as follows: “(A)  a map of the industrial base;” 
+ ; 
+ (3)  by  redesignating  subparagraph (B) as subparagraph (C); and 
+ (4)  by  inserting  after subparagraph (A) the following new subparagraph: “(B)  List. a prioritized list of gaps or vulnerabilities in the national technology and industrial base, including— “(i)  a description of mitigation strategies necessary to address such gaps or vulnerabilities; 
+ “(ii)  the identification of the Secretary concerned or the head of the Defense Agency responsible for addressing such gaps or vulnerabilities; and 
+ “(iii)  Timeline. a proposed timeline for action to address such gaps or vulnerabilities; and” 
+ 
+ . 
+ 
+ (c)  Annual Report on Unfunded Priorities for National Technical Industrial Base .— (1)  In general .— Subchapter II of chapter 148 of title 10, United States Code ,  is amended  by  inserting  after section 2504 the following new section: “§ 2504a. 10 USC 2504a .  Unfunded priorities of the national technology and industrial base: annual report “(a)  Annual Report .— Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on the unfunded priorities to address gaps or vulnerabilities in the national technology and industrial base. 
+ “(b)  Elements .— “(1)  In general .— Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following: “(A)  Summary. A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part). 
+ “(B)  The additional amount of funds recommended in connection with the objectives under subparagraph (A). 
+ “(C)  Account information with respect to such priority, including the following (as applicable): “(i)  Line Item Number (LIN) for applicable procurement accounts. 
+ “(ii)  Program Element (PE) number for applicable research, development, test, and evaluation accounts. 
+ “(iii)  Sub-activity group (SAG) for applicable operation and maintenance accounts. 
+ 
+ 
+ “(2)  Prioritization of priorities .— Each report shall present the unfunded priorities covered by such report in order of urgency of priority. 
+ 
+ “(c)  Unfunded Priority Defined .— In this section, the term ‘ unfunded priority ’, in the case of a fiscal year, means a program, activity, or mission requirement of the national technology and industrial base that— 133 STAT. 1505 “(1)  is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31; 
+ “(2)  is necessary to address gaps or vulnerabilities in the national technology and industrial base; and 
+ “(3)  would have been recommended for funding through the budget referred to in paragraph (1) if— “(A)  additional resources had been available for the budget to fund the program, activity, or mission requirement; or 
+ “(B)  the program, activity, or mission requirement had emerged before the budget was formulated.” 
+ 
+ 
+ 
+ . 
+ (2)  Clerical amendment .— The table of sections for such subchapter 10 USC 2501  prec.   is amended  by  adding  at the end the following new item: 
+ 
+ “2504a.  
+ Unfunded priorities of the national technology and industrial base: annual report.”.

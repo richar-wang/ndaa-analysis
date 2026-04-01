@@ -1,0 +1,13 @@
+SEC. 337.  10 USC 2911 note . PILOT PROGRAM FOR AVAILABILITY OF WORKING-CAPITAL FUNDS FOR INCREASED COMBAT CAPABILITY THROUGH ENERGY OPTIMIZATION. (a)  In General .— Notwithstanding  section 2208 of title 10, United States Code , the Secretary of Defense and the military departments may use a working capital fund established pursuant to that section for expenses directly related to conducting a pilot program for energy optimization initiatives described in subsection (b). 
+ (b)  Energy Optimization Initiatives .— Energy optimization initiatives covered by the pilot program include the research, development, procurement, installation, and sustainment of technologies or weapons system platforms, and the manpower required to do so, that would improve the efficiency and maintainability, extend the useful life, lower maintenance costs, or provide performance enhancement of the weapon system platform or major end item. 
+ (c)  Limitation on Certain Projects .— Funds may not be used pursuant to subsection (a) for— (1)  any product improvement that significantly changes the performance envelope of an end item; or 
+ (2)  any single component with an estimated total cost in excess of $10,000,000. 
+ 
+ (d)  Limitation in Fiscal Year Pending Timely Report .— If during any fiscal year the report required by paragraph (1) of subsection (e) is not submitted by the date specified in paragraph (2) of that subsection, funds may not be used pursuant to subsection (a) during the period— (1)  beginning on the date specified in such paragraph (2); and 
+ (2)  ending on the date of the submittal of the report. 
+ 
+ (e)  Annual Report .— (1)  In general .— The Secretary of Defense shall submit an annual report to the congressional defense committees on the use of the authority under subsection (a) during the preceding fiscal year. 
+ (2)  Deadline for submittal .— The report required by paragraph (1) in a fiscal year shall be submitted not later than 60 days after the date of the submittal to Congress of the budget of the President for the succeeding fiscal year pursuant to  section 1105 of title 31, United States Code . 
+ (3)  Recommendation .— In the case of the report required to be submitted under paragraph (1) during fiscal year 2020, the report shall include the recommendation of the Secretary of Defense and the military departments regarding whether the authority under subsection (a) should be made permanent. 
+ 
+ (f)  Sunset .— The authority under subsection (a) shall expire on October 1, 2024.

@@ -1,0 +1,9 @@
+SEC. 6315.  50 USC 3316 note . SUBMISSION OF INTELLIGENCE COMMUNITY POLICIES. (a)  Definitions .— In this section: (1)  Electronic repository .— The term “ electronic repository ” means the electronic distribution mechanism, in use as of the date of the enactment of this Act, or any successor electronic distribution mechanism, by which the Director of National Intelligence submits to the congressional intelligence committees information. 133 STAT. 2195 
+ (2)  Policy .— The term “ policy ”, with respect to the intelligence community, includes unclassified or classified— (A)  directives, policy guidance, and policy memoranda of the intelligence community; 
+ (B)  executive correspondence of the Director of National Intelligence; and 
+ (C)  any equivalent successor policy instruments. 
+ 
+ 
+ (b)  Deadlines. Submission of Policies .— (1)  Current policy .— Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees using the electronic repository all nonpublicly available policies issued by the Director of National Intelligence for the intelligence community that are in effect as of the date of the submission. 
+ (2)  Continuous updates .— Not later than 15 days after the date on which the Director of National Intelligence issues, modifies, or rescinds a policy of the intelligence community, the Director shall— (A)  Notification. notify the congressional intelligence committees of such addition, modification, or removal; and 
+ (B)  update the electronic repository with respect to such addition, modification, or removal.

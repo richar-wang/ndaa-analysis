@@ -1,0 +1,13 @@
+SEC. 839.  GUIDANCE AND REPORTS RELATING TO COVERED DEFENSE BUSINESS SYSTEMS. (a)  Amendments to Guidance for Covered Defense Business Systems .— Section 2222(d) of title 10, United States Code ,  is amended — (1)  in the matter preceding paragraph (1), by  striking  “ subsection (c)(1) ” and  inserting  “ subsection (c) ”; and 
+ (2)  by  adding  at the end the following new paragraphs: 133 STAT. 1499 
+ “(7)  Policy to ensure a covered defense business system is in compliance with the Department’s auditability requirements. 
+ “(8)  Policy to ensure approvals required for the development of a covered defense business system.” 
+ . 
+ 
+ (b)  Reports .— (1)  Guidance .— The Secretary of Defense shall submit to the congressional defense committees a report— (A)  not later than December 31, 2019, that includes the guidance required under paragraph (1) of  section 2222(c) of title 10, United States Code ; and 
+ (B)  not later than March 31, 2020, that includes the guidance required under paragraph (2) of such section. 
+ 
+ (2)  Information technology and defense business enterprise architecture .— Deadline. Notification. Not later than February 1, 2020, the Chief Information Officer of the Department of Defense shall submit to the congressional defense committees a notification that the information technology enterprise architecture required under subparagraph (B) of  section 2222(e)(4) of title 10, United States Code — (A)  has been established, including a schedule for implementing the plan required under such subparagraph (B) and a schedule for integrating the defense business enterprise architecture into the information technology enterprise architecture (as required under subparagraph (A) of such section); or 
+ (B)  has not been established, and include a schedule for— (i)  establishing such architecture; 
+ (ii)  implementing the plan required under such subparagraph (B); and 
+ (iii)  integrating the defense business enterprise architecture into the information technology enterprise architecture (as required under subparagraph (A) of such section).

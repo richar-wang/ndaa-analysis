@@ -1,0 +1,10 @@
+SEC. 884.  10 USC note prec. 421. INCORPORATION OF CONTROLLED UNCLASSIFIED INFORMATION GUIDANCE INTO PROGRAM CLASSIFICATION GUIDES AND PROGRAM PROTECTION PLANS. (a)  Updates Required .— (1)  In general .— The Secretary of Defense shall, acting through the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering, ensure that all program classification guides (for classified programs) and all program protection plans (for unclassified programs) include guidance for the proper marking for controlled unclassified information at their next regularly scheduled update. 
+ (2)  Elements .— Guidance under paragraph (1) shall include the following: (A)  A requirement to use document portion markings for controlled unclassified information. 
+ (B)  A process to ensure controlled unclassified information document portion markings are used properly and consistently. 
+ 
+ 
+ (b)  Monitoring of Progress .— In tracking the progress in carrying out subsection (a), the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering shall implement a process for monitoring progress that includes the following: (1)  Tracking of all program classification guides and program protection plans so they include document portion marking for controlled unclassified information, and the dates when controlled unclassified information guidance updates are completed. 
+ (2)  Updated training in order to ensure that all government and contractor personnel using the guides described in subsection (a)(1) receive instruction, as well as periodic spot checks, to ensure that training is sufficient and properly implemented to ensure consistent application of document portion marking guidance. 
+ (3)  A process for feedback to ensure that any identified gaps or lessons learned are incorporated into guidance and training instructions. 136 STAT. 2747 
+ 
+ (c)  Deadline. Required Completion .— The Secretary shall ensure that the updates required by subsection (a) are completed before January 1, 2029.

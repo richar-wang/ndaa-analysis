@@ -1,0 +1,31 @@
+SEC. 231.  10 USC 4001 note . PILOT PROGRAM ON NEAR-TERM QUANTUM COMPUTING APPLICATIONS. (a)  Pilot Program .— The Secretary of Defense may carry out a pilot program under which the Secretary, in partnership with the entities specified in subsection (b), establishes and operates a program that enables organizations of the Department of Defense, including the Armed Forces, to test and evaluate how quantum and quantum-hybrid applications may be used— (1)  to solve technical problems and research challenges identified under section 234(e) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ;  10 U.S.C. 4001 note ) and such other near-term technical problems and challenges facing the Department and the Armed Forces as the Secretary may identify; and 
+ (2)  to provide capabilities needed by the Department and the Armed Forces in the near-term. 
+ 
+ (b)  Entities Specified .— The Secretary of Defense shall seek to carry out the pilot program under subsection (a) in partnership with— (1)  a federally funded research and development center, university affiliated research center, center of excellence, or similar entity; and 
+ (2)  one or more private-sector entities with expertise in quantum computing and quantum information science. 
+ 
+ (c)  Activities .— Under the pilot program, the Secretary of Defense, in partnership with the entities specified in subsection (b), may— (1)  convene a group of experts and organizations to identify and articulate challenges faced by the Department of Defense, including the Armed Forces, that have the potential to be addressed by quantum and quantum-hybrid applications; 
+ (2)  develop and mature demonstrations, proofs of concept, pilot programs, and other measures to address the challenges identified under paragraph (1) using quantum and quantum-hybrid applications; 
+ (3)  develop pathways through which successful demonstrations, proofs of concept, pilot programs, and other measures developed and matured under paragraph (2) may be  137 STAT. 204 
+transitioned to more advanced stages of research and development or into operational use within the Department; 
+ (4)  ensure that any quantum-based or quantum-hybrid application-based solutions identified under the program are capable of development and deployment within the period covered by the most recent future-years defense program submitted to Congress under  section 221 of title 10, United States Code  (as of the time of the pilot program); 
+ (4)  Assessment. assess the utility of commercial quantum and quantum-hybrid applications for meeting the near-term needs of warfighters; and 
+ (5)  seek to build and strengthen relationships between the Department of Defense, academic institutions, small businesses, and nontraditional defense contractors (as defined in  section 3014 of title 10, United States Code ) in the technology industry that may have unused or underused solutions to specific operational challenges of the Department relating to quantum and quantum-hybrid applications. 
+ 
+ (d)  Briefing and Reports .— (1)  Interim briefing .— Not later than 30 days before commencing the pilot program under subsection (a), the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that— (A)  identifies the entities the Secretary intends to partner with for the purposes of carrying out the pilot program, including— (i)  any entities specified in subsection (b); 
+ (ii)  any of the Armed Forces; and 
+ (iii)  any other departments and agencies of the Federal Government with pre-existing quantum technology research efforts; and 
+ 
+ (B)  Plan. describes the plan of the Secretary for developing and operating the program. 
+ 
+ (2)  Annual report .— By December 1 of each year in which the pilot program under subsection (a) is carried out, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that includes— (A)  a description of the problem sets and capabilities that were evaluated by organizations of the Department of Defense under the program; 
+ (B)  an explanation of whether and to what extent the program resulted in the identification of potential solutions based on quantum and quantum-hybrid applications; 
+ (C)  any potential barriers to the use of quantum and quantum-hybrid applications to solve near-term problems for the Department of Defense, including the Armed Forces; and 
+ (D)  Recommenda- tions. recommendations regarding how the Department of Defense can better leverage and deploy quantum and quantum-hybrid applications to address near-term military applications and operational needs. 
+ 
+ 
+ (e)  Termination .— The authority to carry out the pilot program under subsection (a) shall terminate on September 30, 2026. 
+ (f)  Definition .— In this section, the term “ quantum and quantum-hybrid applications ” means algorithms and applications  137 STAT. 205 
+which use quantum mechanics through quantum processing units, including— (1)  quantum-classical hybrid applications which are applications that use both quantum computing and classical computing hardware systems; 
+ (2)  annealing and gate systems; and 
+ (3)  all qubit modalities (including superconducting, trapped-ion, neutral atom, and photonics).

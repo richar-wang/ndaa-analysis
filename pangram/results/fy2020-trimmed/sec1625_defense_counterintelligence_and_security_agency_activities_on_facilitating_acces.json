@@ -1,0 +1,36 @@
+{
+  "text": "10 USC 1564 note . Defense counterintelligence and security agency activities on facilitating access to local criminal records historical data. (a) Activity Authorized . Subject to subsection (c), the Director of the Defense Counterintelligence and Security Agency may carry out a set of activities to reduce the time and cost of accessing State, local, and tribal law enforcement records for the background investigations required for current and prospective Federal Government employees and contractors. \n (b) Activities Characterized . The activities carried out under subsection (a) shall include only that training, education, and direct assistance to State, local, and tribal communities needed for the purpose of streamlining access to historical criminal record data. \n (c) Limitations . (1) Time period. Commencement of activities . The Director may not commence carrying out any activities under subsection (a) until the date that is 90 days after the date on which the Director submits the report required by subsection (d)(1). \n (2) Legal and reporting obligations . The Director shall ensure that no activity carried out under subsection (a) obligates a State, local, or tribal entity to any additional legal or reporting obligation to the Defense Counterintelligence and Security Agency. \n (3) Scope . No activity may be carried out under subsection (a) that applies to any matter outside the limited purpose of conducting background investigations for current and prospective Federal Government employees and contractors. \n (4) Consistency with access provided . The Director shall ensure that the activities carried out under subsection (a) are carried out in a manner that is consistent with the access provided by Federal law enforcement entities to the Defense Counterintelligence and Security Agency. \n \n (d) Reports . (1) Initial report . Not later than 90 days after the date of the enactment of this Act, the Director shall submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report that details a concept of operation for the set of activities authorized by subsection (a). \n (2) Time period. Annual reports . Not later than one year after the date on which the Director submits a report pursuant to paragraph (1) and not less frequently than once each year thereafter, the Director shall submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a detailed report on the activities carried out by the Director under subsection (a).",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "10 USC 1564 note . Defense counterintelligence and security agency activities on facilitating access to local criminal records historical data. (a) Activity Authorized . Subject to subsection (c), the Director of the Defense Counterintelligence and Security Agency may carry out a set of activities to reduce the time and cost of accessing State, local, and tribal law enforcement records for the background investigations required for current and prospective Federal Government employees and contractors. \n (b) Activities Characterized . The activities carried out under subsection (a) shall include only that training, education, and direct assistance to State, local, and tribal communities needed for the purpose of streamlining access to historical criminal record data. \n (c) Limitations . (1) Time period. Commencement of activities . The Director may not commence carrying out any activities under subsection (a) until the date that is 90 days after the date on which the Director submits the report required by subsection (d)(1). \n (2) Legal and reporting obligations . The Director shall ensure that no activity carried out under subsection (a) obligates a State, local, or tribal entity to any additional legal or reporting obligation to the Defense Counterintelligence and Security Agency. \n (3) Scope . No activity may be carried out under subsection (a) that applies to any matter outside the limited purpose of conducting background investigations for current and prospective Federal Government employees and contractors. \n (4) Consistency with access provided . The Director shall ensure that the activities carried out under subsection (a) are carried out in a manner that is consistent with the access provided by Federal law enforcement entities to the Defense Counterintelligence and Security Agency. \n \n (d) Reports . (1) Initial report . Not later than 90 days after the date of the enactment of this Act, the Director shall submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report that details a concept of operation for the set of activities authorized by subsection (a). \n (2) Time period. Annual reports .",
+      "label": "Human Written",
+      "ai_assistance_score": 0.0052793049719184635,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2266,
+      "word_count": 343,
+      "token_length": 442
+    },
+    {
+      "text": " Not later than one year after the date on which the Director submits a report pursuant to paragraph (1) and not less frequently than once each year thereafter, the Director shall submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a detailed report on the activities carried out by the Director under subsection (a).",
+      "label": "Human Written",
+      "ai_assistance_score": 0.005058840150013566,
+      "confidence": "High",
+      "start_index": 2266,
+      "end_index": 2714,
+      "word_count": 71,
+      "token_length": 80
+    }
+  ],
+  "_submission_type": "solo"
+}

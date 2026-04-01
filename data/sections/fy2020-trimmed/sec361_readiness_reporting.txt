@@ -1,0 +1,40 @@
+SEC. 361.  READINESS REPORTING. (a)  Readiness Reporting System .— Section 117 of title 10, United States Code ,  is amended — (1)  by  striking  subsections (d) through (g); and 
+ (2)  by  redesignating  subsection (h) as subsection (d). 
+ 
+ (b)  Quarterly Reports .— Section 482 of title 10, United States Code ,  is amended — (1)  in the section heading, by  striking  “ Quarterly reports: personnel and unit readiness ” and  inserting  “ Readiness reports ”; 
+ (2)  in subsection (a)— (A)  In the subsection heading, by  striking  “ Quarterly Reports Required ” and  inserting  “ Reports and Briefings ”; 
+ (B)  In the first sentence— (i)  by  striking  “ Not later ” and  inserting  “ (1) Not later ”; and 
+ (ii)  by  striking  “ each calendar-year quarter ” and  inserting  “ the second and fourth quarter of each calendar year ”; 
+ 
+ (C)  Records. by  striking  the second and third sentences and  inserting  “ The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff. ”; and 
+ (D)  by  adding  at the end the following new paragraphs: “(2)  Deadline. Briefing. Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall  133 STAT. 1326 
+provide to Congress a briefing regarding the military readiness of the active and reserve components. 
+ “(3)  Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.” 
+ ; 
+ 
+ (3)  by  striking  subsection (b) and  inserting  the following: “(b)  Required Elements .— The elements described in this subsection are each of the following: “(1)  A description of each readiness problem or deficiency that affects the ground, sea, air, space, cyber, or special operations forces, and any other area determined appropriate by the Secretary of Defense. 
+ “(2)  The key contributing factors, indicators, and other relevant information related to each identified problem or deficiency. 
+ “(3)  Strategy. The short-term mitigation strategy the Department will employ to address each readiness problem or deficiency until a resolution is in place, as well as the timeline, cost, and any legislative remedies required to support the resolution. 
+ “(4)  Summary. A summary of combat readiness ratings for the key force elements assessed, including specific information on personnel, supply, equipment, and training problems or deficiencies that affect the combat readiness ratings for each force element. 
+ “(5)  Summary. A summary of each upgrade or downgrade of the combat readiness of a unit that was issued by the commander of the unit, together with the rationale of the commander for the issuance of such upgrade or downgrade. 
+ “(6)  Summary. A summary of the readiness of supporting capabilities, including infrastructure, prepositioned equipment and supplies, and mobility assets, and other supporting logistics capabilities. 
+ “(7)  Summary. A summary of the readiness of the combat support and related agencies, any readiness problem or deficiency affecting any mission essential tasks of any such agency, and actions recommended to address any such problem or deficiency. 
+ “(8)  List. A list of all Class A, Class B, and Class C mishaps that occurred in operations related to combat support and training events involving aviation, ground, or naval platforms, weapons, space, or Government vehicles, as defined by Department of Defense Instruction 6055.07, or a successor instruction. 
+ “(9)  Information on the extent to which units of the armed forces have removed serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational. 
+ “(10)  Such other information as determined necessary or appropriate by the Secretary of Defense.” 
+ 
+ ; 
+ (4)  by  striking  subsections (d) through (h) and subsection (j); 
+ (5)  by  redesignating  subsection (i) as subsection (e); and 
+ (6)  by  inserting  after subsection (c) the following new subsections (d): “(d)  Semi-Annual Joint Force Readiness Review .— (1)  Not later than 30 days after the last day of the first and third quarter of each calendar year, the Chairman of the Joint Chiefs of Staff shall submit to Congress a written report on the capability of  133 STAT. 1327 
+the armed forces, the combat support and related agencies, operational contract support, and the geographic and functional combatant commands to execute their wartime missions based upon their posture and readiness as of the time the review is conducted. 
+ “(2)  The Chairman shall produce the report required under this subsection using information derived from the quarterly reports required by subsection (a). 
+ “(3)  Assessment. Each report required by this subsection shall include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, sea, air, space, cyber, and special operations forces. 
+ “(4)  Records. The Chairman shall submit to the Secretary of Defense a copy of each report under this subsection.” 
+ 
+ . 
+ 
+ (c)  Clerical Amendment .— The table of sections at the beginning of chapter 23 of such title 10 USC 480  prec.   is amended  by  striking  the item relating to section 482 and  inserting  the following new item: 
+ 
+ “482.  
+ Readiness reports.”.

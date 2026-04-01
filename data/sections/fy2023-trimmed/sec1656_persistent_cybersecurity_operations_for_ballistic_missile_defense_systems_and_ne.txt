@@ -1,0 +1,10 @@
+SEC. 1656.  Deadlines. PERSISTENT CYBERSECURITY OPERATIONS FOR BALLISTIC MISSILE DEFENSE SYSTEMS AND NETWORKS. (a)  Plan .— Not later than May 1, 2023, the Director of the Missile Defense Agency and the Director of Operational Test and Evaluation, in coordination with the Chairman of the Joint Chiefs of Staff, the Commander of the United States Cyber Command, and other commanders of combatant commands and functions of the Joint Staff as appropriate, shall jointly develop a plan to allow for persistent cybersecurity operations across all networks and information systems supporting the missile defense system. 
+ (b)  Elements .— The plan under subsection (a) shall include the following: (1)  Inventory. An inventory of all networks and information systems that support the missile defense system, including information about which components or elements of the networks and information systems are currently configured for persistent cybersecurity operations. 
+ (2)  Strategy. A strategy— (A)  for coordinating with the applicable combatant commands on persistent cybersecurity operations; and 
+ (B)  in which the Director for Operational Test and Evaluation monitors and reviews such operations and provides independent assessments of the adequacy and sufficiency of the operations. 
+ 
+ (3)  A plan for how the Director of the Missile Defense Agency will respond to cybersecurity testing recommendations made by the Director for Operational Test and Evaluation. 
+ (4)  Timeline. The timeline required to execute the plan. 
+ 
+ (c)  Briefings .— The Director of the Missile Defense Agency and the Director for Operational Test and Evaluation shall jointly provide to the congressional defense committees a briefing— (1)  not later than May 15, 2023, on the plan developed under subsection (a); and 136 STAT. 2951 
+ (2)  not later than December 30, 2023, on progress made toward implementing such plan.

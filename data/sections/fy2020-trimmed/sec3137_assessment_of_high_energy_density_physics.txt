@@ -1,0 +1,12 @@
+SEC. 3137.  ASSESSMENT OF HIGH ENERGY DENSITY PHYSICS. (a)  Deadline. In General .— Not later than 90 days after the date of the enactment of this Act, the Administrator for Nuclear Security shall enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine to conduct an assessment of recent advances and the current status of research in the field of high energy density physics. 
+ (b)  Elements .— The assessment conducted under subsection (a) shall include the following: (1)  Theoretical and computational modeling of high energy density material phases, radiation-matter interactions, plasmas atypical of astrophysical conditions, and conditions unique to the National Nuclear Security Administration. 
+ (2)  The simulation of such phases, interactions, plasmas, and conditions. 
+ (3)  Instrumentation and target fabrication. 
+ (4)  Workforce training. 
+ (5)  An assessment of advancements made by other countries in high energy density physics. 
+ (6)  Such others items as are agreed upon by the Administrator and the National Academies. 
+ 
+ (c)  Applicability of Internal Controls .— The assessment under subsection (a) shall be conducted in accordance with the internal controls of the National Academies. 
+ (d)  Report to Congress .— Not later than 18 months after entering into the arrangement under subsection (a), the National Academies of Sciences, Engineering, and Medicine shall submit to the congressional defense committees a report on the assessment conducted under that subsection. 
+ (e)  High Energy Density Physics Defined .— In this section, the term “ high energy density physics ” means the physics of matter and radiation at— (1)  energy densities exceeding 100,000,000,000 joules per cubic meter; and 
+ (2)  other temperature and pressure ranges within the warm dense matter regime.

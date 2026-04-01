@@ -1,0 +1,8 @@
+SEC. 2875.  10 USC 2802 note . ELECTRICAL CHARGING CAPABILITY CONSTRUCTION REQUIREMENTS RELATING TO PARKING FOR FEDERAL GOVERNMENT MOTOR VEHICLES. (a)  In General .— If the Secretary concerned develops plans for a project to construct any facility that includes or will include parking for covered motor vehicles, the Secretary concerned shall  136 STAT. 3015 
+include in any Department of Defense Form 1391, or successor form, submitted to Congress for that project— (1)  the provision of electric vehicle charging capability at the facility adequate to provide electrical charging, concurrently, for not less than 15 percent of all covered motor vehicles planned to be parked at the facility; 
+ (2)  the inclusion of the cost of constructing such capability in the overall cost of the project; and 
+ (3)  an analysis of whether a parking structure or lot will be the primary charging area for covered motor vehicles or if another area, such as public works or the motor pool, will be the primary charging area. 
+ 
+ (b)  Definitions .— In this section: (1)  The term “ covered motor vehicle ” means a Federal Government motor vehicle, including a motor vehicle leased by the Federal Government. 
+ (2)  The term “ Secretary concerned ” means— (A)  the Secretary of a military department with respect to facilities under the jurisdiction of that Secretary; and 
+ (B)  the Secretary of Defense with respect to matters concerning the Defense Agencies and facilities of a reserve component owned by a State rather than the United States.

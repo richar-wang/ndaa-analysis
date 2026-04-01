@@ -1,0 +1,9 @@
+SEC. 6701.  50 USC 3024 note . DEFINITIONS.   In this title: (1)  Artificial intelligence .— The term “ artificial intelligence ” has the meaning given that term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 ( 15 U.S.C. 9401 ). 
+ (2)  Authorization to operate .— The term “ authorization to operate ” has the meaning given that term in Circular Number A-130 of the Office of Management and Budget, “Managing Information as a Strategic Resource”, or any successor document. 
+ (3)  Code-free artificial intelligence enablement tools .— The term “ code-free artificial intelligence enablement tools ” means software that provides an environment in which visual drag-and-drop applications, or similar tools, allow one or more individuals to program applications without linear coding. 
+ (4)  Commercial product .— The term “ commercial product ” has the meaning given that term in  section 103 of title 41, United States Code . 
+ (5)  Commercial service .— The term “ commercial service ” has the meaning given that term in  section 103a of title 41, United States Code . 
+ (6)  Covered item or service .— The term “ covered item or service ” means a product, system, or service that is not a commercially available off-the-shelf item, a commercial service, or a nondevelopmental item, as those terms are defined in  title 41, United States Code . 
+ (7)  Covered product .— The term “ covered product ” means a commercial software product that involves emerging technologies or artificial intelligence. 136 STAT. 3561 
+ (8)  Emerging technology .— The term “ emerging technology ” means— (A)  technology that is in a developmental stage or that may be developed during the 10-year period beginning on January 1, 2022; or 
+ (B)  any technology included in the Critical and Emerging Technologies List published by the White House in February 2022, or any successor document.

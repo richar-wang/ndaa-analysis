@@ -1,0 +1,7 @@
+SEC. 717.  10 USC 1071 note . INCLUSION OF BLAST EXPOSURE HISTORY IN MEDICAL RECORDS OF MEMBERS OF THE ARMED FORCES. (a)  Coordination. Requirement .— If a covered incident occurs with respect to a member of the Armed Forces, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall document blast exposure history in the medical record of the member to assist in determining whether a future illness or injury of the member is service-connected and inform future blast exposure risk mitigation efforts of the Department of Defense. 
+ (b)  Elements .— A blast exposure history under subsection (a) shall include, at a minimum, the following: (1)  The date of the exposure. 
+ (2)  The duration of the exposure, and, if known, the measured blast pressure experienced by the individual during such exposure. 
+ (3)  Whether the exposure occurred during combat or training. 
+ 
+ (c)  Report .— Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the types of information included in a blast exposure history under subsection (a). 
+ (d)  Covered Incident Defined .— In this section, the term “ covered incident ” means a concussive event or injury that requires a military acute concussive evaluation by a skilled health care provider.

@@ -1,0 +1,9 @@
+SEC. 1822.  DEFINITIONS.    In this subtitle: (1)  Covered foreign entity .— The term “ covered foreign entity ” means an entity included on a list developed and maintained by the Federal Acquisition Security Council and published in the System for Award Management (SAM). This list will include entities in the following categories: (A)  An entity included on the Consolidated Screening List. 
+ (B)  Any entity that is subject to extrajudicial direction from a foreign government, as determined by the Secretary of Homeland Security. 
+ (C)  Any entity the Secretary of Homeland Security, in coordination with the Attorney General, Director of National Intelligence, and the Secretary of Defense, determines poses a national security risk. 
+ (D)  China. Any entity domiciled in the People’s Republic of China or subject to influence or control by the Government of the People’s Republic of China or the Communist Party of the People’s Republic of China, as determined by the Secretary of Homeland Security. 
+ (E)  Any subsidiary or affiliate of an entity described in subparagraphs (A) through (D). 
+ 
+ (2)  Covered unmanned aircraft system .— The term “ covered unmanned aircraft system ” has the meaning given the term “ unmanned aircraft system ” in  section 44801 of title 49, United States Code . 
+ (3)  Intelligence; intelligence community .— The terms “intelligence” and “intelligence community” have the meanings  137 STAT. 692 
+given those terms in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ).

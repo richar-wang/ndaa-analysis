@@ -1,0 +1,18 @@
+SEC. 5707.  REPORT BY DIRECTOR OF NATIONAL INTELLIGENCE ON FIFTH-GENERATION WIRELESS NETWORK TECHNOLOGY. (a)  Definition of Appropriate Committees of Congress .— In this section, the term “ appropriate committees of Congress ” means— (1)  the congressional intelligence committees; 133 STAT. 2166 
+ (2)  the Committee on Foreign Relations of the Senate; and 
+ (3)  Committee on Foreign Affairs of the House of Representatives. 
+ 
+ (b)  Report .— Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress a report on— (1)  the threat to the national security of the United States posed by the global and regional adoption of fifth-generation wireless network (known as “5G”) technology built by foreign companies; 
+ (2)  the threat to the national security of the United States posed by telecommunications companies that are subject to the jurisdiction of a foreign adversary; and 
+ (3)  possible efforts to mitigate the threat. 
+ 
+ (c)  Contents .— The report under subsection (b) shall include— (1)  Timeline. the timeline and scale of global and regional adoption of foreign fifth-generation wireless network technology; 
+ (2)  the implications of such global and regional adoption on the cyber and espionage threat to the United States, the interests of the United States, and the cyber and collection capabilities of the United States; 
+ (3)  the threat to the national security of the United States from acquisition, importation, transfer, installation, or use of any communications technology by any person subject to the jurisdiction of the United States that involves communications technology designed, developed, manufactured or supplied by, controlled by, or subject to, the jurisdiction of a foreign adversary; and 
+ (4)  the effect of possible mitigation efforts, including with respect to— (A)  a policy of the United States Government promoting the use of strong, end-to-end encryption for data transmitted over fifth-generation wireless networks; 
+ (B)  a policy of the United States Government promoting or funding free, open-source implementation of fifth-generation wireless network technology; 
+ (C)  subsidies or incentives provided by the United States Government that could be used to promote the adoption of secure fifth-generation wireless network technology developed by companies of the United States or companies of allies of the United States; and 
+ (D)  Strategy. a strategy by the United States Government to reduce foreign influence and political pressure in international standard-setting bodies. 
+ 
+ 
+ (d)  Form .— The report submitted under subsection (b) shall be submitted in unclassified form, but may include a classified annex.

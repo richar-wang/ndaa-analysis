@@ -1,0 +1,36 @@
+{
+  "text": "Independent assessment of electronic warfare plans and programs. (a) Deadline. Assessment . Not later than 120 days after the date of the enactment of this Act and pursuant to the arrangement entered into under section 222, the Secretary of Defense shall seek to engage the private scientific advisory group known as \u201cJASON\u201d to carry out an independent assessment of electronic warfare plans and programs. \n (b) Recommenda- tions. Elements . In carrying out the assessment under subsection (a), JASON shall - (1) assess the strategies, programs, order of battle, and doctrine of the Department of Defense related to the electronic warfare mission area and electromagnetic spectrum operations; \n (2) assess the strategies, programs, order of battle, and doctrine of potential adversaries, such as China, Iran, and the Russian Federation, related to the such mission area and operations; \n (3) develop recommendations for improvements to the strategies, programs, and doctrine of the Department of Defense in order to enable the United States to achieve and maintain superiority in the electromagnetic spectrum in future conflicts; and \n (4) develop recommendations for the Secretary of Defense, Congress, and such other Federal entities as JASON considers appropriate, including recommendations for - (A) closing technical, policy, or resource gaps; \n (B) improving cooperation and appropriate integration within the Department of Defense entities; \n (C) improving cooperation between the United States and other countries and international organizations as appropriate; and \n (D) such other important matters identified by JASON that are directly relevant to the strategies of the Department of Defense described in paragraph (3). \n \n \n (c) Liaisons . The Secretary of Defense shall appoint appropriate liaisons to JASON to support the timely conduct of the services covered by this section. \n (d) Materials . The Secretary of Defense shall provide access to JASON to materials relevant to the services covered by this section, consistent with the protection of sources and methods and other critically sensitive information. \n (e) Clearances . The Secretary of Defense shall ensure that appropriate members and staff of JASON have the necessary clearances, obtained in an expedited manner, to conduct the services covered by this section. \n (f) Report . Not later than October 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report on the results of the assessment carried out under subsection (a), including - (1) the results of the assessment with respect to each element described in subsection (b); \n (2) the recommendations developed by JASON pursuant to such subsection. \n \n (g) Relationship to Other Law . The assessment required under subsection (a) is separate and independent from the assessment described in section 255 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 132 Stat. 1705 ) and shall be carried out without regard to any agreement entered into under that section or the results of any assessment conducted pursuant to such agreement.",
+  "version": "3.2",
+  "headline": "Fully Human Written",
+  "prediction": "We believe that this document is fully human-written",
+  "prediction_short": "Human",
+  "fraction_ai": 0.0,
+  "fraction_ai_assisted": 0.0,
+  "fraction_human": 1.0,
+  "num_ai_segments": 0,
+  "num_ai_assisted_segments": 0,
+  "num_human_segments": 2,
+  "windows": [
+    {
+      "text": "Independent assessment of electronic warfare plans and programs. (a) Deadline. Assessment . Not later than 120 days after the date of the enactment of this Act and pursuant to the arrangement entered into under section 222, the Secretary of Defense shall seek to engage the private scientific advisory group known as \u201cJASON\u201d to carry out an independent assessment of electronic warfare plans and programs. \n (b) Recommenda- tions. Elements . In carrying out the assessment under subsection (a), JASON shall - (1) assess the strategies, programs, order of battle, and doctrine of the Department of Defense related to the electronic warfare mission area and electromagnetic spectrum operations; \n (2) assess the strategies, programs, order of battle, and doctrine of potential adversaries, such as China, Iran, and the Russian Federation, related to the such mission area and operations; \n (3) develop recommendations for improvements to the strategies, programs, and doctrine of the Department of Defense in order to enable the United States to achieve and maintain superiority in the electromagnetic spectrum in future conflicts; and \n (4) develop recommendations for the Secretary of Defense, Congress, and such other Federal entities as JASON considers appropriate, including recommendations for - (A) closing technical, policy, or resource gaps; \n (B) improving cooperation and appropriate integration within the Department of Defense entities; \n (C) improving cooperation between the United States and other countries and international organizations as appropriate; and \n (D) such other important matters identified by JASON that are directly relevant to the strategies of the Department of Defense described in paragraph (3). \n \n \n (c) Liaisons . The Secretary of Defense shall appoint appropriate liaisons to JASON to support the timely conduct of the services covered by this section. \n (d) Materials . The Secretary of Defense shall provide access to JASON to materials relevant to the services covered by this section, consistent with the protection of sources and methods and other critically sensitive information. \n (e) Clearances . The Secretary of Defense shall ensure that appropriate members and staff of JASON have the necessary clearances, obtained in an expedited manner, to conduct the services covered by this section.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.007559540991981824,
+      "confidence": "High",
+      "start_index": 0,
+      "end_index": 2339,
+      "word_count": 345,
+      "token_length": 468
+    },
+    {
+      "text": " \n (f) Report . Not later than October 1, 2020, the Secretary of Defense shall submit to the congressional defense committees a report on the results of the assessment carried out under subsection (a), including - (1) the results of the assessment with respect to each element described in subsection (b); \n (2) the recommendations developed by JASON pursuant to such subsection. \n \n (g) Relationship to Other Law . The assessment required under subsection (a) is separate and independent from the assessment described in section 255 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115\u2013232 ; 132 Stat. 1705 ) and shall be carried out without regard to any agreement entered into under that section or the results of any assessment conducted pursuant to such agreement.",
+      "label": "Human Written",
+      "ai_assistance_score": 0.011865355132613331,
+      "confidence": "High",
+      "start_index": 2339,
+      "end_index": 3150,
+      "word_count": 131,
+      "token_length": 190
+    }
+  ],
+  "_submission_type": "solo"
+}

@@ -1,0 +1,43 @@
+SEC. 2402.  AUTHORIZED ENERGY RESILIENCE AND CONSERVATION INVESTMENT PROGRAM PROJECTS. (a)  Inside the United States .— Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under  chapter 173 of title 10, United States Code , for the installations or locations inside the United States, and in the amounts, set forth in the following table: ERCIP Projects: Inside the United States 
+ 
+ 
+ 
+ 
+ State Installation or Location Amount 
+ California Marine Corps Air Station Miramar $30,550,000 
+ Naval Base San Diego $6,300,000 
+ Vandenberg Space Force Base $57,000,000 
+ Colorado Buckley Space Force Base $14,700,000 
+ Georgia Naval Submarine Base Kings Bay $74,500,000 
+ Kansas Forbes Field $5,850,000 
+ Missouri Lake City Army Ammunition Plant $80,100,000 
+ Nebraska Offutt Air Force Base $41,000,000 
+ North Carolina Fort Liberty (Camp Mackall) $10,500,000 
+ Oklahoma Fort Sill $76,650,000 
+ Puerto Rico Fort Buchanan $56,000,000 
+ Texas Fort Cavazos $18,250,000 
+ Virginia Pentagon $2,250,000 
+ Washington Joint Base Lewis-McChord $49,850,000 
+ Wyoming F.E. Warren Air Force Base $25,000,000 
+ 
+ (b)  Outside the United States .— Using amounts appropriated pursuant to the authorization of appropriations in section 2403(a) and available for energy conservation projects as specified in the funding table in section 4601, the Secretary of Defense may carry out energy conservation projects under  chapter 173 of title 10, United States Code , for the installations or locations outside the United States, and in the amounts, set forth in the following table: 
+ ERCIP Projects: Outside the United States 
+ 
+ 
+ 
+ 
+ Country Installation or Location Amount 
+ Korea K–16 Air Base $5,650,000 
+ Kuwait Camp Buehring $18,850,000 
+ 
+ (c)  Contracts. Improvements to Conveyed Utility Systems .— In the case of a utility system that is conveyed under  section 2688 of title 10, United States Code , and that only provides utility services to a military installation, notwithstanding subchapters I and III of chapter 169 and chapters 221 and 223 of title 10, United States  137 STAT. 728 
+Code, the Secretary of Defense or the Secretary of a military department may authorize a contract with the conveyee of the utility system to carry out the military construction projects set forth in the following table: Improvements to Conveyed Utility Systems 
+ 
+ 
+ 
+ 
+ State Installation or Location Project 
+ Nebraska Offutt Air Force Base Microgrid and Backup Power 
+ North Carolina Fort Liberty (Camp Mackall) Microgrid and Backup Power 
+ Texas Fort Cavazos Microgrid and Backup Power 
+ Washington Joint Base Lewis-McChord Power Generation and Microgrid

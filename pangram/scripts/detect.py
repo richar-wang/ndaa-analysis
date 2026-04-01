@@ -71,17 +71,36 @@ def should_skip(filename):
 def normalize_text(text):
     """Normalize NDAA section text to remove formatting differences between
     PLAW USLM and BILLS enrolled XML, so Pangram sees consistent input.
+
+    PLAW USLM uses ALL-CAPS headers, SEC. prefixes, STAT. page refs,
+    em-spaces, and other formatting that BILLS enrolled does not.
+    All of these must be neutralized so the detector sees equivalent prose.
     """
+    # Strip SEC. prefix and section number prefix
     text = re.sub(r"^SEC\.\s*", "", text)
     text = re.sub(r"^\d+[a-zA-Z]?\.\s*", "", text)
 
-    def _title_to_sentence_case(m):
+    # Convert ALL-CAPS runs (3+ uppercase words) to sentence case.
+    # Handles PLAW USLM headers like "CHIEF MEDICAL OFFICER AT UNITED STATES..."
+    # Preserves single uppercase words (acronyms like DOD, NATO, NDAA).
+    def _caps_run_to_sentence(m):
         return m.group(0).capitalize()
-    text = re.sub(r"^([A-Z][A-Z\s,;:\-\u2019']+\.?)", _title_to_sentence_case, text)
+    text = re.sub(r"\b([A-Z][A-Z\s,;:\-\u2019']{8,})\b", _caps_run_to_sentence, text)
 
+    # Remove STAT. page references (e.g., "133 STAT. 1234")
     text = re.sub(r"\d+\s+STAT\.\s+\d+", "", text)
+
+    # Normalize em-dashes
     text = re.sub(r"\.\s*\u2014\s*", ". ", text)
     text = re.sub(r"\s*\u2014\s*", " - ", text)
+
+    # Remove em-spaces (U+2003) and other Unicode whitespace artifacts
+    text = re.sub(r"[\u2003\u2002\u2004\u2005\u2006\u2007\u2008\u2009\u200a]", " ", text)
+
+    # Remove remaining SEC. prefixes in body text (PLAW cross-refs)
+    text = re.sub(r"\bSEC\.\s*", "Section ", text)
+
+    # Collapse multiple spaces and blank lines
     text = re.sub(r"  +", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()

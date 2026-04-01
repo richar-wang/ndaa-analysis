@@ -1,0 +1,17 @@
+SEC. 1064.  Time period. DEPARTMENT OF DEFENSE DELAYS IN PROVIDING COMMENTS ON GOVERNMENT ACCOUNTABILITY OFFICE REPORTS. (a)  Termination date. Reports Required .— Not later than 180 days after the date of the enactment of this Act, and once every 180 days thereafter  136 STAT. 2785 
+until the date that is 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the extent to which the Department of Defense provided comments and sensitivity and security reviews (for drafts tentatively identified as containing controlled unclassified information or classified information) in a timely manner and in accordance with the protocols of the Government Accountability Office during the 180-day period preceding the date of the submittal of the report. 
+ (b)  Requirements for GAO Report .— Each report under subsection (a) shall include the following information for the period covered by the report: (1)  The number of draft Government Accountability Office reports for which the Government Accountability Office requested comments from the Department of Defense, including an identification of the reports for which a sensitivity or security review was requested (separated by reports potentially containing only controlled unclassified information and reports potentially containing classified information) and the reports for which such a review was not requested. 
+ (2)  The median and average number of days between the date of the request for Department of Defense comments and the receipt of such comments. 
+ (3)  The average number of days between the date of the request for a Department of Defense sensitivity or security review and the receipt of the results of such review. 
+ (4)  In the case of any such draft report for which the Department of Defense failed to provide such comments or review within 30 days of the request for such comments or review— (A)  the number of days between the date of the request and the receipt of such comments or review; and 
+ (B)  a unique identifier, for purposes of identifying the draft report. 
+ 
+ (5)  In the case of any such draft report for which the Government Accountability Office provided an extension to the Department of Defense— (A)  whether the Department provided the comments or review within the time period of the extension; and 
+ (B)  a unique identifier, for purposes of identifying the draft report. 
+ 
+ (6)  Any other information the Comptroller General determines appropriate. 
+ 
+ (c)  DOD Responses .— Not later than 30 days after the Comptroller General submits a report under subsection (a), the Secretary of Defense shall submit to the congressional defense committees a response to such report that includes each of the following: (1)  An identification of factors that contributed to any delays identified in the report with respect to Department of Defense comments and sensitivity or security reviews requested by the Government Accountability Office. 
+ (2)  A description of any actions the Department of Defense has taken or plans to take to address such factors. 
+ (3)  A description of any improvements the Department has made in the ability to track timeliness in providing such comments and sensitivity or security reviews. 136 STAT. 2786 
+ (4)  Any other information the Secretary determines relevant to the information contained in the report submitted by the Comptroller General.
